@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardview"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:layoutDirection="ltr"
+
+    android:foreground="?attr/selectableItemBackground"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/iconcard"
+        android:foreground="?attr/selectableItemBackground"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="2dp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/ivappicon"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_below="@+id/flipperid"
+            android:scaleType="fitXY"
+            app:riv_corner_radius="15dip" />
+
+    </androidx.cardview.widget.CardView>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iconcard"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical">
+
+       <TextView
+
+            android:id="@+id/tvappname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:text="@string/appname"
+            android:textColor="#202125"
+            android:textSize="13sp" />
+
+       <TextView
+
+            android:id="@+id/tvapprating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4.3"
+            android:textColor="#5F6267"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+</RelativeLayout>

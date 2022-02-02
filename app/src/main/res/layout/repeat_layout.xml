@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+
+    android:padding="10dp"
+    >
+
+    <ImageView
+        android:layout_width="41.0dip"
+        android:layout_height="41.0dip"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19.0dip"
+        android:src="@drawable/ic_repeat"
+        android:tint="@color/tbtncolor"
+
+         />
+
+   <TextView
+
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="65.0dip"
+        android:text="@string/repeat_reminder"
+        android:fontFamily="@font/themefont"
+        android:textColor="@color/headercolor"
+        android:textSize="16.0dip" />
+
+   <TextView
+
+        android:id="@+id/text"
+        android:foreground="?attr/selectableItemBackground"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/name"
+        android:layout_alignStart="@+id/name"
+        android:layout_marginTop="3.0dip"
+        android:text="@string/once"
+        android:fontFamily="@font/thmefontlite"
+        android:textColor="@color/smalltxtcolor"
+        android:textSize="12.0dip" />
+</RelativeLayout>

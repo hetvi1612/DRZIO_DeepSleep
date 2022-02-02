@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+    >
+
+
+
+    <RelativeLayout
+        android:id="@+id/excerlayout"
+
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/dietshape"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <ImageView
+                android:id="@+id/exceimage"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:visibility="visible"
+                />
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:layout_marginStart="10dp"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/tvpexename"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="20dp"
+                    android:maxLines="2"
+                    android:gravity="end"
+
+
+                    android:text="@string/jumping_jacks"
+                    android:fontFamily="@font/themefont"
+                    android:textColor="@color/headercolor"
+                    android:textSize="16sp"
+                    />
+
+
+                <TextView
+                    android:id="@+id/tvpexetime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:layout_marginEnd="20dp"
+                    android:gravity="end"
+
+
+                    android:text="@string/sdsdsdds"
+                    android:layout_below="@+id/tvpexename"
+                    android:fontFamily="@font/themefont"
+                    android:textStyle="bold"
+                    android:textColor="@color/tbtncolor"
+                    android:textSize="15sp" />
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btn_remove"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:padding="5dp"
+            android:src="@drawable/ic_close_black_24dp"
+            android:tint="@color/headercolor"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

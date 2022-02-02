@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> 1 Йога глубокого сна </string>
+    <string name="picker_box_arrows_icon">значок стрелки окна выбора</string>
+    <string name="favtitle">Добавьте сюда свои любимые тренировки.❤настраивайте свои собственные планы тренировок в соответствии с вашими предпочтениями.</string>
+
+    <string name="mon">понедельник</string>
+    <string name="tu">вторник</string>
+    <string name="wed">среда</string>
+    <string name="thri">четверг</string>
+    <string name="fri">Пятница</string>
+    <string name="sat">Суббота</string>
+    <string name="sun">Воскресенье</string>
+    <string name="facebook_app_id">394103198201105</string>
+
+    <string name = "exename1"> Поза кошки-коровы (Маджарйасана - Битиласана) </string>
+
+    <string name = "exename2"> Бхастрика Пранаяма Йога </string>
+
+    <string name = "exename3"> Поза связанного угла наклона (Супта Баддха Конасана) </string>
+
+    <string name = "exename4"> Поза полусухого скручивания позвоночника (Ардха Матсиендрасана) </string>
+
+    <string name = "exename5"> Широкоугольная поза сидя (Упавиштха Конасана) </string>
+
+    <string name = "exename6"> Шанмукхи мудра </string>
+
+    <string name = "exename7"> Поза для снятия ветра (Паванамуктасана) </string>
+
+    <string name = "exename8"> Нить к игле (Парсва Баласана) </string>
+
+    <string name = "exename9"> Поза плуга (Халасан) </string>
+
+    <string name = "exename10"> Поза героя (Вирасана) </string>
+
+    <string name = "exename11"> Нади Шодхан Пранаям </string>
+
+    <string name = "exename12"> Поза молнии (Ваджрасана) </string>
+
+    <string name = "exename13"> Поза повелителя танца (Натараджасана) </string>
+
+    <string name = "exename14"> Вакрасана (поза с поворотом на половину позвоночника) </string>
+
+    <string name = "exename15"> Поза ребенка (Поза зайца) (Баласана) </string>
+
+    <string name = "exename16"> капалбхати пранаяма </string>
+
+    <string name = "exename17"> Наклон вперед сидя (пасчимоттанасана) </string>
+
+    <string name = "exename18"> Поза «Ноги вверх по стене» (Випарита Карани) </string>
+
+    <string name = "exename19"> Наклон вперед (Хаста Падасана) </string>
+
+    <string name = "exename20"> Поза горы (Тадасан) </string>
+
+    <string name = "exename21"> Скручивание позвоночника лежа на спине (Супта Матсиендрасана) </string>
+
+    <string name = "exename22"> Поза стула (Уткатасана) </string>
+
+    <string name = "exename23"> Поза рыбы (Матсьясана) </string>
+
+    <string name = "exename24"> Поза целомудрия (Брахмачарьясана) </string>
+
+    <string name = "exename25"> Наклон вперед голову к коленям (Джану Ширшасана) </string>
+
+
+    <string name = "exedesc1"> Он растягивает заднюю часть туловища и шею, а также мягко стимулирует и укрепляет органы брюшной полости. Он приводит позвоночник в правильное положение и может помочь предотвратить боль в спине при регулярной практике. </string>
+
+    <string name = "exedesc2"> Отлично подходит для легких и людей, которые страдают от повторяющегося кашля, гриппа, респираторных заболеваний, аллергии или одышки. Повышенное кровоснабжение головы улучшает зрение и слух. Легкие укрепляются, и это полезно при бронхите, так как дыхательная система быстро и глубоко очищается. • Отлично заряжает тело и разум энергией. </string>
+
+    <string name = "exedesc3"> Успокаивает пищеварительную и репродуктивную системы и лечит такие состояния, как раздраженный кишечник, бесплодие, нарушения менструального цикла, проблемы с пищеварением, менопауза и т. д. • Хорошо растягивает пах, внутренние поверхности бедер и колени. . • Снижает мышечное напряжение и избавляет от усталости и бессонницы. Это также успокаивает разум </string>
+
+    <string name = "exedesc4"> Обеспечивает питательными веществами, кровью и кислородом, а также улучшает здоровье репродуктивной системы, а также мочевыделительной системы. Полезен при нарушениях менструального цикла и дает энергию для позвоночника. • Стимулирует работу печени и почек. </string>
+
+    <string name = "exedesc5"> Стимулирует органы брюшной полости. Укрепляет и тонизирует пресс, позвоночник и ноги. • Помогает вылечить и облегчить ишиас и артрит. Детоксицирует почки.
+ </string>
+
+    <string name = "exedesc6"> Отлично подходит для лицевых мышц и внешнего вида, так как тепло и прана рук и пальцев стимулируют и расслабляют лицевые мышцы. • Полезно для управления тревогой и устранения негативных интеллектуальных паттернов. • Стимулирует органы чувств и более поздние стадии восприятия. уход. • Приносит сосредоточенность, интроверсию и спокойствие </string>
+
+    <string name = "exedesc7"> Растягивает и укрепляет мышцы спины и живота. • Помогает пищеварению и выделению газов. Запуск сжигания жира. • Тонизирует мышцы ног и рук. • Улучшает кровообращение в тазобедренных суставах. </string>
+
+    <string name = "exedesc8"> Он мягко растягивает мышцы верхней части груди. • Он открывает верхние и внешние мышцы плеча. • Он увеличивает кровообращение в верхних конечностях. </string>
+
+    <string name = "exedesc9"> Он способствует гибкости спины и растягивает мышцы задней части ног. • Укрепляет и раскрывает мышцы шеи, плеч, пресса и спины. </string>
+
+    <string name = "exedesc10"> Он укрепляет руки и плечи и сохраняет гибкость позвоночника. Наполняет мозг большим количеством крови. </string>
+
+    <string name = "exedesc11"> Это также помогает облегчить респираторную аллергию, вызывающую сенную лихорадку, чихание или хрипы. • Помогает гармонизировать левое и правое полушария мозга, что соответствует логической и эмоциональной сторонам нашей личности. </string>
+
+    <string name = "exedesc12"> Улучшает пищеварение и борется с запорами и повышением кислотности. • Устраняет нарушения менструального цикла. • Регулирует работу репродуктивных органов и щитовидной железы. • Укрепляет мышцы таза. </string>
+
+    <string name = "exedesc13"> Поза символизирует Космическую энергию, и когда вы это делаете, вы танцуете в потоке Вселенной. • Растягивает и укрепляет грудь, плечи, квадрицепсы, переднюю часть тела, включая живот. • Растягивает верхнюю часть тела. спина, квадрицепсы, лодыжки, ступни, бедра, пах и живот • Улучшает баланс </string>
+
+    <string name = "exedesc14"> Стимулирует сердце, почки, печень, селезенку и легкие. • Помогает уменьшить жир на животе, укрепляет почки, • Помогает предотвратить диабет и контролировать его. • Укрепляет мышцы спины и уменьшает боль в спине. </string>
+
+    <string name = "exedesc15"> Помогает избавиться от запора. • Это приводит к нормальному функционированию надпочечников. Растягивает мышцы спины, делая их сильнее. • Улучшает здоровье мужских и женских репродуктивных органов. </string>
+
+    <string name = "exedesc16"> Повышает скорость метаболизма и помогает похудеть • Улучшает работу пищеварительного тракта, всасывание и усвоение питательных веществ • Придает энергию нервной системе и омолаживает клетки мозга • Улучшает кровообращение и придает сияние лицу • Оно стимулирует органы брюшной полости и поэтому чрезвычайно полезен для людей с диабетом • Улучшает память и концентрацию </string>
+
+    <string name = "exedesc17"> Он стимулирует работу шишковидной железы, гипоталамуса и гипофиза и помогает секретировать гормон роста, отвечающий за рост. • Укрепляет мышцы спины, плеч и рук. </string>
+
+    <string name = "exedesc18"> Снимает усталость или спазмы в ногах и ступнях • Снимает головные боли • Снимает боль в пояснице • Успокаивает разум
+ </string>
+
+    <string name = "exedesc19"> Он оживляет нервную систему и способствует правильному кровообращению в гипофизе, который выделяет гормон роста, отвечающий за рост. Он также растягивает мышцы спины и нижней части тела, а также позвоночник. </string>
+
+    <string name = "exedesc20"> Он тонизирует мышцы ног, снимает скованность в ногах и бедрах, устраняет боли в спине и растяжения шеи, развивает грудную клетку и укрепляет лодыжки. </string>
+
+    <string name = "exedesc21"> Скручивание коленом вниз растягивает спину, выравнивает мышцы, удлиняет позвоночник и увлажняет позвоночные диски. • Это дает вашим плечам, груди, средней части позвоночника, бедрам, нижней части спины и верхней части спины хорошее Растяжка. • Стимулирует приток свежей крови к внутренним органам и обеспечивает полную детоксикацию внутренних органов </string>
+
+    <string name = "exedesc22"> Растягивает и укрепляет мышцы спины и живота. • Помогает пищеварению и выделению газов. Запуск сжигания жира. • Тонизирует мышцы ног и рук. • Улучшает кровообращение в тазобедренных суставах. </string>
+
+    <string name = "exedesc23"> Снимает напряжение в шее, горле и плечах. Растягивает и стимулирует органы вашего живота и горла.
+ </string>
+
+    <string name = "exedesc24"> Повышает скорость метаболизма и помогает похудеть. Улучшает работу пищеварительного тракта, усвоение и усвоение питательных веществ. Наполняет нервную систему и омолаживает клетки мозга. Улучшает кровообращение и придает сияние лицу. стимулирует органы брюшной полости и поэтому чрезвычайно полезен для людей с диабетом. Улучшает память и силу концентрации. </string>
+
+    <string name = "exedesc25"> Он полностью растягивает подколенные сухожилия, плечи, икры, своды, руки и позвоночник, укрепляя при этом руки, плечи и ноги. Стимулирует кровообращение. Это идеальное упражнение для растяжки всего тела с целью увеличения роста. </string>
+
+
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+    <string name="add_exercise">Добавить упражнение</string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name="please_check_your_internet_connection">Пожалуйста, проверьте ваше интернет-соединение !!!</string>
+    <string name="refresh">Обновить</string>
+    <string name="start">НАЧНИТЕ</string>
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+    <string name="tips">подсказки</string>
+    <string name="history">История</string>
+    <string name="com_continue">Продолжать</string>
+    <string name="reminder">Напоминание</string>
+    <string name="calculate_bmi">Рассчитать ИМТ</string>
+    <string name="weight">МАССА :</string>
+    <string name="weight1">Масса</string>
+    <string name="bmi_kg_m">ИМТ (кг / м²)</string>
+    <string name="calories">Калорий</string>
+    <string name="exercises">Упражнения</string>
+    <string name="duration">Продолжительность</string>
+    <string name="ready_to_go">Готов идти!</string>
+    <string name="skip">ПРОПУСКАТЬ</string>
+    <string name="reset">Сброс настроек</string>
+    <string name="add">ДОБАВИТЬ</string>
+    <string name="video">ВИДЕО</string>
+    <string name="animation">АНИМАЦИЯ</string>
+    <string name="txt_weekgoal">Установите еженедельную цель</string>
+    <string name="save">СПАСТИ</string>
+    <string name="user_age">Возраст</string>
+    <string name="user_gender">Пол</string>
+    <string name="user_male">Мужчина</string>
+    <string name="user_height">Рост</string>
+    <string name="user_weight">Масса</string>
+    <string name="user_meal">Еда</string>
+    <string name="rest_day">День отдыха</string>
+    <string name="finished">ЗАКОНЧЕННЫЙ</string>
+    <string name="diet_list">Список диеты</string>
+    <string name="no_internet">Нет подключения к Интернету !!</string>
+    <string name="set_your_weekly_goal">УСТАНОВИТЕ ЕЖЕНЕДЕЛЬНУЮ ЦЕЛЬ</string>
+    <string name="recommandedtxt">Мы рекомендуем тренироваться как минимум 3 дня в неделю для лучшего результата.</string>
+    <string name="training_days">Тренировочные дни</string>
+    <string name="first_day_of_week">Первый день недели</string>
+    <string name="to_set_regional_plan">УСТАНОВИТЬ РЕГИОНАЛЬНЫЙ ПЛАН</string>
+    <string name="select_state">Выберите штат</string>
+    <string name="select_city">Выберите город</string>
+    <string name="what_s_your_gender">Выбери кто ты?</string>
+    <string name="to_personalize_your_plan">Чтобы персонализировать свой план</string>
+    <string name="female">женский</string>
+    <string name="male">мужчина</string>
+    <string name="diet_plan">План диеты</string>
+    <string name="vegetarian">Вегетарианский</string>
+    <string name="non_nvegetarian">Не вегетарианский</string>
+    <string name="vegan">Веганский</string>
+    <string name="how_old_are_you">Сколько тебе лет?</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="ok">OK</string>
+    <string name="mute">Немой</string>
+    <string name="voice_guide">Голосовой гид</string>
+    <string name="coach_tips">Советы тренера</string>
+    <string name="sound_options">Варианты звука</string>
+    <string name="please_name_your_plan">Пожалуйста, назовите свой план</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="give_up">СДАТЬСЯ</string>
+    <string name="please_set_reminder">Пожалуйста, установите напоминание</string>
+    <string name="restart">РЕСТАРТ</string>
+    <string name="having_a_beautiful_body_has_never_easy">Иметь красивое тело никогда не бывает легко!</string>
+    <string name="settings">Настройки</string>
+    <string name="test_voice">Тестовый голос</string>
+    <string name="workout">ТРЕНИРОВКА</string>
+    <string name="remind_me_to_workout_every_day">Напоминать мне тренироваться каждый день</string>
+    <string name="voice_options_tts">ВАРИАНТЫ ГОЛОСА (TTS)</string>
+    <string name="voice_language">Голосовой язык</string>
+    <string name="download_more_tts_language_data">Скачать больше данных TTS Language</string>
+    <string name="device_tts_setting">Настройка TTS устройства</string>
+    <string name="general_settings">ОБЩИЕ НАСТРОЙКИ</string>
+    <string name="language_options">Варианты языка</string>
+    <string name="restart_progress">Перезапустить прогресс</string>
+    <string name="support_us">ПОДДЕРЖИВАТЬ НАС</string>
+    <string name="rate_us">Оцените нас</string>
+
+    <string name="share_with_friends">Поделиться с друзьями</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="repeat">Повторить</string>
+    <string name="aboveage">Старше 18 лет</string>
+    <string name="nextexespeech">следующее упражнение </string>
+    <string name="startspeech">начало упражнения </string>
+
+
+    <string name="feed1">Мне не нравится дизайн</string>
+    <string name="feed2">У него нет нужных мне функций</string>
+    <string name="feed3">Это не просто использовать</string>
+    <string name="feed4">Это слишком сложно</string>
+    <string name="feed5">Перевод плохой</string>
+    <string name="reminderdialtxt"><u>Почему бы тебе не напомнить себе о стопроцентном результате.</u></string>
+
+    <string name="terms">Создание учетной записи означает, что вы в порядке</string>
+
+    <string name="tandc"><u>Условия обслуживания</u></string>
+    <string name="privacy"><u>Политика конфиденциальности</u></string>
+
+    <string name="tvbmis"><u>Рассчитать ИМТ</u></string>
+
+    <string name="tvmoretips"><u>Больше советов >> </u></string>
+    <string name="tvmoredetail"><u>Подробнее >> </u></string>
+
+    <string name="termstxt">При загрузке или использовании приложения эти условия автоматически применяются к вам - поэтому вы должны внимательно прочитать их перед использованием приложения.Вам не разрешается каким-либо образом копировать или изменять приложение, любую его часть или наши товарные знаки. Вам не разрешается пытаться извлечь исходный код приложения, а также не следует пытаться переводить приложение на другие языки или создавать производные версии.Само приложение, все торговые марки, авторские права,Права на базу данных и другие права интеллектуальной собственности, связанные с ней, по-прежнему принадлежат доктору Зио.
+
+
+Доктор Зио стремится к тому, чтобы приложение было максимально полезным и эффективным.По этой причине мы оставляем за собой право вносить изменения в приложение или взимать плату за его услуги в любое время и по любой причине. Мы никогда не будем взимать с вас плату за приложение или его услуги, если вам не ясно, за что именно вы платите.
+
+“Приложение «Увеличить рост после 18» хранит и обрабатывает предоставленные вами персональные данные для повышения качества обслуживания.
+Вы несете ответственность за обеспечение безопасности вашего телефона и доступа к приложению.Поэтому мы рекомендуем вам не делать джейлбрейк или root-доступ, так как это процесс снятия программных ограничений и ограничений, налагаемых официальной операционной системой вашего устройства. Это может сделать ваш телефон уязвимым для вредоносных программ / вирусов / вредоносных программ, поставить под угрозу функции безопасности вашего телефона и может означать, что это приложение не будет работать должным образом или вообще не будет работать.
+
+Вы должны знать, что есть определенные вещи, за которые доктор Зио не берет на себя ответственность. Для некоторых функций приложения требуется, чтобы у приложения было активное подключение к Интернету. Соединение может быть Wi-Fi или предоставлено вашим оператором мобильной сети, но Dr. Zio не может нести ответственность за то, что приложение не работает в полной мере, если у вас нет доступа к Wi-Fi и не осталось никаких данных о ваших поставках.
+
+Если вы используете приложение за пределами зоны действия Wi-Fi, помните, что условия соглашения с вашим оператором мобильной связи по-прежнему будут действовать. В результате ваш оператор мобильной связи может взимать с вас плату за передачу данных в течение всего времени соединения при доступе к приложению или другие сторонние сборы. Используя приложение, вы принимаете на себя ответственность за любые такие расходы, включая плату за передачу данных в роуминге, если вы используете приложение за пределами своей родной территории (т. Е. Региона или страны), не отключая роуминг данных. Если вы не являетесь плательщиком счетов для устройства, на котором используете приложение, имейте в виду, что мы предполагаем, что вы получили разрешение от плательщика счетов на использование приложения. Точно так же доктор Зио не всегда может нести ответственность за то, как вы используете приложение, т.е. вам нужно следить за тем, чтобы ваше устройство оставалось заряженным - если у него разрядился аккумулятор и вы не можете включить его, чтобы воспользоваться Сервисом, Доктор Зио не может взять на себя ответственность. Что касается ответственности доктора Зио за использование вами приложения,когда вы используете приложение, важно помнить, что, хотя мы стараемся, чтобы оно всегда обновлялось и исправлялось, мы действительно рассчитываем на то, что третьи стороны предоставят нам информацию, чтобы мы могли сделать ее доступной для вас.Доктор Зио не несет ответственности за любые убытки, прямые или косвенные, которые вы понесли в результате того, что полностью полагались на эту функциональность приложения. В какой-то момент мы можем захотеть обновить приложение. В настоящее время приложение доступно для Android - требования к системе (и для любых дополнительных систем, на которые мы решили расширить доступность приложения) могут измениться. и вам нужно будет загрузить обновления, если вы хотите и дальше использовать приложение. Доктор Зио не обещает, что он всегда будет обновлять приложение, чтобы оно было актуальным для вас и / или работало с версией Android, установленной на вашем устройстве. Однако вы обещаете всегда принимать обновления приложения, когда они предлагаются вам. Мы также можем прекратить предоставление приложения и можем прекратить его использование в любое время без уведомления вас о прекращении действия. Если мы не сообщим вам иное, при любом прекращении действия (а) права и лицензии, предоставленные вам в соответствии с настоящими условиями, прекратятся; (б) вы должны прекратить использование приложения и (при необходимости) удалить его со своего устройства.</string>
+
+
+     <string name="policytxt" formatted="false">Общая политика При загрузке или использовании приложения эти условия автоматически применяются к вам - поэтому вы должны внимательно прочитать их перед использованием приложения. Вам не разрешается каким-либо образом копировать или изменять приложение, любую его часть или наши товарные знаки. Вам не разрешается пытаться извлечь исходный код приложения, а также не следует пытаться переводить приложение на другие языки или создавать производные версии. Само приложение и все связанные с ним товарные знаки, авторские права, права на базы данных и другие права интеллектуальной собственности по-прежнему принадлежат Dr. Zio.
+        Доктор Зио стремится к тому, чтобы приложение было максимально полезным и эффективным. По этой причине мы оставляем за собой право вносить изменения в приложение или взимать плату за его услуги в любое время и по любой причине. Мы никогда не будем взимать с вас плату за приложение или его услуги, если вам не ясно, за что именно вы платите.
+        «Приложение Deep Sleep» хранит и обрабатывает личные данные, которые вы нам предоставили, для улучшения обслуживания.Поэтому мы рекомендуем вам не делать джейлбрейк или root-доступ, поскольку это процесс снятия программных ограничений и ограничений, налагаемых официальной операционной системой вашего устройства.Это может сделать ваш телефон уязвимым для вредоносных программ / вирусов / вредоносных программ, поставить под угрозу функции безопасности вашего телефона и может означать, что это приложение не будет работать должным образом или вообще не будет работать.
+
+        Вы должны знать, что есть определенные вещи, за которые доктор Зио не берет на себя ответственность. Для некоторых функций приложения требуется, чтобы у приложения было активное подключение к Интернету. Соединение может быть Wi-Fi или предоставлено вашим оператором мобильной связи, но доктор Зио не может нести ответственность за то, что приложение не работает в полную силу, если у вас нет доступа к Wi-Fi, и у вас не осталось ни одного лимита данных.
+
+        Если вы используете приложение за пределами зоны действия Wi-Fi, помните, что условия соглашения с вашим оператором мобильной связи по-прежнему будут действовать.В результате ваш оператор мобильной связи может взимать с вас плату за передачу данных во время соединения при доступе к приложению, или другие сторонние сборы. Используя приложение, вы принимаете на себя ответственность за любые такие расходы, включая плату за передачу данных в роуминге, если вы используете приложение за пределами своей родной территории (т. Е. Региона или страны), не отключая роуминг данных. Если вы не являетесь плательщиком счетов для устройства, на котором используете приложение, имейте в виду, что мы предполагаем, что вы получили разрешение от плательщика счетов на использование приложения. Точно так же доктор Зио не всегда может нести ответственность за то, как вы используете приложение, т.е. вам нужно следить за тем, чтобы ваше устройство оставалось заряженным. – если батарея разряжается, и вы не можете включить его для использования Службы, Dr. Zio не несет ответственности. Что касается ответственности доктора Зио за использование вами приложения, при его использовании важно помнить, что, хотя мы стараемся обеспечить его постоянное обновление и исправление, мы действительно рассчитываем на то, что третьи стороны предоставят нам информацию, чтобы мы могли сделать ее доступной для вас. Доктор Зио не несет ответственности за любые убытки, прямые или косвенные, которые вы понесли в результате того, что полностью полагались на эту функциональность приложения.
+В какой-то момент мы можем захотеть обновить приложение. В настоящее время приложение доступно для Android - требования к системе (и для любых дополнительных систем, на которые мы решили расширить доступность приложения) могут измениться. и вам нужно будет загрузить обновления, если вы хотите и дальше использовать приложение. Доктор Зио не обещает, что он всегда будет обновлять приложение, чтобы оно было актуальным для вас и / или работало с версией Android, установленной на вашем устройстве.Однако вы обещаете всегда принимать обновления приложения, когда они предлагаются вам. Мы также можем прекратить предоставление приложения и можем прекратить его использование в любое время без уведомления вас о прекращении действия. сли мы не сообщим вам иное, при любом прекращении действия (а) права и лицензии, предоставленные вам в соответствии с настоящими условиями, прекратятся; (б) вы должны прекратить использование приложения и (при необходимости) удалить его со своего устройства.
+
+        Как пользоваться приложением:
+
+        Мы рекомендуем вам использовать это приложение по подписке врачей, если у вас есть какие-либо серьезные заболевания и травмы костей, сердца, травмы спины, позвоночника, травмы головы или любые другие телесные повреждения, попросите эксперта / врачей заняться этой йогой, упражнениями и тренировка.
+
+        Политика конфиденциальности
+
+        Доктор Зио создал приложение «Боли в спине» как коммерческое приложение.Эта УСЛУГА предоставляется Dr. Zio и предназначена для использования «как есть». Эта страница используется для информирования посетителей о нашей политике в отношении сбора, использования и раскрытия Личной информации, если кто-либо решил использовать наш Сервис. Если вы решите использовать наш Сервис, вы соглашаетесь на сбор и использование информации, касающейся этой политики. Личная информация, которую мы собираем, используется для предоставления и улучшения Сервиса.Мы не будем использовать или передавать вашу информацию кому-либо, кроме случаев, описанных в настоящей Политике конфиденциальности. Термины, используемые в настоящей Политике конфиденциальности, имеют то же значение, что и в наших Положениях и условиях, который доступен при увеличении высоты после 18, если иное не определено в настоящей Политике конфиденциальности.
+
+       Сбор и использование информации
+
+        Для лучшего опыта при использовании нашего Сервиса мы можем потребовать от вас предоставить нам определенную личную информацию, в том числе, но не ограничиваясь этим, мы собираем идентификатор Gmail, имя, возраст, рост, вес человека для лучшего восприятия пользователя как человека. их местонахождение. Информация, которую мы запрашиваем, будет храниться нами и использоваться, как описано в этой политике конфиденциальности. Приложение использует сторонние сервисы, которые могут собирать информацию, используемую для вашей идентификации. Ссылка на политику конфиденциальности сторонних поставщиков услуг, используемых приложением
+
+        Сервисы Google Play (https://policies.google.com/privacy)
+        AdMob (https://support.google.com/admob/answer/6128543?hl=en)
+        Firebase Analytics (https://firebase.google.com/policies/analytics)
+        Facebook (https://www.facebook.com/about/privacy)
+        Fabric (https://fabric.io/privacy)
+        Crashlytics (https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+        Мы собираем информацию о вашем местоположении, когда вы пользуетесь нашими услугами, что помогает нам предлагать такие функции, как маршруты проезда на выходные или расписание сеансов фильмов, которые идут рядом с вами.
+
+        Ваше местоположение можно определить с разной степенью точности по:
+
+GPS
+айпи адрес
+Данные датчика с вашего устройства
+Информация об объектах, находящихся рядом с вашим устройством, например о точках доступа Wi-Fi, вышках сотовой связи и устройствах с поддержкой Bluetooth.
+Типы данных о производимых, которые мы собираем, частично зависят от вашего устройства и пользовательские данные. Например, вы можете включить или отключить определение местоположения своего устройства Android с помощью приложения настроек устройства. Вы также можете включить историю местоположений, если хотите создать личную карту того, куда вы идете со своими устройствами, на которых выполнен вход.
+
+
+Реклама
+
+
+
+Используя наши Приложения, вам может быть предложен рекламный контент.Мы или рекламные сети, которые мы используем, можем использовать рекламные технологии, которые используют файлы cookie, маяки, пиксели отслеживания и другие технологии, которые размещаются в рекламных объявлениях и позволяют нам или нашим сетям собирать неличную информацию.Информация неличного характера, такая как возраст и пол, может быть использована для обеспечения того, чтобы вам предлагалась соответствующая реклама. Данные об использовании и неличная информация, такая как рекламные идентификаторы, могут использоваться для определения количества кликов, полученных по объявлению, для измерения эффективности рекламных кампаний, для определения надлежащего количества повторных просмотров данного объявления и / или для показа рекламы. которые лучше всего соответствуют вашим интересам. В зависимости от вашего устройства и его операционной системы вы можете запретить использование рекламного идентификатора вашего устройства для рекламы на основе интересов или сбросить рекламный идентификатор вашего устройства, изменив настройки вашего устройства. Компания-поставщик рекламы может выбрать ваше местоположение для лучшей локализации рекламы для пользователей и персонализации рекламы на местном языке.
+
+
+
+Цель сбора информации
+
+Неличная информация используется для статистических и исследовательских целей, а также для настройки и улучшения наших приложений.
+Личная информация используется, чтобы иметь возможность ответить вам, когда вы связываетесь по электронной почте.
+Личная информация, такая как местоположение / IP-адрес, используется для показа вам рекламы в соответствии с вашим местоположением, это называется контекстной рекламой.
+Мы используем информацию, которую собираем о вас / вашем устройстве, для предоставления вам услуг и ведения нашего бизнеса. Такое использование нами и нашими Партнерами может включать:
+Предоставление наших услуг: разработка, предоставление и улучшение наших продуктов, услуг и контента, адаптация наших продуктов и услуг, предоставление обновлений программного обеспечения и поддержка продуктов, понимание и анализ тенденций в связи с использованием приложений, администрирование приложений и общение с клиентами.
+
+Отображение рекламы: отображение сторонней рекламы в наших приложениях и показ рекламы наших приложений в приложениях других издателей. Перекрестное продвижение: перекрестное продвижение наших приложений и сервисов, то есть мы можем продвигать одно из наших приложений, пока вы играете в другое наше приложение.
+
+Аналитика и исследования: понимание и анализ тенденций, связанных с использованием Приложений, сбор демографической информации о нашей базе пользователей, данных о том, откуда было загружено Приложение. Мы также можем создавать отчеты и анализ для исследований или бизнес-аналитики, например, для отслеживания потенциальных проблем или тенденций с нашими приложениями и службами или для тестирования наших новых игровых функций и контента. Мы используем данные, полученные из сторонних социальных сетей, только для внутренней аналитики. Чтобы отказаться от использования аналитики, посетите раздел «Отказ от рассылки» настоящей Политики конфиденциальности.
+
+
+Данные журнала
+
+
+Мы хотим сообщить вам, что всякий раз, когда вы используете нашу Службу, в случае ошибки в приложении мы собираем данные и информацию (через сторонние продукты) на вашем телефоне, называемые данными журнала. Эти данные журнала могут включать такую ​​информацию, как IP-адрес вашего устройства, имя устройства, версия операционной системы, конфигурация приложения при использовании нашего Сервиса, время и дата использования вами Сервиса, а также другие статистические данные. В вышеуказанной ситуации мы гарантируем, что ваша PII (личная информация, позволяющая установить личность) будет использоваться только для связи с вами и улучшения наших услуг. Мы никогда не будем использовать такую ​​информацию (например, ваше имя и адрес электронной почты) для каких-либо других целей, например, для дальнейшего продвижения наших продуктов или раскрытия вашей личной информации третьим лицам в коммерческих целях.
+
+Если у вас есть опасения по поводу неправомерного использования вашей PII или если вам нужна дополнительная информация о нашей политике конфиденциальности и ее значении, напишите нам по адресу drziocure@gmail.com, мы постараемся дать четкие ответы на ваши вопросы по время.
+
+
+
+Cookies
+
+
+Мы используем файлы cookie и аналогичные технологии отслеживания для отслеживания активности в нашем Сервисе и хранения определенной информации. Файлы cookie - это файлы с небольшим объемом данных, которые обычно используются в качестве анонимных уникальных идентификаторов. Они отправляются в ваш браузер с веб-сайтов, которые вы посещаете, и хранятся во внутренней памяти вашего устройства.Этот Сервис не использует эти «куки» явно. Однако приложение может использовать сторонний код и библиотеки, которые используют файлы cookie для сбора информации и улучшения своих услуг. У вас есть возможность принять или отклонить эти файлы cookie и узнать, когда файл cookie отправляется на ваше устройство. Если вы решите отказаться от наших файлов cookie, возможно, вы не сможете использовать некоторые части этого Сервиса.
+
+Примеры файлов cookie, которые мы используем:
+
+Сессионные куки: мы используем сессионные куки для работы нашего Сервиса.
+Файлы cookie предпочтений: мы используем файлы cookie предпочтений, чтобы запоминать ваши предпочтения и различные настройки.
+Файлы cookie безопасности: мы используем файлы cookie безопасности в целях безопасности.
+
+
+Платежи
+
+Мы можем предоставлять платные продукты и / или услуги в рамках Сервиса. В этом случае мы используем сторонние сервисы для обработки платежей (например, платежные системы).
+
+Мы не будем хранить или собирать данные вашей платежной карты. Эта информация предоставляется напрямую нашим сторонним платежным системам, использование которых регулируется их Политикой конфиденциальности. Эти платежные системы придерживаются стандартов, установленных PCI-DSS под управлением Совета по стандартам безопасности PCI, который является совместным усилием таких брендов, как Visa, Mastercard, American Express и Discover. Требования PCI-DSS помогают обеспечить безопасную обработку платежной информации.
+
+Платежные системы, с которыми мы работаем:
+
+Google Play Покупка в приложении Платежей.
+
+ Их Политику конфиденциальности можно посмотреть на https://policies.google.com/privacy
+
+
+
+Безопасность данных
+
+Безопасность ваших данных важна для нас, но помните, что ни один метод передачи через Интернет или метод электронного хранения не является безопасным на 100%. Хотя мы стремимся использовать коммерчески приемлемые средства для защиты ваших Персональных данных, мы не можем гарантировать их абсолютную безопасность.
+
+
+
+
+Поставщики услуг
+
+Мы можем нанимать сторонние компании и частных лиц по следующим причинам:
+Для облегчения нашего Сервиса;
+
+Для предоставления Сервиса от нашего имени;
+
+Для оказания услуг, связанных с Сервисом;
+Чтобы помочь нам в анализе использования нашего Сервиса.
+
+Мы хотим проинформировать пользователей этого Сервиса о том, что эти третьи стороны имеют доступ к вашей Личной информации. Причина в том, чтобы выполнять поставленные перед ними задачи от нашего имени. Однако они обязаны не раскрывать и не использовать информацию для каких-либо других целей.
+
+
+
+Безопасность
+
+Мы ценим ваше доверие к предоставлению нам вашей личной информации, поэтому мы стремимся использовать коммерчески приемлемые средства ее защиты. Но помните, что ни один метод передачи через Интернет или метод электронного хранения не является на 100% безопасным и надежным.
+
+Однако передача информации через Интернет или телефонные сети не является полностью безопасной. Хотя мы делаем все возможное, чтобы защитить вашу информацию, особенно в отношении защиты ваших личных данных,
+«Доктор. Zio- Yoga Teacher »не может гарантировать безопасность ваших данных, передаваемых через Интернет, телефон или любые другие сети.
+
+
+Ссылки на другие сайты
+
+
+Этот Сервис может содержать ссылки на другие сайты. Если вы нажмете на стороннюю ссылку, вы будете перенаправлены на этот сайт. Обратите внимание, что эти внешние сайты не управляются нами. Поэтому мы настоятельно рекомендуем вам ознакомиться с Политикой конфиденциальности этих веб-сайтов. Мы не контролируем и не несем ответственности за контент, политику конфиденциальности или действия любых сторонних сайтов или служб.
+
+
+
+Конфиденциальность детей
+
+Эти Услуги не предназначены для лиц младше 13 лет. Мы сознательно не собираем личную информацию от детей младше 13 лет. В случае, если мы обнаруживаем, что ребенок младше 13 лет предоставил нам личную информацию, мы немедленно удаляем ее с наших серверов. Если вы являетесь родителем или опекуном и знаете, что ваш ребенок предоставил нам личную информацию, свяжитесь с нами, чтобы мы могли предпринять необходимые действия. Изменения в этой Политике конфиденциальности Время от времени мы можем обновлять нашу Политику конфиденциальности. Таким образом, вам рекомендуется периодически просматривать эту страницу на предмет изменений. Мы сообщим вам о любых изменениях, разместив новую Политику конфиденциальности на этой странице. Эти изменения вступают в силу сразу после публикации на этой странице. Свяжитесь с нами Если у вас есть какие-либо вопросы или предложения по нашей Политике конфиденциальности, напишите нам по адресу drziocure@gmail.com, мы постараемся своевременно дать четкие ответы на ваши вопросы..
+
+ Закон Калифорнии о защите конфиденциальности в ИнтернетеCalOPPA - это первый закон штата в стране, требующий от коммерческих веб-сайтов и онлайн-сервисов публикации политики конфиденциальности. Действие закона простирается далеко за пределы Калифорнии и требует от любого человека или компании в Соединенных Штатах (и, возможно, во всем мире), которые управляют веб-сайтами, собирающими личную информацию от потребителей из Калифорнии, размещать на своем веб-сайте заметную политику конфиденциальности, в которой точно указывается, какая информация собирается и какие частные лица или компании, которым он передается. – Смотрите больше на: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+Согласно CalOPPA, мы соглашаемся со следующим:
+Пользователи могут посещать наш сайт анонимно.
+
+Разрешаем ли мы третьим сторонам, включая рекламные сети или плагины, собирать PII у детей младше 13 лет?
+–  Мы не продаем товары специально для детей младше 13 лет.
+
+Ограничение ответственности
+
+Доктор Зио - учитель йоги не делает никаких заявлений, обещаний или гарантий относительно точности, полноты или адекватности содержания, доступного через Приложение, и прямо отказывается от ответственности за ошибки и упущения в содержании, доступном через Приложение.
+
+– В отношении содержимого не дается никаких гарантий, подразумеваемых, выраженных или установленных законом, включая, помимо прочего, гарантии ненарушения прав третьих лиц, права собственности, товарной пригодности, пригодности для определенной цели и отсутствия компьютерных вирусов. доступны через Приложение или по ссылкам на другие интернет-ресурсы, которые могут быть доступны Вам через Приложение.
+
+–Ссылка в Приложении на какие-либо конкретные коммерческие продукты, процессы или услуги или использование названия любой торговой, фирмы или корпорации делается для информации и удобства общественности и не является одобрением, рекомендацией или предпочтением со стороны доктора Зио. - учитель йоги.
+
+Изменения в настоящей Политике конфиденциальности
+
+
+Мы можем время от времени обновлять нашу Политику конфиденциальности. Таким образом, вам рекомендуется периодически просматривать эту страницу на предмет изменений. Мы сообщим вам о любых изменениях, разместив новую Политику конфиденциальности на этой странице. Эти изменения вступают в силу сразу после публикации на этой странице.
+
+После создания этой политики конфиденциальности мы добавим ссылку на нее на нашей домашней странице или, как минимум, на первой важной странице после входа на наш веб-сайт.
+
+Если у вас есть вопросы или проблемы, напишите Нам по электронной почте или по адресу drziocure@gmail.com, и мы постараемся решить ваши проблемы.
+    </string>
+
+
+    <string name="ntitle1">Missing Deep Sleep Workout!</string>
+    <string name="ntitle2">Don\'t miss your plan!</string>
+    <string name="ntitle3">It\'s time to start Workout!</string>
+    <string name="ntitle4">Why not now?</string>
+    <string name="ntitle5">Boost yourself!</string>
+    <string name="ntitle6">Time is now!</string>
+    <string name="ntitle7">You.. Yes You can achieve… Click here?</string>
+
+    <string name="desc1">Never give up! You\'re about to achieve!💪🔥</string>
+    <string name="desc2">Don\'t think of Giving up!💪🔥</string>
+    <string name="desc3">Little work can get you larger life. Continue!💪🔥</string>
+    <string name="desc4">Trying is winning in the moment! Keep going!💪🔥</string>
+    <string name="desc5">Don\'t give up! You\'re almost there!💪🔥</string>
+    <string name="desc6">Good things take time! Never give up!💪🔥</string>
+    <string name="desc7">Change is not easy! Keep going !💪🔥</string>
+    <string name="desc8">A winner is a dreamer! Never give up!💪🔥</string>
+
+    <string name="icons">💪🔥</string>
+    <string name="strstate">Выберите штат<font color='#FC527F'> *</font></string>
+    <string name="select_the_country">Выберите страну<font color='#FC527F'> *</font></string>
+
+    <string name="details1">Это приложение предлагает указанные выше варианты автоматического продления подписки:</string>
+    <string name="details3">Плата за боль в спине про будет снята с вашей учетной записи Google Play при подтверждении покупки. Ваша боль в спине Pro
+подписка будет автоматически продлена если автоматическое продление не отключено в вашей учетной записи Google Play как минимум за 24 часа до окончания текущего расчетного периода подписки.\nВы можете управлять своей подпиской или отключить автоматическое повторное обновление в настройках учетной записи Google Play после покупки. Если вы отключите автоматическое продление в середине, а затем в середине периода подписки. У вас по-прежнему будет доступ ко всем премиум-функциям до конца периода.За отключение автоматического продления в середине периода подписки частичное возмещение не производится.Вы можете управлять своей подпиской или отключить автоматическое повторное обновление в настройках учетной записи Google Play после покупки. Если вы отключите автоматическое продление в середине, а затем в середине периода подписки. У вас по-прежнему будет доступ ко всем премиум-функциям до конца периода. За отключение автоматического продления в середине периода подписки частичное возмещение не производится.</string>
+    <string name="more">Более</string>
+    <string name="total">Общий</string>
+    <string name="report">Отчет</string>
+    <string name="your_plan">ВАШ ПЛАН</string>
+    <string name="_12_days_left">Осталось 12 дней</string>
+    <string name="days_left"> осталось дней</string>
+    <string name="back_pain_relief">Облегчение боли в спине</string>
+    <string name="info">Информация</string>
+    <string name="intermediate_level">Промежуточный уровень</string>
+    <string name="intermediate">СРЕДНИЙ</string>
+    <string name="advanced_level">Продвинутый уровень</string>
+    <string name="advanced">ПЕРЕДОВОЙ</string>
+    <string name="weekly_goal">ЕЖЕНЕДЕЛЬНАЯ ЦЕЛЬ</string>
+    <string name="set">+ УСТАНОВЛЕННЫЙ</string>
+    <string name="nutrition_nplan">План питания </string>
+
+
+    <string name="customize_plan">Настроить план</string>
+    <string name="customize_nyour_plan">Настроить \nВаш план</string>
+    <string name="explore_plan">Изучить план</string>
+    <string name="discover">ОБНАРУЖИТЬ</string>
+    <string name="discover1">Обнаружить</string>
+    <string name="daily_tips">Ежедневные советы</string>
+    <string name="loading">Загружается ...</string>
+    <string name="all_diets">Все диеты</string>
+    <string name="done">Выполнено</string>
+    <string name="share">Делиться</string>
+    <string name="all_history">Вся история</string>
+    <string name="category_name">Название категории</string>
+    <string name="covid_tracker">Covid Tracker</string>
+    <string name="plans_made_for_you">Планы, созданные для вас</string>
+    <string name="confirmed_cases">Подтвержденные случаи [заболевания</string>
+    <string name="deaths">Летальные исходы</string>
+    <string name="recoveries">Возврат</string>
+    <string name="city_province">Город/Провинция</string>
+    <string name="confirmed_ncases">Подтвержденный\nCases</string>
+    <string name="my_training">Моя тренировка</string>
+
+    <string name="reports">Отчеты</string>
+    <string name="discover_plan">Откройте для себя план</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="remove_ads">Убрать рекламу</string>
+    <string name="new_apps">Новые приложения</string>
+    <string name="share_app">Поделиться приложением</string>
+
+    <string name="jumping_jacks">ПРЫЖКИ ГНЕЗДА</string>
+    <string name="_1_min">1 минута</string>
+    <string name="_2_exercises">2 упражнения</string>
+    <string name="edit">редактировать</string>
+    <string name="_5_ft_5_in">5 ноги 5 дюймов</string>
+    <string name="veg">вегетарианец</string>
+    <string name="non_veg">не вегетарианский</string>
+    <string name="height_graph">График высоты</string>
+    <string name="please_login_to_unlock_graph">Пожалуйста, войдите, чтобы разблокировать график !!!</string>
+    <string name="weight_graph">График веса</string>
+    <string name="user_info">Информация о пользователе</string>
+    <string name="premium">Premium</string>
+    <string name="get_effective_plan_with_premium">Получите эффективные планы с премией</string>
+    <string name="_1_month_subscription">Подписка на 1 месяц</string>
+    <string name="_6_months_subscriptions">Подписка на 6 месяцев</string>
+    <string name="_40_off">Скидка 40%</string>
+    <string name="life_time">Подписка на пожизненное пользование</string>
+    <string name="_60_off">Скидка 60%</string>
+    <string name="unlock_all_the_features">Разблокируйте все функции</string>
+    <string name="ads_free">Без рекламы</string>
+    <string name="intermediate1">Средний</string>
+    <string name="advanced1">Передовой</string>
+    <string name="unlock_all_yoga">Разблокировать всю йогу</string>
+    <string name="easy_3d_workout_video">Простое видео тренировки в 3D</string>
+    <string name="set_your_personal_goal">Установите свою личную цель</string>
+    <string name="back_pain_relief_pro">Облегчение боли в спине Pro</string>
+    <string name="purchase_now">Купить сейчас</string>
+    <string name="set_reminder">Установить напоминание</string>
+    <string name="user">Пользователь</string>
+    <string name="my_profile">Мой профайл</string>
+    <string name="google_fit">Google Fit</string>
+    <string name="default1">Дефолт</string>
+    <string name="version_1_0">Версия 1.0</string>
+    <string name="nutrition_plan">План питания</string>
+    <string name="today_s_plan">ПЛАН НА СЕГОДНЯ</string>
+    <string name="use_this_plan">Использовать этот план</string>
+    <string name="ad">Объявление</string>
+    <string name="appname">Название приложения</string>
+    <string name="reminder_text">Текст напоминания</string>
+    <string name="please_enter_your_text_here">Пожалуйста, введите здесь свой текст</string>
+    <string name="fitness_apps">Фитнес-приложения</string>
+    <string name="suggested_for_you">Предлагается для вас</string>
+    <string name="suggested_fitness_app">Рекомендуемое приложение для фитнеса</string>
+    <string name="ads">Объявления .</string>
+    <string name="top_free_apps">Топ бесплатных приложений</string>
+    <string name="suggested_banners">Предлагаемые баннеры</string>
+    <string name="garena_free_fire">Garena Free Fire</string>
+    <string name="free_fire_is_the">Free Fire is the ultimate survival shooter game available on mobile</string>
+    <string name="you_re_offline">Ты не в сети</string>
+    <string name="check_your_internet">Проверьте подключение к Интернету и нажмите кнопку повтора, чтобы вернуться в онлайн.</string>
+    <string name="dr_zio_app_store">Магазин приложений Dr.Zio</string>
+    <string name="start_with_your_feeet">Сложите стопы вместе и руки по бокам, затем подпрыгните, расставив ноги и руки над головой.</string>
+    <string name="other_reason">Другая причина..</string>
+    <string name="write_your_feedback">Напишите свой отзыв</string>
+    <string name="enter_your_paramaters">ВВЕДИТЕ ВАШИ ПАРАМЕТРЫ</string>
+    <string name="get">ПОЛУЧАТЬ</string>
+    <string name="personalized_plan">ИНДИВИДУАЛЬНЫЙ ПЛАН</string>
+    <string name="get_daily_tips">Get daily tips in your language \nby adding country</string>
+    <string name="select">Выбирать</string>
+    <string name="next_2_12">СЛЕДУЮЩИЙ 2/12</string>
+    <string name="calf_raise_with_splayed_foot_30s">ПОДНЯТИЕ ТЕЛЕНЦЕВ НА РАСТЯЖЕННОЙ НОГЕ 30 сек.</string>
+    <string name="plank">Планка</string>
+    <string name="repeat_day">Повторить день</string>
+    <string name="repeat1">Повторить:</string>
+    <string name="every">Каждый</string>
+    <string name="hour_s">Часы</string>
+    <string name="date">Дата</string>
+    <string name="_12_07_2019">12/07/2019</string>
+    <string name="showing_ads">Показаны объявления ..</string>
+    <string name="watch_video_to_unlock">СМОТРЕТЬ ВИДЕО, ЧТОБЫ РАЗБЛОКИРОВАТЬ</string>
+    <string name="unlock_free">Разблокировать бесплатно</string>
+    <string name="or">или</string>
+    <string name="watch_the_video_to_use_training_nplan_once">Посмотрите видео, чтобы использовать обучение \nпланировать один раз</string>
+    <string name="get_premium">Получить Премиум</string>
+
+    <string name="cm">см</string>
+    <string name="inch">дюйм</string>
+    <string name="ft">футов</string>
+    <string name="kgs">Кг</string>
+    <string name="lbs">Фунты</string>
+    <string name="no_thanks">Нет, спасибо!!</string>
+    <string name="complete_100_workouts_for_best_results">Завершите 100% тренировки для достижения наилучших результатов</string>
+    <string name="_16_0">16.0%</string>
+    <string name="we_work_day"><![CDATA[Мы работаем для вас день и ночь. Пожалуйста, оцените нас🙏.]]></string>
+    <string name="_10">(10)</string>
+    <string name="please_wait">Please Wait....</string>
+    <string name="quit">Покидать</string>
+    <string name="choose_your_language">Выберите свой язык:-</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+    <string name="submit">Представлять на рассмотрение</string>
+    <string name="music_for_workout">Музыка для тренировки</string>
+    <string name="choose_from_gallery">Выбрать из галереи</string>
+    <string name="change_background_music">Сменить фоновую музыку</string>
+    <string name="unlock_all_features">Разблокировать все функции</string>
+    <string name="to_unlock_this">Чтобы разблокировать этот уровень - выберите любой вариант.</string>
+    <string name="complete_n_previous_n_level">Завершить \n Предыдущий \n уровень</string>
+    <string name="watch_n_ads">Смотреть \n рекламу</string>
+    <string name="buy_n_premium">Купить \n Премиум</string>
+    <string name="to_unlock_this_excercise_choose_this_option">Чтобы разблокировать это упражнение - выберите этот вариант.</string>
+    <string name="buy_premium">Купить Премиум</string>
+    <string name="close">Закрывать</string>
+    <string name="other_users_will_benefit_from_your_review">Ваш отзыв будет полезен другим пользователям</string>
+    <string name="please_leave_your_review_on_google_play">Пожалуйста, оставьте свой отзыв в Google Play</string>
+    <string name="rate_on_google_play">СТАВКА В GOOGLE PLAY</string>
+    <string name="plan_1">План 1</string>
+    <string name="dfdfdf">dfdfdf</string>
+    <string name="india_cumulative_numbers">India - Cumulative numbers</string>
+    <string name="updated_loading">Обновлено: загрузка...</string>
+    <string name="source_ministry_of_health_and_family_welfare">Source: Ministry of Health and Family Welfare</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="today_deaths">Today Deaths</string>
+    <string name="today_recoveries">Today Recoveries</string>
+    <string name="live_now">Live Now</string>
+    <string name="source_world_health_organization">Source: World Health Organization</string>
+    <string name="country_region">Country/Region</string>
+    <string name="new_ncases">New\nCases</string>
+    <string name="new_deaths">New Deaths</string>
+    <string name="gujarat">Gujarat</string>
+    <string name="day1">1 день</string>
+    <string name="trending">В тренде</string>
+    <string name="vitamin_b6">Витамин B6</string>
+    <string name="update">Обновлять</string>
+    <string name="sdsdsdds">sdsdsdds</string>
+    <string name="oct_9">9 октября</string>
+    <string name="song_name">Название песни</string>
+    <string name="round">Круглый</string>
+    <string name="sun1">sun</string>
+    <string name="water_drink_reminder_app">Напоминание о питье воды</string>
+    <string name="install_now">Установите сейчас</string>
+    <string name="temppdsdsd">Temppdsdsd 💪🔥</string>
+    <string name="snooze">ВЗДРЕМНУТЬ</string>
+    <string name="once">Один раз</string>
+    <string name="prayer_time_wake">Время молитвы разбуди меня в 9 и только что поел и позавтракал</string>
+    <string name="let_s_do_backpain_exercise_today">Давайте сегодня сделаем упражнение Backpain.</string>
+    <string name="reminder_type">Тип напоминания</string>
+    <string name="sound">Звук</string>
+    <string name="repeat_reminder">Повторить напоминание</string>
+    <string name="report_as">Сообщить как</string>
+    <string name="alarm">Тревога</string>
+    <string name="save_change">Сохранить изменения?</string>
+    <string name="are_you_delete">Вы уверены, что хотите удалить?</string>
+    <string name="yes">да</string>
+    <string name="no">Нет</string>
+    <string name="deleted">Удалено</string>
+    <string name="confirmation">Подтверждение</string>
+    <string name="something_went_wrong">Что-то пошло не так!!</string>
+    <string name="take_nrest">Отдохнуть</string>
+    <string name="press_the_resume">Нажмите на резюме, чтобы перейти к следующему упражнению</string>
+    <string name="is_completed"> завершено</string>
+    <string name="completed">завершенный</string>
+    <string name="recommand_for_you">Рекомендовать для вас</string>
+    <string name="hated_it">Ненавидел это</string>
+    <string name="dislike_it">Не понравилось!</string>
+    <string name="its_ok">Ничего страшного</string>
+    <string name="liked_it">Понравилось!</string>
+    <string name="loved_it">Очень понравилось</string>
+    <string name="do_you_like_this_app">Вам нравится это приложение ?</string>
+    <string name="your_feedback_is_useful">Ваш отзыв полезен</string>
+    <string name="did_you_hear_the_test_voice">Вы слышали тестовый голос?</string>
+    <string name="error">Ошибка</string>
+    <string name="latest">Последний</string>
+    <string name="related_apps">Связанные приложения</string>
+    <string name="treading_apps">Популярные приложения</string>
+    <string name="please_check_after">Пожалуйста, проверьте через некоторое время!..</string>
+    <string name="prepe_app">Готовим приложение для вас...</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="drzio_updatestring">Доктор Зио рекомендует выполнить обновление до последней версии для бесперебойной и улучшенной работы приложения.</string>
+    <string name="select_gender">Пожалуйста, выберите пол</string>
+    <string name="addfood">Добавить еду</string>
+    <string name="news">Новый</string>
+    <string name="you_can_better">Вы можете работать лучше, чем это !!</string>
+    <string name="perform_better">Производительность плохая !!</string>
+    <string name="perform_okay">Производительность в порядке</string>
+    <string name="perform_good">Производительность хорошая !!</string>
+    <string name="perform_great">Производительность отличная !!</string>
+    <string name="purchasefeed1" >Цена покупки высока</string>
+    <string name="purchasefeed2" >Анализировать &amp; Тогда покупка</string>
+    <string name="purchasefeed3" >Другой</string>
+    <string name="copyright_2021_dr_zio">авторское право @ 2022 Dr zio</string>
+    <string name="retry">Повторить</string>
+    <string name = "blog"> Блог </string>
+    <string name="tap_here"> Нажмите здесь !!.!!.</string>
+    <string name="repo_edu">следить за своим прогрессом</string>
+    <string name="hom_edu">Начните тренировку и ознакомьтесь с питанием и индивидуальным планом</string>
+    <string name="dis_edu">Откройте для себя планы йоги для всех типов боли в спине</string>
+    <string name="blog_edu">Читайте блоги и советы по интересующим вас темам</string>
+    <string name="stor_edu">Ознакомьтесь с другими приложениями от Dr. zio</string>
+    <string name="menu_edu">Нажмите здесь, чтобы открыть меню</string>
+    <string name = "day"> День </string>
+    <string name = "all_app"> Все приложение </string>
+    <string name = "sett_edu"> Нажмите здесь, чтобы управлять своим профилем и другими настройками </string>
+
+    <string name = "want_uninterrupted"> хотите непрерывную тренировку без рекламы? \n ПОЛУЧИТЕ ПРЕМИУМ СЕЙЧАС! </string>
+    <string name="admob_openapp" />
+    <string name = "beginner"> НАЧИНАЮЩИЙ </string>
+    <string name = "rate_txt"> Я программист, очень много работаю, чтобы дать вам 5-звездочный опыт работы с этим приложением. Пожалуйста, напишите мне 5-звездочный обзор. Спасибо! Для меня это означает мир. </string>
+
+    <string name = "deep_sleep_yoga_and_yog_nindra"> ЙОГА ГЛУБОКОГО СНА И ЙОГА НИНДРА </string>
+    <string name = "yoga_for_insomnia"> Йога от бессонницы </string>
+    <string name = "deep_sleep_yoga"> ЙОГА ГЛУБОКОГО СНА </string>
+    <string name = "yog_nindra_effective_sleep"> ЭФФЕКТИВНЫЙ СОН YOG NINDRA </string>
+    <string name = "bed_time_yoga"> КРОВАТЬ ЙОГА </string>
+    <string name = "for_sound_sleep"> ДЛЯ ЗВУКОВОГО СНА </string>
+    <string name = "brething_exercise"> УПРАЖНЕНИЕ ДЛЯ БРЕТИНГА </string>
+    <string name = "sleep_apnea"> СОННОЕ АПНОЭ </string>
+    <string name = "bed_time_yoga_amp_brething_exercise"> <![CDATA[ВРЕМЯ КРОВАТИ ЙОГИ И УПРАЖНЕНИЕ ДЛЯ БРЕТИНГА]]> </string>
+    <string name = "yog_nidra_effective_sleep"> Йог-ниндра - эффективный сон </string>
+    <string name = "bed_time_for_sound_sleep"> Йога перед сном для крепкого сна </string>
+    <string name = "bipolar_depresion"> Биполярная депрессия </string>
+    <string name = "info1"> Привет! Здорово, что вы готовы преодолеть проблемы со сном. Вы можете увидеть йогу сна &amp; упомянутые ниже медитативные упражнения. Давайте начнем! </string>
+    <string name = "info2"> В этом плане вы найдете гораздо более сложные упражнения для медитации во сне. Больше растяжек, больше тренировок, чтобы боль в коленях утихла очень скоро, так что давайте начнем! </string>
+    <string name = "info3"> Непростая задача! Мы подготовили для вас самые сложные тренировки по медитации во сне, которые сделают ваш сон отличным. Давайте сделаем это! </string>
+    <string name = "ftinch"> фут-дюйм </string>
+</resources>
+

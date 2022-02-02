@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layoutDirection="ltr"
+    >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30.0dip"
+        android:layout_marginEnd="30.0dip"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="7.0">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/buttonMon"
+                android:layout_width="35.0dip"
+                android:layout_height="35.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/weekdaysbutton"
+                android:text="M"
+                android:textColor="@color/headercolor"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="50.0dip"
+            android:layout_weight="1.0" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/buttonTue"
+                android:layout_width="35.0dip"
+                android:layout_height="35.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/weekdaysbutton"
+                android:textColor="@color/headercolor"
+                android:text="T" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="50.0dip"
+            android:layout_weight="1.0" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/buttonWed"
+                android:layout_width="35.0dip"
+                android:layout_height="35.0dip"
+                android:layout_weight="1.0"
+                android:textColor="@color/headercolor"
+                android:background="@drawable/weekdaysbutton"
+                android:text="W" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="50.0dip"
+            android:layout_weight="1.0" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/buttonThu"
+                android:layout_width="35.0dip"
+                android:layout_height="35.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/weekdaysbutton"
+                android:textColor="@color/headercolor"
+                android:text="T" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="50.0dip"
+            android:layout_weight="1.0" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/buttonFri"
+                android:layout_width="35.0dip"
+                android:layout_height="35.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/weekdaysbutton"
+                android:textColor="@color/headercolor"
+                android:text="F" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="50.0dip"
+            android:layout_weight="1.0" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/buttonSat"
+                android:layout_width="35.0dip"
+                android:layout_height="35.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/weekdaysbutton"
+                android:textColor="@color/headercolor"
+                android:text="S" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="50.0dip"
+            android:layout_weight="1.0" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/buttonSun"
+                android:layout_width="35.0dip"
+                android:layout_height="35.0dip"
+                android:layout_weight="1.0"
+                android:background="@drawable/weekdaysbutton"
+                android:textColor="@color/headercolor"
+                android:text="S" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

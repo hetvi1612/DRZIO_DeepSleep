@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="5dp">
+
+                <ImageView
+                    android:id="@+id/dietimg"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp" />
+            </androidx.cardview.widget.CardView>
+
+
+           <TextView
+
+                android:id="@+id/txtname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/headercolor"
+                android:textSize="20sp"
+                android:fontFamily="@font/fontr_r"
+                android:textStyle="bold" />
+
+            <org.sufficientlysecure.htmltextview.HtmlTextView
+                android:id="@+id/txtdesc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/card"
+                android:layout_below="@+id/link"
+                android:layout_marginStart="26dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="5dp"
+                android:ellipsize="none"
+                android:fontFamily="@font/fontr_r"
+                android:textColor="@color/black"
+                android:textSize="14sp"/>
+            <!--<TextView
+
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:padding="10dp"
+
+                 android:fontFamily="@font/fontr_r"
+                 android:textColor="@color/smalltxtcolor" />
+ -->
+
+            <RelativeLayout
+                android:id="@+id/adcard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp">
+
+                <RelativeLayout
+                    android:id="@+id/fbnative"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="1dp"
+                    android:padding="0.5dp" />
+            </RelativeLayout>
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/gradbtn">
+
+        <RelativeLayout
+            android:id="@+id/prevexcer"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="5dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/temp1"
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:src="@drawable/ic_first_page_black_24dp"
+                android:tint="@android:color/white" />
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/temp1"
+                android:fontFamily="@font/fontr_r"
+                android:text="Previous"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/nextexcer"
+            android:layout_width="150dp"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="5dp"
+            android:layout_weight="1">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toStartOf="@+id/temp2"
+                android:fontFamily="@font/fontr_r"
+                android:text="Next"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/temp2"
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:padding="10dp"
+                android:src="@drawable/ic_last_page_black_24dp"
+                android:tint="@android:color/white" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

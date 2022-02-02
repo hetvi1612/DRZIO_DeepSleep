@@ -1,0 +1,216 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:layoutDirection="ltr"
+
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/txtlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:text="@string/ads"
+                android:textColor="#202125"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+           <TextView
+
+                android:id="@+id/subcat1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:text="@string/suggested_for_you"
+                android:textColor="#202125"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+        <me.crosswall.lib.coverflow.core.PagerContainer
+            android:id="@+id/pager_container"
+            android:layout_width="match_parent"
+            android:layout_height="190dp"
+            android:layout_below="@+id/txtlayout"
+            android:layout_marginTop="10dp">
+
+            <androidx.viewpager.widget.ViewPager
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp" />
+
+        </me.crosswall.lib.coverflow.core.PagerContainer>
+
+
+        <LinearLayout
+            android:id="@+id/txtlayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/pager_container"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:text="@string/ads"
+                android:textColor="#202125"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+           <TextView
+
+                android:id="@+id/subcat2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:text="@string/suggested_fitness_app"
+                android:textColor="#202125"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/imgviewall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="end"
+                    android:layout_marginEnd="10dp"
+                    android:src="@drawable/ic_arrow_forward_black_24dp"
+                    android:tint="#636363" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+        <me.crosswall.lib.coverflow.core.PagerContainer
+            android:id="@+id/apppager_container"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_below="@+id/txtlayout2"
+            android:layout_marginTop="10dp">
+
+            <androidx.viewpager.widget.ViewPager
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="25dp" />
+
+        </me.crosswall.lib.coverflow.core.PagerContainer>
+
+
+        <LinearLayout
+            android:id="@+id/txtlayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/apppager_container"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:text="@string/ads"
+                android:textColor="#202125"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+           <TextView
+
+                android:id="@+id/subcat3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:text="@string/top_free_apps"
+                android:textColor="#202125"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvallapps"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/txtlayout3"
+            android:layout_marginTop="10dp"
+            android:nestedScrollingEnabled="false" />
+
+
+        <LinearLayout
+            android:id="@+id/txtlayout4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rvallapps"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:text="@string/ads"
+                android:textColor="#202125"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+           <TextView
+
+                android:id="@+id/subcat4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:text="@string/suggested_banners"
+                android:textColor="#202125"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+        <me.crosswall.lib.coverflow.core.PagerContainer
+            android:id="@+id/pager_container2"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_below="@+id/txtlayout4"
+            android:layout_marginTop="10dp">
+
+            <androidx.viewpager.widget.ViewPager
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp" />
+
+        </me.crosswall.lib.coverflow.core.PagerContainer>
+
+
+    </RelativeLayout>
+
+
+</ScrollView>

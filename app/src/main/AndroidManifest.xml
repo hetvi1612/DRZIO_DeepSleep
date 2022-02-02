@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="drzio.insomnia.treatment.bedtime.yoga.sleep">
+
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACTION_TIME_CHANGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <!--<uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />-->
+
+    <queries>
+        <intent>
+            <action android:name="com.google.android.youtube.api.service.START"/>
+        </intent>
+    </queries>
+
+    <application
+        android:name=".FitnessApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        tools:targetApi="q"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:ignore="LockedOrientationActivity">
+        <activity
+            android:name=".Diet.DefalutAndCustomplanActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Diet.DietDetailsActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Diet.AddFoodActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Appstore_NEW.MaleAppstoreActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Appstore_NEW.ChooseGenderActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BlogActivity.Activity_Blogwebview"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait">
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="drzio.com"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.MainActivity_updatecheck"/>
+        <activity
+            android:name=".BlogActivity.Activity_ShowBlogwebview"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6061383953767821~6799318585" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/ic_cnotiicon2" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name=".Diet.CustomUpdateActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Appstart_Activity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.Activity_Level1"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Level2"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Level3"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Purchase"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Allinfos"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Inappbanner"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BlogActivity.Activity_Bloglists"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_MyPlanExercisestart"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BlogActivity.Activity_Blogdetails"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.MainActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.Activity_Introfirst"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_LoginScreen"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Introsecond"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Excerciselist"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Restday"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Completion"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_weekgoal"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Calenderview"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_MyTraining"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Addexercise"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Exercisestart"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Exercisedetail"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Myplanlist"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity_Myplanstart"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DietActivity.activity.Activity_Dietplans"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DietActivity.activity.Activity_Userdietlist"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DietActivity.activity.Activity_Dietdetails"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DietActivity.activity.Activity_Alldietslist"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DietActivity.activity.Activity_SingleDietdetails"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Userprofile"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RemiderAlarm.AlarmMainActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_webview"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Settings"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RemiderAlarm.ReminderMainActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RemiderAlarm.ReminderActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DietActivity.activity.Activity_ChangeFixplan"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Appstore.Store_Activity_Main"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Appstore.Store_Activity_Applist"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_MyProfile"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.Activity_Reports"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Discoverpage.Activity_Discover"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Discoverpage.Activity_Discoverexelist"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Discoverpage.Activity_DiscoverExercisestart"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".covidtracker.Activity_Covidhome"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".covidtracker.Activiy_DistrictData"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name=".RemiderAlarm.NotificationPublisher"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name=".NOTIFY_ACTION" />
+                <action android:name="android.intent.action.TIME_SET" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".BootReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="android.intent.action.REBOOT" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".RemiderAlarm.BroadcastManager">
+            <intent-filter>
+                <action android:name="ALARM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".RemiderAlarm.BroadcastManagerFive">
+            <intent-filter>
+                <action android:name="ALARM" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".firebase.MyFirebaseMessagingService">
+            <intent-filter>
+                <action
+                    android:name="com.google.firebase.MESSAGING_EVENT"
+                    android:exported="false" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name=".RemiderAlarm.MyBroadcastReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="ii.mme.mmyself" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".RemiderAlarm.CancelNotification" />
+
+        <receiver android:name=".RemiderAlarm.SnoozeReceiver">
+            <intent-filter>
+                <action android:name="this.is.SnoozeReceiver" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".RemiderAlarm.TimeChangedReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="drzio.insomnia.treatment.bedtime.yoga.sleep.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <activity
+            android:name=".Appstore_NEW.AppstoreActivity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Appstore_NEW.AllApp_Activity"
+            android:configChanges="locale|orientation"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

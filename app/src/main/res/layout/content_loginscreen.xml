@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layoutDirection="ltr"
+
+    android:background="@drawable/img_login">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/img_login"
+        android:scaleType="centerCrop"/>
+
+    <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+        android:id="@+id/statusbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent" />
+
+    <RelativeLayout
+        android:id="@+id/headerlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+        <LinearLayout
+            android:id="@+id/txt_skip"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/skipbtnbg"
+
+            android:foreground="?attr/selectableItemBackground"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/themefont"
+                android:gravity="center"
+                android:text="@string/skip"
+                android:textColor="@color/tbtncolor"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="5dp"
+                android:src="@drawable/ic_arrow_forward_black_24dp"
+                android:tint="@color/tbtncolor" />
+        </LinearLayout>
+
+
+
+
+        <RelativeLayout
+            android:id="@+id/profilelayout"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="200dp"
+            android:visibility="gone">
+
+
+            <com.github.abdularis.civ.AvatarImageView
+                android:id="@+id/profile_image"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:elevation="4dp"
+                android:src="@drawable/img_profile"
+                app:view_state="IMAGE"
+                app:textSize="55sp"
+                />
+
+
+
+           <TextView
+
+                android:id="@+id/txtword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text=""
+                android:elevation="5dp"
+                android:textSize="55sp"
+                android:fontFamily="@font/themefont"
+                android:textColor="@android:color/white"
+                />
+        </RelativeLayout>
+
+
+
+        <LinearLayout
+            android:id="@+id/successlayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/profilelayout"
+            android:visibility="gone"
+            android:layout_marginTop="20dp"
+            android:gravity="center_horizontal"
+            android:layout_centerHorizontal="true"
+            android:orientation="vertical">
+
+           <TextView
+
+                android:id="@+id/profilename"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:text="Jack Smith"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:fontFamily="@font/themefont"
+                android:textStyle="bold" />
+
+           <TextView
+
+                android:id="@+id/btn_logout"
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:background="@drawable/gradbtn"
+                android:gravity="center"
+                android:text="Log out"
+                android:fontFamily="@font/themefont"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/loginlayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/login_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:layout_margin="4dp"
+                android:paddingTop="12dp"
+                android:foreground="?attr/selectableItemBackground"
+
+                android:visibility="gone"
+                android:paddingBottom="12dp"/>
+
+            <ImageView
+                android:id="@+id/sign_in_button"
+                android:layout_width="match_parent"
+                android:layout_height="85dp"
+                android:layout_centerInParent="true"
+                android:visibility="visible"
+                android:src="@drawable/img_gsignbtn"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="vertical">
+
+               <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/devidercolor"
+                    android:text="@string/terms"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                   <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/back_pain_relief"
+                        android:textColor="@color/devidercolor"/>
+
+                   <TextView
+
+                        android:id="@+id/btncondition"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/tandc"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"/>
+
+                   <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=" &amp; "
+                        android:textColor="@color/devidercolor"/>
+
+                   <TextView
+
+                        android:id="@+id/btnprivacy"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/privacy"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"/>
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:visibility="visible"
+    android:layoutDirection="ltr"
+    >
+
+    <RelativeLayout
+        android:id="@+id/sharelayout"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="@drawable/gradbtn">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/layone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="7dp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal">
+
+                        <ImageView
+                            android:layout_width="22dp"
+                            android:layout_height="22dp"
+                            android:layout_gravity="center_vertical"
+                            android:src="@drawable/ic_home_exe"
+                            android:tint="@android:color/white"/>
+
+                        <TextView
+                            android:id="@+id/tvtexe"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/homepagefont"
+                            android:gravity="center"
+                            android:paddingStart="5dp"
+                            android:text="00"
+
+
+                            android:textColor="@android:color/white"
+                            android:textSize="25sp" />
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:fontFamily="@font/homepagefont"
+                        android:text="@string/exercises"
+
+
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal">
+
+                        <ImageView
+                            android:layout_width="22dp"
+                            android:layout_height="22dp"
+                            android:layout_gravity="center_vertical"
+                            android:padding="1dp"
+                            android:src="@drawable/ic_home_cal"
+                            android:tint="@android:color/white"/>
+
+                        <TextView
+                            android:id="@+id/tvtcal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/homepagefont"
+                            android:gravity="center"
+                            android:paddingStart="5dp"
+                            android:text="0.0"
+
+
+                            android:textColor="@android:color/white"
+                            android:textSize="25sp" />
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:fontFamily="@font/homepagefont"
+                        android:text="@string/calories"
+
+
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal">
+
+                        <ImageView
+                            android:layout_width="22dp"
+                            android:layout_height="22dp"
+                            android:layout_gravity="center_vertical"
+                            android:src="@drawable/ic_home_time"
+                            android:tint="@android:color/white"/>
+
+                        <TextView
+                            android:id="@+id/tvttime"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:fontFamily="@font/homepagefont"
+                            android:gravity="center"
+                            android:paddingStart="5dp"
+                            android:text="00:00"
+
+
+                            android:textColor="@android:color/white"
+                            android:textSize="25sp" />
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:fontFamily="@font/homepagefont"
+                        android:text="@string/duration"
+
+
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:visibility="gone"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal">
+
+                        <ImageView
+                            android:layout_width="22dp"
+                            android:layout_height="22dp"
+                            android:layout_gravity="center_vertical"
+                            android:src="@drawable/ic_navreport"
+                            android:tint="@color/tbtncolor" />
+
+                        <TextView
+                            android:id="@+id/totaltime"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:fontFamily="@font/homepagefont"
+                            android:gravity="center"
+                            android:paddingStart="5dp"
+                            android:text=""
+
+
+                            android:textColor="@color/numcolor"
+                            android:textSize="25sp" />
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:fontFamily="@font/homepagefont"
+                        android:text="@string/report"
+
+
+                        android:textColor="@color/smalltxtcolor"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

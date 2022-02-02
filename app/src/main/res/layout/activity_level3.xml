@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layoutDirection="ltr"
+    android:background="@android:color/white"
+
+    android:layout_height="fill_parent">
+
+   <!-- <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+        android:id="@+id/statusbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent" />-->
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:background="@android:color/transparent"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:collapsedTitleGravity="center_vertical|center_horizontal">
+
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="@android:color/white"
+            app:expandedTitleMarginStart="20dp"
+            app:expandedTitleTextAppearance="@dimen/text_medium"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed|snap">
+
+
+            <RelativeLayout
+                android:id="@+id/cardview"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginBottom="5dp"
+                android:background="@android:color/transparent">
+
+                <ImageView
+                    android:id="@+id/backgroundimg"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="1dp"
+                    android:layout_marginBottom="0dp"
+                    android:background="@drawable/img_alv3" />
+
+               <TextView
+
+                    android:id="@+id/mtitletxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/homepagefont"
+                    android:text="@string/advanced"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:layout_marginStart="20dp"
+                    android:visibility="gone"
+                    android:layout_marginTop="15dp"
+                    android:layout_toEndOf="@+id/mtitletxt"
+                    android:background="@drawable/infobtnbg2"
+                    android:orientation="horizontal">
+
+
+                    <ImageView
+                        android:layout_width="22dp"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center_vertical"
+                        android:padding="4dp"
+                        android:src="@drawable/ic_info_outline_black_24dp"
+                        android:tint="@color/homeprogresscolor" />
+
+                   <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_gravity="center_vertical"
+                        android:fontFamily="@font/themefont"
+                        android:text="@string/info"
+                        android:textColor="@color/homeprogresscolor"
+                        android:textSize="12sp" />
+
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginBottom="10dp">
+
+                    <FrameLayout
+                        android:id="@+id/progresslay"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true">
+
+
+                        <com.mikhaellopez.circularprogressbar.CircularProgressBar
+                            android:id="@+id/mprogress"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:layout_gravity="center_vertical"
+                            android:indeterminate="false"
+                            app:cpb_background_progressbar_color="#80FFFFFF"
+                            app:cpb_background_progressbar_width="5dp"
+                            app:cpb_progressbar_width="5dp"
+                            app:cpb_round_border="true" />
+
+                       <TextView
+
+                            android:id="@+id/mpercentScore"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:fontFamily="@font/homepagefont"
+                            android:gravity="center"
+                            android:text=""
+                            android:textColor="@android:color/white"
+                            android:textSize="15.0sp" />
+                    </FrameLayout>
+
+                   <TextView
+
+                        android:id="@+id/mdaysLeft"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/progresslay"
+                        android:layout_centerHorizontal="true"
+                        android:layout_weight="1.0"
+                        android:fontFamily="@font/homepagefont"
+                        android:text="@string/_12_days_left"
+                        android:textColor="@android:color/white"
+                        android:textSize="14.0sp" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/anim_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                app:titleMarginStart="10dp">
+
+                <ImageView
+                    android:id="@+id/btnback"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:padding="13dp"
+                    android:src="@drawable/ic_arrow_back_black_24dp"
+                    android:tint="@color/headercolor" />
+
+               <TextView
+
+                    android:id="@+id/txtpname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/advanced_level"
+                    android:textSize="20sp"
+                    android:fontFamily="@font/themefont"
+                    android:layout_marginStart="25dp"
+                    android:textColor="@color/headercolor"
+                    android:textStyle="bold"/>
+
+                <ImageView
+                    android:id="@+id/btnremoveads"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="end"
+                    android:padding="12dp"
+                    android:tint="@color/headercolor"
+                    android:src="@drawable/btn_removeads"/>
+
+            </androidx.appcompat.widget.Toolbar>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+    <include layout="@layout/content_daylistnew" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

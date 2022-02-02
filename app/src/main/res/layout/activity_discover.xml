@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:focusable="true"
+    android:layoutDirection="ltr"    >
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white">
+
+        <!-- <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+             android:id="@+id/statusbar"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:background="@android:color/transparent"
+             android:elevation="5dp" />
+ -->
+        <RelativeLayout
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="5dp"
+            android:elevation="5dp">
+
+            <ImageView
+                android:id="@+id/btnmenu"
+
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="2dp"
+                android:foreground="?attr/selectableItemBackground"
+                android:padding="15dp"
+                android:src="@drawable/ic_hammenu"
+                app:tint="@color/headercolor" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="5dp"
+
+                android:layout_toEndOf="@+id/btnmenu"
+                android:ellipsize="end"
+                android:fontFamily="@font/themefont"
+                android:maxLines="1"
+                android:text="@string/plans_made_for_you"
+                android:textColor="@color/headercolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+
+                android:id="@+id/txtcounter"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginEnd="8dp"
+                android:layout_toStartOf="@+id/laystore"
+                android:background="@drawable/gradbtn"
+                android:fontFamily="@font/themefont"
+                android:gravity="center"
+                android:padding="2dp"
+                android:text="10"
+                android:textColor="@android:color/white"
+                android:textSize="8sp"
+                android:visibility="gone" />
+
+
+            <LinearLayout
+                android:id="@+id/laystore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="end"
+                android:layout_marginEnd="10dp"
+
+                android:foreground="?attr/selectableItemBackground"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/ivbtnstore"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center" />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/more"
+                    android:textColor="@color/headercolor"
+                    android:textSize="10sp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/banner1"
+        android:layout_below="@+id/appbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:orientation="vertical"
+            android:paddingBottom="50dp">
+
+            <LinearLayout
+                android:id="@+id/slidelayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="1"
+                        android:fontFamily="@font/homepagefont"
+                        android:text="For You"
+                        android:textColor="@color/headercolor"
+                        android:textSize="20sp" />
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_gravity="end"
+                        android:layout_weight="1"
+                        android:fontFamily="@font/homepagefont"
+                        android:paddingStart="10dp"
+                        android:paddingTop="5dp"
+                        android:paddingEnd="10dp"
+                        android:text="@string/tvmoretips"
+                        android:textColor="@color/tbtncolor"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="80dp"
+                    android:layout_height="2.5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/tbtncolor"
+                    android:visibility="gone" />
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <include layout="@layout/load_slidenative" />
+
+                    <com.smarteist.autoimageslider.SliderView
+                        android:id="@+id/imageSlider"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:layout_centerInParent="true"
+                        app:sliderAnimationDuration="600"
+                        app:sliderAutoCycleDirection="back_and_forth"
+                        app:sliderIndicatorAnimationDuration="600"
+                        app:sliderIndicatorEnabled="true"
+                        app:sliderIndicatorGravity="center_horizontal|bottom"
+                        app:sliderIndicatorMargin="15dp"
+                        app:sliderIndicatorOrientation="horizontal"
+                        app:sliderIndicatorPadding="2dp"
+                        app:sliderIndicatorRadius="1.5dp"
+                        app:sliderIndicatorSelectedColor="#5A5A5A"
+                        app:sliderIndicatorUnselectedColor="#FFF"
+                        app:sliderScrollTimeInSec="5"
+                        app:sliderStartAutoCycle="true" />
+
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/homepagefont"
+                android:text="@string/deep_sleep_yoga_and_yog_nindra"
+                android:textColor="@color/headercolor"
+                android:textSize="16sp" />
+
+            <View
+                android:layout_width="80dp"
+                android:layout_height="2.5dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/tbtncolor" />
+
+            <RelativeLayout
+                android:id="@+id/rlayimmunityexe"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:elevation="5dp">
+
+                <ImageView
+                    android:id="@+id/backgroundimg"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="1dp"
+                    android:layout_marginBottom="0dp"
+                    android:background="@drawable/img_yogaforinsomnia" />
+
+                <TextView
+                    android:id="@+id/mtitletxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/homepagefont"
+                    android:text="@string/yoga_for_insomnia"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/rlayimmunityexe2"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:elevation="5dp">
+
+                <ImageView
+                    android:id="@+id/backgroundimg"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="1dp"
+                    android:layout_marginBottom="0dp"
+                    android:background="@drawable/img_deepsleepyoga" />
+
+                <TextView
+                    android:id="@+id/mtitletxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/homepagefont"
+                    android:text="@string/deep_sleep_yoga"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+                <ImageView
+                    android:id="@+id/imglock1"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentEnd="true"
+                    android:src="@drawable/img_protag" />
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/rlayimmunityexe3"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/transparent"
+                android:elevation="5dp">
+
+                <ImageView
+                    android:id="@+id/backgroundimg"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="3dp"
+                    android:layout_marginBottom="-3dp"
+                    android:background="@drawable/img_yoganindraeffectivesleep" />
+
+                <TextView
+                    android:id="@+id/mtitletxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/homepagefont"
+                    android:text="@string/yog_nindra_effective_sleep"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imglock2"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentEnd="true"
+                    android:src="@drawable/img_protag" />
+            </RelativeLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/homepagefont"
+                android:text="@string/bed_time_yoga_amp_brething_exercise"
+                android:textColor="@color/headercolor"
+                android:textSize="16sp" />
+
+            <View
+                android:layout_width="80dp"
+                android:layout_height="2.5dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/tbtncolor" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+
+                <RelativeLayout
+                    android:id="@+id/rlayimmunityexe4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="5dp"
+                        android:background="@drawable/img_badtimeyoga" />
+
+
+                    <TextView
+                        android:id="@+id/tvbtndetoxexe"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                         android:fontFamily="@font/homepagefont"
+                        android:paddingTop="10dp"
+                        android:text="@string/bed_time_yoga"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+
+                    <TextView
+                         android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                         android:fontFamily="@font/homepagefont"
+                         android:layout_below="@+id/tvbtndetoxexe"
+                        android:text="@string/for_sound_sleep"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/imglock3"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_alignParentEnd="true"
+                        android:src="@drawable/img_protag" />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/rlayimmunityexe5"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="3dp">
+
+                    <ImageView
+                         android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/img_braething" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:fontFamily="@font/homepagefont"
+                        android:paddingTop="10dp"
+                        android:text="@string/brething_exercise"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/imglock4"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_alignParentEnd="true"
+                        android:src="@drawable/img_protag" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/homepagefont"
+                android:text="@string/sleep_apnea"
+                android:textColor="@color/headercolor"
+                android:textSize="16sp" />
+
+            <View
+                android:layout_width="80dp"
+                android:layout_height="2.5dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/tbtncolor" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="45dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                     android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                     android:background="@drawable/img_sleepapnea"
+                    android:paddingTop="10dp"
+                    android:layout_marginEnd="3dp"/>
+                <TextView
+                    android:id="@+id/tvbtnhybridexe"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="5dp"
+                    android:layout_weight="1"
+                     android:fontFamily="@font/homepagefont"
+                    android:paddingTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/sleep_apnea"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+
+            </RelativeLayout>
+
+            </LinearLayout>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/banner1"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:background="@color/def_pointer_color"
+        android:visibility="gone">
+
+        <FrameLayout
+            android:id="@+id/adframe1234"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:background="@drawable/ad_border2"
+            android:padding="1dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="0dp"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

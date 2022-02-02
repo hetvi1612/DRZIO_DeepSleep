@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="50dp"
+    android:layout_marginEnd="50dp"
+    app:cardCornerRadius="15dp"
+    android:layoutDirection="ltr"
+
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:background="@drawable/dialogbg"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:background="#212B42"
+            android:src="@drawable/img_giveupbg"/>
+
+
+        <ImageView
+            android:id="@+id/closedial"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_close_black_24dp"
+            android:tint="@color/themegreen"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:visibility="gone"
+            android:padding="10dp"/>
+
+
+
+       <TextView
+
+            android:id="@+id/tmptxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/having_a_beautiful_body_has_never_easy"
+            android:textColor="@android:color/white"
+            android:layout_above="@+id/btnlayout"
+            android:layout_centerHorizontal="true"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:fontFamily="@font/themefont"
+            android:layout_marginBottom="20dp"
+            android:layout_marginStart="10dp"
+            android:textAllCaps="true"
+            android:layout_marginEnd="10dp"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:id="@+id/btnlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical">
+
+           <TextView
+
+                android:id="@+id/btngiveup"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/give_up"
+                android:foreground="?attr/selectableItemBackground"
+
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:fontFamily="@font/themefont"
+                android:layout_marginBottom="10dp"
+                android:padding="8dp"
+                android:background="@drawable/btnreshare"
+                android:backgroundTint="@color/tbtncolor"/>
+
+           <TextView
+
+                android:id="@+id/btncontinue"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/com_continue"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginTop="5dp"
+                android:foreground="?attr/selectableItemBackground"
+
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:padding="8dp"
+                android:fontFamily="@font/themefont"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/btnrestart"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

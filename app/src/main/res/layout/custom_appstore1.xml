@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mCatagorydetail"
+    android:layout_width="150dp"
+    android:layout_margin="5dp"
+    android:foreground="?attr/selectableItemBackground"
+    android:layoutDirection="ltr"
+
+    android:layout_height="210dp"
+    >
+    <!--  <androidx.cardview.widget.CardView
+          android:id="@+id/iconcard"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          app:cardCornerRadius="15dp"
+          app:cardElevation="2dp">-->
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/app_images"
+        android:layout_width="160dp"
+        android:layout_height="135dp"
+        android:scaleType="fitXY"
+        app:riv_corner_radius="15dip" />
+
+    <!--</androidx.cardview.widget.CardView>-->
+    <!--<androidx.cardview.widget.CardView
+        android:id="@+id/card"
+        android:layout_width="180dp"
+        android:layout_height="130dp"
+        app:cardCornerRadius="10dp"
+        android:background="@color/black">-->
+
+    <!--<ImageView
+        android:id="@+id/app_images"
+        android:layout_width="180dp"
+        android:layout_height="130dp"
+        android:src="@drawable/ic_starcoin" />-->
+
+    <!--</androidx.cardview.widget.CardView>-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/app_images"
+        android:layout_alignParentBottom="true"
+        >
+
+       <TextView
+
+            android:id="@+id/app_names"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_toStartOf="@+id/coins1"
+            android:padding="1dp"
+            android:maxLines="2"
+            android:text="Diabetes"
+            android:textColor="@color/def_pointer_color"
+            android:textSize="14sp" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/app_names"
+            android:layout_marginTop="2dp"
+            android:padding="2dp">
+           <TextView
+
+                android:id="@+id/rates"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/app_names"
+                android:layout_marginStart="5dp"
+                android:layout_toStartOf="@id/rates1"
+                android:text="4.5 ★"
+                android:textColor="@color/def_pointer_color"
+                android:textSize="14sp" />
+
+           <TextView
+
+                android:id="@+id/rates1"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/app_names"
+                android:layout_alignParentEnd="true"
+                android:background="@drawable/gradbtn1"
+                android:paddingStart="10dp"
+                android:paddingTop="4dp"
+                android:paddingEnd="10dp"
+                android:paddingBottom="4dp"
+                android:text="Install"
+
+                android:textColor="@color/def_pointer_color"
+                android:textSize="14sp" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/coins1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true">
+
+           <TextView
+
+                android:id="@+id/coins"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="5dp"
+                android:text="200"
+                android:textColor="@color/def_pointer_color"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="5dp"
+                android:layout_toEndOf="@id/coins"
+               ></ImageView>
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

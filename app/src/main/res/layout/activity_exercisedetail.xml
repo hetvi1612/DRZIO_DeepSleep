@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layoutDirection="ltr"
+
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+        android:id="@+id/statusbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        />
+
+    <RelativeLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/statusbar">
+
+        <ImageView
+            android:id="@+id/closebtn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:src="@drawable/ic_close_black_24dp"
+            android:tint="@color/headercolor" />
+
+
+       <TextView
+
+            android:id="@+id/btresettime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/themefont"
+            android:padding="10dp"
+            android:text="@string/reset"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:textColor="@color/headercolor"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+
+
+
+    <RelativeLayout
+        android:id="@+id/vidlayout"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@android:color/white"
+        android:layout_below="@+id/toolbar">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            >
+            <VideoView
+                android:id="@+id/vidviewvid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal" />
+
+        </FrameLayout>
+
+
+    </RelativeLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2.5dp"
+        android:layout_below="@+id/vidlayout"
+        android:layout_marginTop="10dp"
+        android:background="@color/devidercolor"/>
+
+    <LinearLayout
+        android:id="@+id/timelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/vidlayout"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/removesec"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/roundedbtn"
+            android:padding="10dp"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:src="@drawable/ic_remove_black_24dp"
+            android:tint="@android:color/white" />
+
+       <TextView
+
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:text="00:55"
+            android:fontFamily="@font/themefont"
+            android:textColor="@color/headercolor"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/addsec"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/roundedbtn"
+            android:padding="10dp"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:src="@drawable/ic_add_black_24dp"
+            android:tint="@android:color/white" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2.5dp"
+        android:layout_below="@+id/timelayout"
+        android:layout_marginTop="10dp"
+        android:background="@color/devidercolor"/>
+
+
+   <TextView
+
+        android:id="@+id/exername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/timelayout"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/jumping_jacks"
+        android:fontFamily="@font/themefont"
+        android:textColor="@color/headercolor"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <LinearLayout
+        android:id="@+id/btnanimvideo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/exername"
+        android:layout_marginStart="10dp"
+        android:visibility="gone"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:padding="8dp"
+            android:src="@drawable/ic_videocam_black_24dp"
+            android:tint="@color/themegreen" />
+
+       <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Video"
+            android:textColor="@color/themegreen"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+   <TextView
+
+        android:id="@+id/exerdesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnanimvideo"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:text=""
+        android:fontFamily="@font/themefont"
+        android:textColor="@color/smalltxtcolor"
+        android:textSize="15sp" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/btnadd"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_above="@+id/bottomlay"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="5dp">
+
+
+       <TextView
+
+            android:id="@+id/txtaddsave"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/add"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:fontFamily="@font/themefont"
+            android:background="@drawable/gradbtn"
+            android:textColor="@android:color/white"
+            android:gravity="center"/>
+    </androidx.cardview.widget.CardView>
+
+    <RelativeLayout
+        android:id="@+id/bottomlay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentBottom="true">
+
+        <LinearLayout
+            android:id="@+id/banner_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/ad_border2"
+            android:padding="1dp"
+            android:orientation="vertical"
+            />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

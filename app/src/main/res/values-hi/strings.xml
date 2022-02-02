@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1 नींद योग</string>
+
+    <string name="picker_box_arrows_icon">पिकर बॉक्स तीर आइकन</string>
+    <string name="favtitle">यहां अपने पसंदीदा कसरत जोड़ें। अपनी प्राथमिकताओं के आधार पर अपनी खुद की प्रशिक्षण योजनाओं को अनुकूलित करें।</string>
+
+    <string name="mon">सोमवार</string>
+    <string name="tu">मंगलवार</string>
+    <string name="wed">बुधवार</string>
+    <string name="thri">गुरूवार</string>
+    <string name="fri">शुक्रवार</string>
+    <string name="sat">शनिवार</string>
+    <string name="sun">रविवार</string>
+    <string name="facebook_app_id">394103198201105</string>
+
+    <string name="exename1">कैट काउ पोज़ (Majaryasana – Bitilasana) </string>
+
+    <string name="exename2">भस्त्रिका प्राणायाम योग</string>
+
+    <string name="exename3">रिक्लाइनिंग बाउंड एंगल पोज़ (सुप्त बधा कोणासन)</string>
+
+    <string name="exename4">आधा रीढ़ की हड्डी मोड़ मुद्रा में बैठना (अर्ध मत्स्येन्द्रासन)</string>
+
+    <string name="exename5">सीटेड वाइड एंगल पोज़ (उपविस्थ कोणासन)</string>
+
+    <string name="exename6">शनमुखी मुद्रा</string>
+
+    <string name="exename7">पवनमुक्तासन (पवनमुक्तासन) </string>
+
+    <string name = "exename8">सूई से धागा (Parsva Balasana)</string>
+
+    <string name="exename9">हल मुद्रा (हलासन)</string>
+
+    <string name="exename10">हीरो पोज़ (विरासना)</string>
+
+    <string name="exename11">नाड़ी शोधन प्राणायाम</string>
+
+    <string name="exename12">वज्र मुद्रा (वज्रासन)</string>
+
+    <string name="exename13">लॉर्ड ऑफ़ द डांस पोज़ (नटराजसन)</string>
+
+    <string name="exename14">वक्रासन (हाफ स्पाइनल ट्विस्ट पोज)</string>
+
+    <string name="exename15">बाल मुद्रा (हरे मुद्रा) (बालासन) </string>
+
+    <string name="exename16">कपालभाती प्राणायाम</string>
+
+    <string name="exename17">सीटेड फॉरवर्ड बेंड (पश्चिमोत्तानासन)</string>
+
+    <string name="exename18">लेग्स अप द वॉल पोज़ (विपरिता करानी)</string>
+
+    <string name="exename19">फॉरवर्ड बेंड (हस्त पदासन)</string>
+
+    <string name="exename20">माउंटेन पोज़ (ताड़ासन)</string>
+
+    <string name="exename21">सुपाइन स्पाइनल ट्विस्ट (सुप्त मत्स्येन्द्रासन)</string>
+
+    <string name = "exename22"> चेयर पोज़ (उत्कटासन) </string>
+
+    <string name="exename23">फिश पोज़ (मत्स्यासन)</string>
+
+    <string name="exename24">ब्रह्मचर्य मुद्रा (ब्रह्मचर्यसन)</string>
+
+    <string name="exename25">सिर से घुटने तक आगे की ओर झुकना (जानू सिरसाना)</string>
+
+    <string name="exedesc1">यह पीठ के धड़ और गर्दन को फैलाता है, और पेट के अंगों को धीरे से उत्तेजित और मजबूत करता है। यह रीढ़ को सही संरेखण में लाता है और नियमित रूप से अभ्यास करने पर पीठ दर्द को रोकने में मदद कर सकता है।</string>
+
+    <string name="exedesc2">फेफड़ों और बार-बार होने वाली खांसी, फ्लू, सांस की समस्या, एलर्जी या सांस फूलने से पीड़ित लोगों के लिए बढ़िया। सिर को रक्त की आपूर्ति बढ़ने से दृष्टि और सुनने में सुधार होता है। फेफड़े मजबूत होते हैं और यह ब्रोंकाइटिस के लिए फायदेमंद होता है, क्योंकि श्वसन प्रणाली जल्दी और गहराई से शुद्ध होती है। • यह शरीर और दिमाग को सक्रिय करने के लिए बहुत अच्छा है</string>
+
+    <string name="exedesc3">यह पाचन और प्रजनन प्रणाली को शांत करता है और चिड़चिड़ा आंत्र रोग, बांझपन, मासिक धर्म संबंधी विकार, पाचन संबंधी समस्याएं, रजोनिवृत्ति, आदि जैसी स्थितियों का इलाज करता है। • यह आपके कमर, आंतरिक जांघों और घुटनों को एक अच्छा खिंचाव देता है। .• यह मांसपेशियों के तनाव को कम करता है और आपको थकान और अनिद्रा से राहत देता है। यह मन को भी शांत करता है </string>
+
+    <string name="exedesc4">यह पोषक तत्व, रक्त और ऑक्सीजन प्रदान करता है, और प्रजनन प्रणाली के साथ-साथ मूत्र प्रणाली के स्वास्थ्य में सुधार करता है। मासिक धर्म संबंधी विकारों के लिए फायदेमंद और रीढ़ को सक्रिय करता है, •यकृत और गुर्दे को उत्तेजित करता है </string >
+
+    <string name="exedesc5">यह पेट के अंगों को उत्तेजित करता है। पेट, रीढ़ और पैरों को मजबूत और टोन करता है। • कटिस्नायुशूल और गठिया को ठीक करने और राहत देने में मदद करता है। यह गुर्दे को डिटॉक्सीफाई करता है।
+ </string>
+
+    <string name="exedesc6">चेहरे की मांसपेशियों और उपस्थिति के लिए बहुत अच्छा है क्योंकि हाथों और उंगलियों की गर्मी और प्राण चेहरे की मांसपेशियों को उत्तेजित और आराम देते हैं। • चिंता को प्रबंधित करने और नकारात्मक बौद्धिक पैटर्न को दूर करने के लिए उपयोगी है। • यह संवेदी अंगों और बाद के चरणों की भावना को उत्तेजित करता है वापसी। • ध्यान, अंतर्मुखता और शांति लाता है </string>
+
+    <string name="exedesc7">पीठ और पेट की मांसपेशियों को फैलाता है और मजबूत करता है। • पाचन और गैस को छोड़ने में मदद करता है। वसा जलने को ट्रिगर करें। • पैरों और बाहों में मांसपेशियों को टोन करें। • कूल्हे जोड़ों में रक्त परिसंचरण में सुधार करता है</string>
+
+    <string name="exedesc8">यह आपकी ऊपरी छाती की मांसपेशियों को धीरे से फैलाता है।•यह आपके कंधे की ऊपरी और बाहरी मांसपेशियों को खोलता है।•यह ऊपरी छोरों तक रक्त परिसंचरण को बढ़ाता है। </string>
+
+    <string name="exedesc9">यह पीठ के लचीलेपन को प्रोत्साहित करता है और पैरों के पिछले हिस्से की मांसपेशियों को फैलाता है। •यह गर्दन, कंधों, पेट और पीठ की मांसपेशियों को मजबूत और खोलता है </string>
+
+    <string name="exedesc10">यह बाहों और कंधों को मजबूत करता है और रीढ़ को लचीला रखता है। यह मस्तिष्क को अधिक रक्त से पोषण देता है। </string>
+
+    <string name="exedesc11">यह श्वसन संबंधी एलर्जी को कम करने में भी मदद करता है जो हे फीवर, छींकने या घरघराहट का कारण बनता है• मस्तिष्क के बाएं और दाएं गोलार्द्धों में सामंजस्य स्थापित करने में मदद करता है, जो हमारे व्यक्तित्व के तार्किक और भावनात्मक पक्षों से संबंधित है।</string>
+
+    <string name="exedesc12">पाचन में सुधार करता है और कब्ज, और अम्लता का मुकाबला करता है। • मासिक धर्म संबंधी विकार को कम करता है। • प्रजनन अंगों और थायरॉयड ग्रंथि के कामकाज को नियंत्रित करता है। • श्रोणि की मांसपेशियों को मजबूत करता है </string>
+
+    <string name="exedesc13">मुद्रा ब्रह्मांडीय ऊर्जा का प्रतीक है, और जब आप करते हैं तो आप ब्रह्मांड के प्रवाह में नृत्य कर रहे होते हैं। • पेट सहित छाती, कंधों, क्वाड्रिसेप्स, सामने के शरीर को फैलाता है और मजबूत करता है। • ऊपरी हिस्से को फैलाता है पीठ, चतुर्भुज, टखने, पैर, जांघ, कमर और पेट • संतुलन में सुधार करता है </string>
+
+    <string name="exedesc14">हृदय, गुर्दे, यकृत, प्लीहा और फेफड़ों को उत्तेजित करता है। • यह पेट की चर्बी को कम करने में मदद करता है, गुर्दे को मजबूत करता है, • यह मधुमेह को रोकने और नियंत्रित करने में मदद करता है। • यह पीठ की मांसपेशियों को मजबूत करता है और पीठ दर्द को कम करता है। </string>
+
+    <string name="exedesc15">कब्ज से छुटकारा पाने में सहायक। • इससे अधिवृक्क ग्रंथियां अच्छी तरह से काम करती हैं। पीठ की मांसपेशियों को मजबूत बनाता है। • नर और मादा दोनों प्रजनन अंगों के स्वास्थ्य को बढ़ाता है </string>
+
+    <string name="exedesc16">चयापचय दर को बढ़ाता है और वजन घटाने में मदद करता है• पाचन तंत्र के कामकाज, अवशोषण, और पोषक तत्वों को आत्मसात करने में सुधार करता है• तंत्रिका तंत्र को सक्रिय करता है और मस्तिष्क कोशिकाओं को फिर से जीवंत करता है•रक्त परिसंचरण में सुधार करता है और चेहरे पर चमक जोड़ता है•यह पेट के अंगों को उत्तेजित करता है और इस प्रकार मधुमेह वाले लोगों के लिए अत्यंत उपयोगी है • स्मृति और एकाग्रता शक्ति में सुधार करता है </string>
+
+    <string name="exedesc17">यह पीनियल, हाइपोथैलेमस और पिट्यूटरी ग्रंथियों के कामकाज को उत्तेजित करता है और ग्रोथ हार्मोन को गुप्त करने में मदद करता है जो ऊंचाई के लिए जिम्मेदार है। • यह पीठ, कंधों और बांह की मांसपेशियों को मजबूत करता है। </string>
+
+    <string name="exedesc18">थके हुए या तंग पैरों और पैरों से राहत मिलती है•सिरदर्द कम करता है• पीठ के निचले हिस्से के दर्द से राहत देता है•मन को शांत करता है</string>
+    
+    <string name="exedesc19">It revitalizes the nervous system and promotes proper blood circulation in pituitary gland which release Growth hormone responsible for height. It stretches the back and lower body muscles with spine as well. </string>
+
+    <string name="exedesc20">It tones the leg muscles, ends stiffness in legs and hips, remedies backache and sprains of the neck, develops the chest and strengthens the ankles.</string>
+
+    <string name="exedesc21">Knee down twist stretches the back realigns, muscles, and lengthens the spine, and hydrates the backbone disks.•It gives your shoulders, chest, middle spine, hips, lower back, and upper back a good stretch.•Encourages fresh blood flow to the internal organs and offers a complete detox to your internal organs </string>
+
+    <string name="exedesc22">Stretches and strengthens the back and abdominal muscles.•Helps in digestion and release of gas. Trigger the burning of fat.•Tones the muscles in the legs and arms.•Improves blood circulation in the hip joints.</string>
+
+    <string name="exedesc23">Relieves tension in your neck, throat, and shoulders. Stretches and stimulates the organs of your belly and throat.
+ </string>
+
+    <string name="exedesc24">Increases the metabolic rate and helps in weight loss.Improves digestive tract functioning, absorption, and assimilation of nutrients.Energizes the nervous system and rejuvenates brain cells.Improves blood circulation and adds glow to the face.It stimulates abdominal organs and thus is extremely useful to those with diabetes.Improves memory and concentration power. </string>
+
+    <string name="exedesc25">It totally stretches your hamstrings, shoulders, calves, arches, hands, and spine while building strength in your arms, shoulders, and legs. It stimulates blood circulation. It’s perfect exercise for whole body stretching to increase height.</string>
+
+
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+
+    <string name="add_exercise">व्यायाम जोड़ें</string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name="please_check_your_internet_connection">कृपया अपने इंटरनेट कनेक्शन की जाँच करें !!!</string>
+    <string name="refresh">ताज़ा करना</string>
+    <string name="start">शुरू</string>
+    <string name="previous">पहले का</string>
+    <string name="next">अगला</string>
+    <string name="tips">टिप्स</string>
+    <string name="history">इतिहास</string>
+    <string name="com_continue">जारी रखें</string>
+    <string name="reminder">अनुस्मारक</string>
+    <string name="calculate_bmi">बीएमआई की गणना करें</string>
+    <string name="weight">वजन :</string>
+    <string name="weight1">वजन</string>
+    <string name="bmi_kg_m">बीएमआई (केजी/एम²)</string>
+
+    <string name="calories">कैलोरी</string>
+    <string name="exercises">अभ्यास</string>
+
+    <string name="duration">समयांतराल</string>
+    <string name="ready_to_go">जाने के लिए तैयार!</string>
+    <string name="skip">छोड़ें</string>
+    <string name="reset">रीसेट</string>
+    <string name="add">जोड़ें</string>
+    <string name="video">वीडियो</string>
+    <string name="animation">एनिमेशन</string>
+    <string name="txt_weekgoal">साप्ताहिक लक्ष्य निर्धारित करें</string>
+    <string name="save">बचा ले</string>
+    <string name="user_age">उम्र</string>
+    <string name="user_gender">लिंग</string>
+    <string name="user_male">पुरुष</string>
+    <string name="user_height">ऊंचाई</string>
+    <string name="user_weight">वजन</string>
+    <string name="user_meal">भोजन</string>
+    <string name="rest_day">विश्राम का दिन</string>
+    <string name="finished">ख़त्म होना</string>
+    <string name="diet_list">आहार सूची</string>
+    <string name="no_internet">कोई इंटरनेट कनेक्शन उपलब्ध नहीं !!</string>
+    <string name="set_your_weekly_goal">अपना साप्ताहिक लक्ष्य निर्धारित करें</string>
+    <string name="recommandedtxt">हम बेहतर परिणाम के लिए कम से कम 3 दिन साप्ताहिक प्रशिक्षण की सलाह देते हैं</string>
+    <string name="training_days">प्रशिक्षण के दिन</string>
+    <string name="first_day_of_week">सप्ताह का पहला दिन</string>
+    <string name="to_set_regional_plan">क्षेत्रीय योजना निर्धारित करने के लिए</string>
+    <string name="select_state">राज्य चुनें</string>
+    <string name="select_city">शहर चुनें</string>
+    <string name="what_s_your_gender">चुनें कि आप कौन हैं?</string>
+    <string name="to_personalize_your_plan">अपनी योजना को निजीकृत करने के लिए</string>
+    <string name="female">महिला</string>
+    <string name="male">पुरुष</string>
+    <string name="diet_plan">आहार योजना</string>
+    <string name="vegetarian">शाकाहारी</string>
+    <string name="non_nvegetarian">मांसाहारी</string>
+    <string name="how_old_are_you">आप की उम्र क्या है?</string>
+    <string name="calculate">गणना</string>
+    <string name="ok">ठीक है</string>
+    <string name="mute">मौन</string>
+    <string name="voice_guide">आवाज गाइड</string>
+    <string name="coach_tips">कोच टिप्स</string>
+    <string name="sound_options">ध्वनि विकल्प</string>
+    <string name="please_name_your_plan">कृपया अपनी योजना का name दें</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="give_up">छोड़ दो</string>
+    <string name="please_set_reminder">कृपया रिमाइंडर सेट करें</string>
+    <string name="restart">पुनः आरंभ करें</string>
+    <string name="having_a_beautiful_body_has_never_easy">एक सुंदर शरीर होना कभी आसान नहीं होता!</string>
+    <string name="settings">सेटिंग</string>
+    <string name="test_voice">टेस्ट वॉयस</string>
+    <string name="workout">व्यायाम</string>
+    <string name="remind_me_to_workout_every_day">मुझे हर दिन कसरत करने के लिए याद दिलाएं</string>
+    <string name="voice_options_tts">आवाज विकल्प (टीटीएस)</string>
+    <string name="voice_language">आवाज की भाषा</string>
+    <string name="download_more_tts_language_data">अधिक टीटीएस भाषा डेटा डाउनलोड करें</string>
+    <string name="device_tts_setting">डिवाइस टीटीएस सेटिंग</string>
+    <string name="general_settings">सामान्य सेटिंग्स</string>
+    <string name="language_options">भाषा विकल्प</string>
+    <string name="restart_progress">प्रगति पुनरारंभ करें</string>
+    <string name="support_us">हमें सहयोग दीजिये</string>
+    <string name="rate_us">हमें रेटिंग दें</string>
+
+    <string name="share_with_friends">दोस्तों के साथ बांटें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="repeat">दोहराना</string>
+    <string name="aboveage">उम्र 18 से ऊपर</string>
+    <string name="nextexespeech">अगला अभ्यास है</string>
+    <string name="startspeech">व्यायाम शुरू करना </string>
+
+
+    <string name="feed1">मुझे डिज़ाइन पसंद नहीं है</string>
+    <string name="feed2">इसमें वह कार्य नहीं है जिसकी मुझे आवश्यकता है</string>
+    <string name="feed3">इसका उपयोग करना आसान नहीं है</string>
+    <string name="feed4">यह बहुत जटिल है</string>
+    <string name="feed5">अनुवाद खराब है</string>
+    <string name="reminderdialtxt"><u>आप अपने आप को 100% परिणाम की याद क्यों नहीं दिलाते।</u></string>
+
+    <string name="terms">खाता बनाने का मतलब है कि आप इसके साथ ठीक हैं</string>
+
+    <string name="tandc"><u>सेवा की शर्तें</u></string>
+    <string name="privacy"><u>गोपनीयता नीति</u></string>
+
+    <string name="tvbmis"><u>बीएमआई की गणना करें</u></string>
+
+    <string name="tvmoretips"><u>अधिक सुझाव >></u></string>
+    <string name="tvmoredetail"><u>अधिक जानकारी>></u></string>
+
+    <string name="termstxt">ऐप डाउनलोड करने या उपयोग करने से, ये शर्तें आप पर अपने आप लागू हो जाएंगी - आपको यह सुनिश्चित कर लेना चाहिए कि आप ऐप का उपयोग करने से पहले उन्हें ध्यान से पढ़ लें। आपको ऐप, ऐप के किसी भी हिस्से या हमारे ट्रेडमार्क को किसी भी तरह से कॉपी या संशोधित करने की अनुमति नहीं है। आपको ऐप के स्रोत कोड को निकालने का प्रयास करने की अनुमति नहीं है, और आपको ऐप को अन्य भाषाओं में अनुवाद करने या व्युत्पन्न संस्करण बनाने का भी प्रयास नहीं करना चाहिए। ऐप ही, और सभी ट्रेडमार्क, कॉपीराइट, डेटाबेस अधिकार और इससे संबंधित अन्य बौद्धिक संपदा अधिकार, अभी भी डॉ. जिओ के हैं।
+
+डॉ. जिओ यह सुनिश्चित करने के लिए प्रतिबद्ध है कि ऐप यथासंभव उपयोगी और कुशल हो। इस कारण से, हम किसी भी समय और किसी भी कारण से ऐप में बदलाव करने या उसकी सेवाओं के लिए शुल्क लेने का अधिकार सुरक्षित रखते हैं। हम आपको ऐप या इसकी सेवाओं के लिए कभी भी यह स्पष्ट किए बिना शुल्क नहीं लेंगे कि आप किस चीज के लिए भुगतान कर रहे हैं।
+
+"18 एप्लिकेशन के बाद हाइट बढ़ाएं" बेहतर सेवा प्रदान करने के लिए आपके द्वारा हमें प्रदान किए गए व्यक्तिगत डेटा को संग्रहीत और संसाधित करता है। अपने फ़ोन और ऐप तक पहुंच को सुरक्षित रखना आपकी ज़िम्मेदारी है। इसलिए, हम अनुशंसा करते हैं कि आप अपने फोन को जेलब्रेक या रूट न करें, जो आपके डिवाइस के आधिकारिक ऑपरेटिंग सिस्टम द्वारा लगाए गए सॉफ़्टवेयर प्रतिबंधों और सीमाओं को हटाने की प्रक्रिया है। यह आपके फ़ोन को मैलवेयर/वायरस/दुर्भावनापूर्ण कार्यक्रमों के प्रति संवेदनशील बना सकता है, आपके फ़ोन की सुरक्षा सुविधाओं से समझौता कर सकता है और इसका मतलब यह हो सकता है कि यह ऐप ठीक से या बिल्कुल भी काम नहीं करेगा।
+
+आपको इस बात की जानकारी होनी चाहिए कि कुछ चीजें ऐसी हैं जिनके लिए डॉ. जिओ जिम्मेदारी नहीं लेंगे। ऐप के कुछ कार्यों के लिए ऐप को एक सक्रिय इंटरनेट कनेक्शन की आवश्यकता होगी। कनेक्शन वाई-फाई हो सकता है या आपके मोबाइल नेटवर्क प्रदाता द्वारा प्रदान किया जा सकता है, लेकिन यदि आपके पास वाई-फाई तक पहुंच नहीं है और आपके पास कोई आपका डेटा भत्ता बचा है।
+
+यदि आप वाई-फाई वाले क्षेत्र के बाहर ऐप का उपयोग कर रहे हैं, तो आपको याद रखना चाहिए कि आपके मोबाइल नेटवर्क प्रदाता के साथ अनुबंध की शर्तें अभी भी लागू होंगी। परिणामस्वरूप, आपके मोबाइल प्रदाता द्वारा ऐप को एक्सेस करते समय कनेक्शन की अवधि के लिए डेटा की लागत, या अन्य तृतीय-पक्ष शुल्कों के लिए आपसे शुल्क लिया जा सकता है। ऐप का उपयोग करने में, आप रोमिंग डेटा शुल्क सहित ऐसे किसी भी शुल्क के लिए ज़िम्मेदारी स्वीकार कर रहे हैं, यदि आप डेटा रोमिंग को बंद किए बिना अपने गृह क्षेत्र (यानी क्षेत्र या देश) के बाहर ऐप का उपयोग करते हैं। यदि आप उस डिवाइस के बिल भुगतानकर्ता नहीं हैं जिस पर आप ऐप का उपयोग कर रहे हैं, तो कृपया ध्यान रखें कि हम मानते हैं कि आपको ऐप का उपयोग करने के लिए बिल भुगतानकर्ता से अनुमति प्राप्त हुई है। उसी तर्ज पर, डॉ जिओ हमेशा आपके द्वारा ऐप का उपयोग करने के तरीके की ज़िम्मेदारी नहीं ले सकता है यानी आपको यह सुनिश्चित करने की ज़रूरत है कि आपका डिवाइस चार्ज रहता है - अगर यह बैटरी से बाहर हो जाता है और आप सेवा का लाभ उठाने के लिए इसे चालू नहीं कर सकते हैं, डॉ. जिओ जिम्मेदारी स्वीकार नहीं कर सकते। ऐप के आपके उपयोग के लिए डॉ. जिओ की जिम्मेदारी के संबंध में, जब आप ऐप का उपयोग कर रहे हैं, तो यह ध्यान रखना महत्वपूर्ण है कि हालांकि हम यह सुनिश्चित करने का प्रयास करते हैं कि यह हर समय अपडेट और सही हो, हम तीसरे पक्ष पर भरोसा करते हैं हमें जानकारी प्रदान करने के लिए ताकि हम इसे आपको उपलब्ध करा सकें। डॉ. जिओ किसी भी नुकसान के लिए कोई दायित्व स्वीकार नहीं करता है, प्रत्यक्ष या अप्रत्यक्ष रूप से, आप ऐप की इस कार्यक्षमता पर पूरी तरह निर्भर होने के परिणामस्वरूप अनुभव करते हैं। कुछ बिंदु पर, हम ऐप को अपडेट करना चाह सकते हैं। ऐप वर्तमान में एंड्रॉइड पर उपलब्ध है - सिस्टम की आवश्यकताएं (और किसी भी अतिरिक्त सिस्टम के लिए हम ऐप की उपलब्धता को विस्तारित करने का निर्णय लेते हैं) बदल सकते हैं, और यदि आप ऐप का उपयोग जारी रखना चाहते हैं तो आपको अपडेट डाउनलोड करने की आवश्यकता होगी। डॉ. जिओ यह वादा नहीं करता है कि यह हमेशा ऐप को अपडेट करेगा ताकि यह आपके लिए प्रासंगिक हो और/या एंड्रॉइड वर्जन के साथ काम करे जिसे आपने अपने डिवाइस पर इंस्टॉल किया है। हालाँकि, आप वादा करते हैं कि जब आपको आवेदन की पेशकश की जाती है तो आप हमेशा अपडेट स्वीकार करते हैं, हम ऐप प्रदान करना बंद करना चाहते हैं, और किसी भी समय आपको समाप्ति की सूचना दिए बिना इसका उपयोग समाप्त कर सकते हैं। जब तक हम आपको अन्यथा न बताएं, किसी भी समाप्ति पर, (ए) इन शर्तों में आपको दिए गए अधिकार और लाइसेंस समाप्त हो जाएंगे; (बी) आपको ऐप का उपयोग बंद कर देना चाहिए, और (यदि आवश्यक हो) इसे अपने डिवाइस से हटा दें।</string>
+
+
+    <string name="policytxt">सामान्य नीति ऐप को डाउनलोड करने या उपयोग करने से, ये शर्तें आप पर अपने आप लागू हो जाएंगी - आपको यह सुनिश्चित कर लेना चाहिए कि आप ऐप का उपयोग करने से पहले उन्हें ध्यान से पढ़ लें। आपको ऐप, ऐप के किसी भी हिस्से या हमारे ट्रेडमार्क को किसी भी तरह से कॉपी या संशोधित करने की अनुमति नहीं है। आपको ऐप के स्रोत कोड को निकालने का प्रयास करने की अनुमति नहीं है, और आपको ऐप को अन्य भाषाओं में अनुवाद करने या व्युत्पन्न संस्करण बनाने का भी प्रयास नहीं करना चाहिए। ऐप ही, और सभी ट्रेडमार्क, कॉपीराइट, डेटाबेस अधिकार और इससे संबंधित अन्य बौद्धिक संपदा अधिकार, अभी भी डॉ. जिओ के हैं।
+        डॉ. जिओ यह सुनिश्चित करने के लिए प्रतिबद्ध है कि ऐप यथासंभव उपयोगी और कुशल हो। इस कारण से, हम किसी भी समय और किसी भी कारण से ऐप में बदलाव करने या उसकी सेवाओं के लिए शुल्क लेने का अधिकार सुरक्षित रखते हैं। हम आपको ऐप या इसकी सेवाओं के लिए कभी भी यह स्पष्ट किए बिना शुल्क नहीं लेंगे कि आप किस चीज के लिए भुगतान कर रहे हैं।
+        "बैक पेन एप्लिकेशन" बेहतर सेवा प्रदान करने के लिए आपके द्वारा हमें प्रदान किए गए व्यक्तिगत डेटा को संग्रहीत और संसाधित करता है। अपने फ़ोन और ऐप तक पहुंच को सुरक्षित रखना आपकी ज़िम्मेदारी है। इसलिए, हम अनुशंसा करते हैं कि आप अपने फोन को जेलब्रेक या रूट न करें, जो आपके डिवाइस के आधिकारिक ऑपरेटिंग सिस्टम द्वारा लगाए गए सॉफ़्टवेयर प्रतिबंधों और सीमाओं को हटाने की प्रक्रिया है। यह आपके फ़ोन को मैलवेयर/वायरस/दुर्भावनापूर्ण कार्यक्रमों के प्रति संवेदनशील बना सकता है, आपके फ़ोन की सुरक्षा सुविधाओं से समझौता कर सकता है और इसका मतलब यह हो सकता है कि यह ऐप ठीक से या बिल्कुल भी काम नहीं करेगा।
+        आपको इस बात की जानकारी होनी चाहिए कि कुछ चीजें ऐसी हैं जिनके लिए डॉ. जिओ जिम्मेदारी नहीं लेंगे। ऐप के कुछ कार्यों के लिए ऐप को एक सक्रिय इंटरनेट कनेक्शन की आवश्यकता होगी। कनेक्शन वाई-फाई हो सकता है या आपके मोबाइल नेटवर्क प्रदाता द्वारा प्रदान किया जा सकता है, लेकिन यदि आपके पास वाई-फाई तक पहुंच नहीं है और आपके पास कोई आपका डेटा भत्ता बचा है।
+        यदि आप वाई-फाई वाले क्षेत्र के बाहर ऐप का उपयोग कर रहे हैं, तो आपको याद रखना चाहिए कि आपके मोबाइल नेटवर्क प्रदाता के साथ अनुबंध की शर्तें अभी भी लागू होंगी। परिणामस्वरूप, आपके मोबाइल प्रदाता द्वारा ऐप को एक्सेस करते समय कनेक्शन की अवधि के लिए डेटा की लागत, या अन्य तृतीय-पक्ष शुल्कों के लिए आपसे शुल्क लिया जा सकता है। ऐप का उपयोग करने में, आप रोमिंग डेटा शुल्क सहित ऐसे किसी भी शुल्क के लिए ज़िम्मेदारी स्वीकार कर रहे हैं, यदि आप डेटा रोमिंग को बंद किए बिना अपने गृह क्षेत्र (यानी क्षेत्र या देश) के बाहर ऐप का उपयोग करते हैं। यदि आप उस डिवाइस के बिल भुगतानकर्ता नहीं हैं जिस पर आप ऐप का उपयोग कर रहे हैं, तो कृपया ध्यान रखें कि हम मानते हैं कि आपको ऐप का उपयोग करने के लिए बिल भुगतानकर्ता से अनुमति प्राप्त हुई है। उसी तर्ज पर, डॉ जिओ हमेशा आपके द्वारा ऐप का उपयोग करने के तरीके की ज़िम्मेदारी नहीं ले सकता है यानी आपको यह सुनिश्चित करने की ज़रूरत है कि आपका डिवाइस चार्ज रहता है - अगर यह बैटरी से बाहर हो जाता है और आप सेवा का लाभ उठाने के लिए इसे चालू नहीं कर सकते हैं, डॉ. जिओ जिम्मेदारी स्वीकार नहीं कर सकते। ऐप के आपके उपयोग के लिए डॉ. जिओ की जिम्मेदारी के संबंध में, जब आप ऐप का उपयोग कर रहे हैं, तो यह ध्यान रखना महत्वपूर्ण है कि हालांकि हम यह सुनिश्चित करने का प्रयास करते हैं कि यह हर समय अपडेट और सही हो, हम तीसरे पक्ष पर भरोसा करते हैं हमें जानकारी प्रदान करने के लिए ताकि हम इसे आपको उपलब्ध करा सकें। डॉ. जिओ किसी भी नुकसान के लिए कोई दायित्व स्वीकार नहीं करता है, प्रत्यक्ष या अप्रत्यक्ष रूप से, आप ऐप की इस कार्यक्षमता पर पूरी तरह निर्भर होने के परिणामस्वरूप अनुभव करते हैं। कुछ बिंदु पर, हम ऐप को अपडेट करना चाह सकते हैं। ऐप वर्तमान में एंड्रॉइड पर उपलब्ध है - सिस्टम की आवश्यकताएं (और किसी भी अतिरिक्त सिस्टम के लिए हम ऐप की उपलब्धता को विस्तारित करने का निर्णय लेते हैं) बदल सकते हैं, और यदि आप ऐप का उपयोग जारी रखना चाहते हैं तो आपको अपडेट डाउनलोड करने की आवश्यकता होगी। डॉ. जिओ यह वादा नहीं करता है कि यह हमेशा ऐप को अपडेट करेगा ताकि यह आपके लिए प्रासंगिक हो और/या एंड्रॉइड वर्जन के साथ काम करे जिसे आपने अपने डिवाइस पर इंस्टॉल किया है। हालाँकि, आप वादा करते हैं कि जब आपको आवेदन की पेशकश की जाती है तो आप हमेशा अपडेट स्वीकार करते हैं, हम ऐप प्रदान करना बंद करना चाहते हैं, और किसी भी समय आपको समाप्ति की सूचना दिए बिना इसका उपयोग समाप्त कर सकते हैं। जब तक हम आपको अन्यथा न बताएं, किसी भी समाप्ति पर, (ए) इन शर्तों में आपको दिए गए अधिकार और लाइसेंस समाप्त हो जाएंगे; (बी) आपको ऐप का उपयोग बंद कर देना चाहिए, और (यदि आवश्यक हो) इसे अपने डिवाइस से हटा दें।
+
+       ऐप्स का उपयोग कैसे करें:
+
+        हम आपको डॉक्टरों की सदस्यता द्वारा इस ऐप का उपयोग करने की सलाह देते हैं यदि आपको हड्डियों, हृदय, पीठ की चोट, रीढ़, सिर की चोट या किसी अन्य शारीरिक चोट में कोई गंभीर बीमारी और चोट है, तो कृपया विशेषज्ञ / डॉक्टरों से इस योग, व्यायाम, और करने के लिए कहें। व्यायाम।
+
+        गोपनीयता नीति
+
+        डॉ. जिओ ने बैक पेन ऐप को एक कमर्शियल ऐप के रूप में बनाया। यह सेवा डॉ. जिओ द्वारा प्रदान की गई है और इसका उपयोग इस प्रकार किया जा सकता है। यदि किसी ने हमारी सेवा का उपयोग करने का निर्णय लिया है, तो व्यक्तिगत जानकारी के संग्रह, उपयोग और प्रकटीकरण के साथ हमारी नीतियों के बारे में आगंतुकों को सूचित करने के लिए इस पृष्ठ का उपयोग किया जाता है। यदि आप हमारी सेवा का उपयोग करना चुनते हैं, तो आप इस नीति से संबंधित जानकारी के संग्रह और उपयोग के लिए सहमत हैं। हमारे द्वारा एकत्रित की जाने वाली व्यक्तिगत जानकारी का उपयोग सेवा प्रदान करने और उसमें सुधार करने के लिए किया जाता है। हम इस गोपनीयता नीति में वर्णित के अलावा आपकी जानकारी का उपयोग या किसी के साथ साझा नहीं करेंगे। इस गोपनीयता नीति में उपयोग की जाने वाली शर्तों का वही अर्थ है जो हमारे नियमों और शर्तों में है, जो 18 के बाद ऊंचाई बढ़ाने पर उपलब्ध है जब तक कि इस गोपनीयता नीति में अन्यथा परिभाषित नहीं किया गया हो।
+
+        सूचना संग्रह और उपयोग
+
+        बेहतर अनुभव के लिए, हमारी सेवा का उपयोग करते समय, हम आपको व्यक्तिगत रूप से पहचान योग्य कुछ जानकारी प्रदान करने की आवश्यकता कर सकते हैं, जिसमें उपयोगकर्ता के रूप में उपयोगकर्ता के बेहतर अनुभव के लिए हम व्यक्ति की जीमेल आईडी, name, आयु, ऊंचाई, वजन एकत्र करते हैं, लेकिन यह इन्हीं तक सीमित नहीं है। उनके बीएमआई (बॉडी मास इंडेक्स) के अनुसार विशिष्ट सहायता और युक्तियों के साथ सूचना प्राप्त करें और उनके स्थान के अनुसार अधिसूचना और विज्ञापनों को अनुकूलित करें। हमारे द्वारा अनुरोधित जानकारी हमारे पास रहेगी और इस गोपनीयता नीति में वर्णित अनुसार उपयोग की जाएगी। ऐप तृतीय-पक्ष सेवाओं का उपयोग करता है जो आपकी पहचान करने के लिए उपयोग की जाने वाली जानकारी एकत्र कर सकती हैं। ऐप द्वारा उपयोग किए जाने वाले तृतीय-पक्ष सेवा प्रदाताओं की गोपनीयता नीति का लिंक
+
+      Google Play सेवाएं (https://policies.google.com/privacy)
+         AdMob (https://support.google.com/admob/answer/6128543?hl=hi)
+         फायरबेस एनालिटिक्स (https://firebase.google.com/policies/analytics)
+         फेसबुक (https://www.facebook.com/about/privacy)
+         कपड़ा (https://fabric.io/privacy)
+         क्रैशलाईटिक्स (https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+         जब आप हमारी सेवाओं का उपयोग करते हैं तो हम आपके स्थान के बारे में जानकारी एकत्र करते हैं, जो हमें आपके सप्ताहांत में छुट्टी के लिए ड्राइविंग निर्देश या आपके आस-पास चल रही फिल्मों के शोटाइम जैसी सुविधाएं प्रदान करने में मदद करती है।
+
+         आपका स्थान सटीकता की अलग-अलग डिग्री के साथ निर्धारित किया जा सकता है:
+
+GPS
+आईपी ​​पता
+आपके डिवाइस से सेंसर डेटा
+आपके डिवाइस के आस-पास की चीज़ों के बारे में जानकारी, जैसे वाई-फ़ाई एक्सेस पॉइंट, सेल टावर और ब्लूटूथ-सक्षम डिवाइस
+हमारे द्वारा एकत्रित किए जाने वाले स्थान डेटा के प्रकार आंशिक रूप से आपके डिवाइस और खाता सेटिंग पर निर्भर करते हैं। उदाहरण के लिए, आप डिवाइस के सेटिंग ऐप का उपयोग करके अपने एंड्रॉइड डिवाइस के स्थान को चालू या बंद कर सकते हैं। यदि आप अपने प्रवेश किए हुए उपकरणों के साथ जहां जाते हैं वहां का निजी मानचित्र बनाना चाहते हैं, तो आप स्थान इतिहास भी चालू कर सकते हैं।
+
+
+
+विज्ञापन
+
+
+हमारे ऐप्स का उपयोग करके, आपको विज्ञापन सामग्री की पेशकश की जा सकती है। हम या हमारे द्वारा उपयोग किए जाने वाले विज्ञापन नेटवर्क विज्ञापन-प्रस्तुत करने वाली तकनीकों का उपयोग कर सकते हैं जो कुकीज़, बीकन, ट्रैकिंग पिक्सेल और अन्य तकनीकों का उपयोग करती हैं जो विज्ञापनों में रखी जाती हैं और हमें या हमारे नेटवर्क को गैर-व्यक्तिगत जानकारी एकत्र करने की अनुमति देती हैं। गैर-व्यक्तिगत जानकारी जैसे कि उम्र और लिंग का उपयोग यह सुनिश्चित करने के लिए किया जा सकता है कि आपको उचित विज्ञापन दिया जाए। उपयोग डेटा और गैर-व्यक्तिगत जानकारी जैसे विज्ञापन पहचानकर्ता का उपयोग यह निर्धारित करने के लिए किया जा सकता है कि किसी विज्ञापन को कितने क्लिक मिले, विज्ञापन अभियानों की प्रभावशीलता को मापने के लिए, किसी दिए गए विज्ञापन के बार-बार देखे जाने की उचित मात्रा निर्धारित करने के लिए, और/या विज्ञापन वितरित करने के लिए उपयोग किया जा सकता है। जो आपकी रुचियों से सबसे अच्छा संबंध रखता है। आपके डिवाइस और उसके ऑपरेटिंग सिस्टम के आधार पर, आप अपने डिवाइस के विज्ञापन पहचानकर्ता को रुचि-आधारित विज्ञापन के लिए इस्तेमाल होने से रोकने या अपने डिवाइस की सेटिंग बदलकर अपने डिवाइस के विज्ञापन पहचानकर्ता को रीसेट करने में सक्षम हो सकते हैं। विज्ञापन प्रदाता कंपनी बेहतर विज्ञापन उपयोगकर्ता स्थानीयकरण और स्थानीय भाषा के विज्ञापन वैयक्तिकरण के लिए आपका स्थान ले सकती है।
+
+
+
+सूचना संग्रह का उद्देश्य
+
+
+गैर-व्यक्तिगत जानकारी का उपयोग सांख्यिकीय और अनुसंधान उद्देश्यों और हमारे ऐप्स के अनुकूलन और सुधार के लिए किया जाता है
+जब आप ईमेल के माध्यम से संपर्क करते हैं तो व्यक्तिगत जानकारी का उपयोग आपको जवाब देने में सक्षम होने के लिए किया जाता है।
+आपके स्थान के अनुसार आपको विज्ञापन दिखाने के लिए स्थान/आईपी जैसी व्यक्तिगत जानकारी का उपयोग किया जाता है, इसे प्रासंगिक विज्ञापन कहा जाता है।
+हम आपके/आपके डिवाइस के बारे में एकत्रित जानकारी का उपयोग आपको सेवाएं देने और अपने व्यवसाय को संचालित करने के लिए करते हैं। हमारे और हमारे भागीदारों द्वारा इस तरह के उपयोग में शामिल हो सकते हैं:
+हमारी सेवाएं प्रदान करना: हमारे उत्पादों, सेवाओं और सामग्री को विकसित करना, वितरित करना और सुधारना, हमारे उत्पादों और सेवाओं को तैयार करना, सॉफ़्टवेयर अपडेट और उत्पाद समर्थन प्रदान करना, ऐप्स के उपयोग के संबंध में रुझानों को समझना और उनका विश्लेषण करना, ऐप्स को प्रशासित करना और ग्राहक संचार।
+
+विज्ञापन प्रदर्शित करना: हमारे ऐप्स में तीसरे पक्ष के विज्ञापन प्रदर्शित करना और अन्य प्रकाशकों के ऐप्स में हमारे ऐप्स के विज्ञापन दिखाना। क्रॉस-प्रमोशन: हमारे ऐप्स और सेवाओं का क्रॉस प्रमोशन, जिसका अर्थ है कि जब आप हमारा एक अलग ऐप चला रहे हों, तब हम अपने किसी ऐप का प्रचार कर सकते हैं।
+
+विश्लेषिकी और अनुसंधान: ऐप्स के उपयोग के संबंध में रुझानों को समझना और उनका विश्लेषण करना, हमारे उपयोगकर्ता आधार के बारे में जनसांख्यिकीय जानकारी एकत्र करना, डेटा कहां से डाउनलोड किया गया था। हम अनुसंधान या व्यावसायिक खुफिया जानकारी के लिए रिपोर्ट और विश्लेषण भी बना सकते हैं, उदाहरण के लिए, हमारे ऐप्स और सेवाओं के साथ संभावित समस्याओं या प्रवृत्तियों को ट्रैक करने के लिए, या हमारी नई गेम सुविधाओं और सामग्री का परीक्षण करने के लिए। हम तृतीय पक्ष सोशल नेटवर्क से प्राप्त डेटा का उपयोग केवल आंतरिक विश्लेषण के लिए करते हैं। विश्लेषण से बाहर निकलने के लिए कृपया इस गोपनीयता नीति के ऑप्ट-आउट अनुभाग पर जाएं।
+
+
+
+लॉग डेटा
+
+
+हम आपको सूचित करना चाहते हैं कि जब भी आप हमारी सेवा का उपयोग करते हैं, तो ऐप में किसी त्रुटि के मामले में हम लॉग डेटा nameक आपके फोन पर डेटा और जानकारी (तृतीय पक्ष उत्पादों के माध्यम से) एकत्र करते हैं। इस लॉग डेटा में आपकी डिवाइस इंटरनेट प्रोटोकॉल ("आईपी") पता, डिवाइस का name, ऑपरेटिंग सिस्टम संस्करण, हमारी सेवा का उपयोग करते समय ऐप का कॉन्फ़िगरेशन, सेवा के आपके उपयोग का समय और तारीख, और अन्य आंकड़े जैसी जानकारी शामिल हो सकती है। . उपरोक्त स्थिति में, हम गारंटी देते हैं कि आपकी पीआईआई (व्यक्तिगत पहचान योग्य जानकारी) का उपयोग केवल आपसे संपर्क करने और हमारी सेवाओं में सुधार के लिए किया जाएगा। हम इस तरह की जानकारी (जैसे आपका name और ईमेल पता) का उपयोग किसी भी अन्य उद्देश्यों के लिए नहीं करेंगे, जैसे कि हमारे उत्पादों को आगे बढ़ाने के लिए या व्यावसायिक लाभ के लिए किसी तीसरे पक्ष को आपकी व्यक्तिगत जानकारी का खुलासा करने के लिए।
+
+यदि आपको अपने पीआईआई के दुरुपयोग के बारे में कोई चिंता है, या यदि आप हमारी गोपनीयता नीति के बारे में और जानकारी चाहते हैं और इसका क्या अर्थ है, तो कृपया हमें drziocure@gmail.com पर ईमेल करें, हम आपके प्रश्नों के स्पष्ट उत्तर प्रदान करने का प्रयास करेंगे समय।
+
+
+
+
+कुकीज़
+
+
+हम अपनी सेवा पर गतिविधि को ट्रैक करने और कुछ जानकारी रखने के लिए कुकीज़ और इसी तरह की ट्रैकिंग तकनीकों का उपयोग करते हैं। कुकीज़ छोटी मात्रा में डेटा वाली फाइलें होती हैं जिनका उपयोग आमतौर पर अname विशिष्ट पहचानकर्ताओं के रूप में किया जाता है। ये आपके ब्राउज़र पर आपके द्वारा देखी जाने वाली वेबसाइटों से भेजे जाते हैं और आपके डिवाइस की आंतरिक मेमोरी में संग्रहीत होते हैं। यह सेवा इन "कुकीज़" का स्पष्ट रूप से उपयोग नहीं करती है। हालाँकि, ऐप तीसरे पक्ष के कोड और पुस्तकालयों का उपयोग कर सकता है जो जानकारी एकत्र करने और अपनी सेवाओं को बेहतर बनाने के लिए "कुकीज़" का उपयोग करते हैं। आपके पास इन कुकीज़ को स्वीकार या अस्वीकार करने और यह जानने का विकल्प है कि आपके डिवाइस पर कुकी कब भेजी जा रही है। यदि आप हमारी कुकीज़ को अस्वीकार करना चुनते हैं, तो आप इस सेवा के कुछ हिस्सों का उपयोग करने में सक्षम नहीं हो सकते हैं।
+
+हमारे द्वारा उपयोग की जाने वाली कुकीज़ के उदाहरण:
+
+सत्र कुकीज़: हम अपनी सेवा संचालित करने के लिए सत्र कुकीज़ का उपयोग करते हैं।
+वरीयता कुकीज़: हम आपकी प्राथमिकताओं और विभिन्न सेटिंग्स को याद रखने के लिए वरीयता कुकीज़ का उपयोग करते हैं।
+सुरक्षा कुकीज़: हम सुरक्षा उद्देश्यों के लिए सुरक्षा कुकीज़ का उपयोग करते हैं।
+
+
+ भुगतान
+
+
+हम सेवा के भीतर सशुल्क उत्पाद और/या सेवाएं प्रदान कर सकते हैं। उस स्थिति में, हम भुगतान प्रसंस्करण (उदा. भुगतान संसाधक) के लिए तृतीय-पक्ष सेवाओं का उपयोग करते हैं।
+
+हम आपके भुगतान कार्ड के विवरण संग्रहीत या एकत्र नहीं करेंगे। वह जानकारी सीधे हमारे तृतीय-पक्ष भुगतान संसाधकों को प्रदान की जाती है, जिनकी आपकी व्यक्तिगत जानकारी का उपयोग उनकी गोपनीयता नीति द्वारा नियंत्रित होता है। ये भुगतान प्रोसेसर पीसीआई-डीएसएस द्वारा निर्धारित मानकों का पालन करते हैं जैसा कि पीसीआई सुरक्षा मानक परिषद द्वारा प्रबंधित किया जाता है, जो वीज़ा, मास्टरकार्ड, अमेरिकन एक्सप्रेस और डिस्कवर जैसे ब्रांडों का एक संयुक्त प्रयास है। PCI-DSS आवश्यकताएं भुगतान जानकारी के सुरक्षित संचालन को सुनिश्चित करने में मदद करती हैं।
+
+हम जिन भुगतान संसाधकों के साथ काम करते हैं वे हैं:
+
+Google Play इन-ऐप भुगतान खरीदारी
+ उनकी गोपनीयता नीति https://policies.google.com/privacy . पर देखी जा सकती है
+
+
+
+डेटा की सुरक्षा
+
+
+आपके डेटा की सुरक्षा हमारे लिए महत्वपूर्ण है लेकिन याद रखें कि इंटरनेट पर ट्रांसमिशन का कोई भी तरीका या इलेक्ट्रॉनिक स्टोरेज का तरीका 100% सुरक्षित नहीं है। जबकि हम आपके व्यक्तिगत डेटा की सुरक्षा के लिए व्यावसायिक रूप से स्वीकार्य साधनों का उपयोग करने का प्रयास करते हैं, हम इसकी पूर्ण सुरक्षा की गारंटी नहीं दे सकते।
+
+
+
+
+
+सेवा प्रदाता
+
+
+हम निम्नलिखित कारणों से तृतीय-पक्ष कंपनियों और व्यक्तियों को नियुक्त कर सकते हैं:
+
+हमारी सेवा को सुविधाजनक बनाने के लिए;
+
+हमारी ओर से सेवा प्रदान करने के लिए;
+
+सेवा से संबंधित सेवाएं करने के लिए;
+
+हमारी सेवा का उपयोग कैसे किया जाता है, इसका विश्लेषण करने में हमारी सहायता करने के लिए।
+
+हम इस सेवा के उपयोगकर्ताओं को सूचित करना चाहते हैं कि इन तृतीय पक्षों के पास आपकी व्यक्तिगत जानकारी तक पहुंच है। इसका कारण उन्हें हमारी ओर से सौंपे गए कार्यों को पूरा करना है। हालांकि, वे किसी अन्य उद्देश्य के लिए जानकारी का खुलासा या उपयोग नहीं करने के लिए बाध्य हैं।
+
+
+
+
+
+सुरक्षा
+
+
+हम आपकी व्यक्तिगत जानकारी प्रदान करने में आपके भरोसे को महत्व देते हैं, इस प्रकार हम इसे सुरक्षित रखने के लिए व्यावसायिक रूप से स्वीकार्य साधनों का उपयोग करने का प्रयास कर रहे हैं। लेकिन याद रखें कि इंटरनेट पर ट्रांसमिशन का कोई भी तरीका या इलेक्ट्रॉनिक स्टोरेज का तरीका 100% सुरक्षित और विश्वसनीय नहीं है।
+
+हालाँकि, इंटरनेट या टेलीफोन नेटवर्क के माध्यम से सूचना का प्रसारण पूरी तरह से सुरक्षित नहीं है। जबकि हम आपकी जानकारी की रक्षा करने की पूरी कोशिश करते हैं, विशेष रूप से आपके व्यक्तिगत डेटा की सुरक्षा के संबंध में,
+
+"डॉ. Zio- योग शिक्षक" इंटरनेट, टेलीफोन या किसी अन्य नेटवर्क के माध्यम से प्रेषित आपके डेटा की सुरक्षा सुनिश्चित नहीं कर सकता है।
+
+
+
+
+
+अन्य साइटों के लिंक Link
+
+
+इस सेवा में अन्य साइटों के लिंक हो सकते हैं। यदि आप किसी तृतीय-पक्ष लिंक पर क्लिक करते हैं, तो आपको उस साइट पर निर्देशित किया जाएगा। ध्यान दें कि ये बाहरी साइटें हमारे द्वारा संचालित नहीं हैं। इसलिए, हम आपको इन वेबसाइटों की गोपनीयता नीति की समीक्षा करने की दृढ़ता से सलाह देते हैं। किसी भी तृतीय-पक्ष साइटों या सेवाओं की सामग्री, गोपनीयता नीतियों, या प्रथाओं के लिए हमारा कोई नियंत्रण नहीं है और हम कोई जिम्मेदारी नहीं लेते हैं।
+
+
+
+बच्चों की गोपनीयता
+
+
+ये सेवाएं 13 साल से कम उम्र के किसी को भी संबोधित नहीं करती हैं। हम जानबूझकर 13 साल से कम उम्र के बच्चों से व्यक्तिगत रूप से पहचान योग्य जानकारी एकत्र नहीं करते हैं। अगर हमें पता चलता है कि 13 साल से कम उम्र के बच्चे ने हमें व्यक्तिगत जानकारी प्रदान की है, तो हम इसे तुरंत अपने सर्वर से हटा देते हैं। यदि आप माता-पिता या अभिभावक हैं और आप जानते हैं कि आपके बच्चे ने हमें व्यक्तिगत जानकारी प्रदान की है, तो कृपया हमसे संपर्क करें ताकि हम आवश्यक कार्रवाई कर सकें। इस गोपनीयता नीति में परिवर्तन हम समय-समय पर अपनी गोपनीयता नीति को अपडेट कर सकते हैं। इस प्रकार, आपको किसी भी परिवर्तन के लिए समय-समय पर इस पृष्ठ की समीक्षा करने की सलाह दी जाती है। हम इस पेज पर नई गोपनीयता नीति पोस्ट करके आपको किसी भी बदलाव के बारे में सूचित करेंगे। ये परिवर्तन इस पृष्ठ पर पोस्ट किए जाने के तुरंत बाद प्रभावी होते हैं। हमसे संपर्क करें यदि हमारी गोपनीयता नीति के बारे में आपके कोई प्रश्न या सुझाव हैं, तो कृपया बेझिझक हमें drziocure@gmail.com पर ईमेल करें, हम समय पर आपके प्रश्नों के स्पष्ट उत्तर देने का प्रयास करेंगे।
+
+ कैलिफ़ोर्निया ऑनलाइन गोपनीयता सुरक्षा अधिनियम CalOPPA देश का पहला राज्य कानून है जिसके लिए गोपनीयता नीति पोस्ट करने के लिए व्यावसायिक वेबसाइटों और ऑनलाइन सेवाओं की आवश्यकता होती है। संयुक्त राज्य अमेरिका (और संभवतः दुनिया में) में किसी भी व्यक्ति या कंपनी की आवश्यकता के लिए कानून की पहुंच कैलिफ़ोर्निया से परे फैली हुई है, जो कैलिफ़ोर्निया के उपभोक्ताओं से व्यक्तिगत रूप से पहचान योग्य जानकारी एकत्र करने वाली वेबसाइटों को संचालित करती है ताकि उनकी वेबसाइट पर एक विशिष्ट गोपनीयता नीति पोस्ट की जा सके जो वास्तव में एकत्र की जा रही जानकारी और उन व्यक्ति या कंपनियां जिनके साथ इसे साझा किया जा रहा है। - यहां और देखें: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+CalOPPA के अनुसार, हम निम्नलिखित के लिए सहमत हैं:
+
+उपयोगकर्ता गुमname रूप से हमारी साइट पर जा सकते हैं।
+
+
+
+क्या हम विज्ञापन नेटवर्क या प्लग-इन सहित तृतीय-पक्षों को 13 वर्ष से कम उम्र के बच्चों से PII एकत्र करने देते हैं?
+
+- हम 13 साल से कम उम्र के बच्चों के लिए विशेष रूप से मार्केटिंग नहीं करते हैं।
+
+
+
+ दायित्व का प्रतिबंध
+
+
+ डॉ. जिओ- योग शिक्षक ऐप के माध्यम से उपलब्ध सामग्री की सटीकता, पूर्णता या पर्याप्तता के बारे में कोई दावा, वादा या गारंटी नहीं देता है और ऐप के माध्यम से उपलब्ध सामग्री में त्रुटियों और चूक के लिए उत्तरदायित्व को स्पष्ट रूप से अस्वीकार करता है।
+
+- किसी भी प्रकार की कोई वारंटी, निहित, व्यक्त या वैधानिक, जिसमें तीसरे पक्ष के अधिकारों के गैर-उल्लंघन की वारंटी, शीर्षक, व्यापारिकता, किसी विशेष उद्देश्य के लिए फिटनेस और कंप्यूटर वायरस से स्वतंत्रता शामिल है, लेकिन सीमित नहीं है, ऐप के माध्यम से उपलब्ध सामग्री या अन्य इंटरनेट संसाधनों के लिंक जो ऐप के माध्यम से आपके लिए उपलब्ध हो सकते हैं।
+
+- ऐप में किसी विशिष्ट वाणिज्यिक उत्पादों, प्रक्रियाओं, या सेवाओं, या किसी भी व्यापार, फर्म या निगम के name का उपयोग जनता की जानकारी और सुविधा के लिए है और डॉ। जिओ- योग शिक्षक।
+
+
+
+ इस गोपनीयता नीति में परिवर्तन
+
+
+हम समय-समय पर अपनी गोपनीयता नीति को अपडेट कर सकते हैं। इस प्रकार, आपको किसी भी परिवर्तन के लिए समय-समय पर इस पृष्ठ की समीक्षा करने की सलाह दी जाती है। हम इस पेज पर नई गोपनीयता नीति पोस्ट करके आपको किसी भी बदलाव के बारे में सूचित करेंगे। ये परिवर्तन इस पृष्ठ पर पोस्ट किए जाने के तुरंत बाद प्रभावी होते हैं।
+
+एक बार यह गोपनीयता नीति बन जाने के बाद, हम अपनी वेबसाइट में प्रवेश करने के बाद अपने होम पेज पर या कम से कम पहले महत्वपूर्ण पेज पर इसके लिए एक लिंक जोड़ देंगे।
+
+यदि आपके कोई प्रश्न या चिंताएं हैं, तो बेझिझक हमें ईमेल करें या drziocure@gmail.com पर संपर्क करें और हम आपकी चिंताओं को दूर करने का प्रयास करेंगे।
+    </string>
+
+
+    <string name="ntitle1">गुम पीठ दर्द कसरत!</string>
+    <string name="ntitle2">अपनी योजना मत भूलना!</string>
+    <string name="ntitle3">कसरत शुरू करने का समय आ गया है!</string>
+    <string name="ntitle4">क्यों नहीं अभी?</string>
+    <string name="ntitle5">अपने आप को बढ़ाओ!</string>
+    <string name="ntitle6">अब समय है!</string>
+    <string name="ntitle7">आप.. हां आप हासिल कर सकते हैं... यहां क्लिक करें?</string>
+    <!--<string name="ntitle8">अपने आप को बढ़ाओ!</string>
+    <string name="ntitle9">अब समय है!</string>
+    <string name="ntitle10">आप.. हां आप हासिल कर सकते हैं... क्लिक करें</string>-->
+
+    <string name="desc1">कभी हार मत मानो! आप हासिल करने वाले हैं!💪🔥</string>
+    <string name="desc2">हार मानने के बारे में मत सोचो!💪🔥</string>
+    <string name="desc3">छोटा सा काम आपको बड़ा जीवन दिला सकता है। जारी रखें!💪🔥</string>
+    <string name="desc4">कोशिश करना इस समय जीत रहा है! चलते रहो!💪🔥</string>
+    <string name="desc5">हार मत मानो! आप लगभग वहां हैं!💪🔥</string>
+    <string name="desc6">अच्छी बातें समय लेती हैं! कभी हार मत मानो!💪🔥</string>
+    <string name="desc7">बदलाव आसान नहीं है! चलते रहो!💪🔥💪🔥</string>
+    <string name="desc8">एक विजेता एक सपने देखने वाला है! कभी हार मत मानो!💪🔥</string>
+
+    <string name="icons">💪🔥</string>
+    <string name="strstate">राज्य चुनें<font color='#FC527F'> *</font></string>
+    <string name="select_the_country">देश चुनें<font color='#FC527F'> *</font></string>
+
+    <string name="details1">यह ऐप ऑटो-नवीनीकरण सदस्यता विकल्पों के ऊपर प्रदान करता है:</string>
+    <string name="details3">खरीद की पुष्टि पर बैक पेन प्रो के लिए भुगतान आपके Google Play खाते से लिया जाएगा। आपका पीठ दर्द प्रो
+सदस्यता स्वचालित रूप से नवीनीकृत हो जाएगी जब तक कि वर्तमान सदस्यता बिलिंग अवधि समाप्त होने से कम से कम 24 घंटे पहले आपके Google Play खाते में स्वतः नवीनीकरण बंद न हो जाए।\nआप अपनी सदस्यता का प्रबंधन कर सकते हैं या अपनी Google Play खाता सेटिंग में स्वतः पुन: नया बंद कर सकते हैं खरीद के। यदि आप सदस्यता अवधि के बीच में स्वतः नवीनीकरण बंद कर देते हैं। अवधि के अंत तक आपके पास अभी भी सभी प्रीमियम सुविधाओं तक पहुंच होगी। सदस्यता अवधि के बीच में ऑटो-नवीनीकरण बंद करने के लिए कोई आंशिक धनवापसी नहीं दी जाएगी। आप खरीद के बाद अपनी Google Play खाता सेटिंग में अपनी सदस्यता प्रबंधित कर सकते हैं या स्वत: पुन: नया बंद कर सकते हैं। यदि आप सदस्यता अवधि के बीच में स्वतः नवीनीकरण बंद कर देते हैं। अवधि के अंत तक आपके पास अभी भी सभी प्रीमियम सुविधाओं तक पहुंच होगी। सदस्यता अवधि के बीच में ऑटो-नवीनीकरण बंद करने के लिए कोई आंशिक धनवापसी नहीं दी जाएगी।</string>
+    <string name="more">अधिक</string>
+    <string name="total">कुल</string>
+    <string name="report">रिपोर्ट</string>
+    <string name="your_plan">आपकी योजना</string>
+    <string name="_12_days_left">12 दिन शेष</string>
+    <string name="days_left"> दिन शेष</string>
+    <string name="back_pain_relief">पीठ दर्द से राहत</string>
+    <string name="info">जानकारी</string>
+    <string name="intermediate_level">मध्यवर्ती स्तर</string>
+    <string name="intermediate">मध्यम</string>
+    <string name="advanced_level">उच्च स्तर</string>
+    <string name="advanced">उच्च</string>
+    <string name="weekly_goal">साप्ताहिक लक्ष्य</string>
+    <string name="set">+ सेट</string>
+    <string name="nutrition_nplan">पोषण योजना</string>
+    <string name="customize_plan">योजना अनुकूलित करें</string>
+    <string name="customize_nyour_plan">अपनी योजना को अनुकूलित करें</string>
+    <string name="explore_plan">योजना का अन्वेषण करें</string>
+    <string name="discover">डिस्कवर</string>
+    <string name="discover1">डिस्कवर</string>
+    <string name="daily_tips">दैनिक सुझाव</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="all_diets">सभी आहार</string>
+    <string name="done">किया हुआ</string>
+    <string name="share">शेयर</string>
+    <string name="all_history">सारा इतिहास</string>
+    <string name="category_name">श्रेणी name</string>
+    <string name="covid_tracker">कोविड ट्रैकर</string>
+    <string name="plans_made_for_you">आपके लिए बनाई गई योजनाएं</string>
+    <string name="confirmed_cases">वे केस जिनकी पुष्टि हो चुकी है </string>
+    <string name="deaths">मौतें</string>
+    <string name="recoveries">ठीक होना</string>
+    <string name="city_province">शहर/प्रांत</string>
+    <string name="confirmed_ncases">पुष्टि\nमामले</string>
+    <string name="my_training">मेरा प्रशिक्षण</string>
+
+    <string name="reports">रिपोर्टों</string>
+    <string name="discover_plan">डिस्कवर प्लान</string>
+    <string name="covid_19">कोविड -19</string>
+    <string name="remove_ads">विज्ञापन हटाएँ</string>
+    <string name="new_apps">नए ऐप्स</string>
+    <string name="share_app">ऐप शेयर करें</string>
+
+    <string name="jumping_jacks">कूदता जैक</string>
+    <string name="_1_min">1 मिनट</string>
+    <string name="_2_exercises">2 व्यायाम</string>
+    <string name="edit">संपादित करें</string>
+    <string name="_5_ft_5_in">5 फीट 5 इंच</string>
+    <string name="veg">शाकाहारी</string>
+    <string name="please_login_to_unlock_graph">कृपया ग्राफ़ अनलॉक करने के लिए लॉग इन करें !!!</string>
+
+    <string name="user_info">उपयोगकर्ता जानकारी</string>
+    <string name="premium">प्रीमियम</string>
+    <string name="get_effective_plan_with_premium">प्रीमियम के साथ प्रभावी योजना प्राप्त करें</string>
+    <string name="_1_month_subscription">1 महीने की सदस्यता</string>
+    <string name="_6_months_subscriptions">6 महीने की सदस्यता</string>
+    <string name="_40_off">४०% छूट</string>
+    <string name="life_time">जीवन काल की सदस्यता</string>
+    <string name="_60_off">60% की छूट</string>
+    <string name="unlock_all_the_features">सभी सुविधाओं को अनलॉक करें</string>
+    <string name="ads_free">विज्ञापन मुक्त</string>
+    <string name="intermediate1">मध्यम</string>
+    <string name="advanced1">उन्नत</string>
+    <string name="unlock_all_yoga">सभी योग अनलॉक करें</string>
+    <string name="easy_3d_workout_video">आसान 3D कसरत वीडियो</string>
+    <string name="set_your_personal_goal">अपना व्यक्तिगत लक्ष्य निर्धारित करें</string>
+    <string name="back_pain_relief_pro">पीठ दर्द राहत प्रो</string>
+    <string name="purchase_now">अभी खरीदो</string>
+    <string name="set_reminder">अनुस्मारक सेट करें</string>
+    <string name="user">उपयोगकर्ता</string>
+    <string name="my_profile">मेरी प्रोफाइल</string>
+    <string name="google_fit">गूगल फिट</string>
+    <string name="default1">चूक</string>
+    <string name="version_1_0">संस्करण 1.0</string>
+    <string name="nutrition_plan">पोषण योजना</string>
+    <string name="today_s_plan">आज की योजना</string>
+    <string name="use_this_plan">इस योजना का प्रयोग करें</string>
+    <string name="ad">विज्ञापन</string>
+    <string name="appname">एप्लिकेशन का name</string>
+    <string name="reminder_text">अनुस्मारक पाठ</string>
+    <string name="please_enter_your_text_here">कृपया अपना पाठ यहाँ दर्ज करें</string>
+    <string name="fitness_apps">फिटनेस ऐप्स</string>
+    <string name="suggested_for_you">आपके लिए सुझाया गया</string>
+    <string name="suggested_fitness_app">सुझाया गया स्वास्थ्य ऐप</string>
+    <string name="ads">विज्ञापन .</string>
+    <string name="top_free_apps">शीर्ष मुफ्त ऐप्स</string>
+    <string name="suggested_banners">सुझाए गए बैनर</string>
+    <string name="garena_free_fire">गरेना फ्री फायर</string>
+    <string name="free_fire_is_the">फ्री फायर मोबाइल पर उपलब्ध अंतिम उत्तरजीविता शूटर गेम है</string>
+    <string name="you_re_offline">आप ऑफ़लाइन हैं</string>
+    <string name="check_your_internet">अपना इंटरनेट कनेक्शन जांचें और ऑनलाइन वापस आने के लिए पुनः प्रयास करें बटन दबाएं </string>
+    <string name="dr_zio_app_store">Dr.Zio ऐप स्टोर</string>
+    <string name="start_with_your_feeet">अपने पैरों को एक साथ और अपनी बाहों को अपनी तरफ से शुरू करें, फिर अपने पैरों को अलग करके और अपने हाथों को ऊपर की ओर करके ऊपर की ओर कूदें।</string>
+    <string name="other_reason">कोई और वजह..</string>
+    <string name="write_your_feedback">अपनी प्रतिक्रिया लिखें</string>
+    <string name="enter_your_paramaters">अपने पैरामीटर दर्ज करें</string>
+    <string name="get">प्राप्त </string>
+    <string name="personalized_plan">निजीकृत योजना</string>
+    <string name="get_daily_tips">अपनी भाषा में दैनिक युक्तियाँ प्राप्त करें \देश जोड़कर</string>
+    <string name="select">चुनते हैं</string>
+    <string name="next_2_12">अगला 2/12</string>
+    <string name="calf_raise_with_splayed_foot_30s">पिंडी खेले गए पैर के साथ उठाएं 30s</string>
+    <string name="plank">काष्ठफलक</string>
+    <string name="repeat_day">दोहराएँ दिन</string>
+    <string name="repeat1">दोहराना:</string>
+    <string name="every">प्रत्येक</string>
+    <string name="hour_s">घंटे(s)</string>
+    <string name="date">तारीख</string>
+    <string name="_12_07_2019">12/07/2019</string>
+    <string name="showing_ads">विज्ञापन दिखा रहा है..</string>
+    <string name="watch_video_to_unlock">अनलॉक करने के लिए वीडियो देखें</string>
+    <string name="unlock_free">मुक्त  खोलना</string>
+    <string name="or">या</string>
+    <string name="watch_the_video_to_use_training_nplan_once">प्रशिक्षण का उपयोग करने के लिए वीडियो देखें \nएक बार योजना बनाएं</string>
+    <string name="get_premium">प्रीमियम प्राप्त करना</string>
+
+    <string name="cm">सेमी</string>
+    <string name="inch">इंच</string>
+    <string name="ft">फुट</string>
+    <string name="kgs">किग्रा</string>
+    <string name="lbs">एलबीएस</string>
+    <string name="no_thanks">जी नहीं, धन्यवाद!!</string>
+    <string name="complete_100_workouts_for_best_results">सर्वोत्तम परिणामों के लिए 100% वर्कआउट पूरा करें </string>
+    <string name="_16_0">16.0%</string>
+    <string name="we_work_day"><![CDATA[हम आपके लिए दिन रात काम करते हैं। कृपया हमें रेट करें🙏.]]></string>
+    <string name="_10">(10)</string>
+    <string name="please_wait">कृपया प्रतीक्षा करें....</string>
+    <string name="quit">छोड़ना</string>
+    <string name="choose_your_language">अपनी भाषा चुनिए:-</string>
+
+
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+
+    <string name="submit">दर्ज करें</string>
+    <string name="music_for_workout">कसरत के लिए संगीत</string>
+    <string name="choose_from_gallery">गैलरी से चुनें </string>
+    <string name="change_background_music">पृष्ठभूमि संगीत बदलें</string>
+    <string name="unlock_all_features">सभी सुविधाओं को अनलॉक करें</string>
+    <string name="to_unlock_this">इस स्तर को अनलॉक करने के लिए - कोई एक विकल्प चुनें।</string>
+    <string name="complete_n_previous_n_level">पूर्ण \n पिछला \n स्तर</string>
+    <string name="watch_n_ads">देखें \n विज्ञापन</string>
+    <string name="buy_n_premium">खरीदें \n प्रीमियम</string>
+    <string name="to_unlock_this_excercise_choose_this_option">इस व्यायाम को अनलॉक करने के लिए - इस विकल्प को चुनें।</string>
+    <string name="buy_premium">प्रीमियम खरीदें</string>
+    <string name="close">बंद करे</string>
+    <string name="other_users_will_benefit_from_your_review">अन्य उपयोगकर्ता आपकी समीक्षा से लाभान्वित होंगे</string>
+    <string name="please_leave_your_review_on_google_play">कृपया अपनी समीक्षा गूगल प्ले पर छोड़ दें</string>
+    <string name="rate_on_google_play">गूगल प्ले पर दर</string>
+    <string name="plan_1">योजना १</string>
+    <string name="dfdfdf">dfdfdf</string>
+    <string name="india_cumulative_numbers">भारत - संचयी संख्या</string>
+    <string name="updated_loading">अपडेट किया गया: लोड हो रहा है...</string>
+    <string name="source_ministry_of_health_and_family_welfare">स्रोत: स्वास्थ्य और परिवार कल्याण मंत्रालय</string>
+    <string name="today_cases">आज के मामले</string>
+    <string name="today_deaths">आज की मौत</string>
+    <string name="today_recoveries">आज के स्वस्थ</string>
+    <string name="live_now">सीधा प्रसारण हो रहा है</string>
+    <string name="source_world_health_organization">स्रोत: विश्व स्वास्थ्य संगठन</string>
+    <string name="country_region">देश/क्षेत्र</string>
+    <string name="new_ncases">नए\nमामले</string>
+    <string name="new_deaths">नई मौतें</string>
+    <string name="gujarat">गुजरात</string>
+    <string name="day1">पहला दिन</string>
+    <string name="trending">ट्रेंडिंग</string>
+    <string name="vitamin_b6">विटामिन बी6</string>
+    <string name="update">अपडेट करें</string>
+    <string name="sdsdsdds">sdsdsdds</string>
+    <string name="oct_9">9 अक्टूबर</string>
+    <string name="song_name">गीत का name</string>
+    <string name="round">गोल</string>
+    <string name="sun1">रवि</string>
+    <string name="water_drink_reminder_app">पानी पीने कि अनुस्मारक एप्लिकेशन</string>
+    <string name="install_now">अभी इंस्टॉल करे</string>
+    <string name="temppdsdsd">अस्थायी एसडी 💪🔥</string>
+    <string name="snooze">झपकी लेना</string>
+    <string name="once">एक बार</string>
+    <string name="prayer_time_wake">प्रार्थना के समय मुझे ९ बजे जगाया और बस पहले नाश्ता किया</string>
+    <string name="let_s_do_backpain_exercise_today">आइए आज बैकपेन एक्सरसाइज करते हैं।</string>
+    <string name="reminder_type">अनुस्मारक प्रकार</string>
+    <string name="sound">ध्वनि</string>
+    <string name="repeat_reminder">रिपीट रिमाइंडर</string>
+    <string name="report_as">इस रूप में रिपोर्ट करें</string>
+    <string name="alarm">अलार्म</string>
+    <string name="weight_graph">वजन ग्राफ</string>
+    <string name="height_graph">ऊंचाई ग्राफ</string>
+    <string name="save_change">परिवर्तनों को सुरक्षित करें?</string>
+    <string name="are_you_delete">क्या आप पक्का इसे हटाना चाहते हैं?</string>
+    <string name="yes">हाँ</string>
+    <string name="no">ना</string>
+    <string name="deleted">हटाए गए</string>
+    <string name="confirmation">पुष्टीकरण</string>
+    <string name="something_went_wrong">कुछ गलत हो गया!!</string>
+    <string name="take_nrest">आराम करो</string>
+    <string name="press_the_resume">अगले अभ्यास पर जाने के लिए रेस्युमे दबाएं</string>
+    <string name="completed">पूरा हो गया है</string>
+
+    <string name="is_completed"> पूरा किया हैं|</string>
+    <string name="recommand_for_you">आप के लिए अनुशंसित</string>
+    <string name="hated_it">इस से नफरत की गई</string>
+    <string name="dislike_it">नापसंद किया!</string>
+    <string name="its_ok">ठीक है</string>
+    <string name="liked_it">यह पसंद है!</string>
+    <string name="loved_it">बहुत पसंद आया</string>
+    <string name="do_you_like_this_app">क्या आपको यह ऐप पसंद है?</string>
+    <string name="your_feedback_is_useful">आपकी प्रतिक्रिया उपयोगी है</string>
+    <string name="did_you_hear_the_test_voice">क्या आपने परीक्षण आवाज सुनी?</string>
+    <string name="non_veg">मांसाहारी</string>
+    <string name="vegan">शुद्ध शाकाहारी</string>
+    <string name="error">त्रुटि</string>
+    <string name="latest">नवीनतम</string>
+    <string name="related_apps">संबंधित ऐप्स</string>
+    <string name="treading_apps">ट्रेडिंग ऐप्स</string>
+
+    <string name="please_check_after">कृपया कुछ समय बाद जांच लें!..</string>
+    <string name="prepe_app">आपके लिए ऐप तैयार किया जा रहा है...</string>
+    <string name="are_you_sure">क्या आपको यकीन है?</string>
+    <string name="drzio_updatestring">डॉ. जिओ अनुशंसा करता है कि ऐप के निर्बाध और बेहतर प्रदर्शन के लिए कृपया नवीनतम संस्करण में अपडेट करें।</string>
+    <string name="select_gender">कृपया लिंग चुनें</string>
+    <string name="addfood">ऐड फूड</string>
+    <string name="news">नया</string>
+    <string name="you_can_better">आप इससे बेहतर प्रदर्शन कर सकते हैं !!</string>
+    <string name="perform_better">प्रदर्शन खराब है !!</string>
+    <string name="perform_okay">प्रदर्शन ठीक है</string>
+    <string name="perform_good">प्रदर्शन अच्छा है !!</string>
+    <string name="perform_great">प्रदर्शन बढ़िया है !!</string>
+    <string name="purchasefeed1">खरीद मूल्य अधिक है</string>
+    <string name="purchasefeed2">विश्लेषण करें &amp; फिर ख़रीदें</string>
+    <string name="purchasefeed3">अन्य</string>
+    <string name="copyright_2021_dr_zio">कॉपीराइट @ 2022 डॉ ज़ियो</string>
+
+    <string name="retry">पुन: प्रयास करें</string>
+    <string name="blog">ब्लॉग</string>
+
+    <string name="tap_here">यहां टैप करें !!.</string>
+    <string name="sett_edu">अपनी प्रोफ़ाइल और अधिक सेटिंग प्रबंधित करने के लिए यहां टैप करें</string>
+    <string name="repo_edu"> अपनी प्रगति का नियमित ट्रैक रखें </string>
+    <string name="hom_edu"> अपना कसरत शुरू करें और पोषण और कस्टम योजना देखें </string>
+    <string name="dis_edu"> सभी प्रकार के पीठ दर्द के लिए योग योजनाओं की खोज करें </string>
+    <string name="blog_edu"> अपने पसंदीदा विषयों के लिए ब्लॉग और टिप्स पढ़ें </string>
+    <string name="stor_edu"> Dr. zio के और ऐप्स देखें </string>
+    <string name="menu_edu"> मेनू के लिए यहां टैप करें </string>
+    <string name="day">दिन</string>
+    <string name="all_app">सभी ऐप</string>
+    <string name="want_uninterrupted">बिना रुकावट विज्ञापन-मुक्त कसरत चाहते हैं?\n अभी प्रीमियम प्राप्त करें!</string>
+    <string name="admob_openapp" />
+    के लिए योग
+    <string name="beginner">शुरुआती</string>
+    <string name="rate_txt">मैं एक प्रोग्रामर हूं जो आपको इस ऐप पर 5 स्टार अनुभव देने के लिए बहुत मेहनत कर रहा है। कृपया मेरे लिए 5 सितारा समीक्षा लिखें। धन्यवाद! इसका मतलब मेरे लिए दुनिया है।</string>
+
+    <string name="deep_sleep_yoga_and_yog_nindra">गहरी नींद योग और योग निद्रा</string>
+    <string name="yoga_for_insomnia">अनिद्रा के लिए योग</string>
+    <string name = "deep_sleep_yoga">नींद योग</string>
+    <string name = "yog_nindra_effective_sleep">योग निंद्रा प्रभावी नींद</string>
+    <string name = "bed_time_yoga">बिस्तर समय योग</string>
+    <string name="for_sound_sleep">साउंड स्लीप के लिए</string>
+    <string name = "brething_exercise">ब्रीथिंग एक्सरसाइज</string>
+    <string name = "sleep_apnea">स्लीप एपनिया</string>
+    <string name="bed_time_yoga_amp_brething_exercise"><![CDATA[सोने का समय योग और सांस लेने का व्यायाम]]></string>
+    <string name = "yog_nidra_effective_sleep">योग निद्रा - प्रभावी नींद</string>
+    <string name="bed_time_for_sound_sleep">सोने के समय अच्छी नींद के लिए योग करें</string>
+    <string name = "bipolar_depresion">द्विध्रुवीय अवसाद</string>
+    <string name = "info1">अरे! बढ़िया है कि आप नींद की समस्याओं को दूर करने के लिए तैयार हैं। आप स्लीप योगा &amp; नीचे उल्लिखित ध्यान अभ्यास। चलो शुरू करते हैं! </string>
+    <string name="info2">आपको इस योजना में और अधिक चुनौतीपूर्ण नींद ध्यान अभ्यास मिलेंगे। आपके घुटने के दर्द को दूर करने के लिए अधिक स्ट्रेचिंग, अधिक शारीरिक कसरत बहुत जल्द तो चलिए शुरू करते हैं!</string>
+    <string name = "info3"> अंतिम चुनौती! हमने आपके लिए सबसे कठिन स्लीप मेडिटेशन वर्कआउट तैयार किया है जिससे आपको अच्छी नींद आएगी। चलो यह करते हैं!</string>
+    <string name="ftinch">फुट इंच</string>
+</resources>

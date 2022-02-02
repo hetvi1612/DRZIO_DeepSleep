@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1 深度睡眠瑜伽</string>
+
+    <string name="picker_box_arrows_icon">选择框箭头图标</string>
+
+    <string name="favtitle">在此处添加您最喜欢的锻炼。❤根据您的喜好定制您自己的训练计划。</string>
+
+    <string name="mon">星期一</string>
+
+    <string name="tu">星期二</string>
+
+    <string name="wed">星期三</string>
+
+    <string name="thri">星期四</string>
+
+    <string name="fri">星期五</string>
+
+    <string name="sat">星期六</string>
+
+    <string name="sun">星期日</string>
+
+    <string name="facebook_app_id">394103198201105</string>
+
+    <string name="exename1">猫牛式（Majaryasana – Bitilasana）</string>
+
+    <string name="exename2">Bhastrika Pranayama Yoga</string>
+
+    <string name="exename3">斜倚约束角姿势（Supta Baddha Konasana）</string>
+
+    <string name="exename4">坐半脊柱扭转姿势（Ardha Matsyendrasana）</string>
+
+    <string name="exename5">坐姿广角姿势（Upavistha Konasana）</string>
+
+    <string name="exename6">山穆基手印</string>
+
+    <string name="exename7">防风姿势（Pavanamuktasana）</string>
+
+    <string name="exename8">线到针（Parsva Balasana）</string>
+
+    <string name="exename9">犁式（Halasan）</string>
+
+    <string name="exename10">英雄姿势（Virasana）</string>
+
+    <string name="exename11">Nadi Shodhan Pranayam</string>
+
+    <string name="exename12">霹雳式 (Vajrasana)</string>
+
+    <string name="exename13">舞姿之王 (Natarajasana)</string>
+
+    <string name="exename14">Vakrasana（半脊椎扭转式）</string>
+
+    <string name="exename15">儿童姿势 (Hare Pose) (Balasana) </string>
+
+    <string name="exename16">kapalbhati Pranayama</string>
+
+    <string name="exename17">坐姿前屈（Paschimottanasana）</string>
+
+    <string name="exename18">双腿上墙式（Viparita Karani）</string>
+
+    <string name="exename19">前弯（Hasta Padasana）</string>
+
+    <string name="exename20">山式（山式）</string>
+
+    <string name="exename21">仰卧脊椎扭转 (Supta Matsyendrasana)</string>
+
+    <string name="exename22">椅子姿势（Utkatasana）</string>
+
+    <string name="exename23">鱼式 (Matsyasanaa)</string>
+
+    <string name="exename24">独身姿势（Brahmacharyasana）</string>
+
+    <string name="exename25">头对膝前屈（Janu Sirsasana）</string>
+
+
+    <string name="exedesc1">伸展背部躯干和颈部，轻柔地刺激和强化腹部器官。它使脊椎正确对齐，定期练习有助于预防背部疼痛。</string>
+
+    <string name="exedesc2">非常适合肺部和患有反复咳嗽、流感、呼吸系统问题、过敏或呼吸困难的人。增加头部血液供应可改善视力和听力。肺强健，对支气管炎有好处，因为呼吸系统得到快速和深度净化。•对身体和精神很有活力</string>
+
+    <string name="exedesc3">它可以舒缓消化系统和生殖系统，并治疗肠易激性疾病、不孕症、月经失调、消化问题、更年期等病症。•它使您的腹股沟、大腿内侧和膝盖得到良好的伸展.•它减少肌肉紧张，缓解你的疲劳和失眠。还可以安神</string>
+
+    <string name="exedesc4">它提供营养、血液和氧气，并改善生殖系统和泌尿系统的健康。有益于月经失调和脊椎活力，•刺激肝脏和肾脏</string >
+
+    <string name="exedesc5">它刺激腹部器官。增强和调理腹肌、脊柱和腿部。•有助于治疗和缓解坐骨神经痛和关节炎。它可以为肾脏排毒。
+ </string>
+
+    <string name="exedesc6">非常适合面部肌肉和外观，因为手和手指的热量和能量可以刺激和放松面部肌肉。•有助于控制焦虑和消除消极的智力模式。•刺激感觉器官和后期感觉退缩。•带来专注、内向和冷静</string>
+
+    <string name="exedesc7">伸展和加强背部和腹部肌肉。•帮助消化和释放气体。触发脂肪燃烧。•强健腿部和手臂的肌肉。•改善髋关节的血液循环</string>
+
+    <string name="exedesc8">它可以轻柔地拉伸你的上胸部肌肉。•它打开你肩膀的上部和外部肌肉。•它增加了上肢的血液循环。 </string>
+
+    <string name="exedesc9">它可以增强背部的柔韧性并拉伸腿部后部的肌肉。 •它可以加强和打开颈部、肩部、腹肌和背部肌肉</string>
+
+    <string name="exedesc10">加强手臂和肩膀，保持脊椎灵活。它为大脑提供更多血液滋养。 </string>
+
+    <string name="exedesc11">它还有助于缓解导致花粉热、打喷嚏或喘息的呼吸道过敏•帮助协调大脑的左右半球，这与我们性格的逻辑和情感方面相关。</string>
+
+    <string name="exedesc12">改善消化，对抗便秘和酸度。•缓解月经紊乱。•调节生殖器官和甲状腺的功能。•增强骨盆肌肉</string>
+
+    <string name="exedesc13">这个姿势象征着宇宙能量，当你这样做时，你就在宇宙的流动中跳舞。•伸展和加强胸部、肩膀、股四头肌、前身，包括腹部。•伸展上部背部、股四头肌、脚踝、脚、大腿、腹股沟和腹部•改善平衡</string>
+
+    <string name="exedesc14">刺激心、肾、肝、脾、肺。•有助于减少腹部脂肪，强肾，•有助于预防和控制糖尿病。•增强背部肌肉，减轻背部疼痛</string>
+
+    <string name="exedesc15">有助于摆脱便秘。•这会导致肾上腺功能良好。伸展背部肌肉，使其更强壮。•增强男性和女性生殖器官的健康</string>
+
+    <string name="exedesc16">提高新陈代谢率，帮助减肥•改善消化道功能，吸收和吸收营养•为神经系统提供能量，使脑细胞恢复活力•改善血液循环，使脸部焕发光彩•它刺激腹部器官，因此对糖尿病患者非常有用•提高记忆力和注意力</string>
+
+    <string name="exedesc17">它刺激松果体、下丘脑和垂体的功能，并帮助分泌负责身高的生长激素。 •它可以加强背部、肩膀和手臂的肌肉。 </string>
+
+    <string name="exedesc18">缓解疲倦或抽筋的腿和脚•缓解头痛•缓解腰痛•镇静心灵
+ </string>
+
+    <string name="exedesc19">它可以使神经系统恢复活力，促进脑垂体适当的血液循环，从而释放与身高有关的生长激素。它还可以通过脊柱伸展背部和下半身肌肉。 </string>
+
+    <string name="exedesc20">它可以调节腿部肌肉，消除腿部和臀部的僵硬，治疗背痛和颈部扭伤，发展胸部并强健脚踝。</string>
+
+    <string name="exedesc21">跪下扭转拉伸背部重新排列，肌肉和延长脊柱，并滋润脊椎盘。•它使您的肩膀、胸部、中脊椎、臀部、下背部和上背部得到良好的锻炼舒展。•鼓励新鲜血液流向内脏，并为您的内脏提供全面排毒</string>
+
+    <string name="exedesc22">伸展和加强背部和腹部肌肉。•帮助消化和释放气体。触发脂肪燃烧。•强健腿部和手臂的肌肉。•改善髋关节的血液循环。</string>
+
+    <string name="exedesc23">缓解颈部、喉咙和肩部的紧张感。伸展和刺激腹部和喉咙的器官。
+ </string>
+
+    <string name="exedesc24">提高新陈代谢率，帮助减肥。改善消化道功能，吸收和吸收营养。激活神经系统，使脑细胞恢复活力。改善血液循环，增加面部光泽。它刺激腹部器官，因此对糖尿病患者非常有用。提高记忆力和注意力。 </string>
+
+    <string name="exedesc25">它可以全面拉伸您的腘绳肌、肩膀、小腿、足弓、手和脊椎，同时增强您的手臂、肩膀和腿部的力量。它促进血液循环。非常适合全身伸展以增加身高的运动。</string>
+    
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+
+    <string name="add_exercise">添加练习</string>
+
+    <string name="height_increase_workout">@string/app_name</string>
+
+    <string name="please_check_your_internet_connection">请检查您的 互联网 连接！！！</string>
+
+    <string name="refresh">刷新</string>
+
+    <string name="start">开始</string>
+
+    <string name="previous">上一个</string>
+
+    <string name="next">下一个</string>
+
+    <string name="tips">提示</string>
+
+    <string name="history">历史</string>
+
+    <string name="com_continue">继续</string>
+
+    <string name="reminder">提醒</string>
+
+    <string name="calculate_bmi">计算BMI</string>
+
+    <string name="weight">重量：</string>
+
+    <string name="weight1">重量</string>
+
+    <string name="bmi_kg_m">BMI（公斤/平方米）</string>
+
+    <string name="calories">卡路里</string>
+
+    <string name="exercises">练习</string>
+
+    <string name="duration">持续时间</string>
+
+    <string name="ready_to_go">准备出发！</string>
+
+    <string name="skip">跳过</string>
+
+    <string name="reset">重置</string>
+
+    <string name="add">添加</string>
+
+    <string name="video">视频</string>
+
+    <string name="animation">动画</string>
+
+    <string name="txt_weekgoal">设置每周目标</string>
+
+    <string name="save">保存</string>
+
+    <string name="user_age">年龄</string>
+
+    <string name="user_gender">性别</string>
+
+    <string name="user_male">男</string>
+
+    <string name="user_height">高度</string>
+
+    <string name="user_weight">权重</string>
+
+    <string name="user_meal">膳食</string>
+
+    <string name="rest_day">休息日</string>
+
+    <string name="finished">FINISHED</string>
+
+    <string name="diet_list">饮食清单</string>
+
+    <string name="no_internet">没有可用的 互联网 连接！！</string>
+
+    <string name="set_your_weekly_goal">设定你的每周目标</string>
+
+    <string name="recommandedtxt">我们建议每周至少训练 3 天以获得更好的效果</string>
+
+    <string name="training_days">培训天数</string>
+
+    <string name="first_day_of_week">一周的第一天</string>
+
+    <string name="to_set_regional_plan">设置区域计划</string>
+
+    <string name="select_state">选择状态</string>
+
+    <string name="select_city">选择城市</string>
+
+    <string name="what_s_your_gender">选择你是谁？</string>
+
+    <string name="to_personalize_your_plan">个性化您的计划</string>
+
+    <string name="female">女</string>
+
+    <string name="male">男</string>
+
+    <string name="diet_plan">饮食计划</string>
+
+    <string name="vegetarian">素食者</string>
+
+    <string name="non_nvegetarian">非素食者</string>
+
+    <string name="vegan">素食主义者</string>
+
+    <string name="how_old_are_you">你几岁了？</string>
+
+    <string name="calculate">计算</string>
+
+    <string name="ok">OK</string>
+
+    <string name="mute">静音</string>
+
+    <string name="voice_guide">语音指南</string>
+
+    <string name="coach_tips">教练技巧</string>
+
+    <string name="sound_options">声音选项</string>
+
+    <string name="please_name_your_plan">请命名您的计划</string>
+
+    <string name="cancel">取消</string>
+
+    <string name="give_up">放弃</string>
+
+    <string name="please_set_reminder">请设置提醒</string>
+
+    <string name="restart">重启</string>
+
+    <string name="having_a_beautiful_body_has_never_easy">拥有美丽的身材绝非易事！</string>
+
+    <string name="settings">设置</string>
+
+    <string name="test_voice">测试语音</string>
+
+    <string name="workout">锻炼</string>
+
+    <string name="remind_me_to_workout_every_day">提醒我每天锻炼</string>
+
+    <string name="voice_options_tts">语音选项 (TTS)</string>
+
+    <string name="voice_language">语音语言</string>
+
+    <string name="download_more_tts_language_data">下载更多 TTS 语言数据</string>
+
+    <string name="device_tts_setting">设备 TTS 设置</string>
+
+    <string name="general_settings">通用设置</string>
+
+    <string name="language_options">语言选项</string>
+
+    <string name="restart_progress">重启进度</string>
+
+    <string name="support_us">支持我们</string>
+
+    <string name="rate_us">评价我们</string>
+
+    <string name="share_with_friends">与朋友分享</string>
+
+    <string name="privacy_policy">隐私政策</string>
+
+    <string name="repeat">重复</string>
+
+    <string name="aboveage">18 岁以上</string>
+
+    <string name="nextexespeech">下一个练习是</string>
+
+    <string name="startspeech">开始练习</string>
+
+    <string name="feed1">我不喜欢这个设计</string>
+
+    <string name="feed2">它没有我需要的功能</string>
+
+    <string name="feed3">不好用</string>
+
+    <string name="feed4">太复杂了</string>
+
+    <string name="feed5">翻译很差</string>
+
+
+    -
+    <string name="reminderdialtxt">
+
+<u>为什么不提醒自己获得 100% 的结果。</u>
+
+</string>
+
+    <string name="terms">创建帐户意味着您可以接受</string>
+
+
+    -
+    <string name="tandc">
+
+<u>服务条款</u>
+
+</string>
+
+
+    -
+    <string name="privacy">
+
+<u>隐私政策</u>
+
+</string>
+
+
+    -
+    <string name="tvbmis">
+
+<u>计算BMI</u>
+
+</string>
+
+
+    -
+
+
+    -
+    <string name="tvmoretips">
+
+<u>更多提示>></u>
+
+</string>
+
+
+    -
+    <string name="tvmoredetail">
+
+<u>更多详情>></u>
+
+</string>
+
+    <string name="termstxt">通过下载或使用该应用程序，这些条款将自动适用于您——因此您应该确保在使用该应用程序之前仔细阅读它们。您不得以任何方式复制或修改应用程序、应用程序的任何部分或我们的商标。您不得尝试提取应用程序的源代码，也不得尝试将应用程序翻译成其他语言或制作衍生版本。该应用程序本身以及与之相关的所有商标、版权、数据库权利和其他知识产权仍属于 Zio 博士所有。 Zio 博士致力于确保该应用程序尽可能有用和高效。因此，我们保留随时以任何理由更改应用程序或对其服务收费的权利。我们绝不会向您收取应用程序或其服务的费用，除非您明确说明您支付的费用。 “18岁后增加高度申请”存储和处理您提供给我们的个人数据，以提供更好的服务。您有责任确保您的手机和应用程序访问安全。因此，我们建议您不要越狱或root您的手机，这是消除您设备的官方操作系统强加的软件限制和限制的过程。它可能会使您的手机容易受到恶意软件/病毒/恶意程序的攻击，损害您手机的安全功能，这可能意味着此应用程序将无法正常运行或根本无法运行。 您应该知道 Zio 博士不会对某些事情负责。该应用程序的某些功能将要求该应用程序具有有效的互联网连接。连接可以是 Wi-Fi 或由您的移动网络提供商提供，但如果您无法访问 Wi-Fi，并且您没有任何您的数据限额还剩。 如果您在有 Wi-Fi 的区域之外使用该应用程序，您应该记住，您与移动网络提供商的协议条款仍然适用。因此，您的移动提供商可能会向您收取访问应用程序时连接期间的数据费用或其他第三方费用。在使用该应用程序时，如果您在本国领土（即地区或国家）之外使用该应用程序而未关闭数据漫游，则您将承担任何此类费用，包括漫游数据费用。如果您不是使用该应用程序的设备的账单支付者，请注意，我们假设您已获得账单支付者的使用该应用程序的许可。同样，Zio 博士并不总是对您使用该应用程序的方式负责，即您需要确保您的设备保持充电状态 - 如果电池电量耗尽并且您无法打开它以使用该服务， Zio 博士不能承担责任。关于 Zio 博士对您使用该应用程序的责任，当您使用该应用程序时，重要的是要记住，尽管我们努力确保它始终更新和正确，但我们确实依赖第三方向我们提供信息，以便我们向您提供。 Zio 博士对您因完全依赖应用程序的此功能而遭受的任何直接或间接损失不承担任何责任。在某些时候，我们可能希望更新应用程序。该应用程序目前可在 Android 上使用 - 系统要求（以及我们决定将应用程序的可用性扩展到的任何其他系统）可能会发生变化，如果您想继续使用该应用程序，则需要下载更新。 Zio 博士不承诺它会始终更新应用程序，以便它与您相关和/或与您在设备上安装的 Android 版本一起使用。但是，您承诺在向您提供应用程序时始终接受更新，我们也可能希望停止提供该应用程序，并可能随时终止使用它，而无需向您发出终止通知。除非我们另行通知，否则在任何终止时，(a) 在这些条款中授予您的权利和许可将终止； (b) 您必须停止使用该应用，并且（如果需要）将其从您的设备中删除。</string>
+
+    <string name="policytxt">一般政策 通过下载或使用该应用程序，这些条款将自动适用于您——因此您应该确保在使用该应用程序之前仔细阅读它们。您不得以任何方式复制或修改应用程序、应用程序的任何部分或我们的商标。您不得尝试提取应用程序的源代码，也不得尝试将应用程序翻译成其他语言或制作衍生版本。该应用程序本身以及与之相关的所有商标、版权、数据库权利和其他知识产权仍属于 Zio 博士所有。 Zio 博士致力于确保该应用程序尽可能有用和高效。因此，我们保留随时以任何理由更改应用程序或对其服务收费的权利。我们绝不会向您收取应用程序或其服务的费用，除非您明确说明您支付的费用。 “Deep Sleep 应用程序”存储和处理您提供给我们的个人数据，以提供更好的服务。您有责任确保您的手机和应用程序访问安全。因此，我们建议您不要越狱或root您的手机，这是消除您设备的官方操作系统强加的软件限制和限制的过程。它可能会使您的手机容易受到恶意软件/病毒/恶意程序的攻击，损害您手机的安全功能，这可能意味着此应用程序将无法正常运行或根本无法运行。您应该知道 Zio 博士不会对某些事情负责。该应用程序的某些功能将要求该应用程序具有有效的互联网连接。连接可以是 Wi-Fi 或由您的移动网络提供商提供，但如果您无法访问 Wi-Fi，并且您没有任何您的数据限额还剩。如果您在有 Wi-Fi 的区域之外使用该应用程序，您应该记住，您与移动网络提供商的协议条款仍然适用。因此，您的移动提供商可能会向您收取访问应用程序时连接期间的数据费用或其他第三方费用。在使用该应用程序时，如果您在本国领土（即地区或国家）之外使用该应用程序而未关闭数据漫游，则您将承担任何此类费用，包括漫游数据费用。如果您不是使用该应用程序的设备的账单支付者，请注意，我们假设您已获得账单支付者的使用该应用程序的许可。同样，Zio 博士并不总是对您使用该应用程序的方式负责，即您需要确保您的设备保持充电状态 - 如果电池电量耗尽并且您无法打开它以使用该服务， Zio 博士不能承担责任。关于 Zio 博士对您使用该应用程序的责任，当您使用该应用程序时，重要的是要记住，尽管我们努力确保它始终更新和正确，但我们确实依赖第三方向我们提供信息，以便我们向您提供。 Zio 博士对您因完全依赖应用程序的此功能而遭受的任何直接或间接损失不承担任何责任。在某些时候，我们可能希望更新应用程序。该应用程序目前可在 Android 上使用 - 系统要求（以及我们决定将应用程序的可用性扩展到的任何其他系统）可能会发生变化，如果您想继续使用该应用程序，则需要下载更新。 Zio 博士不承诺它会始终更新应用程序，以便它与您相关和/或与您在设备上安装的 Android 版本一起使用。但是，您承诺在向您提供应用程序时始终接受更新，我们也可能希望停止提供该应用程序，并可能随时终止使用它，而无需向您发出终止通知。除非我们另行通知，否则在任何终止时，(a) 在这些条款中授予您的权利和许可将终止； (b) 您必须停止使用该应用程序，并且（如果需要）将其从您的设备中删除。如何使用应用程序：我们建议您通过订阅医生的方式使用此应用程序，如果您有任何严重的疾病和骨骼、心脏、背部受伤、脊椎、头部受伤或任何其他身体损伤，请请专家/医生做此瑜伽、运动和锻炼。隐私政策齐奥 博士将 背痛 应用程序构建为商业应用程序。本服务由 齐奥 博士提供，旨在按原样使用。如果任何人决定使用我们的服务，此页面用于告知访问者有关我们收集、使用和披露个人信息的政策。如果您选择使用我们的服务，即表示您同意收集和使用有关本政策的信息。我们收集的个人信息用于提供和改进服务。我们不会使用或与任何人共享您的信息，除非在本隐私政策中有说明。本隐私政策中使用的术语与我们的条款和条件具有相同的含义，除非本隐私政策中另有定义，否则可在 18 岁后增加高度访问。信息收集和使用为了获得更好的体验，在使用我们的服务时，我们可能会要求您向我们提供某些个人身份信息，包括但不限于我们收集个人的 Gmail Id、姓名、年龄、身高、体重，以获得更好的用户体验根据他们的 BMI（身体质量指数）获得特定帮助并通过提示获取通知，并根据他们的位置自定义通知和广告。我们要求的信息将由我们保留并按照本隐私政策中的描述使用。该应用程序确实使用第三方服务，这些服务可能会收集用于识别您身份的信息。链接到应用程序使用的第三方服务提供商的隐私政策谷歌播放 服务 (https://policies.google.com/privacy)AdMob (https://support.google.com/admob/answer/6128543?hl=zh-CN)Firebase 分析 (https://firebase.google.com/policies/analytics) 脸书 (https://www.facebook.com/about/privacy) 织物 (https://fabric.io/privacy)Crashlytics (https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect) 当您使用我们的服务时，我们会收集有关您位置的信息，这有助于我们提供诸如周末度假的行车路线或您附近播放的电影的放映时间等功能。您可以通过以下方式以不同程度的准确度确定您的位置： 全球定位系统 IP地址 来自您设备的传感器数据 有关设备附近事物的信息，例如 Wi-Fi 接入点、手机信号塔和支持蓝牙的设备 我们收集的位置数据类型部分取决于您的设备和帐户设置。例如，您可以使用设备的设置应用程序打开或关闭 Android 设备的位置信息。如果您想使用已登录的设备创建您去过的地方的私人地图，您还可以打开位置历史记录。 广告 通过使用我们的应用程序，您可能会获得广告内容。我们或我们使用的广告网络可能会利用广告服务技术，这些技术使用 曲奇饼、信标、跟踪像素和其他放置在广告中的技术，并允许我们或我们的网络收集非个人信息。年龄和性别等非个人信息可用于确保向您提供适当的广告。使用数据和非个人信息（例如广告标识符）可用于确定广告获得的点击次数、衡量广告活动的有效性、确定给定广告的适当重复观看次数和/或投放广告最符合您的兴趣。根据您的设备及其操作系统，您可以选择阻止您设备的广告标识符用于基于兴趣的广告，或通过更改设备设置来重置设备的广告标识符。广告提供商公司可能会获取您的位置，以便更好地实现广告用户本地化和本地语言广告个性化。 信息收集目的 非个人信息用于统计和研究目的以及我们应用程序的定制和改进 个人信息用于在您通过电子邮件联系时能够回复您。 位置/IP 等个人信息用于根据您的位置向您展示广告，这称为上下文广告。 我们使用收集到的有关您/您的设备的信息为您提供服务并运营我们的业务。我们和我们的合作伙伴的此类使用可能包括： 提供我们的服务：开发、提供和改进我们的产品、服务和内容，定制我们的产品和服务，提供软件更新和产品支持，了解和分析与应用程序使用相关的趋势，管理应用程序和客户沟通。 显示广告：在我们的应用程序中显示第三方广告，并在其他发布商的应用程序中显示我们应用程序的广告。交叉推广：交叉推广我们的应用程序和服务，这意味着我们可能会在您玩我们的不同应用程序时推广我们的一个应用程序。 分析和研究：了解和分析与应用程序使用相关的趋势，收集有关我们用户群的人口统计信息，有关应用程序从何处下载的数据。我们还可能为研究或商业智能创建报告和分析，例如，跟踪我们的应用程序和服务的潜在问题或趋势，或测试我们的新游戏功能和内容。我们将从第三方社交网络收到的数据仅用于内部分析。如需退出分析，请访问本隐私政策的退出部分。 日志数据 我们想通知您，每当您使用我们的服务时，如果应用程序出现错误，我们会在您的手机上收集数据和信息（通过第三方产品），称为日志数据。该日志数据可能包括您的设备互联网协议（“IP”）地址、设备名称、操作系统版本、使用我们服务时应用程序的配置、您使用服务的时间和日期以及其他统计信息等信息.在上述情况下，我们保证您的 PII（个人身份信息）将仅用于联系您和改进我们的服务。我们绝不会将此类信息（例如您的姓名和电子邮件地址）用于任何其他目的，例如进一步营销我们的产品或将您的个人信息披露给第三方以获得商业利益。 如果您担心您的 PII 被滥用，或者您想了解有关我们隐私政策及其含义的更多信息，请随时发送电子邮件至 dr齐奥cure@gmail.com，我们将努力为您的问题提供明确的答案时间。 饼干 我们使用 曲奇饼 和类似的跟踪技术来跟踪我们服务上的活动并保存某些信息。 曲奇饼 是包含少量数据的文件，通常用作匿名唯一标识符。这些信息会从您访问的网站发送到您的浏览器，并存储在您设备的内存中。本服务不明确使用这些“曲奇饼”。但是，该应用程序可能会使用使用“曲奇饼”的第三方代码和库来收集信息并改进其服务。您可以选择接受或拒绝这些 曲奇饼，并知道何时将 曲奇饼 发送到您的设备。如果您选择拒绝我们的 曲奇饼，您可能无法使用本服务的某些部分。 我们使用的 曲奇饼 示例： 会话 曲奇饼：我们使用会话 曲奇饼 来运营我们的服务。 偏好 曲奇饼：我们使用偏好 曲奇饼 来记住您的偏好和各种设置。 安全 曲奇饼：我们出于安全目的使用安全 曲奇饼。付款 我们可能会在服务中提供付费产品和/或服务。在这种情况下，我们使用第三方服务进行支付处理（例如支付处理器）。 我们不会存储或收集您的支付卡详细信息。该信息直接提供给我们的第三方支付处理商，他们对您的个人信息的使用受其隐私政策的约束。这些支付处理器遵守 PCI-DSS 制定的标准，由 PCI 安全标准委员会管理，这是 Visa、万事达卡、美国运通和 Discover 等品牌的共同努力。 PCI-DSS 要求有助于确保支付信息的安全处理。 我们合作的支付处理器是： 谷歌播放 应用内付款购买他们的隐私政策可以在 https://policies.google.com/privacy 查看数据安全 您数据的安全性对我们很重要，但请记住，没有任何通过 Internet 传输的方法或电子存储方法是 100% 安全的。虽然我们努力使用商业上可接受的方式来保护您的个人数据，但我们无法保证其绝对安全。 服务供应商 由于以下原因，我们可能会聘请第三方公司和个人： 促进我们的服务； 代表我们提供服务； 执行与服务相关的服务； 帮助我们分析如何使用我们的服务。 我们想通知本服务的用户，这些第三方可以访问您的个人信息。原因是代表我们执行分配给他们的任务。但是，他们有义务不将信息披露或用于任何其他目的。 安全 我们重视您对向我们提供您的个人信息的信任，因此我们正在努力使用商业上可接受的方式来保护它。但请记住，没有任何通过互联网传输的方法或电子存储方法是 100% 安全可靠的。 然而，通过互联网或电话网络传输信息并不完全安全。虽然我们尽最大努力保护您的信息，特别是在保护您的个人数据方面， “博士。 齐奥-瑜伽老师”无法确保您通过互联网、电话或任何其他网络传输的数据的安全性。 其他网站的链接 本服务可能包含指向其他网站的链接。如果您单击第三方链接，您将被定向到该站点。请注意，这些外部网站并非由我们运营。因此，我们强烈建议您查看这些网站的隐私政策。我们无法控制任何第三方网站或服务的内容、隐私政策或做法，也不对其承担任何责任。 儿童隐私 这些服务不针对 13 岁以下的任何人。我们不会有意收集 13 岁以下儿童的个人身份信息。如果我们发现 13 岁以下儿童向我们提供了个人信息，我们会立即从我们的服务器中删除这些信息。如果您是父母或监护人，并且您知道您的孩子向我们提供了个人信息，请与我们联系，以便我们能够采取必要的行动。本隐私政策的变更我们可能会不时更新我们的隐私政策。因此，建议您定期查看此页面以了解任何更改。我们将通过在此页面上发布新的隐私政策来通知您任何更改。这些更改在发布到此页面后立即生效。联系我们如果您对我们的隐私政策有任何问题或建议，请随时发送电子邮件至 drziocure@gmail.com，我们将努力及时为您的问题提供明确的答复。加州在线隐私保护法案 CalOPPA 是美国第一部要求商业网站和在线服务发布隐私政策的州法律。该法律的适用范围远远超出加利福尼亚州，要求美国（以及可以想象的世界）运营网站的任何个人或公司从加利福尼亚州消费者那里收集个人身份信息，在其网站上张贴显眼的隐私政策，准确说明所收集的信息和那些与其共享信息的个人或公司。 – 查看更多信息：http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf 根据 CalOPPA，我们同意以下内容： 用户可以匿名访问我们的网站。 我们是否允许第三方（包括广告网络或插件）收集 13 岁以下儿童的 PII？ – 我们不会专门针对 13 岁以下的儿童进行营销。责任限制齐奥博士- 瑜伽老师对通过应用程序提供的内容的准确性、完整性或充分性不作任何声明、承诺或保证，并明确声明不对通过应用程序提供的内容中的错误和遗漏承担任何责任。 – 不提供任何类型的、暗示的、明示的或法定的保证，包括但不限于不侵犯第三方权利、所有权、适销性、特定用途的适用性和无计算机病毒的保证。通过应用程序提供的内容或其链接到您可能通过应用程序获得的其他互联网资源。 – 在应用程序中提及任何特定的商业产品、流程或服务，或使用任何贸易、公司或公司名称是为了公众的信息和方便，并不构成 齐奥博士——瑜伽老师。本隐私政策的变更 我们可能会不时更新我们的隐私政策。因此，建议您定期查看此页面以了解任何更改。我们将通过在此页面上发布新的隐私政策来通知您任何更改。这些更改在发布到此页面后立即生效。 创建此隐私政策后，我们将在我们的主页上或至少在进入我们网站后的第一个重要页面上添加指向它的链接。 如果您有任何问题或疑虑，请随时给我们发送电子邮件或发送电子邮件至 drziocure@gmail.com，我们将尽力解决您的疑虑。 </string>
+
+    <string name="ntitle1">错过背痛锻炼！</string>
+
+    <string name="ntitle2">不要错过您的计划！</string>
+
+    <string name="ntitle3">是时候开始锻炼了！</string>
+
+    <string name="ntitle4">为什么不是现在？</string>
+
+    <string name="ntitle5">提升自己！</string>
+
+    <string name="ntitle6">时间到了！</string>
+
+    <string name="ntitle7">您.. 是的，您可以实现... 单击此处？</string>
+
+    <!--<string name="ntitle8">Boost yourself!</string><string name="ntitle9">Time is now!</string><string name="ntitle10">You.. Yes You can achieve… Click</string>-->
+
+
+    <string name="desc1">永不放弃！你即将实现！💪🔥</string>
+
+    <string name="desc2">别想着放弃！💪🔥</string>
+
+    <string name="desc3">小小的工作可以让你拥有更大的生活。继续！💪🔥</string>
+
+    <string name="desc4">努力就是胜利！继续加油！💪🔥</string>
+
+    <string name="desc5">不要放弃！你就快到了！💪🔥</string>
+
+    <string name="desc6">好事需要时间！永不放弃！💪🔥</string>
+
+    <string name="desc7">改变并不容易！继续加油！💪🔥</string>
+
+    <string name="desc8">胜利者是梦想家！永不放弃！💪🔥</string>
+
+    <string name="icons">💪🔥</string>
+
+
+    -
+    <string name="strstate">
+选择状态
+<font color="#FC527F"> *</font>
+
+</string>
+
+
+    -
+    <string name="select_the_country">
+选择国家
+<font color="#FC527F"> *</font>
+
+</string>
+
+    <string name="details1">此应用提供以上自动续订订阅选项：</string>
+
+    <string name="details3">背痛专业版 的付款将在确认购买时从您的 谷歌播放 帐户中扣除。你的背痛专家 订阅将自动续订，除非在当前订阅计费周期结束前至少 24 小时在您的 谷歌播放 帐户中关闭自动续订。\n您可以在 谷歌播放 帐户设置中管理您的订阅或关闭自动续订购买后。如果您在订阅期的中间和中间关闭自动续订。在此期间结束之前，您仍然可以使用所有高级功能。在订阅期间关闭自动续订将不会获得部分退款。您可以在购买后管理您的订阅或在您的 谷歌播放 帐户设置中关闭自动续订。如果您在订阅期的中间和中间关闭自动续订。在此期间结束之前，您仍然可以使用所有高级功能。在订阅期中途关闭自动续订将不会获得部分退款。</string>
+
+    <string name="more">更多</string>
+
+    <string name="total">总计</string>
+
+    <string name="report">报告</string>
+
+    <string name="your_plan">你的计划</string>
+
+    <string name="_12_days_left">还剩 12 天</string>
+
+    <string name="days_left">剩余天数</string>
+
+    <string name="back_pain_relief">背部疼痛缓解</string>
+
+    <string name="info">信息</string>
+
+    <string name="intermediate_level">中级</string>
+
+    <string name="intermediate">中间</string>
+
+    <string name="advanced_level">高级</string>
+
+    <string name="advanced">高级</string>
+
+    <string name="weekly_goal">每周目标</string>
+
+    <string name="set">+SET</string>
+
+    <string name="nutrition_nplan">营养\n计划</string>
+
+    <string name="customize_plan">自定义计划</string>
+
+    <string name="customize_nyour_plan">自定义\n您的计划</string>
+
+    <string name="explore_plan">探索计划</string>
+
+    <string name="discover">发现</string>
+
+    <string name="discover1">发现</string>
+
+    <string name="daily_tips">每日小贴士</string>
+
+    <string name="loading">正在加载...</string>
+
+    <string name="all_diets">所有饮食</string>
+
+    <string name="done">完成</string>
+
+    <string name="share">分享</string>
+
+    <string name="all_history">所有历史</string>
+
+    <string name="category_name">类别名称</string>
+
+    <string name="covid_tracker">新冠病毒追踪器</string>
+
+    <string name="plans_made_for_you">为您制定的计划</string>
+
+    <string name="confirmed_cases">确认案例</string>
+
+    <string name="deaths">死亡事件</string>
+
+    <string name="recoveries">恢复</string>
+
+    <string name="city_province">城市/省</string>
+
+    <string name="confirmed_ncases">已确认\n案例</string>
+
+    <string name="my_training">我的训练</string>
+
+    <string name="reports">报告</string>
+
+    <string name="discover_plan">探索计划</string>
+
+    <string name="covid_19">Covid-19</string>
+
+    <string name="remove_ads">移除广告</string>
+
+    <string name="new_apps">新应用</string>
+
+    <string name="share_app">分享应用</string>
+
+    <string name="jumping_jacks">跳跃插孔</string>
+
+    <string name="_1_min">1 分钟</string>
+
+    <string name="_2_exercises">2 个练习</string>
+
+    <string name="edit">编辑</string>
+
+    <string name="_5_ft_5_in">5 英尺 5 英寸</string>
+
+    <string name="veg">蔬菜</string>
+
+    <string name="non_veg">非蔬菜</string>
+
+    <string name="height_graph">高度图</string>
+
+    <string name="please_login_to_unlock_graph">请登录解锁图！！！</string>
+
+    <string name="weight_graph">权重图</string>
+
+    <string name="user_info">用户信息</string>
+
+    <string name="premium">高级</string>
+
+    <string name="get_effective_plan_with_premium">使用 优质的 获得有效的计划</string>
+
+    <string name="_1_month_subscription">1 个月订阅</string>
+
+    <string name="_6_months_subscriptions">6 个月订阅</string>
+
+    <string name="_40_off">40% 折扣</string>
+
+    <string name="life_time">终身订阅</string>
+
+    <string name="_60_off">60% 折扣</string>
+
+    <string name="unlock_all_the_features">解锁所有功能</string>
+
+    <string name="ads_free">无广告</string>
+
+    <string name="intermediate1">中级</string>
+
+    <string name="advanced1">高级</string>
+
+    <string name="unlock_all_yoga">解锁所有瑜伽</string>
+
+    <string name="easy_3d_workout_video">简单的 3D 锻炼视频</string>
+
+    <string name="set_your_personal_goal">设定你的个人目标</string>
+
+    <string name="back_pain_relief_pro">背痛专业版</string>
+
+    <string name="purchase_now">立即购买</string>
+
+    <string name="set_reminder">设置提醒</string>
+
+    <string name="user">用户</string>
+
+    <string name="my_profile">我的个人资料</string>
+
+    <string name="google_fit">Google 健身</string>
+
+    <string name="default1">默认</string>
+
+    <string name="version_1_0">1.0 版</string>
+
+    <string name="nutrition_plan">营养计划</string>
+
+    <string name="today_s_plan">今天的计划</string>
+
+    <string name="use_this_plan">使用本计划</string>
+
+    <string name="ad">广告</string>
+
+    <string name="appname">应用名</string>
+
+    <string name="reminder_text">提醒文本</string>
+
+    <string name="please_enter_your_text_here">请在此处输入您的文字</string>
+
+    <string name="fitness_apps">健身应用</string>
+
+    <string name="suggested_for_you">为您推荐</string>
+
+    <string name="suggested_fitness_app">推荐的健身应用</string>
+
+    <string name="ads">广告 .</string>
+
+    <string name="top_free_apps">热门免费应用</string>
+
+    <string name="suggested_banners">建议横幅</string>
+
+    <string name="garena_free_fire">garena 自由火s</string>
+
+    <string name="free_fire_is_the">自由火 是手机上的终极生存射击游戏</string>
+
+    <string name="you_re_offline">您离线</string>
+
+    <string name="check_your_internet">检查您的互联网连接并按重试按钮返回在线</string>
+
+    <string name="dr_zio_app_store">齐奥博士 应用商店</string>
+
+    <string name="start_with_your_feeet">开始时双脚并拢，双臂放在身体两侧，然后双脚分开，双手举过头顶。</string>
+
+    <string name="other_reason">其他原因..</string>
+
+    <string name="write_your_feedback">写下您的反馈</string>
+
+    <string name="enter_your_paramaters">输入您的参数</string>
+
+    <string name="get">得到</string>
+
+    <string name="personalized_plan">个性化计划</string>
+
+    <string name="get_daily_tips">以您的语言\n通过添加国家/地区获取每日提示</string>
+
+    <string name="select">选择</string>
+
+    <string name="next_2_12">下一个 2/12</string>
+
+    <string name="calf_raise_with_splayed_foot_30s">外展脚抬高小腿 30 秒</string>
+
+    <string name="plank">木板</string>
+
+    <string name="repeat_day">重复日</string>
+
+    <string name="repeat1">重复：</string>
+
+    <string name="every">每个</string>
+
+    <string name="hour_s">小时</string>
+
+    <string name="date">日期</string>
+
+    <string name="_12_07_2019">12/07/2019</string>
+
+    <string name="showing_ads">显示广告..</string>
+
+    <string name="watch_video_to_unlock">观看视频解锁</string>
+
+    <string name="unlock_free">免费解锁</string>
+
+    <string name="or">或</string>
+
+    <string name="watch_the_video_to_use_training_nplan_once">观看视频以使用培训\n计划一次</string>
+
+    <string name="get_premium">获取高级</string>
+
+    <string name="cm">cm</string>
+
+    <string name="inch">英寸</string>
+
+    <string name="ft">ft</string>
+
+    <string name="kgs">公斤</string>
+
+    <string name="lbs">磅</string>
+
+    <string name="no_thanks">不，谢谢！！</string>
+
+    <string name="complete_100_workouts_for_best_results">完成 100% 锻炼以获得最佳效果</string>
+
+    <string name="_16_0">16.0%</string>
+
+
+    -
+    <string name="we_work_day">
+
+-<![CDATA[我们日夜为您工作。请给我们评分🙏。]]>
+</string>
+
+    <string name="_10">(10)</string>
+
+    <string name="please_wait">请稍候....</string>
+
+    <string name="quit">退出</string>
+
+    <string name="choose_your_language">选择语言：-</string>
+
+    <string name="english">English</string>
+
+    <string name="hindi">हिंदी</string>
+
+    <string name="chinise">中文</string>
+
+    <string name="french">français</string>
+
+    <string name="arabic">عربي</string>
+
+    <string name="thai">คนไทย</string>
+
+    <string name="portuguese">português</string>
+
+    <string name="russian">русский</string>
+
+    <string name="spanish">española</string>
+
+    <string name="italian">Italiana</string>
+
+    <string name="turkish">Türkçe</string>
+
+    <string name="dutch">Nederlands</string>
+
+    <string name="korean">한국인</string>
+
+    <string name="swedish">svenska</string>
+
+    <string name="danish">dansk</string>
+
+    <string name="bengali">বাংলা</string>
+
+    <string name="tamil">தமிழ்</string>
+
+    <string name="telugu">తెలుగు</string>
+
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+
+    <string name="persian">ਫਾਰਸੀ</string>
+
+    <string name="polish">Polskie</string>
+
+    <string name="submit">提交</string>
+
+    <string name="music_for_workout">锻炼音乐</string>
+
+    <string name="choose_from_gallery">从画廊中选择</string>
+
+    <string name="change_background_music">更改背景音乐</string>
+
+    <string name="unlock_all_features">解锁所有功能</string>
+
+    <string name="to_unlock_this">要解锁此级别 - 选择任何一个选项。</string>
+
+    <string name="complete_n_previous_n_level">完成\n 上一个\n 级别</string>
+
+    <string name="watch_n_ads">观看\n 广告</string>
+
+    <string name="buy_n_premium">购买\n 优质的</string>
+
+    <string name="to_unlock_this_excercise_choose_this_option">要解锁此练习 - 选择此选项。</string>
+
+    <string name="buy_premium">购买高级版</string>
+
+    <string name="close">关闭</string>
+
+    <string name="other_users_will_benefit_from_your_review">其他用户将从您的评论中受益</string>
+
+    <string name="please_leave_your_review_on_google_play">请在 谷歌播放 上留下您的评论</string>
+
+    <string name="rate_on_google_play">谷歌播放 评分</string>
+
+    <string name="plan_1">计划 1</string>
+
+    <string name="dfdfdf">dfdfdf</string>
+
+    <string name="india_cumulative_numbers">印度 - 累积数字</string>
+
+    <string name="updated_loading">更新：正在加载...</string>
+
+    <string name="source_ministry_of_health_and_family_welfare">来源：卫生和家庭福利部</string>
+
+    <string name="today_cases">今日案例</string>
+
+    <string name="today_deaths">今日死亡人数</string>
+
+    <string name="today_recoveries">今日恢复</string>
+
+    <string name="live_now">立即直播</string>
+
+    <string name="source_world_health_organization">来源：世界卫生组织</string>
+
+    <string name="country_region">国家/地区</string>
+
+    <string name="new_ncases">新\n案例</string>
+
+    <string name="new_deaths">新死亡</string>
+
+    <string name="gujarat">古吉拉特邦</string>
+
+    <string name="day1">第1天</string>
+
+    <string name="trending">趋势</string>
+
+    <string name="vitamin_b6">维生素 B6</string>
+
+    <string name="update">更新</string>
+
+    <string name="sdsdsdds">sdsdsdds</string>
+
+    <string name="oct_9">十月 9</string>
+
+    <string name="song_name">歌曲名称</string>
+
+    <string name="round">​​圆形</string>
+
+    <string name="sun1">太阳</string>
+
+    <string name="water_drink_reminder_app">饮水提醒应用</string>
+
+    <string name="install_now">立即安装</string>
+
+    <string name="temppdsdsd">Temppdsdsd 💪🔥</string>
+
+    <string name="snooze">打盹</string>
+
+    <string name="once">一次</string>
+
+    <string name="prayer_time_wake">祈祷时间在 9 点叫醒我，刚吃完早餐</string>
+
+    <string name="let_s_do_backpain_exercise_today">今天做背痛练习。</string>
+
+    <string name="reminder_type">提醒类型</string>
+
+    <string name="sound">声音</string>
+
+    <string name="repeat_reminder">重复提醒</string>
+
+    <string name="report_as">报告为</string>
+
+    <string name="alarm">报警</string>
+
+    <string name="save_change">是否保存更改？</string>
+
+    <string name="are_you_delete">您确定要删除吗？</string>
+
+    <string name="yes">是</string>
+
+    <string name="no">否</string>
+
+    <string name="deleted">已删除</string>
+
+    <string name="confirmation">确认</string>
+
+    <string name="something_went_wrong">出了点问题！！</string>
+
+    <string name="take_nrest">采取\n休息</string>
+
+    <string name="press_the_resume">按下简历进入下一个练习</string>
+
+    <string name="is_completed"> 已完成</string>
+
+    <string name="completed">已完成</string>
+
+    <string name="recommand_for_you">为你推荐</string>
+
+    <string name="hated_it">讨厌它</string>
+
+    <string name="dislike_it">不喜欢！</string>
+
+    <string name="its_ok">没关系</string>
+
+    <string name="liked_it">喜欢！</string>
+
+    <string name="loved_it">喜欢</string>
+
+    <string name="do_you_like_this_app">你喜欢这个应用吗？</string>
+
+    <string name="your_feedback_is_useful">您的反馈很有用</string>
+
+    <string name="did_you_hear_the_test_voice">你听到测试声音了吗？</string>
+
+    <string name="error">错误</string>
+
+    <string name="latest">最新</string>
+
+    <string name="related_apps">相关应用</string>
+
+    <string name="treading_apps">热门应用</string>
+
+    <string name="please_check_after">请稍后检查！..</string>
+
+    <string name="prepe_app">正在为您准备应用程序...</string>
+
+    <string name="are_you_sure">你确定吗？</string>
+
+    <string name="drzio_updatestring">博士。 Zio 建议请更新到最新版本，以获得无缝和增强的应用性能。</string>
+
+    <string name="select_gender">请选择性别</string>
+
+    <string name="addfood">添加食物</string>
+
+    <string name="news">新</string>
+
+    <string name="you_can_better">你可以表现得比这个更好！！</string>
+
+    <string name="perform_better">性能很差！！</string>
+
+    <string name="perform_okay">性能还行</string>
+
+    <string name="perform_good">性能很好！！</string>
+
+    <string name="perform_great">性能很棒！！</string>
+
+    <string name="purchasefeed1">采购价格高</string>
+
+    <string name="purchasefeed2">分析&amp;然后购买</string>
+
+    <string name="purchasefeed3">其他</string>
+
+    <string name="copyright_2021_dr_zio">版权@2021 齐奥博士</string>
+
+    <string name="retry">重试</string>
+
+    <string name="blog">博客</string>
+
+    <string name="sett_edu">点击此处管理您的个人资料和更多设置</string>
+
+    <string name="tap_here">点击这里！！</string>
+
+    <string name="repo_edu">定期跟踪您的进度</string>
+
+    <string name="hom_edu">开始锻炼并查看营养和定制计划</string>
+
+    <string name="dis_edu">探索针对所有类型背痛的瑜伽计划</string>
+
+    <string name="blog_edu">阅读您喜欢的主题的博客和技巧</string>
+
+    <string name="stor_edu">查看 zio 博士的更多应用</string>
+
+    <string name="menu_edu">点击此处查看菜单</string>
+
+    <string name="day">日</string>
+
+    <string name="all_app">所有应用</string>
+
+    <string name="want_uninterrupted">想要不间断的无广告锻炼？\n 立即获取高级版！</string>
+    <string name="admob_openapp" />
+    提升记忆力
+    <string name="beginner"> 初学者 </string>
+    <string name="rate_txt"> 我是一名程序员，他努力工作，在此应用程序中为您提供 5 星级体验。请给我写一个 5 星评论。谢谢！这对我来说意味着整个世界。 </string>
+
+    <string name="deep_sleep_yoga_and_yog_nindra">深睡瑜伽和瑜伽宁德拉</string>
+    <string name="yoga_for_insomnia">失眠瑜伽</string>
+    <string name="deep_sleep_yoga">深睡瑜伽</string>
+    <string name="yog_nindra_effective_sleep">YOG NINDRA 有效睡眠</string>
+    <string name="bed_time_yoga">睡前瑜伽</string>
+    <string name="for_sound_sleep">为了声音睡眠</string>
+    <string name="brething_exercise">BRETHING EXERCISE</string>
+    <string name="sleep_apnea">睡眠呼吸暂停</string>
+    <string name="bed_time_yoga_amp_brething_exercise"><![CDATA[睡前瑜伽和呼吸练习]]></string>
+    <string name="yog_nidra_effective_sleep">Yog nindra - 有效睡眠</string>
+    <string name="bed_time_for_sound_sleep">熟睡瑜伽</string>
+    <string name="bipolar_depresion">双相抑郁</string>
+    <string name="info1">嘿！ 很高兴您已准备好克服睡眠问题。 你可以看到睡眠瑜伽 &amp; 下面提到的冥想练习。 开始吧！ </string>
+    <string name="info2">您会在此计划中找到更具挑战性的睡眠冥想练习。 更多的伸展运动，更多的身体锻炼，让你的膝盖疼痛很快消失，让我们开始吧！</string>
+    <string name="info3">终极挑战！ 我们为您准备了最难的睡眠冥想训练，让您睡个好觉。 让我们这样做吧！</string>
+    <string name="ftinch">英尺英寸</string>
+</resources>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layoutDirection="ltr"
+
+    android:layout_height="fill_parent"
+    android:background="@color/dayactivitybg">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+            android:id="@+id/statusbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent" />
+
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/appbar"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:fitsSystemWindows="true"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+            <com.google.android.material.appbar.CollapsingToolbarLayout
+                android:id="@+id/collapsing_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/white"
+                android:fitsSystemWindows="true"
+                app:contentScrim="@android:color/white"
+                app:expandedTitleGravity="bottom|center_horizontal"
+                app:expandedTitleMarginBottom="30dp"
+                app:expandedTitleTextAppearance="@style/CollapsedAppBar"
+                app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/img_ctrophy" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|center_horizontal"
+                    android:layout_marginBottom="80dp"
+
+                    >
+
+                    <ImageView
+                        android:layout_width="70dp"
+                        android:layout_height="80dp"
+                        android:layout_above="@+id/t"
+                        android:layout_centerHorizontal="true"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/trophy" />
+
+                   <TextView
+
+                        android:id="@+id/t"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:fontFamily="@font/fontr_m"
+                        android:text="Congratulations!"
+                        android:textColor="@android:color/white"
+                        android:textSize="22sp" />
+                </RelativeLayout>
+
+                <androidx.appcompat.widget.Toolbar
+                    android:id="@+id/anim_toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    app:layout_collapseMode="pin"
+                    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                    app:titleMarginStart="10dp">
+
+                    <ImageView
+                        android:id="@+id/btnback"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_alignParentStart="true"
+
+                        android:layout_alignParentTop="true"
+                        android:foreground="?attr/selectableItemBackground"
+                        android:padding="10dp"
+
+                        android:src="@drawable/backk" />
+
+
+                    <LinearLayout
+                        android:id="@+id/laystore"
+                        android:layout_width="wrap_content"
+
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="end"
+                        android:layout_marginEnd="10dp"
+                        android:foreground="?attr/selectableItemBackground"
+                        android:gravity="end"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/ivbtnstore"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="center" />
+
+                       <TextView
+
+                            android:id="@+id/txt_more"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="More"
+                            android:textColor="@color/white"
+                            android:textSize="10sp" />
+                    </LinearLayout>
+
+
+                </androidx.appcompat.widget.Toolbar>
+
+
+            </com.google.android.material.appbar.CollapsingToolbarLayout>
+            <!-- <com.google.android.material.appbar.CollapsingToolbarLayout
+                 android:id="@+id/collapsing_toolbar"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:background="@android:color/white"
+                 android:fitsSystemWindows="true"
+                 app:contentScrim="@android:color/white"
+                 app:expandedTitleGravity="bottom|center_horizontal"
+                 app:expandedTitleMarginBottom="40dp"
+                 app:expandedTitleTextAppearance="@style/CollapsedAppBar"
+                 app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+                 <ImageView
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:scaleType="fitXY"
+                     android:src="@drawable/img_ctrophy" />
+
+                 <RelativeLayout
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent">
+
+                     <ImageView
+                         android:layout_width="70dp"
+                         android:layout_height="80dp"
+                         android:layout_marginTop="30dp"
+                         android:layout_above="@+id/t"
+                         android:layout_centerHorizontal="true"
+                         android:layout_marginBottom="5dp"
+                         android:src="@drawable/trophy" />
+
+                    <TextView
+
+                         android:id="@+id/t"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_alignParentBottom="true"
+                         android:layout_centerHorizontal="true"
+                         android:layout_gravity="bottom|center_horizontal"
+                         android:layout_marginBottom="85dp"
+                         android:fontFamily="@font/fontr_m"
+                         android:text="@string/congratulations"
+
+                         android:textColor="@android:color/white"
+                         android:textSize="22sp" />
+
+                     <androidx.appcompat.widget.Toolbar
+                         android:id="@+id/anim_toolbar"
+                         android:layout_width="match_parent"
+                         android:layout_height="50dp"
+                         android:layout_marginTop="25dp"
+                         app:layout_collapseMode="pin"
+                         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                         app:titleMarginStart="10dp">
+
+                         <ImageView
+                             android:id="@+id/btnback"
+                             android:layout_width="50dp"
+                             android:layout_height="50dp"
+                             android:layout_alignParentLeft="true"
+
+                             android:layout_alignParentTop="true"
+                             android:foreground="?attr/selectableItemBackground"
+                             android:padding="10dp"
+
+                             android:src="@drawable/backk" />
+
+
+                         <LinearLayout
+                             android:id="@+id/laystore"
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:layout_alignParentEnd="true"
+                             android:layout_centerVertical="true"
+                             android:layout_gravity="end"
+                             android:layout_marginRight="10dp"
+                             android:foreground="?attr/selectableItemBackground"
+                             android:gravity="end"
+                             android:orientation="vertical">
+
+                             <ImageView
+                                 android:id="@+id/ivbtnstore"
+                                 android:layout_width="30dp"
+                                 android:layout_height="30dp"
+                                 android:layout_gravity="center" />
+
+                            <TextView
+
+                                 android:id="@+id/txt_more"
+                                 android:layout_width="wrap_content"
+                                 android:layout_height="wrap_content"
+                                 android:layout_gravity="center"
+                                 android:text="More"
+                                 android:textColor="@color/white"
+                                 android:textSize="10sp" />
+                         </LinearLayout>
+
+
+                     </androidx.appcompat.widget.Toolbar>
+
+                 </RelativeLayout>
+
+
+             </com.google.android.material.appbar.CollapsingToolbarLayout>-->
+        </com.google.android.material.appbar.AppBarLayout>
+
+
+        <include layout="@layout/content_workoutcomplete" />
+
+
+        <!--  <com.airbnb.lottie.LottieAnimationView
+              android:id="@+id/lotticomplete"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              />-->
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    <RelativeLayout
+        android:id="@+id/banner1"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/def_pointer_color"
+        android:visibility="visible">
+
+        <FrameLayout
+            android:id="@+id/adframe1234"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:background="@drawable/ad_border2"
+            android:padding="1dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="0dp"
+            android:visibility="gone" />
+
+        <include
+            layout="@layout/load_banner"
+            android:layout_marginTop="20dp" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1 Diepe slaap yoga</string>
+    <string name="picker_box_arrows_icon">pictogram voor keuzevakpijlen</string>
+    <string name="favtitle">Voeg hier je favoriete trainingen toe.❤pas je eigen trainingsschema\'s aan op basis van je voorkeuren.</string>
+
+    <string name="mon">Maandag</string>
+    <string name="tu">Dinsdag</string>
+    <string name="wed">woensdag</string>
+    <string name="thri">Donderdag</string>
+    <string name="fri">Vrijdag</string>
+    <string name="sat">zaterdag</string>
+    <string name="sun">Zondag</string>
+    <string name="facebook_app_id">394103198201105</string>
+    <string name="exename1">Kattenkoe pose (Majaryasana – Bitilasana) </string>
+
+    <string name="exename2">Bhastrika Pranayama Yoga</string>
+
+    <string name="exename3">Reclining gebonden hoekhouding (Supta Baddha Konasana)</string>
+
+    <string name="exename4">Zittende pose met halve ruggengraat (Ardha Matsyendrasana)</string>
+
+    <string name="exename5">Zittende groothoekhouding (Upavistha Konasana)</string>
+
+    <string name="exename6">Shanmukhi-mudra</string>
+
+    <string name="exename7">Windverlichtende houding (Pavanamuktasana) </string>
+
+    <string name="exename8">Draad aan naald (Parsva Balasana)</string>
+
+    <string name="exename9">Ploeghouding (Halasan)</string>
+
+    <string name="exename10">Heldhouding (Virasana)</string>
+
+    <string name="exename11">Nadi Shodhan Pranayam</string>
+
+    <string name="exename12">Thunderbolt Pose (Vajrasana)</string>
+
+    <string name="exename13">Lord of the Dance Pose (Natarajasana)</string>
+
+    <string name="exename14">Vakrasana (Halve Spinal Twist Pose)</string>
+
+    <string name="exename15">Kind pose (Haas Pose) (Balasana) </string>
+
+    <string name="exename16">kapalbhati Pranayama</string>
+
+    <string name="exename17">Zittende voorwaartse buiging (Paschimottanasana)</string>
+
+    <string name="exename18">Benen tegen de muur vormen (Viparita Karani)</string>
+
+    <string name="exename19">Voorwaartse buiging (Hasta Padasana)</string>
+
+    <string name="exename20">Berghouding (Tadasan)</string>
+
+    <string name="exename21">Supine Spinal Twist (Supta Matsyendrasana)</string>
+
+    <string name="exename22">Stoelhouding (Utkatasana) </string>
+
+    <string name="exename23">Vis pose (Matsyasanaa)</string>
+
+    <string name="exename24">Celibataire houding (Brahmacharyasana)</string>
+
+    <string name="exename25">Hoofd-naar-knie voorwaartse buiging (Janu Sirsasana)</string>
+
+
+    <string name="exedesc1">Het rekt de rug, torso en nek, en stimuleert en versterkt zachtjes de buikorganen. Het brengt de wervelkolom in de juiste uitlijning en kan rugpijn helpen voorkomen als het regelmatig wordt beoefend.</string>
+
+    <string name="exedesc2">Geweldig voor longen en mensen die last hebben van herhaaldelijk hoesten, griep, ademhalingsproblemen, allergieën of kortademigheid. De verhoogde bloedtoevoer naar het hoofd verbetert het gezichtsvermogen en gehoor. De longen worden versterkt en het is gunstig voor bronchitis, omdat het ademhalingssysteem snel en diep wordt gezuiverd.•Het is geweldig voor het stimuleren van het lichaam en de geest</string>
+
+    <string name="exedesc3">Het kalmeert het spijsverteringsstelsel en de voortplantingsorganen en behandelt aandoeningen zoals prikkelbare darmaandoeningen, onvruchtbaarheid, menstruatiestoornissen, spijsverteringsproblemen, menopauze, enz.•Het geeft je liezen, inwendige dijen en knieën een goede stretch .•Het vermindert spierspanning en verlicht vermoeidheid en slapeloosheid. Het kalmeert ook de geest </string>
+
+    <string name="exedesc4">Het levert voedingsstoffen, bloed en zuurstof en verbetert de gezondheid van het voortplantingssysteem en het urinestelsel. Gunstig voor menstruatiestoornissen en geeft energie aan de wervelkolom,• Stimuleert de lever en de nieren </string >
+
+    <string name="exedesc5">Het stimuleert de buikorganen.Versterkt en versterkt de buikspieren, ruggengraat en benen.•Helpt ischias en artritis te genezen en te verlichten.Het ontgift de nieren.
+ </string>
+
+    <string name="exedesc6">Geweldig voor de gezichtsspieren en het uiterlijk, aangezien de warmte en prana van de handen en vingers de gezichtsspieren stimuleren en ontspannen.•Nuttig voor het beheersen van angst en het verwijderen van negatieve intellectuele patronen.•Het stimuleert de zintuigen en de latere stadia van de zintuigen terugtrekking.•Brengt focus, introversie en kalmte teweeg </string>
+
+    <string name="exedesc7">Rekt en versterkt de rug- en buikspieren.•Helpt bij de spijsvertering en het vrijkomen van gas. Activeer de vetverbranding.•Versterkt de spieren in de benen en armen.•Verbetert de bloedcirculatie in de heupgewrichten</string>
+
+    <string name="exedesc8">Het rekt zachtjes je bovenste borstspieren.•Het opent de bovenste en buitenste spieren van je schouder.•Het verhoogt de bloedcirculatie naar de bovenste ledematen. </string>
+
+    <string name="exedesc9">Het stimuleert de flexibiliteit van de rug en rekt de spieren langs de achterkant van de benen. •Het versterkt en opent de nek-, schouders-, buik- en rugspieren </string>
+
+    <string name="exedesc10">Het versterkt de armen en schouders en houdt de wervelkolom flexibel. Het voedt de hersenen met meer bloed. </string>
+
+    <string name="exedesc11">Het helpt ook bij het verlichten van ademhalingsallergieën die hooikoorts, niezen of piepende ademhaling veroorzaken•Helpt de linker- en rechterhersenhelft te harmoniseren, wat correleert met de logische en emotionele kanten van onze persoonlijkheid.</string>
+
+    <string name="exedesc12">Verbetert de spijsvertering en bestrijdt constipatie en zuurgraad.•Verlicht menstruatiestoornissen.•Reguleert de werking van voortplantingsorganen en schildklier.•Versterkt de bekkenspieren </string>
+
+    <string name="exedesc13">De pose symboliseert Kosmische Energie, en als je dat doet dans je in de stroom van het Universum.•Rekt en versterkt de borst, schouders, quadriceps, voorlichaam, inclusief de buik.•Rekt het bovenwerk uit. rug, quadriceps, enkels, voeten, dijen, liezen en buik•Verbetert de balans </string>
+
+    <string name="exedesc14">Stimuleert het hart, de nieren, de lever, de milt en de longen.•Het helpt buikvet te verminderen, versterkt de nieren, •Het helpt diabetes te voorkomen en onder controle te houden.•Het versterkt de rugspieren en vermindert rugpijn </string>
+
+    <string name="exedesc15">Helpt bij het wegwerken van constipatie.•Dit leidt tot het goed functioneren van de bijnieren. Rekt de rugspieren waardoor ze sterker worden.•Verbetert de gezondheid van zowel mannelijke als vrouwelijke voortplantingsorganen </string>
+
+    <string name="exedesc16">Verhoogt de stofwisseling en helpt bij het afvallen•Verbetert de werking van het spijsverteringskanaal, de opname en assimilatie van voedingsstoffen•Bekrachtigt het zenuwstelsel en verjongt hersencellen•Verbetert de bloedcirculatie en geeft het gezicht glans•Het stimuleert buikorganen en is dus uitermate nuttig voor diabetici•Verbetert geheugen en concentratievermogen </string>
+
+    <string name="exedesc17">Het stimuleert de werking van de pijnappelklier, hypothalamus en hypofyse en helpt bij het afscheiden van groeihormoon dat verantwoordelijk is voor lengte. •Het versterkt de spieren van de rug, schouders en arm. </string>
+
+    <string name="exedesc18">Verlicht vermoeide of verkrampte benen en voeten•Verlicht hoofdpijn•Verlicht lage rugpijn•Kalmeert de geest
+ </string>
+
+    <string name="exedesc19">Het revitaliseert het zenuwstelsel en bevordert een goede bloedcirculatie in de hypofyse, die groeihormoon afgeeft dat verantwoordelijk is voor de lengte. Het rekt ook de rug- en onderlichaamspieren met de wervelkolom. </string>
+
+    <string name="exedesc20">Het verstevigt de beenspieren, maakt een einde aan stijfheid in benen en heupen, verhelpt rugpijn en verstuikingen van de nek, ontwikkelt de borstkas en versterkt de enkels.</string>
+
+    <string name="exedesc21">Knie naar beneden draaien rekt de rug, lijnt uit, spieren en verlengt de ruggengraat, en hydrateert de ruggengraatschijven.•Het geeft je schouders, borst, middelste ruggengraat, heupen, onderrug en bovenrug een goede stretch.•Bevordert een frisse bloedtoevoer naar de inwendige organen en biedt een complete ontgifting van uw inwendige organen </string>
+
+    <string name="exedesc22">Rekt en versterkt de rug- en buikspieren.•Helpt bij de spijsvertering en het vrijkomen van gas. Activeer de vetverbranding.•Versterkt de spieren in de benen en armen.•Verbetert de bloedcirculatie in de heupgewrichten.</string>
+
+    <string name="exedesc23">Verlicht spanning in je nek, keel en schouders. Rekt en stimuleert de organen van je buik en keel.
+ </string>
+
+    <string name="exedesc24">Verhoogt de stofwisseling en helpt bij het afvallen. Verbetert de werking van het spijsverteringskanaal, de opname en assimilatie van voedingsstoffen. Geeft energie aan het zenuwstelsel en verjongt hersencellen. Verbetert de bloedcirculatie en geeft het gezicht glans. stimuleert de buikorganen en is dus uitermate nuttig voor diabetici. Verbetert het geheugen en het concentratievermogen. </string>
+
+    <string name="exedesc25">Het rekt je hamstrings, schouders, kuiten, bogen, handen en ruggengraat volledig uit en bouwt kracht op in je armen, schouders en benen. Het stimuleert de bloedsomloop. Het is een perfecte oefening om het hele lichaam te strekken om de hoogte te vergroten.</string>
+
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+
+    <string name="add_exercise">Voeg oefening toe</string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name="please_check_your_internet_connection">Controleer je internetverbinding!!!</string>
+    <string name="refresh">Ververs</string>
+    <string name="start">START</string>
+    <string name="previous">Vorige</string>
+    <string name="next">Volgende</string>
+    <string name="tips">Tips</string>
+    <string name="history">Geschiedenis</string>
+    <string name="com_continue">Doorgaan</string>
+    <string name="reminder">Herinnering</string>
+    <string name="calculate_bmi">Bereken BMI</string>
+    <string name="weight">GEWICHT:</string>
+    <string name="weight1">Gewicht</string>
+    <string name="bmi_kg_m">BMI (KG/M²)</string>
+    <string name="calories">Calorieën</string>
+    <string name="exercises">Oefeningen</string>
+    <string name="duration">Duur</string>
+    <string name="ready_to_go">Klaar om te gaan!</string>
+    <string name="skip">OVERSLAAN</string>
+    <string name="reset">Reset</string>
+    <string name="add">TOEVOEGEN</string>
+    <string name="video">VIDEO</string>
+    <string name="animation">ANIMATIE</string>
+    <string name="txt_weekgoal">Wekelijks doel instellen</string>
+    <string name="save">OPSLAAN</string>
+    <string name="user_age">Leeftijd</string>
+    <string name="user_gender">Gender</string>
+    <string name="user_male">Man</string>
+    <string name="user_height">Hoogte</string>
+    <string name="user_weight">Gewicht</string>
+    <string name="user_meal">Maaltijd</string>
+    <string name="rest_day">Rustdag</string>
+    <string name="finished">KLAAR</string>
+    <string name="diet_list">Dieetlijst</string>
+    <string name="no_internet">Geen internetverbinding beschikbaar !!</string>
+    <string name="set_your_weekly_goal">STEL JE WEKELIJKSE DOEL IN</string>
+    <string name="recommandedtxt">We raden aan om minimaal 3 dagen per week te trainen voor een beter resultaat</string>
+    <string name="training_days">Trainingsdagen</string>
+    <string name="first_day_of_week">Eerste dag van de week</string>
+    <string name="to_set_regional_plan">REGIONAAL PLAN INSTELLEN</string>
+    <string name="select_state">Selecteer staat</string>
+    <string name="select_city">Selecteer stad</string>
+    <string name="what_s_your_gender">Kies wie je bent?</string>
+    <string name="to_personalize_your_plan">Om je abonnement te personaliseren</string>
+    <string name="female">Vrouw</string>
+    <string name="male">Man</string>
+    <string name="diet_plan">Dieetplan</string>
+    <string name="vegetarian">Vegetarisch</string>
+    <string name="non_nvegetarian">Niet-vegetarisch</string>
+    <string name="vegan">Veganistisch</string>
+    <string name="how_old_are_you">Hoe oud ben je?</string>
+    <string name="calculate">Bereken</string>
+    <string name="ok">OK</string>
+    <string name="mute">Dempen</string>
+    <string name="voice_guide">Spraakgids</string>
+    <string name="coach_tips">Coachtips</string>
+    <string name="sound_options">Geluidsopties</string>
+    <string name="please_name_your_plan">Geef je abonnement een naam</string>
+    <string name="cancel">ANNULEREN</string>
+    <string name="give_up">GEEF OP</string>
+    <string name="please_set_reminder">Stel een herinnering in</string>
+    <string name="restart">HERSTART</string>
+    <string name="having_a_beautiful_body_has_never_easy">Een mooi lichaam hebben is nooit makkelijk!</string>
+    <string name="settings">Instellingen</string>
+    <string name="test_voice">Teststem</string>
+    <string name="workout">WORKOUT</string>
+    <string name="remind_me_to_workout_every_day">Herinner me eraan om elke dag te trainen</string>
+    <string name="voice_options_tts">STEMOPTIES (TTS)</string>
+    <string name="voice_language">Spraaktaal</string>
+    <string name="download_more_tts_language_data">Download meer TTS-taalgegevens</string>
+    <string name="device_tts_setting">Apparaat TTS-instelling</string>
+    <string name="general_settings">ALGEMENE INSTELLINGEN</string>
+    <string name="language_options">Taalopties</string>
+    <string name="restart_progress">Voortgang herstarten</string>
+    <string name="support_us">STEUN ONS</string>
+    <string name="rate_us">Beoordeel ons</string>
+
+    <string name="share_with_friends">Deel met vrienden</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="repeat">Herhalen</string>
+    <string name="aboveage">Boven 18 jaar</string>
+    <string name="nextexespeech">de volgende oefening is</string>
+    <string name="startspeech">de oefening starten</string>
+
+
+    <string name="feed1">Ik vind het ontwerp niet mooi</string>
+    <string name="feed2">Het heeft niet de functies die ik nodig heb</string>
+    <string name="feed3">Het is niet gemakkelijk te gebruiken</string>
+    <string name="feed4">Het is te ingewikkeld</string>
+    <string name="feed5">De vertaling is slecht</string>
+    <string name="reminderdialtxt"><u>Waarom herinner je jezelf er niet aan voor 100% resultaat.</u></string>
+
+    <string name="terms">Het aanmaken van een account betekent dat je akkoord gaat met</string>
+
+    <string name="tandc"><u>Servicevoorwaarden</u></string>
+    <string name="privacy"><u>Privacybeleid</u></string>
+
+    <string name="tvbmis"><u>Bereken BMI</u></string>
+
+    <string name="tvmoretips"><u>Meer tips >></u></string>
+    <string name="tvmoredetail"><u>Meer details >></u></string>
+
+    <string name="termstxt">Door de app te downloaden of te gebruiken, zijn deze voorwaarden automatisch op jou van toepassing. Zorg er daarom voor dat je ze aandachtig leest voordat je de app gebruikt. U mag de app, enig onderdeel van de app of onze handelsmerken op geen enkele manier kopiëren of wijzigen. Je mag niet proberen de broncode van de app te extraheren, en je moet ook niet proberen de app in andere talen te vertalen of afgeleide versies te maken. De app zelf, en alle bijbehorende handelsmerken, auteursrechten, databankrechten en andere intellectuele eigendomsrechten, zijn nog steeds eigendom van Dr. Zio.
+
+Dr. Zio doet er alles aan om ervoor te zorgen dat de app zo nuttig en efficiënt mogelijk is. Om die reden behouden we ons het recht voor om op elk moment en om welke reden dan ook wijzigingen aan te brengen in de app of de diensten ervan in rekening te brengen. We zullen u nooit kosten in rekening brengen voor de app of de services ervan zonder u precies duidelijk te maken waarvoor u betaalt.
+
+“De Verhoogde Hoogte Na 18 sollicitatie” bewaart en verwerkt persoonsgegevens die u aan ons heeft verstrekt, om u beter van dienst te kunnen zijn. Het is uw verantwoordelijkheid om uw telefoon en toegang tot de app veilig te houden. We raden u daarom aan uw telefoon niet te jailbreaken of te rooten, wat het proces is van het verwijderen van softwarebeperkingen en -beperkingen die worden opgelegd door het officiële besturingssysteem van uw apparaat. Het kan uw telefoon kwetsbaar maken voor malware/virussen/kwaadaardige programma\'s, de beveiligingsfuncties van uw telefoon in gevaar brengen en het kan betekenen dat deze app niet goed of helemaal niet werkt.
+
+U dient zich ervan bewust te zijn dat er bepaalde dingen zijn waarvoor Dr. Zi geen verantwoordelijkheid neemt. Voor bepaalde functies van de app moet de app een actieve internetverbinding hebben. De verbinding kan Wi-Fi zijn of worden geleverd door uw mobiele netwerkprovider, maar Dr. Zio kan geen verantwoordelijkheid nemen voor het feit dat de app niet op volledige functionaliteit werkt als u geen toegang hebt tot Wi-Fi en u geen van de je datalimiet over.
+
+Als u de app buiten een gebied met wifi gebruikt, moet u er rekening mee houden dat uw voorwaarden van de overeenkomst met uw mobiele netwerkprovider nog steeds van toepassing zijn. Als gevolg hiervan kunnen de kosten van gegevens voor de duur van de verbinding tijdens het gebruik van de app of andere kosten van derden door uw mobiele provider in rekening worden gebracht. Door de app te gebruiken, aanvaardt u de verantwoordelijkheid voor dergelijke kosten, inclusief kosten voor roaming-data als u de app buiten uw eigen grondgebied (d.w.z. regio of land) gebruikt zonder dataroaming uit te schakelen. Als u niet de rekeningbetaler bent van het apparaat waarop u de app gebruikt, houd er dan rekening mee dat we ervan uitgaan dat u toestemming heeft gekregen van de rekeningbetaler voor het gebruik van de app. In dezelfde lijn kan Dr. Zio niet altijd verantwoordelijkheid nemen voor de manier waarop u de app gebruikt, dwz u moet ervoor zorgen dat uw apparaat opgeladen blijft - als de batterij leeg is en u het niet kunt inschakelen om gebruik te maken van de service, Dr. Zi kan geen verantwoordelijkheid aanvaarden. Met betrekking tot de verantwoordelijkheid van Dr. Zio voor uw gebruik van de app, is het belangrijk om te onthouden dat, hoewel we ernaar streven dat deze te allen tijde wordt bijgewerkt en correct is, we afhankelijk zijn van derden om informatie aan ons te verstrekken zodat wij deze aan u ter beschikking kunnen stellen. Dr. Zio aanvaardt geen aansprakelijkheid voor enige schade, direct of indirect, die u ervaart als gevolg van het volledig vertrouwen op deze functionaliteit van de app. Op een gegeven moment willen we de app misschien updaten. De app is momenteel beschikbaar op Android - de systeemvereisten (en voor eventuele aanvullende systemen waar we de beschikbaarheid van de app naar uitbreiden) kunnen veranderen, en je moet de updates downloaden als je de app wilt blijven gebruiken. Dr. Zio belooft niet dat zij de app altijd zal updaten zodat deze voor u relevant is en/of werkt met de Android-versie die u op uw apparaat heeft geïnstalleerd. U belooft echter altijd updates van de applicatie te accepteren wanneer deze aan u worden aangeboden. We kunnen ook willen stoppen met het verstrekken van de app en kunnen het gebruik ervan op elk moment beëindigen zonder u hiervan op de hoogte te stellen. Tenzij we u anders vertellen, zullen bij beëindiging (a) de rechten en licenties die in deze voorwaarden aan u zijn verleend, eindigen; (b) u moet stoppen met het gebruik van de app en (indien nodig) deze van uw apparaat verwijderen.</string>
+
+
+    <string name="policytxt">Algemeen beleid Door de app te downloaden of te gebruiken, zijn deze voorwaarden automatisch op u van toepassing. Zorg er daarom voor dat u ze aandachtig leest voordat u de app gebruikt. U mag de app, enig onderdeel van de app of onze handelsmerken op geen enkele manier kopiëren of wijzigen. Je mag niet proberen de broncode van de app te extraheren, en je moet ook niet proberen de app in andere talen te vertalen of afgeleide versies te maken. De app zelf, en alle bijbehorende handelsmerken, auteursrechten, databankrechten en andere intellectuele eigendomsrechten, zijn nog steeds eigendom van Dr. Zio.
+        Dr. Zio doet er alles aan om ervoor te zorgen dat de app zo nuttig en efficiënt mogelijk is. Om die reden behouden we ons het recht voor om op elk moment en om welke reden dan ook wijzigingen aan te brengen in de app of de diensten ervan in rekening te brengen. We zullen u nooit kosten in rekening brengen voor de app of de services ervan zonder u precies duidelijk te maken waarvoor u betaalt.
+        “Deep Sleep applicatie” bewaart en verwerkt persoonsgegevens die je aan ons hebt verstrekt, om een ​​betere dienstverlening te kunnen bieden. Het is uw verantwoordelijkheid om uw telefoon en toegang tot de app veilig te houden. We raden u daarom aan uw telefoon niet te jailbreaken of te rooten, wat het proces is van het verwijderen van softwarebeperkingen en -beperkingen die worden opgelegd door het officiële besturingssysteem van uw apparaat. Het kan uw telefoon kwetsbaar maken voor malware/virussen/kwaadaardige programma\'s, de beveiligingsfuncties van uw telefoon in gevaar brengen en het kan betekenen dat deze app niet goed of helemaal niet werkt.
+        U dient zich ervan bewust te zijn dat er bepaalde dingen zijn waarvoor Dr. Zi geen verantwoordelijkheid neemt. Voor bepaalde functies van de app moet de app een actieve internetverbinding hebben. De verbinding kan Wi-Fi zijn of worden geleverd door uw mobiele netwerkprovider, maar Dr. Zio kan geen verantwoordelijkheid nemen voor het feit dat de app niet op volledige functionaliteit werkt als u geen toegang hebt tot Wi-Fi en u geen van de je datalimiet over.
+        Als u de app buiten een gebied met wifi gebruikt, moet u er rekening mee houden dat uw voorwaarden van de overeenkomst met uw mobiele netwerkprovider nog steeds van toepassing zijn. Als gevolg hiervan kunnen de kosten van gegevens voor de duur van de verbinding tijdens het gebruik van de app of andere kosten van derden door uw mobiele provider in rekening worden gebracht. Door de app te gebruiken, aanvaardt u de verantwoordelijkheid voor dergelijke kosten, inclusief kosten voor roaming-data als u de app buiten uw eigen grondgebied (d.w.z. regio of land) gebruikt zonder dataroaming uit te schakelen. Als u niet de rekeningbetaler bent van het apparaat waarop u de app gebruikt, houd er dan rekening mee dat we ervan uitgaan dat u toestemming heeft gekregen van de rekeningbetaler voor het gebruik van de app. In dezelfde lijn kan Dr. Zio niet altijd verantwoordelijkheid nemen voor de manier waarop u de app gebruikt, dwz u moet ervoor zorgen dat uw apparaat opgeladen blijft - als de batterij leeg is en u het niet kunt inschakelen om gebruik te maken van de service, Dr. Zi kan geen verantwoordelijkheid aanvaarden. Met betrekking tot de verantwoordelijkheid van Dr. Zio voor uw gebruik van de app, is het belangrijk om te onthouden dat, hoewel we ernaar streven dat deze te allen tijde wordt bijgewerkt en correct is, we afhankelijk zijn van derden om informatie aan ons te verstrekken zodat wij deze aan u ter beschikking kunnen stellen. Dr. Zio aanvaardt geen aansprakelijkheid voor enige schade, direct of indirect, die u ervaart als gevolg van het volledig vertrouwen op deze functionaliteit van de app. Op een gegeven moment willen we de app misschien updaten. De app is momenteel beschikbaar op Android - de systeemvereisten (en voor eventuele aanvullende systemen waar we de beschikbaarheid van de app naar uitbreiden) kunnen veranderen, en je moet de updates downloaden als je de app wilt blijven gebruiken. Dr. Zio belooft niet dat zij de app altijd zal updaten zodat deze voor u relevant is en/of werkt met de Android-versie die u op uw apparaat heeft geïnstalleerd. U belooft echter altijd updates van de applicatie te accepteren wanneer deze aan u worden aangeboden. We kunnen ook willen stoppen met het verstrekken van de app en kunnen het gebruik ervan op elk moment beëindigen zonder u hiervan op de hoogte te stellen. Tenzij we u anders vertellen, zullen bij beëindiging (a) de rechten en licenties die in deze voorwaarden aan u zijn verleend, eindigen; (b) u moet stoppen met het gebruik van de app en (indien nodig) deze van uw apparaat verwijderen.
+
+        Hoe apps te gebruiken:
+
+        We raden u aan deze app te gebruiken door een abonnement op artsen te nemen als u een ernstige ziekte en verwondingen aan botten, hart, rugletsel, wervelkolom, hoofdletsel of ander lichamelijk letsel heeft, vraag deskundige / artsen om deze yoga, oefening en training.
+
+        Privacybeleid
+
+       Dr. Zio heeft de Deep Sleep-app gebouwd als een commerciële app. Deze DIENST wordt geleverd door Dr. Zio en is bedoeld voor gebruik zoals het is. Deze pagina wordt gebruikt om bezoekers te informeren over ons beleid met betrekking tot het verzamelen, gebruiken en vrijgeven van persoonlijke informatie als iemand besluit onze service te gebruiken. Als u ervoor kiest om onze Service te gebruiken, gaat u akkoord met het verzamelen en gebruiken van informatie met betrekking tot dit beleid. De persoonlijke informatie die we verzamelen, wordt gebruikt voor het leveren en verbeteren van de service. We zullen uw informatie met niemand gebruiken of delen, behalve zoals beschreven in dit privacybeleid. De termen die in dit Privacybeleid worden gebruikt, hebben dezelfde betekenis als in onze Algemene Voorwaarden, die toegankelijk zijn op Verhoog Hoogte Na 18, tenzij anders bepaald in dit Privacybeleid.
+
+        Informatie verzamelen en gebruiken
+
+        Voor een betere ervaring tijdens het gebruik van onze Service, kunnen we van u verlangen dat u ons bepaalde persoonlijk identificeerbare informatie verstrekt, inclusief maar niet beperkt tot We Collect persoons Gmail-ID, naam, leeftijd, lengte en gewicht voor een betere ervaring van Gebruiker als persoon. specifieke hulp volgens hun BMI (Body Mass Index) en ontvang een melding met tips en pas de melding en advertenties aan op basis van hun locatie. De informatie die we vragen, wordt door ons bewaard en gebruikt zoals beschreven in dit privacybeleid. De app maakt gebruik van diensten van derden die informatie kunnen verzamelen die wordt gebruikt om u te identificeren. Link naar het privacybeleid van externe serviceproviders die door de app worden gebruikt
+
+        Google Play-services (https://policies.google.com/privacy)
+        AdMob (https://support.google.com/admob/answer/6128543?hl=nl)
+        Firebase Analytics (https://firebase.google.com/policies/analytics)
+        Facebook (https://www.facebook.com/about/privacy)
+        Stof (https://fabric.io/privacy)
+        Crashlytics (https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+        We verzamelen informatie over uw locatie wanneer u onze diensten gebruikt, wat ons helpt bij het aanbieden van functies zoals een routebeschrijving voor uw weekendje weg of aanvangstijden vasn films die bij u in de buurt draaien.
+
+        Uw locatie kan met wisselende nauwkeurigheid worden bepaald door:
+
+GPS
+IP adres
+Sensorgegevens van uw apparaat
+Informatie over dingen in de buurt van uw apparaat, zoals wifi-toegangspunten, zendmasten en Bluetooth-apparaten
+De soorten locatiegegevens die we verzamelen, zijn gedeeltelijk afhankelijk van uw apparaat- en accountinstellingen. U kunt bijvoorbeeld de locatie van uw Android-apparaat in- of uitschakelen met de instellingen-app van het apparaat. Je kunt ook locatiegeschiedenis inschakelen als je een privékaart wilt maken van waar je naartoe gaat met je ingelogde apparaten.
+
+
+
+Adverteren
+
+
+Door onze apps te gebruiken, kan u advertentie-inhoud worden aangeboden. Wij of de advertentienetwerken die we gebruiken, kunnen gebruikmaken van advertentieweergavetechnologieën die gebruikmaken van cookies, beacons, trackingpixels en andere technologieën die in de advertenties worden geplaatst en die ons of onze netwerken in staat stellen om niet-persoonlijke informatie te verzamelen. Niet-persoonlijke informatie zoals leeftijd en geslacht kan worden gebruikt om ervoor te zorgen dat u passende advertenties wordt aangeboden. Gebruiksgegevens en niet-persoonlijke informatie zoals advertentie-ID\'s kunnen worden gebruikt om te bepalen hoeveel klikken een advertentie heeft ontvangen, om de effectiviteit van advertentiecampagnes te meten, om het juiste aantal herhaalde weergaven van een bepaalde advertentie te bepalen en/of om advertenties weer te geven die het beste aansluiten bij uw interesses. Afhankelijk van uw apparaat en het besturingssysteem kunt u ervoor kiezen om te voorkomen dat de advertentie-ID van uw apparaat wordt gebruikt voor op interesses gebaseerde advertenties of om de advertentie-ID van uw apparaat opnieuw in te stellen door de instellingen van uw apparaat te wijzigen. Het bedrijf van advertentieproviders kan uw locatie gebruiken voor betere gebruikerslokalisatie van advertenties en personalisatie van advertenties in de lokale taal.
+
+
+
+Doel van het verzamelen van informatie
+
+
+Niet-persoonlijke informatie wordt gebruikt voor statistische en onderzoeksdoeleinden en aanpassing en verbetering van onze apps
+Persoonlijke informatie wordt gebruikt om u te kunnen antwoorden wanneer u contact opneemt via e-mail.
+Persoonlijke informatie zoals locatie/IP wordt gebruikt om u advertenties te tonen op basis van uw locatie, dit wordt contextuele advertenties genoemd.
+We gebruiken de informatie die we over u/uw apparaat verzamelen om diensten aan u te leveren en om ons bedrijf te runnen. Dergelijk gebruik door ons en door onze Partners kan het volgende omvatten:
+Het leveren van onze diensten: het ontwikkelen, leveren en verbeteren van onze producten, diensten en inhoud, het afstemmen van onze producten en diensten, het leveren van software-updates en productondersteuning, het begrijpen en analyseren van trends in verband met het gebruik van de apps, het beheer van de apps en klantcommunicatie.
+
+Advertenties weergeven: advertenties van derden weergeven in onze apps en advertenties voor onze apps weergeven in apps van andere uitgevers. Cross-promotie: Cross-promotie van onze apps en diensten, wat inhoudt dat we een van onze apps kunnen promoten terwijl u een andere app van ons speelt.
+
+Analyse en onderzoek: het begrijpen en analyseren van trends in verband met het gebruik van de apps, het verzamelen van demografische informatie over ons gebruikersbestand, gegevens over waar de app is gedownload. We kunnen ook rapporten en analyses maken voor onderzoek of business intelligence, bijvoorbeeld om potentiële problemen of trends met onze apps en diensten te volgen, of om onze nieuwe gamefuncties en inhoud te testen. We gebruiken de gegevens die we ontvangen van het sociale netwerk van derden alleen voor interne analyses. Als u zich wilt afmelden voor analyses, gaat u naar de sectie Afmelden van dit privacybeleid.
+
+
+
+Loggegevens
+
+
+We willen je laten weten dat wanneer je onze Service gebruikt, we in het geval van een fout in de app gegevens en informatie verzamelen (via producten van derden) op je telefoon, genaamd Loggegevens. Deze loggegevens kunnen informatie bevatten zoals het Internet Protocol ("IP")-adres van uw apparaat, de apparaatnaam, de versie van het besturingssysteem, de configuratie van de app bij het gebruik van onze Service, de tijd en datum van uw gebruik van de Service en andere statistieken . In de bovenstaande situatie garanderen we dat uw PII (persoonlijk identificeerbare informatie) alleen zal worden gebruikt om contact met u op te nemen en onze diensten te verbeteren. We zullen dergelijke informatie (bijv. uw naam en e-mailadres) nooit voor andere doeleinden gebruiken, zoals om onze producten verder op de markt te brengen of om uw persoonlijke informatie voor commerciële doeleinden aan derden bekend te maken.
+
+Als u zich zorgen maakt over misbruik van uw PII, of als u meer informatie wilt over ons privacybeleid en wat het betekent, kunt u ons een e-mail sturen op drziocure@gmail.com, we zullen ons best doen om duidelijke antwoorden te geven op uw vragen over tijd.
+
+
+
+
+Koekjes
+
+
+We gebruiken cookies en vergelijkbare trackingtechnologieën om de activiteit op onze Service te volgen en om bepaalde informatie vast te houden. Cookies zijn bestanden met een kleine hoeveelheid gegevens die vaak worden gebruikt als anonieme unieke identifiers. Deze worden naar uw browser gestuurd vanaf de websites die u bezoekt en worden opgeslagen in het interne geheugen van uw apparaat. Deze Dienst maakt niet expliciet gebruik van deze “cookies”. De app kan echter code van derden en bibliotheken gebruiken die "cookies" gebruiken om informatie te verzamelen en hun diensten te verbeteren. U hebt de mogelijkheid om deze cookies te accepteren of te weigeren en te weten wanneer een cookie naar uw apparaat wordt verzonden. Als u ervoor kiest om onze cookies te weigeren, is het mogelijk dat u sommige delen van deze Service niet kunt gebruiken.
+
+Voorbeelden van cookies die we gebruiken:
+
+Sessiecookies: we gebruiken sessiecookies om onze service te beheren.
+Voorkeurscookies: we gebruiken voorkeurscookies om uw voorkeuren en verschillende instellingen te onthouden.
+Beveiligingscookies: we gebruiken beveiligingscookies voor beveiligingsdoeleinden.
+
+
+ Betalingen
+
+
+We kunnen binnen de Service betaalde producten en/of diensten leveren. In dat geval gebruiken we diensten van derden voor de verwerking van betalingen (bijvoorbeeld betalingsverwerkers).
+
+We zullen uw betaalkaartgegevens niet opslaan of verzamelen. Die informatie wordt rechtstreeks verstrekt aan onze externe betalingsverwerkers wiens gebruik van uw persoonlijke informatie wordt geregeld door hun privacybeleid. Deze betalingsverwerkers houden zich aan de normen die zijn vastgesteld door PCI-DSS zoals beheerd door de PCI Security Standards Council, een gezamenlijke inspanning van merken als Visa, Mastercard, American Express en Discover. PCI-DSS-vereisten zorgen voor een veilige verwerking van betalingsinformatie.
+
+De betalingsverwerkers waarmee we samenwerken zijn:
+
+Aankoop van Google Play-in-app-betalingen
+ Hun privacybeleid kan worden bekeken op https://policies.google.com/privacy
+
+
+
+ Beveiliging van gegevens
+
+
+De veiligheid van uw gegevens is belangrijk voor ons, maar onthoud dat geen enkele methode van verzending via internet of methode van elektronische opslag 100% veilig is. Hoewel we ernaar streven commercieel aanvaardbare middelen te gebruiken om uw persoonlijke gegevens te beschermen, kunnen we de absolute veiligheid ervan niet garanderen.
+
+
+
+
+
+Dienstverleners
+
+
+We kunnen om de volgende redenen externe bedrijven en personen in dienst nemen:
+
+Om onze Service te vergemakkelijken;
+
+Om de Service namens ons te leveren;
+
+Om Service-gerelateerde diensten uit te voeren;
+
+Om ons te helpen analyseren hoe onze Service wordt gebruikt.
+
+We willen gebruikers van deze Service informeren dat deze derden toegang hebben tot uw persoonlijke informatie. De reden is om namens ons de aan hen opgedragen taken uit te voeren. Ze zijn echter verplicht de informatie niet openbaar te maken of voor andere doeleinden te gebruiken.
+
+
+
+
+
+Veiligheid
+
+
+We waarderen uw vertrouwen in het verstrekken van uw persoonlijke informatie, daarom streven we ernaar om commercieel aanvaardbare middelen te gebruiken om deze te beschermen. Maar onthoud dat geen enkele verzendmethode via internet of elektronische opslag 100% veilig en betrouwbaar is.
+
+De overdracht van informatie via internet of telefoonnetwerken is echter niet volledig veilig. Hoewel we ons best doen om uw informatie te beschermen, met name met betrekking tot de bescherming van uw persoonlijke gegevens,
+
+“Dr. Zio-Yoga Teacher” kan de veiligheid van uw gegevens die via internet, telefoon of andere netwerken worden verzonden, niet garanderen.
+
+
+
+
+
+Links naar andere sites
+
+
+Deze Dienst kan links naar andere sites bevatten. Als u op een link van een derde partij klikt, wordt u doorverwezen naar die site. Houd er rekening mee dat deze externe sites niet door ons worden beheerd. Daarom raden we je ten zeerste aan om het privacybeleid van deze websites te lezen. We hebben geen controle over en aanvaarden geen verantwoordelijkheid voor de inhoud, het privacybeleid of de praktijken van sites of diensten van derden.
+
+
+
+Privacy van kinderen
+
+
+Deze Services richten zich niet tot personen onder de 13 jaar. We verzamelen niet bewust persoonlijk identificeerbare informatie van kinderen onder de 13 jaar. Als we ontdekken dat een kind onder de 13 jaar ons persoonlijke informatie heeft verstrekt, verwijderen we deze onmiddellijk van onze servers. Als u een ouder of voogd bent en u weet dat uw kind ons persoonlijke informatie heeft verstrekt, neem dan contact met ons op zodat we de nodige acties kunnen ondernemen. Wijzigingen in dit privacybeleid We kunnen ons privacybeleid van tijd tot tijd bijwerken. U wordt daarom geadviseerd om deze pagina regelmatig te controleren op eventuele wijzigingen. We zullen u op de hoogte stellen van eventuele wijzigingen door het nieuwe privacybeleid op deze pagina te plaatsen. Deze wijzigingen zijn onmiddellijk van kracht nadat ze op deze pagina zijn geplaatst. Neem contact met ons op Als u vragen of suggesties heeft over ons privacybeleid, aarzel dan niet om ons een e-mail te sturen op drziocure@gmail.com, we zullen ons best doen om op tijd duidelijke antwoorden op uw vragen te geven.
+
+ California Online Privacy Protection Act CalOPPA is de eerste staatswet in de natie die commerciële websites en online diensten verplicht om een ​​privacybeleid te publiceren. Het bereik van de wet reikt veel verder dan Californië en vereist dat elke persoon of bedrijf in de Verenigde Staten (en mogelijk de wereld) die websites beheert die persoonlijk identificeerbare informatie verzamelen van Californische consumenten, een opvallend privacybeleid op zijn website plaatst waarin precies wordt vermeld welke informatie wordt verzameld en die personen of bedrijven met wie het wordt gedeeld. – Zie meer op: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+Volgens CalOPPA gaan we akkoord met het volgende:
+
+Gebruikers kunnen onze site anoniem bezoeken.
+
+
+
+Laten we derden, waaronder advertentienetwerken of plug-ins, PII verzamelen van kinderen onder de 13 jaar?
+
+– We verkopen niet specifiek aan kinderen jonger dan 13 jaar.
+
+
+
+ Beperking van aansprakelijkheid
+
+
+ Dr. Zio-yogaleraar doet geen aanspraken, beloften of garanties over de nauwkeurigheid, volledigheid of geschiktheid van de inhoud die beschikbaar is via de App en wijst uitdrukkelijk aansprakelijkheid af voor fouten en weglatingen in de inhoud die beschikbaar is via de App.
+
+– Er wordt geen enkele garantie gegeven, impliciet, expliciet of wettelijk, inclusief maar niet beperkt tot de garanties van niet-inbreuk op rechten, titel, verkoopbaarheid, geschiktheid voor een bepaald doel en vrij zijn van computervirussen, met betrekking tot de inhoud die beschikbaar is via de App of de links naar andere internetbronnen die via de App voor U beschikbaar kunnen zijn.
+
+– Verwijzing in de App naar specifieke commerciële producten, processen of diensten, of het gebruik van een handelsnaam, firmanaam of bedrijfsnaam is voor de informatie en het gemak van het publiek en vormt geen goedkeuring, aanbeveling of gunst van Dr. Zio– yogaleraar.
+
+
+
+ Wijzigingen in dit privacybeleid
+
+
+We kunnen ons privacybeleid van tijd tot tijd bijwerken. U wordt daarom geadviseerd om deze pagina regelmatig te controleren op eventuele wijzigingen. We zullen u op de hoogte stellen van eventuele wijzigingen door het nieuwe privacybeleid op deze pagina te plaatsen. Deze wijzigingen zijn onmiddellijk van kracht nadat ze op deze pagina zijn geplaatst.
+
+Zodra dit privacybeleid is opgesteld, zullen we er een link naar toevoegen op onze startpagina of op zijn minst op de eerste belangrijke pagina na het bezoeken van onze website.
+
+Als u vragen of opmerkingen heeft, kunt u ons een e-mail sturen of corresponderen op drziocure@gmail.com en we zullen proberen uw zorgen weg te nemen.
+   </string>
+
+
+    <string name="ntitle1">Training voor rugpijn ontbreekt!</string>
+    <string name="ntitle2">Mis je abonnement niet!</string>
+    <string name="ntitle3">Het is tijd om met Workout te beginnen!</string>
+    <string name="ntitle4">Waarom niet nu?</string>
+    <string name="ntitle5">Boost jezelf!</string>
+    <string name="ntitle6">Het is nu tijd!</string>
+    <string name="ntitle7">Jij.. Ja, je kunt bereiken... Klik hier?</string>
+
+    <string name="desc1">Geef nooit op! Je staat op het punt om te bereiken!💪🔥</string>
+    <string name="desc2">Denk niet aan Opgeven!💪🔥</string>
+    <string name="desc3">Weinig werk kan je een groter leven opleveren. Ga verder!💪🔥</string>
+    <string name="desc4">Proberen is winnen in het moment! Ga zo door!💪🔥</string>
+    <string name="desc5">Geef niet op! Je bent er bijna!💪🔥</string>
+    <string name="desc6">Goede dingen hebben tijd nodig! Geef nooit op!💪🔥</string>
+    <string name="desc7">Veranderen is niet makkelijk! Blijf doorgaan !💪🔥</string>
+    <string name="desc8">Een winnaar is een dromer! Geef nooit op!💪🔥</string>
+
+    <string name="icons">💪🔥</string>
+    <string name="strstate">Selecteer staat<font color="#FC527F"> *</font></string>
+    <string name="select_the_country">Selecteer land<font color="#FC527F"> *</font></string>
+
+    <string name="details1">Deze app biedt bovenstaande automatisch vernieuwende abonnementsopties:</string>
+    <string name="details3">Betaling voor Deep Sleep Pro wordt bij bevestiging van aankoop in rekening gebracht op je Google Play-account. Uw Rugpijn Pro
+abonnement wordt automatisch verlengd, tenzij automatisch verlengen is uitgeschakeld in je Google Play-account, uiterlijk 24 uur voor het einde van de huidige factureringsperiode van het abonnement.\nJe kunt je abonnement beheren of automatisch verlengen uitschakelen in de instellingen van je Google Play-account na aankoop. Als u automatisch verlengen uitschakelt in het midden of midden van een abonnementsperiode. Je hebt tot het einde van de periode nog steeds toegang tot alle premiumfuncties. Er worden geen gedeeltelijke terugbetalingen gedaan voor het uitschakelen van automatische verlenging in het midden van een abonnementsperiode. U kunt uw abonnement beheren of automatisch verlengen uitschakelen in de instellingen van uw Google Play-account na aankoop. Als u automatisch verlengen uitschakelt in het midden of midden van een abonnementsperiode. Je hebt tot het einde van de periode nog steeds toegang tot alle premiumfuncties. Er worden geen gedeeltelijke terugbetalingen gedaan voor het uitschakelen van automatische verlenging in het midden van een abonnementsperiode.</string>
+    <string name="more">Meer</string>
+    <string name="total">Totaal</string>
+    <string name="report">Rapport</string>
+    <string name="your_plan">UW PLAN</string>
+    <string name="_12_days_left">12 dagen over</string>
+    <string name="days_left"> resterende dagen</string>
+    <string name="back_pain_relief">Rugpijnverlichting</string>
+    <string name="info">Info</string>
+    <string name="intermediate_level">Gemiddeld niveau</string>
+    <string name="intermediate">INTERMEDIATE</string>
+    <string name="advanced_level">Geavanceerd niveau</string>
+    <string name="advanced">GEAVANCEERD</string>
+    <string name="weekly_goal">WEKELIJKS DOEL</string>
+    <string name="set">+ SET</string>
+    <string name="nutrition_nplan">Voeding \nPlan</string>
+
+
+    <string name="customize_plan">Pas abonnement aan</string>
+    <string name="customize_nyour_plan">Pas \nUw abonnement aan</string>
+    <string name="explore_plan">Plan verkennen</string>
+    <string name="discover">ONTDEKKEN</string>
+    <string name="discover1">Ontdekken</string>
+    <string name="daily_tips">Dagelijkse tips</string>
+    <string name="loading">Bezig met laden...</string>
+    <string name="all_diets">Alle diëten</string>
+    <string name="done">Klaar</string>
+    <string name="share">Delen</string>
+    <string name="all_history">Alle geschiedenis</string>
+    <string name="category_name">Categorienaam</string>
+    <string name="covid_tracker">Covid-tracker</string>
+    <string name="plans_made_for_you">Plannen voor jou gemaakt</string>
+    <string name="confirmed_cases">Bevestigde gevallen</string>
+    <string name="deaths">Overleden</string>
+    <string name="recoveries">Herstel</string>
+    <string name="city_province">Stad/provincie</string>
+    <string name="confirmed_ncases">Bevestigde\nCases</string>
+    <string name="my_training">Mijn training</string>
+
+    <string name="reports">Rapporten</string>
+    <string name="discover_plan">Ontdekplan</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="remove_ads">Advertenties verwijderen</string>
+    <string name="new_apps">Nieuwe apps</string>
+    <string name="share_app">App delen</string>
+
+    <string name="jumping_jacks">SPRINGJACKS</string>
+    <string name="_1_min">1 min</string>
+    <string name="_2_exercises">2 oefeningen</string>
+    <string name="edit">Bewerken</string>
+    <string name="_5_ft_5_in">5 FT 5 IN</string>
+    <string name="veg">Vega</string>
+    <string name="non_veg">Niet Vegetarisch</string>
+    <string name="height_graph">Hoogtegrafiek</string>
+    <string name="please_login_to_unlock_graph">Log in om Graph te ontgrendelen !!!</string>
+    <string name="weight_graph">Gewichtsgrafiek</string>
+    <string name="user_info">Gebruikersinfo</string>
+    <string name="premium">Premium</string>
+    <string name="get_effective_plan_with_premium">Krijg effectieve abonnementen met Premium</string>
+    <string name="_1_month_subscription">Abonnement van 1 maand</string>
+    <string name="_6_months_subscriptions">Abonnement van 6 maanden</string>
+    <string name="_40_off">40 % korting</string>
+    <string name="life_time">Levensduur abonnement</string>
+    <string name="_60_off">60 % korting</string>
+    <string name="unlock_all_the_features">Ontgrendel alle functies</string>
+    <string name="ads_free">Advertentievrij</string>
+    <string name="intermediate1">Gemiddeld</string>
+    <string name="advanced1">Geavanceerd</string>
+    <string name="unlock_all_yoga">Ontgrendel alle yoga</string>
+    <string name="easy_3d_workout_video">Eenvoudige 3D-trainingsvideo</string>
+    <string name="set_your_personal_goal">Stel je persoonlijke doel in</string>
+    <string name="back_pain_relief_pro">Rugpijn Relief Pro</string>
+    <string name="purchase_now">Koop nu</string>
+    <string name="set_reminder">Herinnering instellen</string>
+    <string name="user">Gebruiker</string>
+    <string name="my_profile">Mijn profiel</string>
+    <string name="google_fit">Google Fit</string>
+    <string name="default1">Standaard</string>
+    <string name="version_1_0">Versie 1.0</string>
+    <string name="nutrition_plan">Voedingsplan</string>
+    <string name="today_s_plan">VANDAAG PLAN</string>
+    <string name="use_this_plan">Gebruik dit abonnement</string>
+    <string name="ad">Advertentie</string>
+    <string name="appname">appnaam</string>
+    <string name="reminder_text">Herinneringstekst</string>
+    <string name="please_enter_your_text_here">Voer hier je tekst in</string>
+    <string name="fitness_apps">Fitness-apps</string>
+    <string name="suggested_for_you">Voor jou voorgesteld</string>
+    <string name="suggested_fitness_app">Voorgestelde fitness-app</string>
+    <string name="ads">Advertenties .</string>
+    <string name="top_free_apps">Top gratis apps</string>
+    <string name="suggested_banners">Voorgestelde banners</string>
+    <string name="garena_free_fire">Garena Free Fire</string>
+    <string name="free_fire_is_the">Free Fire is het ultieme survival-schietspel dat beschikbaar is op mobiel</string>
+    <string name="you_re_offline">Je bent offline</string>
+    <string name="check_your_internet">Controleer je internetverbinding en druk op de knop Opnieuw om weer online te gaan</string>
+    <string name="dr_zio_app_store">Dr.Zio App Store</string>
+    <string name="start_with_your_feeet">Begin met je voeten bij elkaar en je armen naast je, spring dan omhoog met je voeten uit elkaar en je handen boven je hoofd.</string>
+    <string name="other_reason">Andere reden..</string>
+    <string name="write_your_feedback">Schrijf je feedback</string>
+    <string name="enter_your_paramaters">VOER UW PARAMATERS IN</string>
+    <string name="get">KRIJGEN</string>
+    <string name="personalized_plan">GEPERSONALISEERD PLAN</string>
+    <string name="get_daily_tips">Ontvang dagelijkse tips in uw taal \ndoor land toe te voegen</string>
+    <string name="select">Selecteer</string>
+    <string name="next_2_12">VOLGENDE 2/12</string>
+    <string name="calf_raise_with_splayed_foot_30s">KALF RAISE MET GESPUIT VOET 30s</string>
+    <string name="plank">Plank</string>
+    <string name="repeat_day">Herhaal dag</string>
+    <string name="repeat1">Herhaal:</string>
+    <string name="every">Elke</string>
+    <string name="hour_s">Uur(en)</string>
+    <string name="date">Datum</string>
+    <string name="_12_07_2019">07-12-2019</string>
+    <string name="showing_ads">Advertenties tonen..</string>
+    <string name="watch_video_to_unlock">KIJK VIDEO OM TE ONTGRENDELEN</string>
+    <string name="unlock_free">Gratis ontgrendelen</string>
+    <string name="or">of</string>
+    <string name="watch_the_video_to_use_training_nplan_once">Bekijk de video om training \nplan één keer te gebruiken</string>
+    <string name="get_premium">Krijg Premium</string>
+
+    <string name="cm">cm</string>
+    <string name="inch">inch</string>
+    <string name="ft">ft</string>
+    <string name="kgs">Kgs</string>
+    <string name="lbs">Lbs</string>
+    <string name="no_thanks">Nee bedankt!!</string>
+    <string name="complete_100_workouts_for_best_results">Voltooi 100% trainingen voor de beste resultaten</string>
+    <string name="_16_0">16,0%</string>
+    <string name="we_work_day"><![CDATA[We werken dag en nacht voor je. Beoordeel ons alstublieft🙏.]]></string>
+    <string name="_10">(10)</string>
+    <string name="please_wait">Een ogenblik geduld....</string>
+    <string name="quit">Sluiten</string>
+    <string name="choose_your_language">Kies je taal:-</string>
+
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+
+    <string name="submit">Verzenden</string>
+    <string name="music_for_workout">Muziek voor training</string>
+    <string name="choose_from_gallery">Kies uit galerij</string>
+    <string name="change_background_music">Achtergrondmuziek wijzigen</string>
+    <string name="unlock_all_features">Ontgrendel alle functies</string>
+    <string name="to_unlock_this">Om dit niveau te ontgrendelen - Kies een optie.</string>
+    <string name="complete_n_previous_n_level">Volledig \n Vorig \n Niveau</string>
+    <string name="watch_n_ads">Bekijk \n advertenties</string>
+    <string name="buy_n_premium">Koop \n Premium</string>
+    <string name="to_unlock_this_excercise_choose_this_option">Om deze oefening te ontgrendelen - kies deze optie.</string>
+    <string name="buy_premium">Koop Premium</string>
+    <string name="close">Sluiten</string>
+    <string name="other_users_will_benefit_from_your_review">Andere gebruikers zullen profiteren van uw recensie</string>
+    <string name="please_leave_your_review_on_google_play">Laat uw recensie achter op Google Play</string>
+    <string name="rate_on_google_play">RATE OP GOOGLE PLAY</string>
+    <string name="plan_1">Abonnement 1</string>
+    <string name="dfdfdf">dfdfdf</string>
+    <string name="india_cumulative_numbers">India - Cumulatieve getallen</string>
+    <string name="updated_loading">Bijgewerkt: Bezig met laden...</string>
+    <string name="source_ministry_of_health_and_family_welfare">Bron: Ministerie van Volksgezondheid en Gezinszorg</string>
+    <string name="today_cases">Vandaag de dag</string>
+    <string name="today_deaths">Vandaag doden</string>
+    <string name="today_recoveries">Vandaag herstel</string>
+    <string name="live_now">Leef nu</string>
+    <string name="source_world_health_organization">Bron: Wereldgezondheidsorganisatie</string>
+    <string name="country_region">Land/regio</string>
+    <string name="new_ncases">Nieuwe\nCases</string>
+    <string name="new_deaths">Nieuwe sterfgevallen</string>
+    <string name="gujarat">Gujarat</string>
+    <string name="day1">Dag1</string>
+    <string name="trending">Trending</string>
+    <string name="vitamin_b6">Vitamine B6</string>
+    <string name="update">Bijwerken</string>
+    <string name="sdsdsdds">sdsdsdds</string>
+    <string name="oct_9">9 oktober</string>
+    <string name="song_name">Naam nummer</string>
+    <string name="round">Ronde</string>
+    <string name="sun1">zon</string>
+    <string name="water_drink_reminder_app">Herinneringsapp voor waterdrank</string>
+    <string name="install_now">Nu installeren</string>
+    <string name="temppdsdsd">Tempppdsdsd 💪🔥</string>
+    <string name="snooze">SNOOZE</string>
+    <string name="once">Eenmaal</string>
+    <string name="prayer_time_wake">Gebedstijd maak me wakker om 9 uur en heb net gegeten en ontbeten</string>
+    <string name="let_s_do_backpain_exercise_today">Laten we vandaag rugpijn oefenen.</string>
+    <string name="reminder_type">Herinneringstype</string>
+    <string name="sound">Geluid</string>
+    <string name="repeat_reminder">Herhaal herinnering</string>
+    <string name="report_as">Melden als</string>
+    <string name="alarm">Alarm</string>
+    <string name="save_change">Wijzigingen opslaan?</string>
+    <string name="are_you_delete">Weet je zeker dat je wilt verwijderen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="deleted">Verwijderd</string>
+    <string name="confirmation">Bevestiging</string>
+    <string name="something_went_wrong">Er is iets misgegaan!!</string>
+    <string name="take_nrest">Neem \nRest</string>
+    <string name="press_the_resume">Druk op hervatten om naar de volgende oefening te gaan</string>
+    <string name="is_completed"> is voltooid</string>
+    <string name="completed">voltooid</string>
+    <string name="recommand_for_you">Aanbevelen voor jou</string>
+    <string name="hated_it">Heb er een hekel aan</string>
+    <string name="dislike_it">Niet leuk gevonden!</string>
+    <string name="its_ok">Het is oké</string>
+    <string name="liked_it">Ik vond het leuk!</string>
+    <string name="loved_it">Ik vond het geweldig</string>
+    <string name="do_you_like_this_app">Vind je deze app leuk?</string>
+    <string name="your_feedback_is_useful">Uw feedback is nuttig</string>
+    <string name="did_you_hear_the_test_voice">Heb je de teststem gehoord?</string>
+    <string name="error">Fout</string>
+    <string name="latest">Nieuwste</string>
+    <string name="related_apps">Verwante apps</string>
+    <string name="treading_apps">Trending apps</string>
+    <string name="please_check_after">Controleer het na enige tijd!..</string>
+    <string name="prepe_app">App voor u voorbereiden...</string>
+    <string name="are_you_sure">Weet je het zeker?</string>
+    <string name="drzio_updatestring">Dr. Zio raadt aan om te updaten naar de nieuwste versie voor een naadloze en verbeterde prestatie van de app.</string>
+    <string name="select_gender">Selecteer a.u.b. geslacht</string>
+    <string name="addfood">Voeg voedsel toe</string>
+    <string name="news">Nieuw</string>
+    <string name="you_can_better">Je kunt beter presteren dan dit !!</string>
+    <string name="perform_better">Prestaties zijn slecht !!</string>
+    <string name="perform_okay">Prestaties zijn oké</string>
+    <string name="perform_good">Prestaties zijn goed !!</string>
+    <string name="perform_great">Prestaties zijn geweldig !!</string>
+    <string name="purchasefeed1">Aankoopprijs is hoog</string>
+    <string name="purchasefeed2">Analyseren &amp; Koop dan</string>
+    <string name="purchasefeed3">Overig</string>
+    <string name="copyright_2021_dr_zio">copyright @ 2022 Dr. zio</string>
+    <string name="retry">Opnieuw proberen</string>
+    <string name="blog">Blog</string>
+    <string name="sett_edu">Tik hier om je profiel en meer instellingen te beheren</string>
+    <string name="tap_here">Tik hier!!.</string>
+    <string name="repo_edu">houd regelmatig je voortgang bij</string>
+    <string name="hom_edu">Start je training en bekijk voeding en aangepast plan</string>
+    <string name="dis_edu">Ontdek yogaplannen voor alle soorten rugpijn</string>
+    <string name="blog_edu">Lees blogs en tips voor de onderwerpen die je leuk vindt</string>
+    <string name="stor_edu">Bekijk meer apps van Dr. zio</string>
+    <string name="menu_edu">Tik hier voor menu</string>
+    <string name="day">Dag</string>
+    <string name="all_app">Alle apps</string>
+    <string name="want_uninterrupted">wil je een ononderbroken advertentievrije training?\n KRIJG NU PREMIUM!</string>
+    <string name="admob_openapp" />
+    <string name="beginner">BEGINNER</string>
+    <string name="rate_txt">Ben bu uygulamada size 5 yıldızlı bir deneyim yaşatmak için çok çalışan bir Programcıyım. Lütfen benim için 5 yıldızlı bir inceleme yazın. Teşekkürler! Bu benim için dünya demek.</string>
+
+    <string name="deep_sleep_yoga_and_yog_nindra">DIPE SLAAP YOGA EN YOG NINDRA</string>
+    <string name="yoga_for_insomnia">YOGA VOOR INSOMNIA</string>
+    <string name="deep_sleep_yoga">Sleep Yoga</string>
+    <string name="yog_nindra_effective_sleep">YOG NINDRA EFFECTIEVE SLAAP</string>
+    <string name="bed_time_yoga">BEDTIJD YOGA</string>
+    <string name="for_sound_sleep">VOOR GELUID SLAAP</string>
+    <string name="brething_exercise">BRETHING OEFENING</string>
+    <string name="sleep_apnea">SLEEP APNEA</string>
+    <string name="bed_time_yoga_amp_brething_exercise"><![CDATA[BED TIME YOGA & BRETHINH OEFENING]]></string>
+    <string name="yog_nidra_effective_sleep">Yog nindra - Effectieve slaap</string>
+    <string name="bed_time_for_sound_sleep">Yoga voor het slapengaan voor een goede nachtrust</string>
+    <string name="bipolar_depresion">Bipolaire depressie</string>
+    <string name="info1">Hé! Geweldig dat je klaar bent om slaapproblemen te overwinnen. Je kunt slaapyoga &amp; onderstaande meditatie-oefeningen. Laten we beginnen! </string>
+    <string name="info2">Je vindt in dit plan veel meer uitdagende slaapmeditatie-oefeningen. Meer rekken, meer lichaamstraining om je kniepijn snel te verminderen, dus laten we beginnen!</string>
+    <string name="info3">De ultieme uitdaging! We hebben de moeilijkste slaapmeditatie-workouts voor je voorbereid die je een goede nachtrust zullen bezorgen. Laten we dit doen!</string>
+    <string name="ftinch">ft inch</string>
+</resources>

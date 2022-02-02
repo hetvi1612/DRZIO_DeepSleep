@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/previousview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:visibility="gone"
+    android:layoutDirection="ltr"
+    >
+
+    <FrameLayout
+        android:id="@+id/videolay"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="@android:color/white">
+
+
+        <RelativeLayout
+            android:id="@+id/animlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white">
+
+            <VideoView
+                android:id="@+id/pvidviewvid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal" />
+        </RelativeLayout>
+
+
+    </FrameLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/devidercolor"
+        android:layout_marginTop="5dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+       <TextView
+
+            android:id="@+id/pworkoutname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/jumping_jacks"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/themefont"
+            android:textColor="@color/headercolor"
+            android:textSize="18sp"/>
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_videocam_black_24dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:tint="@color/themegreen"
+            android:visibility="gone"
+            android:padding="10dp"/>
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+   <TextView
+
+        android:id="@+id/pexcerdesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColor="@color/smalltxtcolor"
+        android:fontFamily="@font/themefont"
+        android:text="@string/start_with_your_feeet"
+        android:textSize="15sp"/>
+    </ScrollView>
+</LinearLayout>

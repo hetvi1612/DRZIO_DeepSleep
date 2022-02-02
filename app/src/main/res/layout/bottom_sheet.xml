@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom|center"
+    android:background="@drawable/bottomdialogbg"
+    android:layoutDirection="ltr"
+
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_above="@+id/bottom">
+
+        <include layout="@layout/content_previousview"/>
+
+        <include layout="@layout/content_currentview"/>
+
+        <include layout="@layout/content_nextview"/>
+
+        <ImageView
+            android:id="@+id/imgclose"
+            android:layout_width="50dp"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_height="50dp"
+            android:padding="12dp"
+            android:src="@drawable/ic_cancel_black_24dp"
+            android:tint="@color/secondarycolor" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/gradbtn">
+
+        <ImageView
+            android:id="@+id/prevexcer"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:src="@drawable/ic_first_page_black_24dp"
+            android:tint="@android:color/white" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true">
+
+           <TextView
+
+                android:id="@+id/currentpos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/themefont"
+                android:textColor="@android:color/white"/>
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="/"
+                android:textSize="20sp"
+                android:textColor="@android:color/white"/>
+
+           <TextView
+
+                android:id="@+id/totalno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="12"
+                android:textSize="20sp"
+                android:fontFamily="@font/themefont"
+                android:textColor="@android:color/white"/>
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/nextexcer"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:padding="10dp"
+            android:src="@drawable/ic_last_page_black_24dp"
+            android:tint="@android:color/white" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> 1 Djup sömn yoga  </string>
+    <string name = "picker_box_arrows_icon"> pilar för pickerbox </string>
+    <string name = "favtitle"> Lägg till dina favoritpass här. ❤anpassa dina egna träningsplaner utifrån dina preferenser. </string>
+
+    <string name = "mon"> måndag </string>
+    <string name = "tu"> tisdag </string>
+    <string name = "wed"> onsdag </string>
+    <string name = "thri"> Tredag </string>
+    <string name = "fri"> fredag </string>
+    <string name = "sat"> lördag </string>
+    <string name = "sun"> söndag </string>
+    <string name="facebook_app_id">394103198201105</string>
+    <string name = "exename1"> Cat Cow Pose (Majaryasana - Bitilasana) </string>
+
+    <string name = "exename2"> Bhastrika Pranayama Yoga </string>
+
+    <string name = "exename3"> Liggande bunden vinkelpose (Supta Baddha Konasana) </string>
+
+    <string name = "exename4"> Sittande halv spinal twist pose (Ardha Matsyendrasana) </string>
+
+    <string name = "exename5"> Sittande vidvinkelpose (Upavistha Konasana) </string>
+
+    <string name = "exename6"> Shanmukhi mudra </string>
+
+    <string name = "exename7"> Vindavlastande pose (Pavanamuktasana) </string>
+
+    <string name = "exename8"> Tråd till nål (Parsva Balasana) </string>
+
+    <string name = "exename9"> Plough Pose (Halasan) </string>
+
+    <string name = "exename10"> Hero Pose (Virasana) </string>
+
+    <string name = "exename11"> Nadi Shodhan Pranayam </string>
+
+    <string name = "exename12"> Thunderbolt Pose (Vajrasana) </string>
+
+    <string name = "exename13"> Dansens herre (Natarajasana) </string>
+
+    <string name = "exename14"> Vakrasana (Half Spinal Twist Pose) </string>
+
+    <string name = "exename15"> Barnpos (Hare Pose) (Balasana) </string>
+
+    <string name = "exename16"> kapalbhati Pranayama </string>
+
+    <string name = "exename17"> Sittande framåtböjning (Paschimottanasana) </string>
+
+    <string name = "exename18"> Benen upp i väggen (Viparita Karani) </string>
+
+    <string name = "exename19"> Framåtböjning (Hasta Padasana) </string>
+
+    <string name = "exename20"> Mountain Pose (Tadasan) </string>
+
+    <string name = "exename21"> Supine Spinal Twist (Supta Matsyendrasana) </string>
+
+    <string name = "exename22"> Stolposering (Utkatasana) </string>
+
+    <string name = "exename23"> Fish Pose (Matsyasanaa) </string>
+
+    <string name = "exename24"> Celibates pose (Brahmacharyasana) </string>
+
+    <string name = "exename25"> Fram-till-knä framåtböjning (Janu Sirsasana) </string>
+
+
+    <string name = "exedesc1"> Den sträcker ryggen på torso och nacke och stimulerar och stärker mageorganen mjukt. Det ger ryggraden rätt inriktning och kan hjälpa till att förhindra ryggont när det tränas regelbundet. </string>
+
+    <string name = "exedesc2"> Perfekt för lungor och personer som lider av repetitiv hosta, influensa, andningsproblem, allergier eller andfåddhet. Den ökade blodtillförseln till huvudet förbättrar syn och hörsel. Lungorna stärks och det är fördelaktigt för bronkit, eftersom andningsorganen snabbt och djupt renas. • Det är bra för att ge energi åt kroppen och sinnet </string>
+
+    <string name = "exedesc3"> Det lugnar matsmältnings- och reproduktionssystemet och behandlar tillstånd som irritabel tarmsjukdom, infertilitet, menstruationsstörningar, matsmältningsbesvär, klimakteriet etc. • Det ger ljumskar, inre lår och knän en bra stretch • Det minskar muskelspänningar och befriar dig från trötthet och sömnlöshet. Det lugnar också sinnet </string>
+
+    <string name = "exedesc4"> Den ger näringsämnen, blod och syre och förbättrar hälsan hos reproduktionssystemet såväl som urinsystemet.Fördelaktigt för menstruationsstörningar och ger energi till ryggraden, • Stimulerar lever och njurar </string >
+
+    <string name = "exedesc5"> Det stimulerar bukorganen. Stärker och tonar abs, ryggrad och ben. • Hjälper till att bota och lindra ischias och artrit. Det avgiftar njurarna.
+ </string>
+
+    <string name = "exedesc6"> Perfekt för ansiktsmuskler och utseende eftersom värmen och prana i händer och fingrar stimulerar och slappnar av ansiktsmusklerna • Användbar för att hantera ångest och ta bort negativa intellektuella mönster. • Det stimulerar sensoriska organ och senare stadier tillbakadragande. • Får fokus, inåtvändhet och lugn </string>
+
+    <string name = "exedesc7"> Sträcker och stärker rygg- och magmusklerna • Hjälper till matsmältning och frigöring av gas. Utlöser fettförbränningen. • Tonar musklerna i benen och armarna. • Förbättrar blodcirkulationen i höftlederna </string>
+    <string name = "exedesc8"> Det sträcker försiktigt upp dina övre bröstmuskler. • Det öppnar övre och yttre musklerna i axeln. • Det ökar blodcirkulationen till de övre extremiteterna. </string>
+
+    <string name = "exedesc9"> Det uppmuntrar flexibilitet i ryggen och sträcker musklerna längs baksidan av benen. • Det stärker och öppnar upp nacke, axlar, mage och ryggmuskler </string>
+
+    <string name = "exedesc10"> Det stärker armar och axlar och håller ryggraden flexibel. Den ger näring åt hjärnan med mer blod. </string>
+
+    <string name = "exedesc11"> Det hjälper också till att lindra andningsallergier som orsakar hösnuva, nysningar eller väsande andning • Hjälper till att harmonisera hjärnans vänstra och högra halvklot, vilket korrelerar till de logiska och känslomässiga sidorna av vår personlighet. </string>
+
+    <string name = "exedesc12"> Förbättrar matsmältningen och bekämpar förstoppning och surhet. • Lindrar menstruationsstörning. • Reglerar reproduktionsorganens och sköldkörtelns funktion. • Stärker bäckenmusklerna </string>
+
+    <string name = "exedesc13"> Posen symboliserar kosmisk energi, och när du gör det dansar du i universums flöde • Sträcker och stärker bröstet, axlarna, quadriceps, framkroppen, inklusive buken. • Sträcker överdelen rygg, quadriceps, anklar, fötter, lår, ljumskar och mage • Förbättrar balansen </string>
+
+    <string name = "exedesc14"> Stimulera hjärta, njurar, lever, mjälte och lungor. • Det hjälper till att minska magefett, stärker njurarna, • Det hjälper till att förebygga och kontrollera diabetes. • Det stärker ryggmusklerna och minskar ryggvärk. </string>
+
+    <string name = "exedesc15"> Användbart för att bli av med förstoppning • Detta leder till att binjurarna fungerar. Sträcker ut ryggmusklerna och gör dem starkare. • Förbättrar hälsan hos både manliga och kvinnliga reproduktionsorgan </string>
+
+    <string name = "exedesc16"> Ökar ämnesomsättningen och hjälper till att gå ner i vikt. • Förbättrar matsmältningskanalens funktion, absorption och assimilering av näringsämnen. stimulerar bukorganen och är därmed extremt användbar för personer med diabetes • Förbättrar minne och koncentrationskraft </string>
+
+    <string name = "exedesc17"> Det stimulerar funktionen hos tallkott, hypotalamus och hypofyser och hjälper till att hemlighålla tillväxthormon som är ansvarigt för höjd. • Det stärker musklerna i rygg, axlar och arm. </string>
+
+    <string name = "exedesc18"> Lindrar trötta eller trånga ben och fötter • Lindrar huvudvärk • Lindrar smärta i nedre delen av ryggen • Lugnar sinnet
+ </string>
+
+    <string name = "exedesc19"> Det vitaliserar nervsystemet och främjar korrekt blodcirkulation i hypofysen som frigör tillväxthormon som är ansvarigt för höjden. Det sträcker också rygg- och underkroppsmusklerna med ryggraden. </string>
+
+    <string name = "exedesc20"> Det tonar benmusklerna, slutar stelhet i ben och höfter, botar ryggvärk och stukningar i nacken, utvecklar bröstet och stärker anklarna. </string>
+
+    <string name = "exedesc21"> Knä -ned -vridning sträcker ut ryggen, anpassar musklerna och förlänger ryggraden och återfuktar ryggradsskivorna. • Det ger dina axlar, bröst, mellersta ryggrad, höfter, nedre rygg och övre rygg bra • Uppmuntrar till friskt blodflöde till de inre organen och ger en komplett avgiftning för dina inre organ </string>
+
+    <string name = "exedesc22"> Sträcker och stärker rygg- och magmusklerna • Hjälper till matsmältning och utsläpp av gas. Utlöser fettförbränningen. • Tonar musklerna i benen och armarna. • Förbättrar blodcirkulationen i höftlederna. </string>
+
+    <string name = "exedesc23"> Lindrar spänningar i nacke, hals och axlar. Sträcker och stimulerar organen i din mage och hals.
+ </string>
+
+    <string name = "exedesc24"> Ökar ämnesomsättningen och hjälper till att gå ner i vikt. Förbättrar matsmältningskanalens funktion, absorption och assimilering av näringsämnen. Energiserar nervsystemet och föryngrar hjärnceller. Förbättrar blodcirkulationen och tillför glöd i ansiktet. Det stimulerar bukorganen och är därför extremt användbar för personer med diabetes. Förbättrar minne och koncentrationskraft. </string>
+
+    <string name = "exedesc25"> Det sträcker totalt dina hamstrings, axlar, vader, valv, händer och ryggrad samtidigt som du bygger styrka i dina armar, axlar och ben. Det stimulerar blodcirkulationen. Det är perfekt träning för hela kroppen för att öka höjden. </string>
+
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+    <string name = "add_exercise"> Lägg till träning </string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name = "please_check_your_internet_connection"> Kontrollera din internetanslutning !!! </string>
+    <string name = "refresh"> Uppdatera </string>
+    <string name = "start"> START </string>
+    <string name = "previous"> Föregående </string>
+    <string name = "next"> Nästa </string>
+    <string name = "tips"> Tips </string>
+    <string name = "history"> Historik </string>
+    <string name = "com_continue"> Fortsätt </string>
+    <string name = "reminder"> Påminnelse </string>
+    <string name = "calculate_bmi"> Beräkna BMI </string>
+    <string name = "weight"> VIKT: </string>
+    <string name = "weight1"> Vikt </string>
+    <string name = "bmi_kg_m"> BMI (KG/M²) </string>
+    <string name = "calories"> Kalorier </string>
+    <string name = "exercises"> Övningar </string>
+    <string name = "duration"> Varaktighet </string>
+    <string name = "ready_to_go"> Redo att gå! </string>
+    <string name = "skip"> SKIPA </string>
+    <string name = "reset"> Återställ </string>
+    <string name = "add"> ADD </string>
+    <string name = "video"> VIDEO </string>
+    <string name = "animation"> ANIMATION </string>
+    <string name = "txt_weekgoal"> Ange veckomål </string>
+    <string name = "save"> SPARA </string>
+    <string name = "user_age"> Ålder </string>
+    <string name = "user_gender"> Kön </string>
+    <string name = "user_male"> Man </string>
+    <string name = "user_height"> Höjd </string>
+    <string name = "user_weight"> Vikt </string>
+    <string name = "user_meal"> Måltid </string>
+    <string name = "rest_day"> Vilodag </string>
+    <string name = "finished"> FÄRDIG </string>
+    <string name = "diet_list"> Kostlista </string>
+    <string name = "no_internet"> Ingen internetanslutning tillgänglig !! </string>
+    <string name = "set_your_weekly_goal"> STÄLL DIN VECKOMÅL </string>
+    <string name = "recommandedtxt"> Vi rekommenderar att du tränar minst 3 dagar i veckan för ett bättre resultat </string>
+    <string name = "training_days"> Träningsdagar </string>
+    <string name = "first_day_of_week"> Första veckodagen </string>
+    <string name = "to_set_regional_plan"> ATT STÄLLA REGIONAL PLAN </string>
+    <string name = "select_state"> Välj tillstånd </string>
+    <string name = "select_city"> Välj stad </string>
+    <string name = "what_s_your_gender"> Välj vem du är? </string>
+    <string name = "to_personalize_your_plan"> För att anpassa din plan </string>
+    <string name = "female"> Kvinna </string>
+    <string name = "male"> Man </string>
+    <string name = "diet_plan"> Kostplan </string>
+    <string name = "vegetarian"> Vegetarian </string>
+    <string name = "non_nvegetarian"> Icke-vegetarian </string>
+    <string name = "vegan"> Vegan </string>
+    <string name = "how_old_are_you"> Hur gammal är du? </string>
+    <string name = "calculate"> Calculate </string>
+    <string name = "ok"> OK </string>
+    <string name = "mute"> Ignorera </string>
+    <string name = "voice_guide"> Röstguide </string>
+    <string name = "coach_tips"> Coachtips </string>
+    <string name = "sound_options"> Ljudalternativ </string>
+    <string name = "please_name_your_plan"> Namnge din plan </string>
+    <string name = "cancel"> AVBRYT </string>
+    <string name = "give_up"> GIV UP </string>
+    <string name = "please_set_reminder"> Ange påminnelse </string>
+    <string name = "restart"> RESTART </string>
+    <string name = "having_a_beautiful_body_has_never_easy"> Att ha en vacker kropp har aldrig varit lätt! </string>
+    <string name = "settings"> Inställningar </string>
+    <string name = "test_voice"> Testa röst </string>
+    <string name = "workout"> TRÄNING </string>
+    <string name = "remind_me_to_workout_every_day"> Påminn mig om att träna varje dag </string>
+    <string name = "voice_options_tts"> RÖSTALTERNATIV (TTS) </string>
+    <string name = "voice_language"> Röstspråk </string>
+    <string name = "download_more_tts_language_data"> Ladda ner mer TTS -språkdata </string>
+    <string name = "device_tts_setting"> Device TTS Setting </string>
+    <string name = "general_settings"> ALLMÄNNA INSTÄLLNINGAR </string>
+    <string name = "language_options"> Språkalternativ </string>
+    <string name = "restart_progress"> Starta om framsteg </string>
+    <string name = "support_us"> STÖD OSS </string>
+    <string name = "rate_us"> Betygsätt oss </string>
+
+    <string name = "share_with_friends"> Dela med vänner </string>
+    <string name = "privacy_policy"> Sekretesspolicy </string>
+    <string name = "repeat"> Upprepa </string>
+    <string name = "aboveage"> Över 18 år </string>
+    <string name = "nextexespeech"> nästa övning är </string>
+    <string name = "startspeech"> starta övningen </string>
+
+
+    <string name = "feed1"> Jag gillar inte designen </string>
+    <string name = "feed2"> Den har inte de funktioner jag behöver </string>
+    <string name = "feed3"> Det är inte lätt att använda </string>
+    <string name = "feed4"> Det är för komplicerat </string>
+    <string name = "feed5"> Översättningen är dålig </string>
+    <string name = "reminderdialtxt"> <u> Varför påminner du dig inte om 100% resultat. </u> </string>
+
+    <string name = "terms"> Att skapa ett konto betyder att du har det bra med </string>
+
+    <string name = "tandc"> <u> Användarvillkor </u> </string>
+    <string name = "privacy"> <u> Sekretesspolicy </u> </string>
+
+    <string name = "tvbmis"> <u> Beräkna BMI </u> </string>
+
+    <string name = "tvmoretips"> <u> Fler tips >> </u> </string>
+    <string name = "tvmoredetail"> <u> Fler detaljer >> </u> </string>
+
+    <string name = "termstxt"> Genom att ladda ner eller använda appen gäller dessa villkor automatiskt för dig - du bör därför se till att du läser dem noggrant innan du använder appen. Du får inte kopiera eller ändra appen, någon del av appen eller våra varumärken på något sätt. Du får inte försöka extrahera appens källkod, och du ska inte heller försöka översätta appen till andra språk eller göra härledda versioner. Själva appen och alla varumärken, upphovsrätt, databasrättigheter och andra immateriella rättigheter relaterade till den tillhör fortfarande Dr Zio.
+
+Dr Zio har åtagit sig att se till att appen är så användbar och effektiv som möjligt. Av denna anledning förbehåller vi oss rätten att göra ändringar i appen eller att ta betalt för dess tjänster, när som helst och av vilken anledning som helst. Vi kommer aldrig att debitera dig för appen eller dess tjänster utan att göra det klart för dig exakt vad du betalar för.
+
+"Öka höjden efter 18 applikationer" lagrar och behandlar personuppgifter som du har lämnat till oss för att ge bättre service. Det är ditt ansvar att hålla din telefon och åtkomst till appen säker. Vi rekommenderar därför att du inte jailbreaker eller rotar din telefon, vilket är processen för att ta bort programvarubegränsningar och begränsningar som föreskrivs av enhetens officiella operativsystem. Det kan göra din telefon sårbar för skadlig programvara/virus/skadliga program, äventyra telefonens säkerhetsfunktioner och det kan innebära att den här appen inte fungerar som den ska eller alls.
+
+Du bör vara medveten om att det finns vissa saker som Dr Zio inte tar ansvar för. Vissa funktioner i appen kräver att appen har en aktiv internetanslutning. Anslutningen kan vara Wi-Fi eller tillhandahållas av din mobilnätsleverantör, men Dr Zio kan inte ta ansvar för att appen inte fungerar med full funktionalitet om du inte har tillgång till Wi-Fi och du inte har någon av ditt datatillskott kvar.
+
+Om du använder appen utanför ett område med Wi-Fi bör du komma ihåg att dina villkor i avtalet med din mobilnätleverantör fortfarande gäller. Som ett resultat kan du komma att debiteras av din mobilleverantör för datakostnaden under anslutningens längd medan du öppnar appen eller andra tredjepartsavgifter. När du använder appen accepterar du ansvaret för sådana avgifter, inklusive avgifter för roamingdata om du använder appen utanför ditt hemområde (dvs. region eller land) utan att stänga av dataroaming. Om du inte är fakturabetalaren för den enhet som du använder appen på, ska du vara medveten om att vi antar att du har fått tillstånd från faktureraren för att använda appen. På samma sätt kan Dr Zio inte alltid ta ansvar för hur du använder appen, dvs. Dr Zio kan inte ta ansvar. När det gäller Dr Zios ansvar för din användning av appen, när du använder appen, är det viktigt att komma ihåg att även om vi försöker se till att den uppdateras och korrigeras hela tiden, litar vi på tredje part att ge oss information så att vi kan göra den tillgänglig för dig. Dr Zio tar inget ansvar för förlust, direkt eller indirekt, som du upplever som ett resultat av att helt förlita dig på denna funktionalitet i appen. Någon gång kanske vi vill uppdatera appen. Appen är för närvarande tillgänglig på Android - kraven för systemet (och för alla ytterligare system som vi beslutar att utöka tillgängligheten för appen till) kan ändras, och du måste ladda ner uppdateringarna om du vill fortsätta använda appen. Dr Zio lovar inte att den alltid kommer att uppdatera appen så att den är relevant för dig och/eller fungerar med Android -versionen som du har installerat på din enhet. Du lovar dock att alltid acceptera uppdateringar av appen när den erbjuds dig. Vi kan också vilja sluta tillhandahålla appen och kan avsluta användningen av den när som helst utan att meddela dig om uppsägning. Om vi ​​inte säger något annat till dig, vid en uppsägning, (a) upphör de rättigheter och licenser som beviljas dig i dessa villkor; (b) du måste sluta använda appen och (om det behövs) ta bort den från din enhet. </string>
+
+
+    <string name = "policytxt" formatted="false"> Allmän policy Genom att ladda ner eller använda appen gäller dessa villkor automatiskt för dig - du bör därför se till att du läser dem noggrant innan du använder appen. Du får inte kopiera eller ändra appen, någon del av appen eller våra varumärken på något sätt. Du får inte försöka extrahera appens källkod, och du ska inte heller försöka översätta appen till andra språk eller göra härledda versioner. Själva appen och alla varumärken, upphovsrätt, databasrättigheter och andra immateriella rättigheter relaterade till den tillhör fortfarande Dr Zio.
+        Dr Zio har åtagit sig att se till att appen är så användbar och effektiv som möjligt. Av denna anledning förbehåller vi oss rätten att göra ändringar i appen eller att ta betalt för dess tjänster, när som helst och av vilken anledning som helst. Vi kommer aldrig att debitera dig för appen eller dess tjänster utan att göra det klart för dig exakt vad du betalar för.
+        "Ryggsmärtsapplikation" lagrar och behandlar personuppgifter som du har lämnat till oss för att ge bättre service. Det är ditt ansvar att hålla din telefon och åtkomst till appen säker. Vi rekommenderar därför att du inte jailbreaker eller rotar din telefon, vilket är processen för att ta bort programvarubegränsningar och begränsningar som föreskrivs av enhetens officiella operativsystem. Det kan göra din telefon sårbar för skadlig programvara/virus/skadliga program, äventyra telefonens säkerhetsfunktioner och det kan innebära att den här appen inte fungerar som den ska eller alls.
+        Du bör vara medveten om att det finns vissa saker som Dr Zio inte tar ansvar för. Vissa funktioner i appen kräver att appen har en aktiv internetanslutning. Anslutningen kan vara Wi-Fi eller tillhandahållas av din mobilnätsleverantör, men Dr Zio kan inte ta ansvar för att appen inte fungerar med full funktionalitet om du inte har tillgång till Wi-Fi och du inte har någon av ditt datatillskott kvar.
+        Om du använder appen utanför ett område med Wi-Fi bör du komma ihåg att dina villkor i avtalet med din mobilnätleverantör fortfarande gäller. Som ett resultat kan du komma att debiteras av din mobilleverantör för datakostnaden under anslutningens längd medan du öppnar appen eller andra tredjepartsavgifter. När du använder appen accepterar du ansvaret för sådana avgifter, inklusive avgifter för roamingdata om du använder appen utanför ditt hemområde (dvs. region eller land) utan att stänga av dataroaming. Om du inte är fakturabetalaren för den enhet som du använder appen på, ska du vara medveten om att vi antar att du har fått tillstånd från faktureraren för att använda appen. På samma sätt kan Dr Zio inte alltid ta ansvar för hur du använder appen, dvs. Dr Zio kan inte ta ansvar. När det gäller Dr Zios ansvar för din användning av appen, när du använder appen, är det viktigt att komma ihåg att även om vi försöker se till att den uppdateras och korrigeras hela tiden, litar vi på tredje part att ge oss information så att vi kan göra den tillgänglig för dig. Dr Zio tar inget ansvar för förlust, direkt eller indirekt, som du upplever som ett resultat av att helt förlita dig på denna funktionalitet i appen. Någon gång kanske vi vill uppdatera appen. Appen är för närvarande tillgänglig på Android - kraven för systemet (och för alla ytterligare system som vi beslutar att utöka tillgängligheten för appen till) kan ändras, och du måste ladda ner uppdateringarna om du vill fortsätta använda appen. Dr Zio lovar inte att den alltid kommer att uppdatera appen så att den är relevant för dig och/eller fungerar med Android -versionen som du har installerat på din enhet. Du lovar dock att alltid acceptera uppdateringar av appen när den erbjuds dig. Vi kan också vilja sluta tillhandahålla appen och kan avsluta användningen av den när som helst utan att meddela dig om uppsägning. Om vi ​​inte säger något annat till dig, vid en uppsägning, (a) upphör de rättigheter och licenser som beviljas dig i dessa villkor; (b) du måste sluta använda appen och (om det behövs) ta bort den från din enhet.
+
+        Så här använder du appar:
+
+        Vi rekommenderar att du använder den här appen genom att prenumerera på läkare om du har någon allvarlig sjukdom och skador i ben, hjärta, ryggskada, ryggrad, huvudskada eller annan kroppsskada, be expert/läkare att göra denna yoga, träning och träna.
+
+        Integritetspolicy
+
+        Dr Zio byggde appen Deep Sleep som en kommersiell app. Denna TJÄNST tillhandahålls av Dr Zio och är avsedd att användas som den är. Denna sida används för att informera besökare om vår policy med insamling, användning och avslöjande av personlig information om någon bestämde sig för att använda vår tjänst. Om du väljer att använda vår tjänst godkänner du insamling och användning av information om denna policy. Den personliga information som vi samlar in används för att tillhandahålla och förbättra tjänsten. Vi kommer inte att använda eller dela din information med någon utom det som beskrivs i denna sekretesspolicy. Termerna som används i denna sekretesspolicy har samma betydelser som i våra användarvillkor, som är tillgängliga på Öka höjd efter 18 om inte annat definieras i denna sekretesspolicy.
+
+        Insamling och användning av information
+
+        För en bättre upplevelse kan vi kräva att du ger oss viss personligt identifierbar information, inklusive men inte begränsat till We Collect -personens Gmail -ID, namn, ålder, höjd, vikt för att få en bättre upplevelse av användare som person får för en bättre upplevelse. specifik hjälp enligt deras BMI (Body Mass Index) och få meddelanden med tips och anpassa aviseringar och annonser enligt deras plats. Informationen som vi begär behålls av oss och används enligt beskrivningen i denna sekretesspolicy. Appen använder tjänster från tredje part som kan samla in information som används för att identifiera dig. Länk till sekretesspolicyn för tredjepartsleverantörer som används av appen
+
+        Google Play -tjänster (https://policies.google.com/privacy)
+        AdMob (https://support.google.com/admob/answer/6128543?hl=sv)
+        Firebase Analytics (https://firebase.google.com/policies/analytics)
+        Facebook (https://www.facebook.com/about/privacy)
+        Tyg (https://fabric.io/privacy)
+        Crashlytics (https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+        Vi samlar in information om din plats när du använder våra tjänster, vilket hjälper oss att erbjuda funktioner som vägbeskrivning för din weekendresa eller visningstider för filmer som spelar nära dig.
+
+        Din plats kan bestämmas med varierande noggrannhet genom att:
+
+GPS
+IP-adress
+Sensordata från din enhet
+Information om saker nära din enhet, till exempel Wi-Fi-åtkomstpunkter, celltorn och Bluetooth-aktiverade enheter
+De typer av platsdata som vi samlar in beror delvis på din enhet och kontoinställningar. Till exempel kan du aktivera eller inaktivera din Android -enhets plats med enhetens inställningsapp. Du kan också slå på platshistorik om du vill skapa en privat karta över vart du går med dina inloggade enheter.
+
+
+
+Reklam
+
+
+Genom att använda våra appar kan du erbjudas reklaminnehåll. Vi eller de annonsnätverk vi använder kan använda annonsvisningsteknik som använder cookies, fyrar, spårningspixlar och annan teknik som placeras i annonserna och gör att vi eller våra nätverk kan samla in icke-personlig information. Icke-personlig information som ålder och kön kan användas för att säkerställa att lämplig reklam erbjuds dig. Användningsdata och icke-personlig information, till exempel reklamidentifierare, kan användas för att avgöra hur många klick en annons har fått, för att mäta effektiviteten i annonskampanjer, för att bestämma hur många upprepade visningar av en viss annons och/eller för att visa annonser som bäst relaterar till dina intressen. Beroende på din enhet och operativsystem kan du eventuellt välja att förhindra att enhetens annonsidentifierare används för intressebaserad annonsering eller återställa enhetens annonsidentifierare genom att ändra enhetens inställningar. Annonsleverantörsföretaget kan ta din plats för bättre annonser användarlokalisering och anpassning av lokala språkannonser.
+
+
+
+Syfte med informationsinsamling
+
+
+Icke-personlig information används för statistiska och forskningsändamål och anpassning och förbättring av våra appar
+Personlig information används för att kunna svara dig när du kontaktar via e -post.
+Personlig information som plats/IP används för att visa dig annonser enligt din plats, detta kallas kontextuell annons.
+Vi använder den information vi samlar in om dig/din enhet för att leverera tjänster till dig och för att driva vår verksamhet. Sådan användning av oss och av våra partners kan innefatta:
+Leverera våra tjänster: Utveckla, leverera och förbättra våra produkter, tjänster och innehåll, skräddarsy våra produkter och tjänster, tillhandahålla programuppdateringar och produktsupport, förstå och analysera trender i samband med användning av appar, administration av appar och kundkommunikation.
+
+Visar annonser: Visar annonser från tredje part i våra appar och visar annonser för våra appar i andra utgivares appar. Korsmarknadsföring: Korsmarknadsföring av våra appar och tjänster, vilket innebär att vi kan marknadsföra en av våra appar medan du spelar en annan app av vår.
+
+Analytics och forskning: förstå och analysera trender i samband med användningen av apparna, samla in demografisk information om vår användarbas, data om var appen laddades ner. Vi kan också skapa rapporter och analyser för forskning eller business intelligence, till exempel för att spåra potentiella problem eller trender med våra appar och tjänster, eller för att testa våra nya spelfunktioner och innehåll. Vi använder data vi får från tredje parts sociala nätverk endast för intern analys. För att välja bort analytics, besök avsnittet Opt-Out i denna sekretesspolicy.
+
+
+
+Loggdata
+
+
+Vi vill informera dig om att när du använder vår tjänst samlar vi in ​​data och information (via tredjepartsprodukter) på din telefon som heter Log Data i händelse av ett fel i appen. Denna loggdata kan innehålla information som din enhets internetprotokoll ("IP") -adress, enhetsnamn, operativsystemversion, konfiguration av appen när du använder vår tjänst, tid och datum för din användning av tjänsten och annan statistik . I ovanstående situation garanterar vi att din PII (personlig identifierbar information) endast kommer att användas för att kontakta dig och förbättra våra tjänster. Vi kommer aldrig att använda sådan information (t.ex. ditt namn och din e -postadress) för andra ändamål, till exempel för att ytterligare marknadsföra våra produkter eller för att avslöja din personliga information för en tredje part för kommersiella vinster.
+
+Om du är orolig för att din PII missbrukas, eller om du vill ha mer information om vår integritetspolicy och vad det innebär, kan du skicka ett e -postmeddelande till oss på drziocure@gmail.com, vi kommer att sträva efter att ge tydliga svar på dina frågor om tid.
+
+
+
+
+Småkakor
+
+
+Vi använder cookies och liknande spårningsteknik för att spåra aktiviteten på vår tjänst och hålla viss information. Cookies är filer med en liten mängd data som vanligtvis används som anonyma unika identifierare. Dessa skickas till din webbläsare från de webbplatser som du besöker och lagras i enhetens interna minne. Denna tjänst använder inte dessa "cookies" uttryckligen. Appen kan dock använda tredjepartskod och bibliotek som använder "cookies" för att samla in information och förbättra sina tjänster. Du har möjlighet att antingen acceptera eller vägra dessa cookies och veta när en cookie skickas till din enhet. Om du väljer att vägra våra cookies kanske du inte kan använda vissa delar av denna tjänst.
+
+Exempel på cookies vi använder:
+
+Session Cookies: Vi använder Session Cookies för att driva vår tjänst.
+Preferenscookies: Vi använder Preference Cookies för att komma ihåg dina preferenser och olika inställningar.
+Säkerhetskakor: Vi använder säkerhetskakor för säkerhetsändamål.
+
+
+ Betalningar
+
+
+Vi kan tillhandahålla betalda produkter och/eller tjänster inom tjänsten. I så fall använder vi tredjepartstjänster för betalningsbehandling (t.ex. betalningsprocessorer).
+
+Vi kommer inte att lagra eller samla in dina betalkortsuppgifter. Den informationen lämnas direkt till våra tredjeparts betalningsprocessorer vars användning av dina personuppgifter styrs av deras sekretesspolicy. Dessa betalningsprocessorer följer de standarder som fastställts av PCI-DSS som hanteras av PCI Security Standards Council, vilket är en gemensam insats av märken som Visa, Mastercard, American Express och Discover. PCI-DSS-kraven hjälper till att säkerställa säker hantering av betalningsinformation.
+
+Betalningsprocessorerna vi arbetar med är:
+
+Köp av betalningar via app i Google Play
+ Deras sekretesspolicy kan ses på https://policies.google.com/privacy
+
+
+
+ Datasäkerhet
+
+
+Säkerheten för dina uppgifter är viktig för oss, men kom ihåg att ingen överföringsmetod över Internet eller elektronisk lagring är 100% säker. Även om vi strävar efter att använda kommersiellt godtagbara medel för att skydda dina personuppgifter, kan vi inte garantera dess absoluta säkerhet.
+
+
+
+
+
+Tjänsteleverantörer
+
+
+Vi kan anställa tredjepartsföretag och individer på grund av följande skäl:
+
+För att underlätta vår tjänst;
+
+Att tillhandahålla tjänsten för våra räkning;
+
+Att utföra Tjänsterelaterade tjänster;
+
+För att hjälpa oss att analysera hur vår tjänst används.
+
+Vi vill informera användare av denna tjänst att dessa tredje parter har tillgång till din personliga information. Anledningen är att utföra de uppgifter som tilldelats dem på våra vägnar. De är dock skyldiga att inte avslöja eller använda informationen för något annat syfte.
+
+
+
+
+
+säkerhet
+
+
+Vi uppskattar ditt förtroende för att ge oss din personliga information, så vi strävar efter att använda kommersiellt godtagbara sätt att skydda den. Men kom ihåg att ingen överföringsmetod över internet eller elektronisk lagring är 100% säker och pålitlig.
+
+Överföringen av information via internet eller telefonnät är dock inte helt säker. Även om vi gör vårt bästa för att skydda din information, särskilt när det gäller skyddet av dina personuppgifter,
+
+”Dr. Zio-Yoga Teacher ”kan inte garantera säkerheten för dina data som överförs via internet, telefon eller andra nätverk.
+
+
+
+
+
+Länkar till andra webbplatser
+
+
+Denna tjänst kan innehålla länkar till andra webbplatser. Om du klickar på en länk från tredje part kommer du till den webbplatsen. Observera att dessa externa webbplatser inte drivs av oss. Därför rekommenderar vi starkt att du läser igenom sekretesspolicyn för dessa webbplatser. Vi har ingen kontroll över och tar inget ansvar för innehållet, sekretesspolicyn eller praxis på webbplatser eller tjänster från tredje part.
+
+
+
+Barns integritet
+
+
+Dessa tjänster vänder sig inte till någon under 13 år. Vi samlar inte medvetet in personlig information från barn under 13. Om vi ​​upptäcker att ett barn under 13 år har gett oss personlig information, raderar vi detta omedelbart från våra servrar. Om du är förälder eller vårdnadshavare och du är medveten om att ditt barn har gett oss personlig information, vänligen kontakta oss så att vi kan göra de nödvändiga åtgärderna. Ändringar av denna sekretesspolicy Vi kan komma att uppdatera vår sekretesspolicy då och då. Därför rekommenderas du att granska denna sida regelbundet för eventuella ändringar. Vi meddelar dig om eventuella ändringar genom att lägga upp den nya sekretesspolicyn på denna sida. Dessa ändringar träder i kraft direkt efter att de publicerats på denna sida. Kontakta oss Om du har några frågor eller förslag om vår sekretesspolicy är du välkommen att mejla oss på drziocure@gmail.com, vi kommer att sträva efter att ge tydliga svar på dina frågor i tid.
+
+ California Online Privacy Protection Act CalOPPA är den första statliga lagen i landet som kräver kommersiella webbplatser och onlinetjänster för att publicera en sekretesspolicy. Lagens räckvidd sträcker sig långt bortom Kalifornien för att kräva att någon person eller företag i USA (och tänkbart världen) som driver webbplatser som samlar in personligt identifierbar information från konsumenter i Kalifornien lägger upp en iögonfallande sekretesspolicy på sin webbplats som anger exakt vilken information som samlas in och de individer eller företag som det delas med. -Se mer på: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+Enligt CalOPPA godkänner vi följande:
+
+Användare kan besöka vår webbplats anonymt.
+
+
+
+Låter vi tredje parter, inklusive annonsnätverk eller plug-ins, samla in PII från barn under 13 år?
+
+- Vi marknadsför inte specifikt till barn under 13 år.
+
+
+
+ Ansvarsbegränsning
+
+
+ Dr Zio– yogalärare gör inga påståenden, löften eller garantier om riktigheten, fullständigheten eller tillräckligheten i det innehåll som är tillgängligt via appen och frånsäger sig uttryckligen ansvar för fel och utelämnanden i innehållet som är tillgängligt via appen.
+
+-Ingen garanti av något slag, underförstådd, uttryckt eller lagstadgad, inklusive men inte begränsad till garantier om icke-intrång i tredje parts rättigheter, äganderätt, säljbarhet, lämplighet för ett särskilt syfte och frihet från datavirus, ges med avseende på innehåll tillgängligt via appen eller dess länkar till andra internetresurser som kan vara tillgängliga för dig via appen.
+
+- Hänvisning i appen till specifika kommersiella produkter, processer eller tjänster, eller användningen av något handels-, företags- eller företagsnamn är till allmänhetens information och bekvämlighet och utgör inte en rekommendation, rekommendation eller gynnande av Dr. Zio– yogalärare.
+
+
+
+ Ändringar av denna sekretesspolicy
+
+
+Vi kan komma att uppdatera vår sekretesspolicy då och då. Därför rekommenderas du att granska denna sida regelbundet för eventuella ändringar. Vi meddelar dig om eventuella ändringar genom att lägga upp den nya sekretesspolicyn på den här sidan. Dessa ändringar träder i kraft direkt efter att de publicerats på denna sida.
+
+När denna sekretesspolicy har skapats kommer vi att lägga till en länk till den på vår hemsida eller som ett minimum på den första viktiga sidan efter att vi kom in på vår webbplats.
+
+Om du har frågor eller funderingar kan du skicka ett e -postmeddelande till oss eller för att korrespondera på drziocure@gmail.com så försöker vi ta itu med dina problem.
+   </string>
+
+
+    <string name = "ntitle1"> Träning i ryggsmärta saknas! </string>
+    <string name = "ntitle2"> Missa inte din plan! </string>
+    <string name = "ntitle3"> Det är dags att börja träna! </string>
+    <string name = "ntitle4"> Varför inte nu? </string>
+    <string name = "ntitle5"> Öka dig själv! </string>
+    <string name = "ntitle6"> Tiden är nu! </string>
+    <string name = "ntitle7"> Du .. Ja Du kan uppnå ... Klicka här? </string>
+
+    <string name = "desc1"> Ge aldrig upp! Du är på väg att uppnå! 💪🔥 </string>
+    <string name = "desc2"> Tänk inte på att ge upp! 💪🔥 </string>
+    <string name = "desc3"> Litet arbete kan ge dig ett större liv. Fortsätt! 💪🔥 </string>
+    <string name = "desc4"> Att försöka vinner för tillfället! Fortsätt! 💪🔥 </string>
+    <string name = "desc5"> Ge inte upp! Du är nästan där! 💪🔥 </string>
+    <string name = "desc6"> Bra saker tar tid! Ge aldrig upp! 💪🔥 </string>
+    <string name = "desc7"> Ändring är inte lätt! Fortsätt! 💪🔥 </string>
+    <string name = "desc8"> En vinnare är en drömmare! Ge aldrig upp! 💪🔥 </string>
+
+    <string name = "icons"> 💪🔥 </string>
+    <string name = "strstate"> Välj tillstånd <font color = '#FC527F'> *</font> </string>
+    <string name = "select_the_country"> Välj land <font color = '#FC527F'> *</font> </string>
+
+    <string name = "details1"> Den här appen erbjuder ovanstående prenumerationsalternativ för automatisk förnyelse: </string>
+    <string name = "details3"> Betalning för Deep Sleep Pro debiteras ditt Google Play -konto vid bekräftelse av köpet. Din ryggsmärta Pro
+prenumerationen förnyas automatiskt om inte automatisk förnyelse stängs av inom ditt Google Play-konto minst 24 timmar före slutet av den aktuella prenumerationsperioden för prenumeration. \nDu kan hantera din prenumeration eller inaktivera automatisk omnyhet i dina inställningar för Google Play-konto. efter köpet. Om du stänger av automatisk förnyelse i mitten och mitten av en prenumerationsperiod. Du kommer fortfarande att ha tillgång till alla premiumfunktioner fram till slutet av perioden. Inga partiella återbetalningar ges för att stänga av automatisk förnyelse i mitten av en prenumerationsperiod. Du kan hantera din prenumeration eller inaktivera automatisk omnyhet i dina Google Play-kontoinställningar efter köpet. Om du stänger av automatisk förnyelse i mitten och mitten av en prenumerationsperiod. Du kommer fortfarande att ha tillgång till alla premiumfunktioner fram till slutet av perioden. Inga partiella återbetalningar ges för att stänga av automatisk förnyelse i mitten av en prenumerationsperiod. </string>
+    <string name = "more"> Mer </string>
+    <string name = "total"> Totalt </string>
+    <string name = "report"> Rapport </string>
+    <string name = "your_plan"> DIN PLAN </string>
+    <string name = "_12_days_left"> 12 dagar kvar </string>
+    <string name = "days_left"> dagar kvar </string>
+    <string name = "back_pain_relief"> Ryggsmärta </string>
+    <string name = "info"> Info </string>
+    <string name = "intermediate_level"> Mellannivå </string>
+    <string name = "intermediate"> MELLANLIGGANDE </string>
+    <string name = "advanced_level"> Avancerad nivå </string>
+    <string name = "advanced"> AVANCERAD </string>
+    <string name = "weekly_goal"> VECKOMÅL </string>
+    <string name = "set">+ UPPSÄTTNING </string>
+    <string name = "nutrition_nplan"> Nutrition \nPlan </string>
+
+
+    <string name = "customize_plan"> Anpassa plan </string>
+    <string name = "customize_nyour_plan"> Anpassa \nDin plan </string>
+    <string name = "explore_plan"> Utforska planen </string>
+    <string name = "discover"> UPPTÄCK </string>
+    <string name = "discover1"> Discover </string>
+    <string name = "daily_tips"> Dagliga tips </string>
+    <string name = "loading"> Läser in ... </string>
+    <string name = "all_diets"> Alla dieter </string>
+    <string name = "done"> Klar </string>
+    <string name = "share"> Dela </string>
+    <string name = "all_history"> All historik </string>
+    <string name = "category_name"> Kategorinamn </string>
+    <string name = "covid_tracker"> Covid Tracker </string>
+    <string name = "plans_made_for_you"> Planer gjorda för dig </string>
+    <string name = "confirmed_cases"> Bekräftade fall </string>
+    <string name = "deaths"> Dödsfall </string>
+    <string name = "recoveries"> Återställningar </string>
+    <string name = "city_province"> Stad/provins </string>
+    <string name = "confirmed_ncases"> Bekräftat \nCases </string>
+    <string name = "my_training"> Min träning </string>
+
+    <string name = "reports"> Rapporter </string>
+    <string name = "discover_plan"> Upptäck plan </string>
+    <string name = "covid_19"> Covid-19 </string>
+    <string name = "remove_ads"> Ta bort annonser </string>
+    <string name = "new_apps"> Nya appar </string>
+    <string name = "share_app"> Dela app </string>
+
+    <string name = "jumping_jacks"> HOPPANDE JACKS </string>
+    <string name = "_1_min"> 1 min </string>
+    <string name = "_2_exercises"> 2 övningar </string>
+    <string name = "edit"> Redigera </string>
+    <string name = "_5_ft_5_in"> 5 FT 5 IN </string>
+    <string name = "veg"> Veg </string>
+    <string name = "non_veg"> Non Veg </string>
+    <string name = "height_graph"> Höjdgraf </string>
+    <string name = "please_login_to_unlock_graph"> Logga in för att låsa upp diagram !!! </string>
+    <string name = "weight_graph"> Viktgraf </string>
+    <string name = "user_info"> Användarinformation </string>
+    <string name = "premium"> Premium </string>
+    <string name = "get_effective_plan_with_premium"> Få effektiva planer med premium </string>
+    <string name = "_1_month_subscription"> 1 månads prenumeration </string>
+    <string name = "_6_months_subscriptions"> 6 månaders prenumeration </string>
+    <string name = "_40_off"> 40 % rabatt </string>
+    <string name = "life_time"> Prenumeration på livstid </string>
+    <string name = "_60_off"> 60 % rabatt </string>
+    <string name = "unlock_all_the_features"> Lås upp alla funktioner </string>
+    <string name = "ads_free"> Annonser gratis </string>
+    <string name = "intermediate1"> Intermediate </string>
+    <string name = "advanced1"> Advanced </string>
+    <string name = "unlock_all_yoga"> Lås upp all Yoga </string>
+    <string name = "easy_3d_workout_video"> Lätt 3D -träningsvideo </string>
+    <string name = "set_your_personal_goal"> Ange ditt personliga mål </string>
+    <string name = "back_pain_relief_pro"> Deep SleepPro </string>
+    <string name = "purchase_now"> Köp nu </string>
+    <string name = "set_reminder"> Ange påminnelse </string>
+    <string name = "user"> Användare </string>
+    <string name = "my_profile"> Min profil </string>
+    <string name = "google_fit"> Google Fit </string>
+    <string name = "default1"> Standard </string>
+    <string name = "version_1_0"> Version 1.0 </string>
+    <string name = "nutrition_plan"> Näringsplan </string>
+    <string name = "today_s_plan"> DAGENS PLAN </string>
+    <string name = "use_this_plan"> Använd den här planen </string>
+    <string name = "ad"> Annons </string>
+    <string name = "appname"> appnamn </string>
+    <string name = "reminder_text"> Påminnelsestext </string>
+    <string name = "please_enter_your_text_here"> Ange din text här </string>
+    <string name = "fitness_apps"> Fitnessappar </string>
+    <string name = "suggested_for_you"> Föreslås åt dig </string>
+    <string name = "suggested_fitness_app"> Föreslagen fitnessapp </string>
+    <string name = "ads"> Annonser. </string>
+    <string name = "top_free_apps"> Topp gratisappar </string>
+    <string name = "suggested_banners"> Föreslagna banners </string>
+    <string name = "garena_free_fire"> Garena Free Fire </string>
+    <string name = "free_fire_is_the"> Free Fire är det ultimata överlevnadsspelet som finns tillgängligt på mobilen </string>
+    <string name = "you_re_offline"> Du är offline </string>
+    <string name = "check_your_internet"> Kontrollera din internetanslutning och tryck på försöksknappen för att komma tillbaka online </string>
+    <string name = "dr_zio_app_store"> Dr.Zio App Store </string>
+    <string name = "start_with_your_feeet"> Börja med din fest tillsammans och dina armar vid dina sidor, hoppa sedan upp med fötterna isär och händerna över huvudet. </string>
+    <string name = "other_reason"> Annan anledning .. </string>
+    <string name = "write_your_feedback"> Skriv din feedback </string>
+    <string name = "enter_your_paramaters"> ENTER DIN PARAMATERS </string>
+    <string name = "get"> FÅ </string>
+    <string name = "personalized_plan"> PERSONALISERAD PLAN </string>
+    <string name = "get_daily_tips"> Få dagliga tips på ditt språk \nför att lägga till land </string>
+    <string name = "select"> Välj </string>
+    <string name = "next_2_12"> NÄSTA 2/12 </string>
+    <string name = "calf_raise_with_splayed_foot_30s"> CALF RAISE MED SPLAYED FOOT 30s </string>
+    <string name = "plank"> Planka </string>
+    <string name = "repeat_day"> Upprepa dag </string>
+    <string name = "repeat1"> Upprepa: </string>
+    <string name = "every"> Every </string>
+    <string name = "hour_s"> Timmar </string>
+    <string name = "date"> Datum </string>
+    <string name = "_12_07_2019"> 12/07/2019 </string>
+    <string name = "showing_ads"> Visar annonser .. </string>
+    <string name = "watch_video_to_unlock"> SE VIDEO TILL ATT LÅSA UPP </string>
+    <string name = "unlock_free"> Lås upp gratis </string>
+    <string name = "or"> eller </string>
+    <string name = "watch_the_video_to_use_training_nplan_once"> Titta på videon för att använda utbildning \nplan en gång </string>
+    <string name = "get_premium"> Skaffa Premium </string>
+
+    <string name = "cm"> cm </string>
+    <string name = "inch"> tum </string>
+    <string name = "ft"> ft </string>
+    <string name = "kgs"> Kgs </string>
+    <string name = "lbs"> Lbs </string>
+    <string name = "no_thanks"> Nej tack !! </string>
+    <string name = "complete_100_workouts_for_best_results"> Slutför 100% träningspass för bästa resultat </string>
+    <string name = "_16_0"> 16,0%</string>
+    <string name = "we_work_day"><![CDATA[Vi arbetar dag och natt för dig. Vänligen betygsätt oss🙏.]]></string>
+    <string name = "_10">(10)</string>
+    <string name = "please_wait"> Vänta .... </string>
+    <string name = "quit"> Avsluta </string>
+    <string name = "choose_your_language"> Välj ditt språk:-</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+    <string name = "submit"> Skicka </string>
+    <string name = "music_for_workout"> Musik för träning </string>
+    <string name = "choose_from_gallery"> Välj från galleri </string>
+    <string name = "change_background_music"> Ändra bakgrundsmusik </string>
+    <string name = "unlock_all_features"> Lås upp alla funktioner </string>
+    <string name = "to_unlock_this"> För att låsa upp den här nivån - Välj ett alternativ. </string>
+    <string name = "complete_n_previous_n_level"> Slutför \n Föregående \n Nivå </string>
+    <string name = "watch_n_ads"> Titta på \n annonser </string>
+    <string name = "buy_n_premium"> Köp \n Premium </string>
+    <string name = "to_unlock_this_excercise_choose_this_option"> För att låsa upp denna övning - välj det här alternativet. </string>
+    <string name = "buy_premium"> Köp Premium </string>
+    <string name = "close"> Stäng </string>
+    <string name = "other_users_will_benefit_from_your_review"> Andra användare kommer att dra nytta av din recension </string>
+    <string name = "please_leave_your_review_on_google_play"> Lämna din recension på Google Play </string>
+    <string name = "rate_on_google_play"> RATE ON GOOGLE PLAY </string>
+    <string name = "plan_1"> Plan 1 </string>
+    <string name = "dfdfdf"> dfdfdf </string>
+    <string name = "india_cumulative_numbers"> Indien - kumulativa nummer </string>
+    <string name = "updated_loading"> Uppdaterat: Läser in ... </string>
+    <string name = "source_ministry_of_health_and_family_welfare"> Källa: Ministeriet för hälsa och familjens välfärd </string>
+    <string name = "today_cases"> Idag fall </string>
+    <string name = "today_deaths"> Today Deaths </string>
+    <string name = "today_recoveries"> Dagens återhämtning </string>
+    <string name = "live_now"> Live Now </string>
+    <string name = "source_world_health_organization"> Källa: Världshälsoorganisationen </string>
+    <string name = "country_region"> Land/region </string>
+    <string name = "new_ncases"> Nya \nCases </string>
+    <string name = "new_deaths"> New Deaths </string>
+    <string name = "gujarat"> Gujarat </string>
+    <string name = "day1"> Day1 </string>
+    <string name = "trending"> Trender </string>
+    <string name = "vitamin_b6"> Vitamin B6 </string>
+    <string name = "update"> Uppdatera </string>
+    <string name = "sdsdsdds"> sdsdsdds </string>
+    <string name = "oct_9"> 9 oktober </string>
+    <string name = "song_name"> Sångnamn </string>
+    <string name = "round"> ​​Round </string>
+    <string name = "sun1"> sun </string>
+    <string name = "water_drink_reminder_app"> App för påminnelse om vattendryck </string>
+    <string name = "install_now"> Installera nu </string>
+    <string name = "temppdsdsd"> Temppdsdsd 💪🔥 </string>
+    <string name = "snooze"> SNOOZE </string>
+    <string name = "once"> En gång </string>
+    <string name = "prayer_time_wake"> Bönetid väckte mig vid 9 och åt först och åt frukost </string>
+    <string name = "let_s_do_backpain_exercise_today"> Låt oss göra övningar i ryggen idag. </string>
+    <string name = "reminder_type"> Påminnelsestyp </string>
+    <string name = "sound"> ​​Ljud </string>
+    <string name = "repeat_reminder"> Upprepa påminnelse </string>
+    <string name = "report_as"> Rapportera som </string>
+    <string name = "alarm"> Alarm </string>
+    <string name = "save_change"> Spara ändringar? </string>
+    <string name = "are_you_delete"> Är du säker på att du vill radera? </string>
+    <string name = "yes"> Ja </string>
+    <string name = "no"> Nej </string>
+    <string name = "deleted"> Raderat </string>
+    <string name = "confirmation"> Bekräftelse </string>
+    <string name = "something_went_wrong"> Något gick fel !! </string>
+    <string name = "take_nrest"> Ta \nRest </string>
+    <string name = "press_the_resume"> Tryck på CV för att gå till nästa övning </string>
+    <string name = "is_completed"> är klar </string>
+    <string name = "completed"> slutförd </string>
+    <string name = "recommand_for_you"> Rekommendera för dig </string>
+    <string name = "hated_it"> Hade det </string>
+    <string name = "dislike_it"> Gillade det inte! </string>
+    <string name = "its_ok"> Det är ok </string>
+    <string name = "liked_it"> Gillade det! </string>
+    <string name = "loved_it"> Älskade det </string>
+    <string name = "do_you_like_this_app"> Gillar du den här appen? </string>
+    <string name = "your_feedback_is_useful"> Din feedback är användbar </string>
+    <string name = "did_you_hear_the_test_voice"> Hörde du teströsten? </string>
+    <string name = "error"> Fel </string>
+    <string name = "latest"> Senaste </string>
+    <string name = "related_apps"> Relaterade appar </string>
+    <string name = "treading_apps"> Populära appar </string>
+    <string name = "please_check_after"> Kontrollera efter en tid! .. </string>
+    <string name = "prepe_app"> Förbereder appen för dig ... </string>
+    <string name = "are_you_sure"> Är du säker? </string>
+    <string name = "drzio_updatestring"> Dr. Zio rekommenderar att du uppdaterar till senaste versionen för en sömlös och förbättrad prestanda för appen. </string>
+    <string name = "select_gender"> Välj kön </string>
+    <string name = "addfood"> Lägg till mat </string>
+    <string name = "news"> Ny </string>
+    <string name = "you_can_better"> Du kan prestera bättre än detta !! </string>
+    <string name = "perform_better"> Prestanda är dålig !! </string>
+    <string name = "perform_okay"> Prestanda är okej </string>
+    <string name = "perform_good"> Prestanda är bra !! </string>
+    <string name = "perform_great"> Prestanda är toppen !! </string>
+    <string name = "purchasefeed1"> Inköpspriset är högt </string>
+    <string name = "purchasefeed2"> Analysera &amp; Köp sedan </string>
+    <string name = "purchasefeed3"> Annat </string>
+    <string name = "copyright_2021_dr_zio"> copyright @ 2022 Dr zio </string>
+    <string name = "retry"> Försök igen </string>
+    <string name = "blog"> Blogg </string>
+    <string name = "sett_edu"> Tryck här för att hantera din profil och fler inställningar </string>
+    <string name = "tap_here"> Tryck här !!. </string>
+    <string name = "repo_edu"> håll regelbundna koll på dina framsteg </string>
+    <string name = "hom_edu"> Starta ditt träningspass och kolla näring och anpassad plan </string>
+    <string name = "dis_edu"> Upptäck yogaplaner för alla typer av ryggont </string>
+    <string name = "blog_edu"> Läs bloggar och tips för de ämnen du gillar </string>
+    <string name = "stor_edu"> Kolla in fler appar från Dr. zio </string>
+    <string name = "menu_edu"> Tryck här för meny </string>
+    <string name = "day"> Day </string>
+    <string name = "all_app"> Alla appar </string>
+    <string name = "want_uninterrupted"> vill du ha ett oavbrutet annonsfritt träningspass? \n FÅ PREMIUM NU! </string>
+    <string name="admob_openapp" />
+    <string name = "beginner"> BEGINNER </string>
+    <string name = "rate_txt"> Jag är en programmerare som arbetar mycket för att ge dig 5 -stjärnig upplevelse av den här appen. Skriv en 5 -stjärnig recension för mig. Tack! Detta betyder värld för mig. </string>
+
+    <string name = "deep_sleep_yoga_and_yog_nindra"> DEEP SLEEP YOGA AND YOG NINDRA </string>
+    <string name = "yoga_for_insomnia"> YOGA FÖR INSOMNIA </string>
+    <string name = "deep_sleep_yoga">Sleep Yoga </string>
+    <string name = "yog_nindra_effective_sleep"> YOG NINDRA EFFEKTIV SÖVN </string>
+    <string name = "bed_time_yoga"> BED TIME YOGA </string>
+    <string name = "for_sound_sleep"> FÖR LJUDSÖVN </string>
+    <string name = "brething_exercise"> BRETHING TRÄNING </string>
+    <string name = "sleep_apnea"> SLEEP APNEA </string>
+    <string name = "bed_time_yoga_amp_brething_exercise"> <![CDATA[BED TIME YOGA & BRETHINH EXERCISE]]> </string>
+    <string name = "yog_nidra_effective_sleep"> Yog nindra - Effektiv sömn </string>
+    <string name = "bed_time_for_sound_sleep"> Bedtime yoga för god sömn </string>
+    <string name = "bipolar_depresion"> Bipolär depression </string>
+    <string name="info1">Hej! Bra att du är redo att övervinna sömnproblem. Du kan se sömnyoga &amp; meditationsövningar som nämns nedan. Låt oss börja! </string>
+    <string name="info2">Du hittar mycket mer utmanande sömnmeditationsövningar i den här planen. Mer stretching, mer kroppsträning för att få din knäsmärta att försvinna mycket snart så låt oss börja!</string>
+    <string name="info3">Den ultimata utmaningen! Vi har förberett de svåraste sömnmeditationspassen för dig som kommer att få dig att sova gott. Låt oss göra det här!</string>
+    <string name="ftinch">ft tum</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/latoutnonet"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+
+    android:visibility="gone">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="vertical">
+
+       <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#202125"
+            android:text="@string/you_re_offline"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="20sp"/>
+
+
+       <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:fontFamily="sans-serif"
+            android:text="@string/check_your_internet"/>
+
+
+       <TextView
+
+            android:id="@+id/tvretry"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/appstore_btn_border"
+            android:layout_marginTop="30dp"
+            android:text="Retry"
+            android:gravity="center"
+            android:paddingStart="60dp"
+            android:layout_marginBottom="10dp"
+            android:paddingEnd="60dp"
+            android:layout_gravity="center"
+            android:textColor="#048660"
+            android:textSize="16sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"/>
+    </LinearLayout>
+
+</RelativeLayout>

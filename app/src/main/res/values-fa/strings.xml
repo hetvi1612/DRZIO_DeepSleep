@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> 1 یوگای خواب عمیق</string>
+    <string name = "picker_box_arrows_icon"> نماد پیکان جعبه انتخاب کننده </string>
+    <string name = "favtitle"> تمرینات مورد علاقه خود را در اینجا اضافه کنید. برنامه های تمرینی خود را بر اساس ترجیحات خود سفارشی کنید. </string>
+
+    <string name = "mon"> دوشنبه </string>
+    <string name = "tu"> سه شنبه </string>
+    <string name = "wed"> چهارشنبه </string>
+    <string name = "thri"> سه شنبه </string>
+    <string name = "fri"> جمعه </string>
+    <string name = "sat"> شنبه </string>
+    <string name = "sun"> یکشنبه </string>
+    <string name = "facebook_app_id"> 394103198201105</string>
+
+    <string name = "exename1"> حالت گاو گربه (Majaryasana - Bitilasana) </string>
+
+    <string name = "exename2"> یوگا باستریکا پرانایاما </string>
+
+    <string name = "exename3"> ژست زاویه ای بسته (Supta Baddha Konasana) </string>
+
+    <string name = "exename4"> حالت نیمه پیچش نخاعی نشسته (Ardha Matsyendrasana) </string>
+
+    <string name = "exename5"> حالت زاویه دار نشسته (Upavistha Konasana) </string>
+
+    <string name = "exename6"> شانموخی مودرا </string>
+
+    <string name = "exename7"> ژست ضد باد (پاواناموکتاسانا) </string>
+
+    <string name = "exename8"> موضوع به سوزن (پارسوا بالاسانا) </string>
+
+    <string name = "exename9"> ژست شخم (هالسان) </string>
+
+    <string name = "exename10"> قهرمان ژست (Virasana) </string>
+
+    <string name = "exename11"> نادی شوهدان پرانایام </string>
+
+    <string name = "exename12"> ژست Thunderbolt (Vajrasana) </string>
+
+    <string name = "exename13"> ژست ارباب رقص (Natarajasana) </string>
+
+    <string name = "exename14"> واکراسانا (حالت پیچش نیمه نخاعی) </string>
+
+    <string name = "exename15"> ژست کودک (ژست خرگوش) (بالاسانا) </string>
+
+    <string name = "exename16"> kapalbhati Pranayama </string>
+
+    <string name = "exename17"> خم جلو به جلو (Paschimottanasana) </string>
+
+    <string name = "exename18"> ژست دیوار را بالا می برد (ویپاریتا کارانی) </string>
+
+    <string name = "exename19"> جلو خم (هستا پاداسانا) </string>
+
+    <string name = "exename20"> ژست کوه (تاداسان) </string>
+
+    <string name = "exename21"> پیچ و تاب ستون فقرات (Supta Matsyendrasana) </string>
+
+    <string name = "exename22"> ژست صندلی (اوتکاتاسانا) </string>
+
+    <string name = "exename23"> ژست ماهی (Matsyasanaa) </string>
+
+    <string name = "exename24"> ژست Celibate (Brahmacharyasana) </string>
+
+    <string name = "exename25"> خم شدن سر به زانو به جلو (Janu Sirsasana) </string>
+
+    <string name = "exedesc1"> تنه پشت و گردن را کشیده و اندام های شکمی را به آرامی تحریک و تقویت می کند. این ستون فقرات را در یک راستا قرار می دهد و می تواند در صورت تمرین منظم از کمردرد جلوگیری کند. </string>
+
+    <string name = "exedesc2"> برای ریه ها و افرادی که از سرفه های مکرر ، آنفولانزا ، مشکلات تنفسی ، آلرژی یا تنگی نفس رنج می برند. افزایش خون رسانی به سر ، بینایی و شنوایی را بهبود می بخشد. ریه ها تقویت می شوند و برای برونشیت مفید است ، زیرا سیستم تنفسی به سرعت و عمیقا تصفیه می شود. • برای تقویت بدن و ذهن عالی است </string>
+
+    <string name = "exedesc3"> دستگاه گوارش و دستگاه تناسلی را تسکین می دهد و شرایطی مانند بیماری روده تحریک پذیر ، ناباروری ، اختلالات قاعدگی ، مشکلات گوارشی ، یائسگی و غیره را درمان می کند. . • تنش عضلانی را کاهش داده و شما را از خستگی و بی خوابی رهایی می بخشد. همچنین باعث آرامش ذهن </string> می شود
+
+    <string name = "exedesc4"> تأمین کننده مواد مغذی ، خون و اکسیژن و بهبود سلامت دستگاه تناسلی و سیستم ادراری است. برای اختلالات قاعدگی مفید است و ستون فقرات را انرژی می بخشد ، • کبد و کلیه ها را تحریک می کند </string >
+
+    <string name = "exedesc5"> باعث تحریک اندام های شکمی می شود. شکم ، ستون فقرات و پاها را تقویت و تقویت می کند. • به درمان و تسکین سیاتیک و آرتروز کمک می کند. کلیه ها را سم زدایی می کند.
+ </string>
+
+    <string name = "exedesc6"> برای ماهیچه های صورت و ظاهر عالی است زیرا گرما و پرانای دست و انگشتان باعث تحریک و شل شدن ماهیچه های صورت می شود. • برای مدیریت اضطراب و از بین بردن الگوهای فکری منفی مفید است. • باعث تحریک اندام های حسی و مراحل بعدی حس می شود • تمرکز ، درون گرایی و آرامش </string> را به ارمغان می آورد
+
+    <string name = "exedesc7"> عضلات پشت و شکم را کشیده و تقویت می کند. • به هضم و ترشح گاز کمک می کند. باعث سوزاندن چربی می شود. • عضلات پا و بازوها را تقویت می کند. • گردش خون را در مفاصل ران </string> بهبود می بخشد.
+
+    <string name = "exedesc8"> ماهیچه های بالای قفسه سینه شما را به آرامی کش می دهد. • ماهیچه های فوقانی و بیرونی شانه شما را باز می کند. • گردش خون را در اندام فوقانی افزایش می دهد. </string>
+
+    <string name = "exedesc9"> انعطاف پذیری پشت را تشویق می کند و ماهیچه ها را در امتداد پشت ساق ها کش می دهد. • گردن ، شانه ها ، عضلات شکم و پشت </string> را تقویت و باز می کند
+
+    <string name = "exedesc10"> بازوها و شانه ها را تقویت کرده و ستون فقرات را انعطاف پذیر نگه می دارد. مغز را با خون بیشتری تغذیه می کند. </string>
+
+    <string name = "exedesc11"> همچنین به کاهش حساسیت های تنفسی که باعث تب یونجه ، عطسه یا خس خس سینه می شود کمک می کند • به هماهنگی نیمکره چپ و راست مغز کمک می کند ، که با جنبه های منطقی و احساسی شخصیت ما ارتباط دارد. </string>
+
+    <string name = "exedesc12"> هضم را بهبود می بخشد و با یبوست و اسیدیته مبارزه می کند. • اختلالات قاعدگی را کاهش می دهد. • عملکرد اندام های تولید مثل و غده تیروئید را تنظیم می کند. • ماهیچه های لگن را تقویت می کند </string>
+
+    <string name = "exedesc13"> ژست نماد انرژی کیهانی است ، و هنگامی که در حال حرکت هستید در جریان جهان می رقصید. • قفسه سینه ، شانه ها ، عضلات چهار سر ، جلو بدن ، از جمله شکم را کشیده و تقویت می کند. • قسمت فوقانی را کشش می دهد. پشت ، چهارسر ، مچ پا ، پا ، ران ، کشاله ران و معده • تعادل را بهبود می بخشد </string>
+
+    <string name = "exedesc14"> قلب ، کلیه ها ، کبد ، طحال و ریه ها را تحریک می کند. • به کاهش چربی شکم کمک می کند ، کلیه ها را تقویت می کند ، • به پیشگیری و کنترل دیابت کمک می کند. • ماهیچه های پشت را تقویت کرده و کمردرد را کاهش می دهد. </string>
+
+    <string name = "exedesc15"> در از بین بردن یبوست مفید است. • این منجر به عملکرد خوب غدد فوق کلیوی می شود. ماهیچه های پشت را قوی تر می کند. • سلامت اندام های تناسلی مردان و زنان را افزایش می دهد </string>
+
+    <string name = "exedesc16"> میزان متابولیسم را افزایش می دهد و به کاهش وزن کمک می کند • عملکرد دستگاه گوارش ، جذب و جذب مواد مغذی را بهبود می بخشد • به سیستم عصبی انرژی می بخشد و سلول های مغزی را جوان می کند • گردش خون را بهبود می بخشد و درخشندگی را به صورت می بخشد • اندام های شکمی را تحریک می کند و بنابراین برای بیماران مبتلا به دیابت بسیار مفید است • حافظه و قدرت تمرکز را بهبود می بخشد </string>
+
+    <string name = "exedesc17"> عملکرد غده های صنوبری ، هیپوتالاموس و هیپوفیز را تحریک می کند و به ترشح هورمون رشد که مسئول قد است ، کمک می کند. • ماهیچه های پشت ، شانه ها و بازو را تقویت می کند. </string>
+
+    <string name = "exedesc18"> پا و پای خسته یا گرفتگی را تسکین می دهد • سردرد را تسکین می دهد • درد کمر را برطرف می کند • ذهن را آرام می کند
+ </string>
+
+    <string name = "exedesc19"> سیستم عصبی را احیا می کند و گردش خون مناسب در غده هیپوفیز را ترشح می کند که هورمون رشد مسئول افزایش قد را آزاد می کند. عضلات پشت و پایین بدن را نیز با ستون فقرات کش می دهد. </string>
+
+    <string name = "exedesc20"> عضلات ساق پا را تقویت می کند ، سفتی ساق پا و لگن را پایان می دهد ، کمردرد و پیچ خوردگی گردن را برطرف می کند ، قفسه سینه را توسعه می دهد و مچ پا را تقویت می کند. </string>
+
+    <string name = "exedesc21"> پیچ و تاب زانو باعث تنظیم مجدد کمر ، عضلات و طولانی شدن ستون فقرات و هیدراته شدن دیسک های ستون فقرات می شود. • به شانه ها ، قفسه سینه ، ستون فقرات میانی ، باسن ، کمر و قسمت فوقانی کمر شما کمک می کند • جریان خون تازه را به اندام های داخلی تشویق می کند و سم زدایی کامل را برای اندام های داخلی شما ارائه می دهد </string>
+
+    <string name = "exedesc22"> عضلات پشت و شکم را کشیده و تقویت می کند. • به هضم و ترشح گاز کمک می کند. باعث سوزاندن چربی می شود. • عضلات ساق پا و بازوها را تقویت می کند. • گردش خون در مفاصل ران را بهبود می بخشد. </string>
+
+    <string name = "exedesc23"> تنش را در گردن ، گلو و شانه های شما برطرف می کند. اندام های شکم و گلو را کشیده و تحریک می کند.
+ </string>
+
+    <string name = "exedesc24"> میزان متابولیسم را افزایش داده و به کاهش وزن کمک می کند. عملکرد دستگاه گوارش ، جذب و جذب مواد مغذی را بهبود می بخشد. سیستم عصبی را تقویت کرده و سلول های مغزی را جوان می کند. گردش خون را بهبود می بخشد و درخشش را به صورت می افزاید. اندام های شکمی را تحریک می کند و بنابراین برای افراد مبتلا به دیابت بسیار مفید است. حافظه و قدرت تمرکز را بهبود می بخشد. </string>
+
+    <string name = "exedesc25"> این عضلات همسترینگ ، شانه ها ، ساق پا ، قوس ها ، دستها و ستون فقرات شما را کشیده و در بازوها ، شانه ها و پاهای شما قدرت ایجاد می کند. گردش خون را تحریک می کند. این یک تمرین عالی برای کشش کل بدن برای افزایش قد است. </string>
+
+
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+
+    <string name = "add_exercise"> افزودن تمرین </string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name = "please_check_your_internet_connection"> لطفاً اتصال اینترنت خود را بررسی کنید !!! </string>
+    <string name = "refresh"> تازه کردن </string>
+    <string name = "start"> START </string>
+    <string name = "previous"> قبلی </string>
+    <string name = "next"> بعدی </string>
+    <string name = "tips"> نکات </string>
+    <string name = "history"> سابقه </string>
+    <string name = "com_continue"> ادامه دهید </string>
+    <string name = "reminder"> یادآوری </string>
+    <string name = "calculate_bmi"> محاسبه BMI </string>
+    <string name = "weight"> WEIGHT: </string>
+    <string name = "weight1"> وزن </string>
+    <string name = "bmi_kg_m"> BMI (KG/M²) </string>
+    <string name = "calories"> کالری </string>
+    <string name = "exercises"> تمرینات </string>
+    <string name = "duration"> مدت زمان </string>
+    <string name = "ready_to_go"> آماده شروع! </string>
+    <string name = "skip"> رد شدن </string>
+    <string name = "reset"> بازنشانی </string>
+    <string name = "add"> افزودن </string>
+    <string name = "video"> ویدئو </string>
+    <string name = "animation"> انیمیشن </string>
+    <string name = "txt_weekgoal"> تعیین هدف هفتگی </string>
+    <string name = "save"> ذخیره </string>
+    <string name = "user_age"> سن </string>
+    <string name = "user_gender"> جنسیت </string>
+    <string name = "user_male"> مرد </string>
+    <string name = "user_height"> ارتفاع </string>
+    <string name = "user_weight"> وزن </string>
+    <string name = "user_meal"> غذا </string>
+    <string name = "rest_day"> روز استراحت </string>
+    <string name = "finished"> تمام شد </string>
+    <string name = "diet_list"> لیست رژیم </string>
+    <string name = "no_internet"> اتصال اینترنتی در دسترس نیست !! </string>
+    <string name = "set_your_weekly_goal"> تنظیم هدف هفتگی خود </string>
+    <string name = "recommandedtxt"> توصیه می کنیم حداقل 3 روز در هفته برای نتیجه بهتر </string>
+    <string name = "training_days"> روزهای آموزشی </string>
+    <string name = "first_day_of_week"> اولین روز هفته </string>
+    <string name = "to_set_regional_plan"> برای تنظیم برنامه منطقه ای </string>
+    <string name = "select_state"> انتخاب حالت </string>
+    <string name = "select_city"> شهر را انتخاب کنید </string>
+    <string name = "what_s_your_gender"> انتخاب کنید چه کسی هستید؟ </string>
+    <string name = "to_personalize_your_plan"> برای شخصی سازی طرح خود </string>
+    <string name = "female"> زن </string>
+    <string name = "male"> مرد </string>
+    <string name = "diet_plan"> برنامه رژیم غذایی </string>
+    <string name = "vegetarian"> گیاهخوار </string>
+    <string name = "non_nvegetarian"> غیر گیاهی </string>
+    <string name = "vegan"> گیاهخوار </string>
+    <string name = "how_old_are_you"> چند سال دارید؟ </string>
+    <string name = "calculate"> محاسبه </string>
+    <string name = "ok"> خوب </string>
+    <string name = "mute"> بیصدا </string>
+    <string name = "voice_guide"> راهنمای صوتی </string>
+    <string name = "coach_tips"> نکات مربی </string>
+    <string name = "sound_options"> گزینه های صدا </string>
+    <string name = "please_name_your_plan"> لطفاً طرح خود را </string> نامگذاری کنید
+    <string name = "cancel"> لغو </string>
+    <string name = "give_up"> رها کردن </string>
+    <string name = "please_set_reminder"> لطفاً یادآوری </string> را تنظیم کنید
+    <string name = "restart"> راه اندازی مجدد </string>
+    <string name = "having_a_beautiful_body_has_never_easy"> داشتن اندامی زیبا هرگز آسان نیست! </string>
+    <string name = "settings"> تنظیمات </string>
+    <string name = "test_voice"> تست صدا </string>
+    <string name = "workout"> کار </string>
+    <string name = "remind_me_to_workout_every_day"> به من یادآوری کنید که هر روز تمرین کنم </string>
+    <string name = "voice_options_tts"> گزینه های صدا (TTS) </string>
+    <string name = "voice_language"> زبان صدا </string>
+    <string name = "download_more_tts_language_data"> بارگیری بیشتر داده های زبان TTS </string>
+    <string name = "device_tts_setting"> دستگاه تنظیم TTS </string>
+    <string name = "general_settings"> تنظیمات عمومی </string>
+    <string name = "language_options"> گزینه های زبان </string>
+    <string name = "restart_progress"> راه اندازی مجدد پیشرفت </string>
+    <string name = "support_us"> از ما حمایت کنید </string>
+    <string name = "rate_us"> به ما امتیاز دهید </string>
+
+    <string name = "share_with_friends"> اشتراک گذاری با دوستان </string>
+    <string name = "privacy_policy"> خط مشی رازداری </string>
+    <string name = "repeat"> تکرار </string>
+    <string name = "aboveage"> بالای 18 سال </string>
+    <string name = "nextexespeech"> تمرین بعدی </string> است
+    <string name = "startspeech"> شروع تمرین </string>
+
+
+    <string name = "feed1"> من طراحی را دوست ندارم </string>
+    <string name = "feed2"> توابع مورد نیاز من را ندارد </string>
+    <string name = "feed3"> استفاده از آن آسان نیست </string>
+    <string name = "feed4"> خیلی پیچیده است </string>
+    <string name = "feed5"> ترجمه ضعیف است </string>
+    <string name = "reminderdialtxt"> <u> چرا برای نتیجه 100٪ به خود یادآوری نمی کنید. </u> </string>
+
+    <string name = "terms"> ایجاد حساب به این معناست که با </string> خوب نیستید
+
+    <string name = "tandc"> <u> شرایط خدمات </u> </string>
+    <string name = "privacy"> <u> خط مشی رازداری </u> </string>
+
+    <string name = "tvbmis"> <u> محاسبه BMI </u> </string>
+
+    <string name = "tvmoretips"> <u> نکات بیشتر >> </u> </string>
+    <string name = "tvmoredetail"> <u> جزئیات بیشتر >> </u> </string>
+
+    <string name = "termstxt"> با بارگیری یا استفاده از برنامه ، این شرایط به طور خودکار برای شما اعمال می شود - بنابراین قبل از استفاده از برنامه باید مطمئن شوید که آنها را با دقت مطالعه کرده اید. شما مجاز نیستید برنامه ، هر قسمتی از برنامه یا علائم تجاری ما را به هیچ وجه کپی یا تغییر دهید. شما مجاز نیستید کد منبع برنامه را استخراج کنید و همچنین نباید سعی کنید برنامه را به زبان های دیگر ترجمه کنید یا نسخه های مشتق را ایجاد کنید. خود برنامه و همه علائم تجاری ، حق چاپ ، حقوق پایگاه داده و سایر حقوق مالکیت معنوی مربوط به آن ، هنوز متعلق به دکتر زیو است.
+
+دکتر زیو متعهد است اطمینان حاصل کند که برنامه تا حد امکان مفید و کارآمد است. به همین دلیل ، ما این حق را برای خود محفوظ می داریم که در هر زمان و به هر دلیلی تغییری در برنامه ایجاد کنیم یا هزینه خدمات آن را دریافت کنیم. ما هرگز هزینه برنامه یا خدمات آن را از شما نمی گیریم بدون اینکه دقیقاً مشخص کنید که برای چه چیزی هزینه پرداخت می کنید.
+
+"افزایش ارتفاع بعد از 18 برنامه" داده های شخصی را که در اختیار ما قرار داده اید ذخیره و پردازش می کند تا خدمات بهتری ارائه دهد. این وظیفه شماست که تلفن و دسترسی به برنامه را ایمن نگه دارید. بنابراین ، ما توصیه می کنیم که گوشی خود را جیلبریک یا روت نکنید ، این فرآیند حذف محدودیت های نرم افزاری و محدودیت های اعمال شده توسط سیستم عامل رسمی دستگاه شما است. این می تواند تلفن شما را در برابر بدافزارها/ویروس ها/برنامه های مخرب آسیب پذیر کند ، ویژگی های امنیتی تلفن شما را به خطر بیاندازد و این بدان معناست که این برنامه به درستی یا اصلاً کار نمی کند.
+
+باید توجه داشته باشید که موارد خاصی وجود دارد که دکتر زیو مسئولیت آنها را بر عهده نخواهد گرفت. برخی از عملکردهای برنامه مستلزم اتصال برنامه فعال به اینترنت است. اتصال می تواند Wi-Fi باشد یا توسط ارائه دهنده شبکه تلفن همراه شما ارائه شود ، اما دکتر زیو نمی تواند مسئولیت عدم کارکرد کامل برنامه را در صورت عدم دسترسی به Wi-Fi و نداشتن هیچ کمک هزینه داده شما باقی مانده است
+
+اگر از برنامه خارج از منطقه ای با Wi-Fi استفاده می کنید ، باید به خاطر داشته باشید که شرایط قرارداد شما با ارائه دهنده شبکه تلفن همراه شما همچنان اعمال می شود. در نتیجه ، ممکن است از طرف ارائه دهنده تلفن همراه خود هزینه داده ها را در طول مدت اتصال هنگام دسترسی به برنامه یا سایر هزینه های شخص ثالث دریافت کنید. در استفاده از برنامه ، مسئولیت هرگونه هزینه ای از جمله هزینه های داده های رومینگ را در صورت استفاده از برنامه در خارج از قلمرو خانه خود (یعنی منطقه یا کشور) بدون خاموش کردن رومینگ داده می پذیرید. اگر شما پرداخت کننده صورتحساب دستگاهی که از برنامه در آن استفاده می کنید نیستید ، لطفاً توجه داشته باشید که فرض بر این است که شما مجوز استفاده از برنامه را از پرداخت کننده قبض دریافت کرده اید. در همین راستا ، دکتر زیو همیشه نمی تواند مسئولیت نحوه استفاده از برنامه را بر عهده بگیرد یعنی شما باید مطمئن شوید که دستگاه شما همچنان شارژ است - اگر باتری آن تمام شود و برای استفاده از سرویس نمی توانید آن را روشن کنید ، دکتر زیو نمی تواند مسئولیت را بپذیرد. با توجه به مسئولیت دکتر زیو در قبال استفاده شما از برنامه ، هنگامی که از برنامه استفاده می کنید ، مهم است که به خاطر داشته باشید که اگرچه ما سعی می کنیم در هر زمان از به روز بودن و صحیح بودن آن اطمینان حاصل کنیم ، اما به شخص ثالث متکی هستیم تا اطلاعاتی را در اختیار ما قرار دهد تا در اختیار شما قرار دهیم. دکتر زیو هیچ گونه مسئولیتی را در قبال هرگونه ضرر ، مستقیم یا غیرمستقیم نمی پذیرد ، که شما در نتیجه تکیه کامل بر این قابلیت برنامه تجربه می کنید. در برخی موارد ، ممکن است بخواهیم برنامه را به روز کنیم. این برنامه در حال حاضر در Android موجود است - ممکن است الزامات سیستم (و برای هر سیستم دیگری که تصمیم داریم دسترسی برنامه را به آن افزایش دهیم) تغییر کند ، و اگر می خواهید از برنامه استفاده کنید ، باید به روزرسانی ها را بارگیری کنید. دکتر زیو قول نمی دهد که همیشه برنامه را به روز کند تا به شما مربوط باشد و/یا با نسخه اندرویدی که بر روی دستگاه خود نصب کرده اید کار کند. با این حال ، شما قول می دهید که همیشه به روزرسانی های برنامه را هنگامی که به شما پیشنهاد می شود بپذیرید ، همچنین ممکن است بخواهیم ارائه برنامه را متوقف کنیم و هر زمان که بخواهیم به شما خاتمه ای ندهیم ، استفاده از آن را متوقف کنیم. مگر اینکه خلاف آن را به شما بگوییم ، در صورت هرگونه خاتمه ، (الف) حقوق و مجوزهای اعطایی به شما در این شرایط پایان می یابد ؛ (ب) باید استفاده از برنامه را متوقف کنید و (در صورت نیاز) آن را از دستگاه خود حذف کنید. </string>
+
+
+    <string name = "policytxt"> خط مشی عمومی با بارگیری یا استفاده از برنامه ، این شرایط بطور خودکار برای شما اعمال می شود - بنابراین قبل از استفاده از برنامه باید مطمئن شوید که آنها را با دقت مطالعه کرده اید. شما مجاز نیستید برنامه ، هر قسمتی از برنامه یا علائم تجاری ما را به هیچ وجه کپی یا تغییر دهید. شما مجاز نیستید کد منبع برنامه را استخراج کنید و همچنین نباید سعی کنید برنامه را به زبان های دیگر ترجمه کنید یا نسخه های مشتق را ایجاد کنید. خود برنامه و همه علائم تجاری ، حق چاپ ، حقوق پایگاه داده و سایر حقوق مالکیت معنوی مربوط به آن ، هنوز متعلق به دکتر زیو است.
+        دکتر زیو متعهد است اطمینان حاصل کند که برنامه تا حد امکان مفید و کارآمد است. به همین دلیل ، ما این حق را برای خود محفوظ می داریم که در هر زمان و به هر دلیلی تغییری در برنامه ایجاد کنیم یا هزینه خدمات آن را دریافت کنیم. ما هرگز هزینه برنامه یا خدمات آن را از شما نمی گیریم بدون اینکه دقیقاً مشخص کنید که برای چه چیزی هزینه پرداخت می کنید.
+        "برنامه Deep Sleep" اطلاعات شخصی را که برای ما ارائه کرده اید ذخیره و پردازش می کند تا خدمات بهتری ارائه دهد. این وظیفه شماست که تلفن و دسترسی به برنامه را ایمن نگه دارید. بنابراین ، ما توصیه می کنیم که گوشی خود را جیلبریک یا روت نکنید ، این فرآیند حذف محدودیت های نرم افزاری و محدودیت های اعمال شده توسط سیستم عامل رسمی دستگاه شما است. این می تواند تلفن شما را در برابر بدافزارها/ویروس ها/برنامه های مخرب آسیب پذیر کند ، ویژگی های امنیتی تلفن شما را به خطر بیاندازد و این بدان معناست که این برنامه به درستی یا اصلاً کار نمی کند.
+        باید توجه داشته باشید که موارد خاصی وجود دارد که دکتر زیو مسئولیت آنها را بر عهده نخواهد گرفت. برخی از عملکردهای برنامه مستلزم اتصال برنامه فعال به اینترنت است. اتصال می تواند Wi-Fi باشد یا توسط ارائه دهنده شبکه تلفن همراه شما ارائه شود ، اما دکتر زیو نمی تواند مسئولیت عدم کارکرد کامل برنامه را در صورت عدم دسترسی به Wi-Fi و نداشتن هیچ کمک هزینه داده شما باقی مانده است
+        اگر از برنامه خارج از منطقه ای با Wi-Fi استفاده می کنید ، باید به خاطر داشته باشید که شرایط قرارداد شما با ارائه دهنده شبکه تلفن همراه شما همچنان اعمال می شود. در نتیجه ، ممکن است از طرف ارائه دهنده تلفن همراه خود هزینه داده ها را در طول مدت اتصال هنگام دسترسی به برنامه یا سایر هزینه های شخص ثالث دریافت کنید. در استفاده از برنامه ، مسئولیت هرگونه هزینه ای از جمله هزینه های داده های رومینگ را در صورت استفاده از برنامه در خارج از قلمرو خانه خود (یعنی منطقه یا کشور) بدون خاموش کردن رومینگ داده می پذیرید. اگر شما پرداخت کننده صورتحساب دستگاهی که از برنامه در آن استفاده می کنید نیستید ، لطفاً توجه داشته باشید که فرض می کنیم که شما مجوز استفاده از برنامه را از پرداخت کننده قبض دریافت کرده اید. در همین راستا ، دکتر زیو همیشه نمی تواند مسئولیت نحوه استفاده از برنامه را بر عهده بگیرد یعنی شما باید مطمئن شوید که دستگاه شما همچنان شارژ است - اگر باتری آن تمام شود و برای استفاده از سرویس نمی توانید آن را روشن کنید ، دکتر زیو نمی تواند مسئولیت را بپذیرد. با توجه به مسئولیت دکتر زیو در قبال استفاده شما از برنامه ، هنگامی که از برنامه استفاده می کنید ، مهم است که به خاطر داشته باشید که اگرچه ما سعی می کنیم در هر زمان از به روز بودن و صحیح بودن آن اطمینان حاصل کنیم ، اما به شخص ثالث متکی هستیم اطلاعاتی را در اختیار ما قرار دهید تا در اختیار شما قرار دهیم. دکتر زیو هیچ گونه مسئولیتی را در قبال هرگونه ضرر ، مستقیم یا غیرمستقیم نمی پذیرد ، که شما در نتیجه تکیه کامل بر این قابلیت برنامه تجربه می کنید. در برخی موارد ، ممکن است بخواهیم برنامه را به روز کنیم. این برنامه در حال حاضر در Android موجود است - ممکن است الزامات سیستم (و برای هر سیستم دیگری که تصمیم داریم دسترسی برنامه را به آن افزایش دهیم) تغییر کند ، و اگر می خواهید از برنامه استفاده کنید ، باید به روزرسانی ها را بارگیری کنید. دکتر زیو قول نمی دهد که همیشه برنامه را به روز کند تا به شما مربوط باشد و/یا با نسخه اندرویدی که بر روی دستگاه خود نصب کرده اید کار کند. با این حال ، شما قول می دهید که همیشه به روزرسانی های برنامه را هنگامی که به شما پیشنهاد می شود بپذیرید ، همچنین ممکن است بخواهیم ارائه برنامه را متوقف کنیم و هر زمان که بخواهیم بدون اطلاع به خاتمه برنامه ، استفاده از آن را متوقف کنیم. مگر اینکه خلاف آن را به شما بگوییم ، در صورت هرگونه خاتمه ، (الف) حقوق و مجوزهای اعطایی به شما در این شرایط پایان می یابد ؛ (ب) باید استفاده از برنامه را متوقف کنید و (در صورت نیاز) آن را از دستگاه خود حذف کنید.
+
+        نحوه استفاده از برنامه ها:
+
+        ما به شما توصیه می کنیم در صورت داشتن هرگونه بیماری و آسیب شدید در استخوان ها ، قلب ، کمر ، ستون فقرات ، سر یا هرگونه آسیب بدنی دیگر ، از این برنامه استفاده کنید ، لطفاً از متخصص/پزشکان بخواهید این یوگا ، ورزش و تمرین
+
+        سیاست حفظ حریم خصوصی
+
+        دکتر زیو برنامه Deep Sleep را به عنوان یک برنامه تجاری ساخت. این سرویس توسط دکتر زیو ارائه شده است و برای استفاده همانطور که هست در نظر گرفته شده است. این صفحه برای اطلاع بازدیدکنندگان از سیاست های ما در مورد جمع آوری ، استفاده و افشای اطلاعات شخصی در صورت تصمیم به استفاده از سرویس ما استفاده می شود. در صورت انتخاب استفاده از سرویس ما ، با جمع آوری و استفاده از اطلاعات مربوط به این خط مشی موافقت می کنید. اطلاعات شخصی که جمع آوری می کنیم برای ارائه و بهبود خدمات استفاده می شود. ما اطلاعات شما را به غیر از مواردی که در این سیاست حفظ حریم خصوصی توضیح داده شده است ، استفاده نمی کنیم یا با دیگران به اشتراک نمی گذاریم. اصطلاحاتی که در این خط مشی رازداری استفاده می شود دارای معانی مشابهی است که در شرایط و ضوابط ما وجود دارد ، که در افزایش ارتفاع پس از 18 سال قابل دسترسی است مگر اینکه در این سیاست حفظ حریم خصوصی چیز دیگری تعریف شده باشد.
+
+        جمع آوری و استفاده از اطلاعات
+
+        برای تجربه بهتر ، در حین استفاده از سرویس ما ، ممکن است از شما بخواهیم تا اطلاعات شخصی شخصی خود را در اختیار ما قرار دهید ، از جمله اما بدون محدودیت ، ما برای تجربه بهتر کاربر به عنوان شخص دریافت کننده Gmail Id ، نام ، سن ، قد ، وزن را جمع آوری می کنیم. از BMI (نمایه توده بدنی) آنها مطلع شوید و با نکات مطلع شوید و اعلان ها و تبلیغات را بر اساس مکان آنها سفارشی کنید. اطلاعاتی که ما درخواست می کنیم توسط ما حفظ می شود و همانطور که در این خط مشی رازداری توضیح داده شده استفاده می شود. این برنامه از خدمات شخص ثالث استفاده می کند که ممکن است اطلاعات مورد استفاده برای شناسایی شما را جمع آوری کند. پیوند به خط مشی رازداری ارائه دهندگان خدمات شخص ثالث که توسط برنامه استفاده می شود
+
+        خدمات Google Play (https://policies.google.com/privacy)
+        AdMob (https://support.google.com/admob/answer/6128543؟hl=fa)
+        Firebase Analytics (https://firebase.google.com/policies/analytics)
+        فیس بوک (https://www.facebook.com/about/privacy)
+        پارچه (https://fabric.io/privacy)
+        Crashlytics (https://firebase.google.com/products/crashlytics؟utm_source=crashlytics_marketin٪20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+        وقتی از خدمات ما استفاده می کنید ، اطلاعات مربوط به مکان شما را جمع آوری می کنیم ، که به ما کمک می کند ویژگی هایی مانند راهنمای رانندگی برای تعطیلات آخر هفته یا زمان نمایش فیلم هایی که در نزدیکی شما پخش می شوند را ارائه دهیم.
+
+        موقعیت مکانی شما را می توان با درجات مختلف دقت با موارد زیر تعیین کرد:
+
+GPS
+آدرس آی پی
+سنسور داده ها از دستگاه شما
+اطلاعاتی در مورد چیزهای نزدیک دستگاه خود ، مانند نقاط دسترسی Wi-Fi ، برج های تلفن همراه و دستگاه های دارای بلوتوث
+انواع داده های مکانی که جمع آوری می کنیم تا حدودی به تنظیمات دستگاه و حساب شما بستگی دارد. برای مثال ، می توانید با استفاده از برنامه تنظیمات دستگاه ، مکان دستگاه اندرویدی خود را روشن یا خاموش کنید. اگر می خواهید یک نقشه خصوصی از مکانهایی که با دستگاه های وارد شده به آن وارد شده اید ایجاد کنید ، می توانید سابقه موقعیت مکانی را روشن کنید.
+
+
+
+تبلیغات
+
+
+با استفاده از برنامه های ما ، ممکن است محتوای تبلیغاتی به شما پیشنهاد شود. ما یا شبکه های تبلیغاتی که استفاده می کنیم ممکن است از فناوری های تبلیغات استفاده کنیم که از کوکی ها ، چراغ ها ، پیکسل های ردیابی و سایر فناوری هایی استفاده می کند که در تبلیغات قرار می گیرند و به ما یا شبکه های ما اجازه می دهد اطلاعات غیر شخصی را جمع آوری کنیم. ممکن است از اطلاعات غیر شخصی مانند سن و جنسیت برای اطمینان از ارائه تبلیغات مناسب به شما استفاده شود. داده های استفاده و اطلاعات غیر شخصی مانند شناسه های تبلیغاتی ممکن است برای تعیین تعداد کلیک هایی که یک تبلیغ دریافت کرده است ، برای اندازه گیری اثربخشی کمپین های تبلیغاتی ، برای تعیین میزان مناسب بازدیدهای تکراری از یک تبلیغ خاص و/یا ارائه تبلیغات استفاده شود. که به بهترین شکل با علایق شما ارتباط دارد. بسته به دستگاه شما و سیستم عامل آن ، ممکن است بتوانید از تغییر شناسه تبلیغات دستگاه خود برای تبلیغات مبتنی بر علاقه جلوگیری کنید یا با تغییر تنظیمات دستگاه ، شناسه آگهی دستگاه خود را بازنشانی کنید. شرکت ارائه دهنده تبلیغات ممکن است مکان شما را برای محلی سازی بهتر تبلیغات و شخصی سازی تبلیغات به زبان محلی انتخاب کند.
+
+
+
+هدف از گردآوری اطلاعات
+
+
+اطلاعات غیر شخصی برای اهداف آماری و تحقیقاتی و سفارشی سازی و بهبود برنامه های ما استفاده می شود
+از اطلاعات شخصی استفاده می شود تا بتوانید هنگام تماس از طریق ایمیل به شما پاسخ دهید.
+اطلاعات شخصی مانند Location/IP برای نشان دادن تبلیغات با توجه به موقعیت مکانی شما مورد استفاده قرار می گیرد ، این تبلیغات متنی نامیده می شود.
+ما از اطلاعاتی که در مورد شما/دستگاه شما جمع آوری می کنیم برای ارائه خدمات به شما و اداره کسب و کار خود استفاده می کنیم. چنین استفاده ای توسط ما و شرکای ما ممکن است شامل موارد زیر باشد:
+ارائه خدمات ما: توسعه ، تحویل و بهبود محصولات ، خدمات و محتوا ، متناسب سازی محصولات و خدمات ما ، ارائه به روز رسانی نرم افزار و پشتیبانی از محصولات ، درک و تجزیه و تحلیل روندهای مربوط به استفاده از برنامه ها ، مدیریت برنامه ها و ارتباطات مشتری.
+
+نمایش تبلیغات: نمایش تبلیغات شخص ثالث در برنامه های ما و نمایش تبلیغات برنامه های ما در برنامه های ناشران دیگر. ارتقاء متقابل: ارتقاء متقابل برنامه ها و خدمات ما ، به این معنی که ممکن است یکی از برنامه های خود را تبلیغ کنیم در حالی که شما در حال پخش برنامه دیگری از برنامه ما هستید.
+
+تجزیه و تحلیل و تحقیق: درک و تجزیه و تحلیل روندهای مربوط به استفاده از برنامه ها ، جمع آوری اطلاعات جمعیتی در مورد پایگاه کاربری ما ، داده هایی در مورد برنامه از کجا بارگیری شده است. ما همچنین می توانیم گزارش ها و تجزیه و تحلیل هایی را برای تحقیقات یا هوش تجاری ایجاد کنیم ، به عنوان مثال ، مشکلات یا روندهای احتمالی برنامه ها و خدمات خود را ردیابی کرده یا ویژگی ها و محتوای جدید بازی خود را آزمایش کنیم. ما از داده هایی که از شبکه اجتماعی شخص ثالث دریافت می کنیم فقط برای تجزیه و تحلیل داخلی استفاده می کنیم. برای انصراف از تجزیه و تحلیل ، لطفاً از بخش انصراف از این خط مشی رازداری دیدن کنید.
+
+
+
+ورود اطلاعات
+
+
+ما می خواهیم به شما اطلاع دهیم که هر زمان که از سرویس ما استفاده می کنید ، در صورت بروز خطا در برنامه ، ما داده ها و اطلاعات (از طریق محصولات شخص ثالث) را در تلفن شما به نام Log Data جمع آوری می کنیم. این اطلاعات ورود به سیستم ممکن است شامل اطلاعاتی مانند آدرس پروتکل اینترنت دستگاه شما ("IP") ، نام دستگاه ، نسخه سیستم عامل ، پیکربندی برنامه هنگام استفاده از سرویس ما ، زمان و تاریخ استفاده شما از سرویس و سایر آمار باشد به در شرایط فوق ، ما تضمین می کنیم که PII (اطلاعات شناسایی شخصی) شما فقط برای تماس با شما و بهبود خدمات ما استفاده می شود. ما هرگز از چنین اطلاعاتی (به عنوان مثال نام و آدرس ایمیل شما) برای اهداف دیگر مانند بازاریابی بیشتر محصولات خود یا افشای اطلاعات شخصی شما به شخص ثالث برای کسب سود تجاری استفاده نمی کنیم.
+
+اگر نگران سوءاستفاده از PII خود هستید یا اگر می خواهید اطلاعات بیشتری در مورد سیاست حفظ حریم خصوصی ما و معنای آن داشته باشید ، لطفاً با ما به drziocure@gmail.com ایمیل بفرستید ، ما سعی می کنیم پاسخ های واضح به سوالات شما در زمان.
+
+
+
+
+کلوچه ها
+
+
+ما از کوکی ها و فناوری های مشابه ردیابی برای ردیابی فعالیت در سرویس خود و نگهداری اطلاعات خاص استفاده می کنیم. کوکی ها فایل هایی با مقدار کمی داده هستند که معمولاً به عنوان شناسه های منحصر به فرد ناشناس استفاده می شوند. اینها از وب سایت هایی که بازدید می کنید به مرورگر شما ارسال می شوند و در حافظه داخلی دستگاه شما ذخیره می شوند. این سرویس به صراحت از این "کوکی ها" استفاده نمی کند. با این حال ، برنامه ممکن است از کد شخص ثالث و کتابخانه هایی استفاده کند که از "کوکی" برای جمع آوری اطلاعات و بهبود خدمات خود استفاده می کنند. شما می توانید این کوکی ها را بپذیرید یا رد کنید و بدانید چه زمانی کوکی به دستگاه شما ارسال می شود. اگر شما تصمیم به رد کوکی های ما بگیرید ، ممکن است نتوانید از بخشهایی از این سرویس استفاده کنید.
+
+نمونه هایی از کوکی هایی که استفاده می کنیم:
+
+کوکی های جلسه: ما از کوکی های جلسه برای عملکرد سرویس خود استفاده می کنیم.
+کوکی های ترجیحی: ما از کوکی های ترجیحی برای به خاطر سپردن ترجیحات و تنظیمات مختلف استفاده می کنیم.
+کوکی های امنیتی: ما از کوکی های امنیتی برای اهداف امنیتی استفاده می کنیم.
+
+
+ مبلغ پرداختی
+
+
+ما ممکن است محصولات و/یا خدمات پولی را در داخل سرویس ارائه دهیم. در این صورت ، ما از خدمات شخص ثالث برای پردازش پرداخت (به عنوان مثال پردازنده های پرداخت) استفاده می کنیم.
+
+ما اطلاعات کارت پرداخت شما را ذخیره یا جمع آوری نمی کنیم. این اطلاعات مستقیماً در اختیار پردازشگران پرداخت شخص ثالث قرار می گیرد که استفاده از اطلاعات شخصی شما بر اساس سیاست حفظ حریم خصوصی آنها تنظیم می شود. این پردازنده های پرداخت از استانداردهای تعیین شده توسط PCI-DSS که توسط شورای استانداردهای امنیت PCI مدیریت می شود ، پیروی می کنند ، که تلاش مشترک مارک هایی مانند Visa ، Mastercard ، American Express و Discover است. الزامات PCI-DSS به اطمینان از رسیدگی امن اطلاعات پرداخت کمک می کند.
+
+پردازنده های پرداختی که ما با آنها کار می کنیم عبارتند از:
+
+خریدهای پرداخت درون برنامه ای Google Play
+ خط مشی رازداری آنها را می توانید در https://policies.google.com/privacy مشاهده کنید
+
+
+
+ امنیت داده ها
+
+
+امنیت داده های شما برای ما مهم است اما به یاد داشته باشید که هیچ روش انتقال از طریق اینترنت یا روش ذخیره سازی الکترونیکی 100 secure امن نیست. در حالی که ما تلاش می کنیم از ابزارهای تجاری قابل قبول برای محافظت از اطلاعات شخصی شما استفاده کنیم ، نمی توانیم امنیت کامل آن را تضمین کنیم.
+
+
+
+
+
+ارائه دهندگان خدمات
+
+
+به دلایل زیر ممکن است شرکت ها و اشخاص ثالث را استخدام کنیم:
+
+برای تسهیل خدمات ما ؛
+
+برای ارائه خدمات از طرف ما ؛
+
+انجام خدمات مربوط به خدمات ؛
+
+برای تجزیه و تحلیل نحوه استفاده از خدمات ما به ما کمک کنید.
+
+ما می خواهیم به کاربران این سرویس اطلاع دهیم که این اشخاص ثالث به اطلاعات شخصی شما دسترسی دارند. دلیل آن انجام وظایفی است که از طرف ما به آنها محول شده است. با این حال ، آنها موظفند اطلاعات را برای اهداف دیگر افشا یا استفاده نکنند.
+
+
+
+
+
+امنیت
+
+
+ما برای اعتماد شما در ارائه اطلاعات شخصی خود ارزش قائل هستیم ، بنابراین ما در تلاش هستیم تا از ابزارهای تجاری قابل قبول برای محافظت از آنها استفاده کنیم. اما به یاد داشته باشید که هیچ روش انتقال از طریق اینترنت یا روش ذخیره سازی الکترونیکی 100 secure امن و قابل اعتماد نیست.
+
+با این حال ، انتقال اطلاعات از طریق اینترنت یا شبکه های تلفنی کاملاً ایمن نیست. در حالی که ما تمام تلاش خود را برای حفاظت از اطلاعات شما انجام می دهیم ، به ویژه در مورد حفاظت از اطلاعات شخصی شما ،
+
+"دکتر. معلم زیو یوگا ”نمی تواند امنیت داده های شما را که از طریق اینترنت ، تلفن یا هر شبکه دیگر منتقل می شود ، تضمین کند.
+
+
+
+
+
+پیوندها به سایت های دیگر
+
+
+این سرویس ممکن است حاوی پیوندهایی به سایت های دیگر باشد. اگر روی پیوند شخص ثالث کلیک کنید ، به آن سایت هدایت می شوید. توجه داشته باشید که این سایت های خارجی توسط ما اداره نمی شوند. بنابراین ، ما اکیداً به شما توصیه می کنیم که سیاست حفظ حریم خصوصی این وب سایت ها را مرور کنید. ما هیچ کنترلی بر محتوای ، خط مشی های رازداری یا عملکردهای سایت ها یا خدمات شخص ثالث نداریم و هیچ مسئولیتی بر عهده نمی گیریم.
+
+
+
+حریم خصوصی کودکان
+
+
+این خدمات به افراد زیر 13 سال نمی پردازد. ما آگاهانه اطلاعات شناسایی شخصی کودکان زیر 13 سال را جمع آوری نمی کنیم. در صورتی که متوجه شدیم یک کودک زیر 13 سال اطلاعات شخصی را در اختیار ما قرار داده است ، فوراً این را از سرورهای خود حذف می کنیم. اگر والدین یا سرپرست شما هستند و می دانید که فرزند شما اطلاعات شخصی را در اختیار ما قرار داده است ، لطفاً با ما تماس بگیرید تا بتوانیم اقدامات لازم را انجام دهیم. تغییرات در این خط مشی رازداری ممکن است هر از گاهی سیاست حفظ حریم خصوصی خود را به روز کنیم. بنابراین ، به شما توصیه می شود که به طور دوره ای این صفحه را برای هر گونه تغییر مرور کنید. ما هرگونه تغییر را با ارسال سیاست حفظ حریم خصوصی جدید در این صفحه به شما اطلاع می دهیم. این تغییرات بلافاصله پس از ارسال در این صفحه م effectiveثر هستند. با ما تماس بگیرید اگر در مورد خط مشی رازداری ما س questionsال یا پیشنهادی دارید ، لطفاً به آدرس drziocure@gmail.com برای ما ایمیل بفرستید ، ما تلاش می کنیم تا به موقع به سوالات شما پاسخ های شفاف ارائه دهیم.
+
+ CalOPPA اولین قانون ایالتی در کشور است که از وب سایت های تجاری و خدمات آنلاین برای ارسال یک سیاست حفظ حریم خصوصی استفاده می کند. دسترسی به قانون بسیار فراتر از کالیفرنیا است تا از هر شخص یا شرکتی در ایالات متحده (و به طور قابل ملاحظه ای در جهان) که از وب سایت هایی استفاده می کند که اطلاعات شخصی شناسایی مشتریان کالیفرنیا را جمع آوری می کند ، استفاده کند تا در وب سایت خود یک خط مشی رازداری آشکار درج کند که دقیقاً اطلاعات جمع آوری شده و موارد ذکر شده را بیان می کند. اشخاص یا شرکتهایی که با آنها مشترک است -بیشتر ببینید در: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+با توجه به CalOPPA ، ما با موارد زیر موافقت می کنیم:
+
+کاربران می توانند به صورت ناشناس از سایت ما دیدن کنند.
+
+
+
+آیا به اشخاص ثالث ، از جمله شبکه های تبلیغاتی یا افزونه ها اجازه می دهیم PII را از کودکان زیر 13 سال جمع آوری کنند؟
+
+- ما به طور خاص برای کودکان زیر 13 سال بازار نمی کنیم.
+
+
+
+ محدودیت مسئولیت
+
+
+ دکتر زیو - معلم یوگا هیچ ادعا ، وعده یا تضمینی در مورد صحت ، کامل بودن یا کفایت مطالب موجود از طریق برنامه نمی کند و صراحتا مسئولیت خطاها و کوتاهی ها در محتویات موجود از طریق برنامه را رد می کند.
+
+-هیچگونه ضمانتی از هر نوع ، ضمنی ، بیان شده یا قانونی ، شامل ضمانت های عدم نقض حقوق شخص ثالث ، عنوان ، قابلیت تجارت ، تناسب برای یک هدف خاص و رهایی از ویروس رایانه ای ، در رابطه با محتویات موجود از طریق برنامه یا پیوندهای آن به سایر منابع اینترنتی که ممکن است در دسترس شما از طریق برنامه باشد.
+
+- ارجاع در برنامه به هرگونه محصول ، فرآیند یا خدمات تجاری خاص ، یا استفاده از هرگونه نام تجاری ، شرکتی یا شرکتی برای اطلاع و راحتی عموم است و تأیید ، توصیه یا دلخواهی توسط دکتر نیست. معلم زیو - یوگا.
+
+
+
+ تغییرات در این خط مشی رازداری
+
+
+ممکن است هر از گاهی سیاست حفظ حریم خصوصی خود را به روز کنیم. بنابراین ، به شما توصیه می شود که به طور دوره ای این صفحه را برای هر گونه تغییر مرور کنید. ما هرگونه تغییر را با ارسال سیاست حفظ حریم خصوصی جدید در این صفحه به شما اطلاع می دهیم. این تغییرات بلافاصله پس از ارسال در این صفحه م effectiveثر هستند.
+
+پس از ایجاد این خط مشی رازداری ، ما پیوندی را در صفحه اصلی خود یا حداقل در اولین صفحه مهم پس از ورود به وب سایت خود اضافه می کنیم.
+
+اگر س questionsال یا نگرانی دارید ، با خیال راحت به ما ایمیل بزنید یا در drziocure@gmail.com مکاتبه کنید و ما سعی می کنیم نگرانی های شما را برطرف کنیم.
+    </string>
+
+
+    <string name = "ntitle1"> تمرین کمردرد از دست رفته! </string>
+    <string name = "ntitle2"> برنامه خود را از دست ندهید! </string>
+    <string name = "ntitle3"> زمان شروع تمرین است! </string>
+    <string name = "ntitle4"> چرا اکنون نه؟ </string>
+    <string name = "ntitle5"> خود را تقویت کنید! </string>
+    <string name = "ntitle6"> زمان اکنون است! </string>
+    <string name = "ntitle7"> شما .. بله می توانید به دست آورید ... اینجا را کلیک کنید؟ </string>
+
+    <string name = "desc1"> هرگز تسلیم نشوید! شما در حال رسیدن به این هدف هستید! 💪🔥 </string>
+    <string name = "desc2"> به رها کردن فکر نکنید! 💪🔥 </string>
+    <string name = "desc3"> کار کوچک می تواند زندگی بزرگتری را برای شما به ارمغان بیاورد. ادامه دهید! 💪🔥 </string>
+    <string name = "desc4"> تلاش بردن در لحظه است! ادامه دهید! 💪🔥 </string>
+    <string name = "desc5"> تسلیم نشوید! تقریباً آنجا هستید! 💪🔥 </string>
+    <string name = "desc6"> چیزهای خوب زمان می برند! هرگز تسلیم نشوید! 💪🔥 </string>
+    <string name = "desc7"> تغییر آسان نیست! ادامه دهید! 💪🔥 </string>
+    <string name = "desc8"> برنده یک رویاپرداز است! هرگز تسلیم نشوید! 💪🔥 </string>
+
+    <string name = "icons"> 💪🔥 </string>
+    <string name = "strstate"> انتخاب حالت <font color = '#FC527F'> *</font> </string>
+    <string name = "select_the_country"> کشور را انتخاب کنید <font color = '#FC527F'> *</font> </string>
+
+    <string name = "details1"> این برنامه گزینه های اشتراک تمدید خودکار را در بالا ارائه می دهد: </string>
+    <string name = "details3"> پرداخت کمردرد در صورت تأیید خرید از حساب Google Play شما کسر می شود. کمردرد شما طرفدار
+اشتراک به طور خودکار تمدید می شود مگر اینکه تمدید خودکار در حساب Google Play شما حداقل 24 ساعت قبل از پایان دوره صورتحساب اشتراک فعلی خاموش شود. \nمی توانید اشتراک خود را مدیریت کرده یا در تنظیمات حساب Google Play خود ، جدید خودکار را خاموش کنید پس از خرید اگر تمدید خودکار را در وسط و وسط دوره اشتراک خاموش کنید. تا پایان دوره همچنان به همه ویژگی های ممتاز دسترسی خواهید داشت. برای خاموش کردن تمدید خودکار در وسط دوره اشتراک ، هیچ گونه بازپرداخت جزئی داده نمی شود. می توانید پس از خرید اشتراک خود را مدیریت کرده یا مجدداً خودکار را در تنظیمات حساب Google Play خود خاموش کنید. اگر تمدید خودکار را در وسط و وسط دوره اشتراک خاموش کنید. تا پایان دوره هنوز به همه ویژگی های ممتاز دسترسی خواهید داشت. برای خاموش کردن تمدید خودکار در وسط دوره اشتراک ، بازپرداخت جزئی داده نمی شود. </string>
+    <string name = "more"> بیشتر </string>
+    <string name = "total"> کل </string>
+    <string name = "report"> گزارش </string>
+    <string name = "your_plan"> برنامه شما </string>
+    <string name = "_12_days_left"> 12 روز باقی مانده </string>
+    <string name = "days_left"> روز باقی مانده </string>
+    <string name = "back_pain_relief"> یوگا برای مبتدیان </string>
+    <string name = "info"> اطلاعات </string>
+    <string name = "intermediate_level"> سطح متوسط ​​</string>
+    <string name = "intermediate"> حد واسط </string>
+    <string name = "advanced_level"> سطح پیشرفته </string>
+    <string name = "advanced"> پيشرو </string>
+    <string name = "weekly_goal"> هدف هفتگی </string>
+    <string name = "set">+ تنظیم </string>
+    <string name = "nutrition_nplan"> تغذیه \n برنامه </string>
+
+
+    <string name = "customize_plan"> سفارشی کردن طرح </string>
+    <string name = "customize_nyour_plan"> سفارشی کردن \n طرح شما </string>
+    <string name = "explore_plan"> کاوش در طرح </string>
+    <string name = "discover"> کشف </string>
+    <string name = "discover1"> کشف </string>
+    <string name = "daily_tips"> نکات روزانه </string>
+    <string name = "loading"> در حال بارگیری ... </string>
+    <string name = "all_diets"> همه رژیم ها </string>
+    <string name = "done"> انجام شد </string>
+    <string name = "share"> اشتراک گذاری </string>
+    <string name = "all_history"> همه سابقه </string>
+    <string name = "category_name"> نام دسته </string>
+    <string name = "covid_tracker"> ردیاب Covid </string>
+    <string name = "plans_made_for_you"> برنامه های ساخته شده برای شما </string>
+    <string name = "confirmed_cases"> موارد تأییدشده </string>
+    <string name = "deaths"> مرگ </string>
+    <string name = "recoveries"> بازیابی </string>
+    <string name = "city_province"> شهر/استان </string>
+    <string name = "confirmed_ncases"> تأیید \n موارد </string>
+    <string name = "my_training"> آموزش من </string>
+
+    <string name = "reports"> گزارش </string>
+    <string name = "discover_plan"> برنامه کشف </string>
+    <string name = "covid_19"> Covid-19 </string>
+    <string name = "remove_ads"> حذف تبلیغات </string>
+    <string name = "new_apps"> برنامه های جدید </string>
+    <string name = "share_app"> اشتراک گذاری برنامه </string>
+
+    <string name = "jumping_jacks"> جک های پرش </string>
+    <string name = "_1_min"> 1 دقیقه </string>
+    <string name = "_2_exercises"> 2 تمرین </string>
+    <string name = "edit"> ویرایش </string>
+    <string name = "_5_ft_5_in"> 5 FT 5 IN </string>
+    <string name = "veg"> سبزیجات </string>
+    <string name = "non_veg"> غیر گیاهی </string>
+    <string name = "height_graph"> نمودار ارتفاع </string>
+    <string name = "please_login_to_unlock_graph"> لطفاً برای باز کردن قفل نمودار وارد شوید !!! </string>
+    <string name = "weight_graph"> نمودار وزن </string>
+    <string name = "user_info"> اطلاعات کاربر </string>
+    <string name = "premium"> حق بیمه </string>
+    <string name = "get_effective_plan_with_premium"> دریافت برنامه های م Withثر با حق بیمه </string>
+    <string name = "_1_month_subscription"> 1 ماه اشتراک </string>
+    <string name = "_6_months_subscriptions"> 6 ماه اشتراک </string>
+    <string name = "_40_off"> 40٪ تخفیف </string>
+    <string name = "life_time"> اشتراک طول عمر </string>
+    <string name = "_60_off"> 60٪ تخفیف </string>
+    <string name = "unlock_all_the_features"> قفل همه ویژگی ها </string> را باز کنید
+    <string name = "ads_free"> آگهی رایگان </string>
+    <string name = "intermediate1"> متوسط ​​</string>
+    <string name = "advanced1"> پیشرفته </string>
+    <string name = "unlock_all_yoga"> باز کردن همه یوگا </string>
+    <string name = "easy_3d_workout_video"> فیلم تمرین سه بعدی آسان </string>
+    <string name = "set_your_personal_goal"> هدف شخصی خود را تعیین کنید </string>
+    <string name = "back_pain_relief_pro"> یوگا برای مبتدیان حرفه ای </string>
+    <string name = "purchase_now"> اکنون خرید کنید </string>
+    <string name = "set_reminder"> تنظیم یادآوری </string>
+    را تنظیم کنید
+    <string name = "user"> کاربر </string>
+    <string name = "my_profile"> نمایه من </string>
+    <string name = "google_fit"> Google Fit </string>
+    <string name = "default1"> پیش فرض </string>
+    <string name = "version_1_0"> نسخه 1.0 </string>
+    <string name = "nutrition_plan"> برنامه تغذیه </string>
+    <string name = "today_s_plan"> برنامه امروز </string>
+    <string name = "use_this_plan"> از این طرح استفاده کنید </string>
+    <string name = "ad"> آگهی </string>
+    <string name = "appname"> نام برنامه </string>
+    <string name = "reminder_text"> متن یادآوری </string>
+    <string name = "please_enter_your_text_here"> لطفاً متن خود را در اینجا وارد کنید </string>
+    <string name = "fitness_apps"> برنامه های تناسب اندام </string>
+    <string name = "suggested_for_you"> برای شما پیشنهاد شده است </string>
+    <string name = "suggested_fitness_app"> برنامه تناسب اندام پیشنهادی </string>
+    <string name = "ads"> تبلیغات. </string>
+    <string name = "top_free_apps"> برترین برنامه های رایگان </string>
+    <string name = "suggested_banners"> بنرهای پیشنهادی </string>
+    <string name = "garena_free_fire"> Garena Free Fire </string>
+    <string name = "free_fire_is_the"> Free Fire بازی نهایی تیرانداز بقا است که در تلفن همراه موجود است </string>
+    <string name = "you_re_offline"> آفلاین هستید </string>
+    <string name = "check_your_internet"> اتصال اینترنت خود را بررسی کرده و دکمه امتحان مجدد را برای بازگشت آنلاین </string> فشار دهید
+    <string name = "dr_zio_app_store"> فروشگاه برنامه Dr.Zio </string>
+    <string name = "start_with_your_feeet"> با گردنبند خود و دستان خود در کنار خود شروع کنید ، سپس با پاهای باز شده و دستان بالای سر ، به بالا بپرید. </string>
+    <string name = "other_reason"> دلیل دیگر .. </string>
+    <string name = "write_your_feedback"> نظرات خود را بنویسید </string>
+    <string name = "enter_your_paramaters"> وارد پارامترهای خود شوید </string>
+    <string name = "get"> GET </string>
+    <string name = "personalized_plan"> برنامه شخصی </string>
+    <string name = "get_daily_tips"> راهنمایی های روزانه به زبان خود \n با افزودن کشور </string>
+    <string name = "select"> Select </string>
+    <string name = "next_2_12"> بعدی 2/12 </string>
+    <string name = "calf_raise_with_splayed_foot_30s"> CALF RAISE with SPLEAYED FOOT 30s </string>
+    <string name = "plank"> تخته </string>
+    <string name = "repeat_day"> تکرار روز </string>
+    <string name = "repeat1"> تکرار: </string>
+    <string name = "every"> همه </string>
+    <string name = "hour_s"> ساعت (ها) </string>
+    <string name = "date"> تاریخ </string>
+    <string name = "_12_07_2019"> 12/07/2019 </string>
+    <string name = "showing_ads"> نمایش تبلیغات .. </string>
+    <string name = "watch_video_to_unlock"> مشاهده ویدئو برای بازکردن قفل </string>
+    <string name = "unlock_free"> باز کردن قفل رایگان </string>
+    <string name = "or"> یا </string>
+    <string name = "watch_the_video_to_use_training_nplan_once"> ویدیو را تماشا کنید تا از آموزش \n یکبار استفاده کنید </string>
+    <string name = "get_premium"> دریافت حق بیمه </string>
+
+    <string name = "cm"> cm </string>
+    <string name = "inch"> اینچ </string>
+    <string name = "ft"> ft </string>
+    <string name = "kgs"> کیلوگرم </string>
+    <string name = "lbs"> پوند </string>
+    <string name = "no_thanks"> نه متشکرم !! </string>
+    <string name = "complete_100_workouts_for_best_results"> 100٪ تمرینات را برای بهترین نتایج </string> انجام دهید
+    <string name = "_16_0"> 16.0٪ </string>
+    <string name = "we_work_day">ا شب و روز برای شما کار می کنیم. لطفاً به ما امتیاز دهید🙏</string>
+    <string name = "_10"> (10) </string>
+    <string name = "please_wait"> لطفا صبر کنید .... </string>
+    <string name = "quit"> خروج </string>
+    <string name = "choose_your_language"> زبان خود را انتخاب کنید:-</string>
+
+
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+
+
+    <string name = "submit"> ارسال </string>
+    <string name = "music_for_workout"> موسیقی برای تمرین </string>
+    <string name = "choose_from_gallery"> انتخاب از گالری </string>
+    <string name = "change_background_music"> تغییر موسیقی پس زمینه </string>
+    <string name = "unlock_all_features"> باز کردن همه ویژگی ها </string>
+    <string name = "to_unlock_this"> برای باز کردن قفل این سطح - یکی از گزینه ها را انتخاب کنید. </string>
+    <string name = "complete_n_previous_n_level"> کامل \n قبلی \n سطح </string>
+    <string name = "watch_n_ads"> تماشا \n تبلیغات </string>
+    <string name = "buy_n_premium"> خرید \n حق بیمه </string>
+    <string name = "to_unlock_this_excercise_choose_this_option"> برای باز کردن قفل این تمرین - این گزینه را انتخاب کنید. </string>
+    <string name = "buy_premium"> خرید حق بیمه </string>
+    <string name = "close"> بستن </string>
+    <string name = "other_users_will_benefit_from_your_review"> سایر کاربران از نظر شما استفاده خواهند کرد </string>
+    <string name = "please_leave_your_review_on_google_play"> لطفا نظر خود را در Google Play </string> بگذارید
+    <string name = "rate_on_google_play"> RATE ON GOOGLE PLAY </string>
+    <string name = "plan_1"> طرح 1 </string>
+    <string name = "dfdfdf"> dfdfdf </string>
+    <string name = "india_cumulative_numbers"> هند - اعداد تجمعی </string>
+    <string name = "updated_loading"> به روز شده: در حال بارگیری ... </string>
+    <string name = "source_ministry_of_health_and_family_welfare"> منبع: وزارت بهداشت و رفاه خانواده </string>
+    <string name = "today_cases"> موارد امروز </string>
+    <string name = "today_deaths"> مرگ های امروز </string>
+    <string name = "today_recoveries"> بازیابی های امروز </string>
+    <string name = "live_now"> اکنون زندگی کنید </string>
+    <string name = "source_world_health_organization"> منبع: سازمان بهداشت جهانی </string>
+    <string name = "country_region"> کشور/منطقه </string>
+    <string name = "new_ncases"> جدید \n موارد </string>
+    <string name = "new_deaths"> مرگهای جدید </string>
+    <string name = "gujarat"> گجرات </string>
+    <string name = "day1"> روز 1 </string>
+    <string name = "trending"> پرطرفدار </string>
+    <string name = "vitamin_b6"> ویتامین B6 </string>
+
+    <string name = "sdsdsdds"> sdsdsdds </string>
+    <string name = "oct_9"> 9 اکتبر </string>
+    <string name = "song_name"> نام آهنگ </string>
+    <string name = "round"> ​​گرد </string>
+    <string name = "sun1"> خورشید </string>
+    <string name = "water_drink_reminder_app"> برنامه یادآوری نوشیدن آب </string>
+    <string name = "install_now"> اکنون نصب کنید </string>
+    <string name = "temppdsdsd"> Temppdsdsd 💪🔥 </string>
+    <string name = "snooze"> SNOOZE </string>
+    <string name = "once"> یکبار </string>
+    <string name = "prayer_time_wake"> وقت نماز مرا در ساعت 9 بیدار می کند و فقط ابتدا صبحانه می خورم </string>
+    <string name = "let_s_do_backpain_exercise_today"> بیایید امروز ورزش Backpain را انجام دهیم. </string>
+    <string name = "reminder_type"> نوع یادآوری </string>
+    <string name = "sound"> ​​صدا </string>
+    <string name = "repeat_reminder"> تکرار یادآوری </string>
+    <string name = "report_as"> گزارش به عنوان </string>
+    <string name = "alarm"> زنگ هشدار </string>
+    <string name = "save_change"> تغییرات ذخیره شود؟ </string>
+    <string name = "are_you_delete"> آیا مطمئن هستید که می خواهید حذف کنید؟ </string>
+    <string name = "yes"> بله </string>
+    <string name = "no"> خیر </string>
+    <string name = "deleted"> حذف شد </string>
+    <string name = "confirmation"> تأیید </string>
+    <string name = "something_went_wrong"> مشکلی پیش آمد !! </string>
+    <string name = "take_nrest"> Take \n استراحت </string>
+    <string name = "press_the_resume"> برای رفتن به تمرین بعدی </string> رزومه را فشار دهید
+    <string name = "is_completed"> تکمیل شده </string>
+    <string name = "completed"> تکمیل </string>
+    <string name = "recommand_for_you"> توصیه برای شما </string>
+    <string name = "hated_it"> متنفرم </string>
+    <string name = "dislike_it"> دوست نداشتم! </string>
+    <string name = "its_ok"> خوب است </string>
+    <string name = "liked_it"> پسندیدم؟ </string>
+    <string name = "loved_it"> دوستش داشتم </string>
+    <string name = "do_you_like_this_app"> آیا این برنامه را دوست دارید؟ </string>
+    <string name = "your_feedback_is_useful"> بازخورد شما مفید است </string>
+    <string name = "did_you_hear_the_test_voice"> آیا صدای آزمایش را شنیده اید؟ </string>
+    <string name = "error"> خطا </string>
+    <string name = "latest"> جدیدترین </string>
+    <string name = "related_apps"> برنامه های مرتبط </string>
+    <string name = "treading_apps"> برنامه های پرطرفدار </string>
+    <string name = "please_check_after"> لطفاً پس از مدتی بررسی کنید! .. </string>
+    <string name = "prepe_app"> در حال آماده سازی برنامه برای شما ... </string>
+    <string name = "are_you_sure"> مطمئن هستید؟ </string>
+    <string name = "drzio_updatestring"> دکتر. Zio توصیه می کند که برای عملکرد یکپارچه و پیشرفته برنامه ، به آخرین نسخه آن را به روز کنید. </string>
+    <string name = "select_gender"> لطفا جنسیت را انتخاب کنید </string>
+    <string name = "addfood"> افزودن غذا </string>
+    <string name = "news"> جدید </string>
+    <string name = "you_can_better"> می توانید بهتر از این عمل کنید !! </string>
+    <string name = "perform_better"> عملکرد بد است !! </string>
+    <string name = "perform_okay"> عملکرد خوب است </string>
+    <string name = "perform_good"> عملکرد خوب است !! </string>
+    <string name = "perform_great"> عملکرد عالی است !! </string>
+    <string name = "purchasefeed1"> قیمت خرید زیاد است </string>
+    <string name = "purchasefeed2"> تجزیه و تحلیل &amp;؛ سپس خریداری کنید </string>
+    <string name = "purchasefeed3"> سایر </string>
+    <string name = "copyright_2021_dr_zio"> copyright @ 2022 دکتر زیو </string>
+    <string name = "retry"> تلاش مجدد </string>
+    <string name = "update"> بروزرسانی </string>
+    <string name = "blog"> وبلاگ </string>
+    <string name = "sett_edu"> برای مدیریت نمایه و تنظیمات بیشتر </string> اینجا ضربه بزنید
+    <string name = "tap_here"> اینجا ضربه بزنید !!. </string>
+    <string name = "repo_edu"> پیوسته پیشرفت خود را پیگیری کنید </string>
+    <string name = "hom_edu"> تمرین خود را آغاز کرده و برنامه تغذیه و سفارشی </string> را بررسی کنید
+    <string name = "dis_edu"> برنامه های یوگا را برای انواع کمردرد </string> کشف کنید
+    <string name = "blog_edu"> وبلاگ ها و نکات مربوط به موضوعاتی را که دوست دارید بخوانید </string>
+    <string name = "stor_edu"> برنامه های بیشتر دکتر زیو </string> را بررسی کنید
+    <string name = "menu_edu"> برای منو </string> اینجا ضربه بزنید
+    <string name = "day"> روز </string>
+    <string name = "all_app"> همه برنامه </string>
+    <string name = "want_uninterrupted"> تمرین بدون آگهی بدون وقفه می خواهید؟ \n همین حالا PREMIUM دریافت کنید! </string>
+    <string name = "admob_openapp" />
+    <string name = "beginner"> شروع کننده </string>
+    <string name = "rate_txt"> من یک برنامه نویس هستم که بسیار تلاش می کنم تا تجربه 5 ستاره را در این برنامه به شما ارائه دهد. لطفاً یک نظر 5 ستاره برای من بنویسید. \n متشکرم! این برای من به معنای جهان است. </string>
+
+    <string name = "deep_sleep_yoga_and_yog_nindra"> یوگا و یوگ نیندرا خواب عمیق </string>
+    <string name = "yoga_for_insomnia">یوگا برای بی خوابی </string>
+    <string name = "deep_sleep_yoga"> یوگا برای خواب عمیق </string>
+    <string name = "yog_nindra_effective_sleep"> یوگا نیدرا خواب م Eثر </string>
+    <string name = "bed_time_yoga"> زمان خواب یوگا </string>
+    <string name = "for_sound_sleep"> برای صدا خواب </string>
+    <string name = "brething_exercise"> تمرین نفس كشيدن </string>
+    <string name = "sleep_apnea"> آپنه خواب </string>
+    <string name = "bed_time_yoga_amp_brething_exercise"> <![CDATA[یوگا و تمرین تنفس]]> </string>
+    <string name = "yog_nidra_effective_sleep"> یوگا نیدرا - خواب م </string>
+    <string name = "bed_time_for_sound_sleep"> یوگا هنگام خواب برای خواب سالم </string>
+    <string name = "bipolar_depresion"> افسردگی دو قطبی </string>
+    <string name="info1">هی! عالی است که برای غلبه بر مشکلات خواب آماده هستید. می توانید یوگای خواب را ببینید و &amp; تمرینات مدیتیشن ذکر شده در زیر بیا شروع کنیم! </string>
+    <string name="info2">در این طرح تمرینات مدیتیشن خواب بسیار چالش برانگیزتری خواهید یافت. کشش بیشتر، تمرین بدنی بیشتر برای رفع زانو درد خیلی زود، پس بیایید شروع کنیم!</string>
+    <string name="info3">چالش نهایی! ما سخت‌ترین تمرین‌های مدیتیشن خواب را برای شما آماده کرده‌ایم که باعث می‌شود خوابی عالی داشته باشید. بیایید این کار را انجام دهیم!</string>
+    <string name="ftinch">فوت اینچ</string>
+</resources>

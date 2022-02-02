@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layoutDirection="ltr"
+
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/statusbar"
+        android:background="@android:color/white">
+
+        <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+            android:id="@+id/statusbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:elevation="5dp" />
+
+        <RelativeLayout
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="5dp"
+            android:elevation="5dp">
+
+            <ImageView
+                android:id="@+id/ivback"
+                android:foreground="?attr/selectableItemBackground"
+
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:padding="13dp"
+                android:src="@drawable/ic_arrow_back_black_24dp"
+                android:tint="@color/headercolor" />
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toStartOf="@+id/laystore"
+                android:layout_toEndOf="@+id/ivback"
+                android:ellipsize="end"
+                android:fontFamily="@font/themefont"
+                android:maxLines="1"
+                android:text="@string/dr_zio_app_store"
+                android:textColor="@color/headercolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+           <TextView
+
+                android:id="@+id/txtcounter"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginEnd="8dp"
+                android:layout_toStartOf="@+id/laystore"
+                android:background="@drawable/gradbtn"
+                android:fontFamily="@font/themefont"
+                android:gravity="center"
+                android:padding="2dp"
+                android:text="10"
+                android:textColor="@android:color/white"
+                android:textSize="8sp"
+                android:visibility="gone" />
+
+
+            <LinearLayout
+                android:id="@+id/laystore"
+                android:foreground="?attr/selectableItemBackground"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="end"
+                android:layout_marginEnd="10dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/ivshop"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center" />
+
+               <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/more"
+                    android:textColor="@color/headercolor"
+                    android:textSize="10sp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <RelativeLayout
+        android:id="@+id/leaderbord"
+        android:layout_above="@+id/banner1"
+        android:layout_below="@id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/rl_model"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+
+            <ImageView
+                android:id="@+id/img_model"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:foreground="?attr/selectableItemBackground"
+
+                android:src="@drawable/male_model" />
+
+        </RelativeLayout>
+
+
+
+
+        <RelativeLayout
+            android:id="@+id/rl_head"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true">
+
+            <ImageView
+                android:id="@+id/img_head"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/head_unselected" />
+
+            <ImageView
+                android:id="@+id/img_head_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/head_selected"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+
+
+
+        <RelativeLayout
+            android:id="@+id/rl_heart"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true">
+
+            <ImageView
+                android:id="@+id/img_heart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/heart_unselected" />
+
+            <ImageView
+                android:id="@+id/img_heart_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/heart_selected"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+
+        -
+
+        <RelativeLayout
+            android:id="@+id/rl_abs"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true">
+
+            <ImageView
+                android:id="@+id/img_abs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/abs_unselected" />
+
+            <ImageView
+                android:id="@+id/img_abs_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/abs_selected"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+
+        -
+
+        <RelativeLayout
+            android:foreground="?attr/selectableItemBackground"
+
+            android:id="@+id/rl_calf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true">
+
+            <ImageView
+                android:id="@+id/img_calf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/calf_unselected" />
+
+            <ImageView
+                android:id="@+id/img_calf_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/calf_selected"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+
+        -
+
+        <RelativeLayout
+            android:id="@+id/rl_throat"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true">
+
+            <ImageView
+                android:id="@+id/img_throat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/throat_unselected" />
+
+            <ImageView
+                android:id="@+id/img_throat_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/throat_selected"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+
+        -
+
+        <RelativeLayout
+            android:id="@+id/rl_arm"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true">
+
+            <ImageView
+                android:id="@+id/img_arm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/arms_unselected" />
+
+            <ImageView
+                android:id="@+id/img_arm_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/arms_selected"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+
+        -
+
+        <RelativeLayout
+            android:id="@+id/rl_thigh"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true">
+
+            <ImageView
+                android:id="@+id/img_thigh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/thigh_unselected" />
+
+            <ImageView
+                android:id="@+id/img_thigh_selected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/thigh_selected"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+    <include layout="@layout/nointercincation_layout" />
+
+    <include layout="@layout/dataisemp_layout" />
+
+    <RelativeLayout
+        android:id="@+id/banner1"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/def_pointer_color"
+        android:visibility="visible">
+
+        <FrameLayout
+            android:id="@+id/adframe1234"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:background="@drawable/ad_border2"
+            android:padding="1dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="0dp"
+            android:visibility="gone" />
+
+        <include
+            layout="@layout/load_banner"
+            android:layout_marginTop="20dp" />
+    </RelativeLayout>
+</RelativeLayout>

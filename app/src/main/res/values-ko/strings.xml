@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1 깊은 수면 요가</string>
+    <string name="picker_box_arrows_icon">선택 상자 화살표 아이콘</string>
+    <string name="favtitle">여기에 좋아하는 운동을 추가하세요.❤선호도에 따라 자신만의 훈련 계획을 맞춤설정할 수 있습니다.</string>
+
+    <string name="mon">월요일</string>
+    <string name="tu">화요일</string>
+    <string name="wed">수요일</string>
+    <string name="thri">목요일</string>
+    <string name="fri">금요일</string>
+    <string name="sat">토요일</string>
+    <string name="sun">일요일</string>
+    <string name="facebook_app_id">394103198201105</string>
+    <string name="exename1">고양이 소 자세(Majaryasana – Bitilasana) </string>
+
+    <string name="exename2">바스트리카 프라나야마 요가</string>
+
+    <string name="exename3">리클라이닝 바운드 앵글 포즈(Supta Baddha Konasana)</string>
+
+    <string name="exename4">앉아 반 척추 비틀기 자세(Ardha Matsyendrasana)</string>
+
+    <string name="exename5">앉아 있는 광각 자세(Upavistha Konasana)</string>
+
+    <string name="exename6">샨무히 무드라</string>
+
+    <string name="exename7">바람을 쐬는 자세(Pavanamuktasana) </string>
+
+    <string name="exename8">바늘에 실(Parsva Balasana)</string>
+
+    <string name="exename9">쟁기 자세(Halasan)</string>
+
+    <string name="exename10">영웅 포즈(Virasana)</string>
+
+    <string name="exename11">나디 쇼단 프라나얌</string>
+
+    <string name="exename12">벼락 자세(Vajrasana)</string>
+
+    <string name="exename13">춤의 제왕 포즈(Natarajasana)</string>
+
+    <string name="exename14">Vakrasana(반쪽 척추 비틀기 자세)</string>
+
+    <string name="exename15">아이 포즈(토끼 포즈)(발라사나) </string>
+
+    <string name="exename16">카팔바티 프라나야마</string>
+
+    <string name="exename17">앞으로 굽히기(Paschimottanasana)</string>
+
+    <string name="exename18">벽 위로 다리 올리기 자세(Viparita Karani)</string>
+
+    <string name="exename19">포워드 벤드(하스타 파다아사나)</string>
+
+    <string name="exename20">산자세(타다산)</string>
+
+    <string name="exename21">Supine 척추 비틀기(Supta Matsyendrasana)</string>
+
+    <string name="exename22">의자 자세(웃카타아사나) </string>
+
+    <string name="exename23">물고기 자세(Matsyasanaa)</string>
+
+    <string name="exename24">독신자의 자세(Brahmacharyasana)</string>
+
+    <string name="exename25">머리에서 무릎까지 앞으로 굽히기(Janu Sirsasana)</string>
+
+    <string name="exedesc1">허리 몸통과 목을 스트레칭하고 복부 장기를 부드럽게 자극하고 강화합니다. 척추를 올바르게 정렬하고 정기적으로 연습하면 요통을 예방하는 데 도움이 됩니다.</string>
+
+    <string name="exedesc2">폐와 반복적인 기침, 독감, 호흡기 질환, 알레르기 또는 호흡 곤란으로 고통받는 사람들에게 좋습니다. 머리에 혈액 공급이 증가하면 시력과 청력이 향상됩니다. 폐를 튼튼하게 하고 호흡기를 빠르고 깊게 정화하여 기관지염에 좋다.•심신에 활력을 준다</string>
+
+    <string name="exedesc3">소화기 및 생식 기관을 진정시키고 과민성 대장 질환, 불임, 월경 장애, 소화기 문제, 폐경 등과 같은 상태를 치료합니다.•사타구니, 허벅지 안쪽, 무릎을 잘 펴줍니다. .•근육의 긴장을 풀어주고 피로와 불면증을 풀어줍니다. 마음도 안정시켜줍니다 </string>
+
+    <string name="exedesc4">영양소, 혈액, 산소를 공급하고 생식기 및 비뇨기 계통의 건강을 개선합니다. 월경 장애에 이롭고 척추에 활력을 줍니다.•간과 신장을 자극합니다. </string >
+
+    <string name="exedesc5">복부 기관을 자극합니다.복근, 척추, 다리를 강화하고 탄력을 줍니다.•좌골 신경통과 관절염을 치료하고 완화하는 데 도움이 됩니다. 신장을 해독합니다.
+ </string>
+
+    <string name="exedesc6">손과 손가락의 열과 프라나가 안면 근육을 자극하고 이완시켜 안면 근육과 외모에 좋습니다.•불안 관리와 부정적인 지적 패턴을 제거하는 데 유용합니다.•감각 기관과 후기 감각을 자극합니다. 철수.•집중력, 내성 및 평온함을 가져옵니다. </string>
+
+    <string name="exedesc7">등과 복부 근육을 스트레칭하고 강화합니다.•소화 및 가스 배출을 돕습니다. 지방 연소를 유발합니다.•다리와 팔의 근육을 단련합니다.•고관절의 혈액 순환을 개선합니다.</string>
+
+    <string name="exedesc8">가슴 위쪽 근육을 부드럽게 스트레칭합니다.•어깨의 위쪽과 바깥쪽 근육을 엽니다.•상지로의 혈액 순환을 증가시킵니다. </string>
+
+    <string name="exedesc9">등의 유연성을 촉진하고 다리 뒤쪽을 따라 근육을 스트레칭합니다. •목, 어깨, 복근 및 등 근육을 강화하고 개방합니다. </string>
+
+    <string name="exedesc10">팔과 어깨를 강화하고 척추를 유연하게 유지합니다. 더 많은 혈액으로 뇌에 영양을 공급합니다. </string>
+
+    <string name="exedesc11">또한 꽃가루 알레르기, 재채기 또는 쌕쌕거림을 유발하는 호흡기 알레르기를 완화하는 데 도움이 됩니다.•우리 성격의 논리적, 정서적 측면과 상관관계가 있는 뇌의 좌우 반구를 조화시키는 데 도움이 됩니다.</string>
+
+    <string name="exedesc12">소화를 개선하고 변비, 산도를 조절합니다.•월경 장애를 완화합니다.•생식 기관과 갑상선 기능을 조절합니다.•골반 근육을 강화합니다. </string>
+
+    <string name="exedesc13">이 포즈는 우주의 에너지를 상징하며, 할 때 우주의 흐름에 따라 춤을 추는 것입니다.•가슴, 어깨, 대퇴사두근, 복부를 포함한 앞몸을 스트레칭하고 강화합니다.•상체를 스트레칭합니다. 등, 대퇴사두근, 발목, 발, 허벅지, 사타구니 및 배•균형 향상 </string>
+
+    <string name="exedesc14">심장, 신장, 간, 비장, 폐를 자극합니다.•뱃살을 빼는 데 도움이 되고, 신장을 강화하며, •당뇨병을 예방하고 조절하는 데 도움이 됩니다.•요통을 강화하고 요통을 감소시킵니다. </string>
+
+    <string name="exedesc15">변비 제거에 도움이 됩니다.•이것은 부신의 기능을 원활하게 합니다. 등 근육을 스트레칭하여 더 강하게 합니다.•남녀 생식기의 건강을 증진합니다. </string>
+
+    <string name="exedesc16">신진대사율을 높이고 체중 감량에 도움•소화관의 기능, 흡수 및 영양소 동화를 개선합니다.•신경계에 에너지를 공급하고 뇌 세포를 젊어지게 합니다.•혈액 순환을 개선하고 얼굴에 광채를 더합니다.• 복부 장기를 자극하여 당뇨병 환자에게 매우 유용합니다.•기억력과 집중력 향상 </string>
+
+    <string name="exedesc17">송과체, 시상하부 및 뇌하수체의 기능을 자극하고 신장을 담당하는 성장 호르몬의 분비를 돕습니다. •등, 어깨, 팔의 근육을 강화한다. </string>
+
+    <string name="exedesc18">피곤하거나 뭉친 다리와 발의 완화•두통 완화•요통 완화•심신 안정
+ </string>
+
+    <string name="exedesc19">신경계를 활성화하고 키를 조절하는 성장 호르몬을 분비하는 뇌하수체의 적절한 혈액 순환을 촉진합니다. 척추와 함께 허리와 하체 근육을 스트레칭합니다. </string>
+
+    <string name="exedesc20">다리 근육을 단련하고, 다리와 엉덩이의 경직을 끝내고, 요통과 목의 염좌를 치료하고, 가슴을 발달시키고 발목을 강화합니다.</string>
+
+    <string name="exedesc21">무릎을 꿇고 비틀면 허리가 펴지고 근육이 늘어나고 척추가 길어지며 척추 디스크에 수분이 공급됩니다.•어깨, 가슴, 중척추, 엉덩이, 허리, 등 위쪽에 좋은 효과를 줍니다. stretch.•내부 장기로의 신선한 혈류를 촉진하고 내부 장기에 완전한 해독을 제공합니다. </string>
+
+    <string name="exedesc22">허리와 복부 근육을 스트레칭하고 강화합니다.•소화 및 가스 배출을 돕습니다. 지방 연소를 촉진합니다.•다리와 팔의 근육을 강화합니다.•고관절의 혈액 순환을 개선합니다.</string>
+
+    <string name="exedesc23">목, 목, 어깨의 긴장을 완화합니다. 배와 목의 기관을 스트레칭하고 자극합니다.
+ </string>
+
+    <string name="exedesc24">신진대사율을 높이고 체중 감량에 도움이 됩니다. 소화관 기능, 흡수 및 영양소 동화를 개선합니다. 신경계에 활력을 주고 뇌 세포를 젊어지게 합니다. 혈액 순환을 개선하고 얼굴에 광채를 더합니다.It 복부 장기를 자극하여 당뇨병 환자에게 매우 유용합니다. 기억력과 집중력을 향상시킵니다. </string>
+
+    <string name="exedesc25">햄스트링, 어깨, 종아리, 아치, 손, 척추를 완전히 스트레칭하는 동시에 팔, 어깨, 다리에 힘을 줍니다. 혈액순환을 촉진합니다. 전신 스트레칭으로 키를 키우기에 딱 좋은 운동입니다.</string>
+    
+
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+
+    <string name="add_exercise">운동 추가</string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name="please_check_your_internet_connection">인터넷 연결을 확인하세요!!!</string>
+    <string name="refresh">새로고침</string>
+    <string name="start">시작</string>
+    <string name="previous">이전</string>
+    <string name="next">다음</string>
+    <string name="tips">팁</string>
+    <string name="history">기록</string>
+    <string name="com_continue">계속</string>
+    <string name="reminder">알림</string>
+    <string name="calculate_bmi">BMI 계산</string>
+    <string name="weight">무게:</string>
+    <string name="weight1">무게</string>
+    <string name="bmi_kg_m">BMI(KG/M²)</string>
+    <string name="calories">칼로리</string>
+    <string name="exercises">운동</string>
+    <string name="duration">기간</string>
+    <string name="ready_to_go">준비 완료!</string>
+    <string name="skip">건너뛰기</string>
+    <string name="reset">재설정</string>
+    <string name="add">추가</string>
+    <string name="video">동영상</string>
+    <string name="animation">애니메이션</string>
+    <string name="txt_weekgoal">주간 목표 설정</string>
+    <string name="save">저장</string>
+    <string name="user_age">나이</string>
+    <string name="user_gender">성별</string>
+    <string name="user_male">남성</string>
+    <string name="user_height">높이</string>
+    <string name="user_weight">무게</string>
+    <string name="user_meal">식사</string>
+    <string name="rest_day">휴식일</string>
+    <string name="finished">완료</string>
+    <string name="diet_list">다이어트 목록</string>
+    <string name="no_internet">인터넷에 연결할 수 없습니다!!</string>
+    <string name="set_your_weekly_goal">주간 목표 설정</string>
+    <string name="recommandedtxt">더 나은 결과를 위해 주당 최소 3일 교육을 권장합니다.</string>
+    <string name="training_days">교육일</string>
+    <string name="first_day_of_week">주의 첫째 요일</string>
+    <string name="to_set_regional_plan">지역 계획 설정</string>
+    <string name="select_state">상태 선택</string>
+    <string name="select_city">도시 선택</string>
+    <string name="what_s_your_gender">자신이 누구인지 선택하세요.</string>
+    <string name="to_personalize_your_plan">계획을 개인화하려면</string>
+    <string name="female">여성</string>
+    <string name="male">남성</string>
+    <string name="diet_plan">다이어트 계획</string>
+    <string name="vegetarian">채식주의자</string>
+    <string name="non_nvegetarian">비채식주의자</string>
+    <string name="vegan">채식주의자</string>
+    <string name="how_old_are_you">몇 살입니까?</string>
+    <string name="calculate">계산</string>
+    <string name="ok">확인</string>
+    <string name="mute">음소거</string>
+    <string name="voice_guide">음성 가이드</string>
+    <string name="coach_tips">코치 팁</string>
+    <string name="sound_options">사운드 옵션</string>
+    <string name="please_name_your_plan">계획의 name을 지정하십시오</string>
+    <string name="cancel">취소</string>
+    <string name="give_up">포기</string>
+    <string name="please_set_reminder">알림을 설정하세요</string>
+    <string name="restart">다시 시작</string>
+    <string name="having_a_beautiful_body_has_never_easy">아름다운 몸매를 갖는 것은 결코 쉬운 일이 아닙니다!</string>
+    <string name="settings">설정</string>
+    <string name="test_voice">음성 테스트</string>
+    <string name="workout">운동</string>
+    <string name="remind_me_to_workout_every_day">매일 운동하도록 알림</string>
+    <string name="voice_options_tts">음성 옵션(TTS)</string>
+    <string name="voice_language">음성 언어</string>
+    <string name="download_more_tts_language_data">더 많은 TTS 언어 데이터 다운로드</string>
+    <string name="device_tts_setting">기기 TTS 설정</string>
+    <string name="general_settings">일반 설정</string>
+    <string name="language_options">언어 옵션</string>
+    <string name="restart_progress">재시작 진행</string>
+    <string name="support_us">미국 지원</string>
+    <string name="rate_us">평가하기</string>
+
+    <string name="share_with_friends">친구와 공유</string>
+    <string name="privacy_policy">개인정보 보호정책</string>
+    <string name="repeat">반복</string>
+    <string name="aboveage">18세 이상</string>
+    <string name="nextexespeech">다음 연습은</string>
+    <string name="startspeech">연습 시작</string>
+
+
+    <string name="feed1">디자인이 마음에 들지 않습니다.</string>
+    <string name="feed2">필요한 기능이 없습니다</string>
+    <string name="feed3">사용하기 쉽지 않음</string>
+    <string name="feed4">너무 복잡합니다</string>
+    <string name="feed5">번역이 좋지 않음</string>
+    <string name="reminderdialtxt"><u>100% 결과를 스스로에게 상기시켜 보세요.</u></string>
+
+    <string name="terms">계정을 만드는 것은 괜찮습니다</string>
+
+    <string name="tandc"><u>서비스 약관</u></string>
+    <string name="privacy"><u>개인정보 보호정책</u></string>
+
+    <string name="tvbmis"><u>BMI 계산</u></string>
+
+    <string name="tvmoretips"><u>추가 팁 >></u></string>
+    <string name="tvmoredetail"><u>자세한 내용 >></u></string>
+
+    <string name="termstxt">앱을 다운로드하거나 사용하면 이 약관이 자동으로 적용됩니다. 따라서 앱을 사용하기 전에 해당 약관을 주의 깊게 읽어야 합니다. 어떤 식으로든 앱, 앱의 일부 또는 당사 상표를 복사하거나 수정할 수 없습니다. 앱의 소스 코드를 추출하려고 시도해서는 안 되며, 앱을 다른 언어로 번역하거나 파생 버전을 만들려고도 해서는 안 됩니다. 앱 자체 및 이와 관련된 모든 상표, 저작권, 데이터베이스 권리 및 기타 지적 재산권은 여전히 ​​Dr. Zio에 속합니다.
+
+Dr. Zio는 앱이 최대한 유용하고 효율적이도록 최선을 다하고 있습니다. 이러한 이유로 당사는 언제 어떤 이유로든 앱을 변경하거나 해당 서비스에 대해 요금을 청구할 수 있는 권리를 보유합니다. 우리는 귀하가 지불하는 비용을 정확히 밝히지 않고는 앱이나 해당 서비스에 대해 비용을 청구하지 않습니다.
+
+"18세 이상 신청 후"은(는) 더 나은 서비스 제공을 위하여 귀하가 당사에 제공한 개인정보를 저장 및 처리합니다. 휴대전화와 앱 액세스를 안전하게 유지하는 것은 귀하의 책임입니다. 따라서 장치의 공식 운영 체제에서 부과하는 소프트웨어 제한 사항 및 제한 사항을 제거하는 과정인 탈옥 또는 루팅을 하지 않는 것이 좋습니다. 휴대전화를 맬웨어/바이러스/악성 프로그램에 취약하게 만들고 휴대전화의 보안 기능을 손상시킬 수 있으며 이 앱이 제대로 또는 전혀 작동하지 않을 수 있습니다.
+
+닥터지오가 책임지지 않는 부분이 있음을 알려드립니다. 앱의 특정 기능을 사용하려면 앱이 인터넷에 연결되어 있어야 합니다. 연결은 Wi-Fi이거나 모바일 네트워크 공급자가 제공할 수 있지만 Wi-Fi에 액세스할 수 없고 다음 중 어느 것도 가지고 있지 않은 경우 Dr. Zio는 앱이 전체 기능으로 작동하지 않는 것에 대해 책임을 지지 않습니다. 데이터 허용량이 남습니다.
+
+Wi-Fi가 있는 지역 밖에서 앱을 사용하는 경우 모바일 네트워크 공급자와의 계약 조건이 계속 적용된다는 점을 기억해야 합니다. 그 결과, 앱에 액세스하는 동안의 연결 기간 동안의 데이터 비용 또는 기타 제3자 요금에 대해 이동통신사에서 귀하에게 청구할 수 있습니다. 앱을 사용할 때 데이터 로밍을 끄지 않고 거주 지역(예: 지역 또는 국가) 외부에서 앱을 사용하는 경우 로밍 데이터 요금을 비롯한 모든 요금에 대한 책임은 귀하에게 있습니다. 앱을 사용하는 기기의 요금 납부자가 아닌 경우 앱 사용에 대해 요금 납부자로부터 허가를 받은 것으로 가정합니다. 같은 맥락에서 Dr. Zio는 귀하가 앱을 사용하는 방식에 대해 항상 책임을 질 수는 없습니다. 즉, 귀하의 기기가 충전 상태를 유지하고 있는지 확인해야 합니다. 배터리가 소진되어 서비스를 이용하기 위해 기기를 켤 수 없는 경우, Dr. Zio는 책임을 지지 않습니다. 앱 사용에 대한 Dr. Zio의 책임과 관련하여 앱을 사용할 때 항상 업데이트되고 올바른지 확인하기 위해 노력하지만 타사에 의존한다는 점을 명심하는 것이 중요합니다. 귀하에게 정보를 제공할 수 있도록 정보를 제공합니다. Dr. Zio는 앱의 이 기능에 전적으로 의존한 결과 발생하는 직간접적인 손실에 대해 책임을 지지 않습니다. 어느 시점에서 우리는 앱을 업데이트하고 싶을 수 있습니다. 앱은 현재 Android에서 사용할 수 있습니다. 시스템 요구 사항(및 앱의 가용성을 확장하기로 결정한 추가 시스템의 경우)이 변경될 수 있으며 앱을 계속 사용하려면 업데이트를 다운로드해야 합니다. Dr. Zio는 항상 앱을 업데이트하여 귀하와 관련이 있거나 귀하의 기기에 설치된 Android 버전과 작동하도록 약속하지 않습니다. 그러나 귀하는 귀하에게 제공되는 애플리케이션의 업데이트를 항상 수락할 것을 약속하며, 당사는 또한 귀하에게 해지 통지 없이 앱 제공을 중단하고 언제든지 사용을 종료할 수 있습니다. 당사가 귀하에게 달리 명시하지 않는 한, 종료 시 (a) 본 약관에 따라 귀하에게 부여된 권리와 라이선스는 종료됩니다. (b) 앱 사용을 중지하고 (필요한 경우) 기기에서 삭제해야 합니다.</string>
+
+    <string name="policytxt">일반 정책 앱을 다운로드하거나 사용하면 이 약관이 자동으로 적용됩니다. 따라서 앱을 사용하기 전에 해당 약관을 주의 깊게 읽어야 합니다. 어떤 식으로든 앱, 앱의 일부 또는 당사 상표를 복사하거나 수정할 수 없습니다. 앱의 소스 코드를 추출하려고 시도해서는 안 되며, 앱을 다른 언어로 번역하거나 파생 버전을 만들려고도 해서는 안 됩니다. 앱 자체 및 이와 관련된 모든 상표, 저작권, 데이터베이스 권리 및 기타 지적 재산권은 여전히 ​​Dr. Zio에 속합니다.
+        Dr. Zio는 앱이 최대한 유용하고 효율적이도록 최선을 다하고 있습니다. 이러한 이유로 당사는 언제 어떤 이유로든 앱을 변경하거나 해당 서비스에 대해 요금을 청구할 수 있는 권리를 보유합니다. 우리는 귀하가 지불하는 비용을 정확히 밝히지 않고는 앱이나 해당 서비스에 대해 비용을 청구하지 않습니다.
+        "요통 어플리케이션"은 더 나은 서비스를 제공하기 위해 귀하가 당사에 제공한 개인정보를 저장 및 처리합니다. 휴대전화와 앱 액세스를 안전하게 유지하는 것은 귀하의 책임입니다. 따라서 장치의 공식 운영 체제에서 부과하는 소프트웨어 제한 사항 및 제한 사항을 제거하는 과정인 탈옥 또는 루팅을 하지 않는 것이 좋습니다. 휴대전화를 맬웨어/바이러스/악성 프로그램에 취약하게 만들고 휴대전화의 보안 기능을 손상시킬 수 있으며 이 앱이 제대로 또는 전혀 작동하지 않을 수 있습니다.
+        닥터지오가 책임지지 않는 부분이 있음을 알려드립니다. 앱의 특정 기능을 사용하려면 앱이 인터넷에 연결되어 있어야 합니다. 연결은 Wi-Fi이거나 모바일 네트워크 공급자가 제공할 수 있지만 Wi-Fi에 액세스할 수 없고 다음 중 어느 것도 가지고 있지 않은 경우 Dr. Zio는 앱이 전체 기능으로 작동하지 않는 것에 대해 책임을 지지 않습니다. 데이터 허용량이 남습니다.
+        Wi-Fi가 있는 지역 밖에서 앱을 사용하는 경우 모바일 네트워크 공급자와의 계약 조건이 계속 적용된다는 점을 기억해야 합니다. 그 결과, 앱에 액세스하는 동안의 연결 기간 동안의 데이터 비용 또는 기타 제3자 요금에 대해 이동통신사에서 귀하에게 청구할 수 있습니다. 앱을 사용할 때 데이터 로밍을 끄지 않고 거주 지역(예: 지역 또는 국가) 외부에서 앱을 사용하는 경우 로밍 데이터 요금을 비롯한 모든 요금에 대한 책임은 귀하에게 있습니다. 앱을 사용하는 기기의 요금 납부자가 아닌 경우 앱 사용에 대해 요금 납부자로부터 허가를 받은 것으로 가정합니다. 같은 맥락에서 Dr. Zio는 귀하가 앱을 사용하는 방식에 대해 항상 책임을 질 수는 없습니다. 즉, 귀하의 기기가 충전 상태를 유지하고 있는지 확인해야 합니다. 배터리가 소진되어 서비스를 이용하기 위해 기기를 켤 수 없는 경우, Dr. Zio는 책임을 지지 않습니다. 앱 사용에 대한 Dr. Zio의 책임과 관련하여 앱을 사용할 때 항상 업데이트되고 올바른지 확인하기 위해 노력하지만 타사에 의존한다는 점을 명심하는 것이 중요합니다. 귀하에게 정보를 제공할 수 있도록 정보를 제공합니다. Dr. Zio는 앱의 이 기능에 전적으로 의존한 결과 발생하는 직간접적인 손실에 대해 책임을 지지 않습니다. 어느 시점에서 우리는 앱을 업데이트하고 싶을 수 있습니다. 앱은 현재 Android에서 사용할 수 있습니다. 시스템 요구 사항(및 앱의 가용성을 확장하기로 결정한 추가 시스템의 경우)이 변경될 수 있으며 앱을 계속 사용하려면 업데이트를 다운로드해야 합니다. Dr. Zio는 항상 앱을 업데이트하여 귀하와 관련이 있거나 귀하의 기기에 설치된 Android 버전과 작동하도록 약속하지 않습니다. 그러나 귀하는 귀하에게 제공되는 애플리케이션의 업데이트를 항상 수락할 것을 약속하며, 당사는 또한 귀하에게 해지 통지 없이 앱 제공을 중단하고 언제든지 사용을 종료할 수 있습니다. 당사가 귀하에게 달리 명시하지 않는 한, 종료 시 (a) 본 약관에 따라 귀하에게 부여된 권리와 라이선스는 종료됩니다. (b) 앱 사용을 중지하고 (필요한 경우) 기기에서 삭제해야 합니다.
+
+        앱 사용 방법:
+
+        뼈, 심장, 허리 부상, 척추, 머리 부상 또는 기타 신체 부상에 심각한 질병 및 부상이 있는 경우 이 앱을 의사의 구독으로 사용하는 것이 좋습니다. 이 요가, 운동 및 운동하다.
+
+        개인 정보 정책
+
+       Zio 박사는 허리 통증 앱을 상용 앱으로 구축했습니다. 이 서비스는 Dr. Zio가 제공하는 것으로 그대로 사용하기 위한 것입니다. 이 페이지는 누군가가 당사 서비스를 사용하기로 결정한 경우 개인 정보 수집, 사용 및 공개에 대한 당사 정책에 대해 방문자에게 알리는 데 사용됩니다. 당사 서비스를 사용하기로 선택하면 이 정책과 관련된 정보 수집 및 사용에 동의하는 것입니다. 수집한 개인 정보는 서비스 제공 및 개선을 위해 사용됩니다. 우리는 이 개인 정보 보호 정책에 설명된 경우를 제외하고 귀하의 정보를 사용하거나 그 누구와도 공유하지 않습니다. 이 개인 정보 보호 정책에 사용된 용어는 이 개인 정보 보호 정책에 달리 정의되지 않는 한 18세 이후 높이 증가에서 액세스할 수 있는 이용 약관과 동일한 의미를 갖습니다.
+
+         정보 수집 및 이용
+
+        더 나은 경험을 위해, 우리는 서비스를 사용하는 동안 더 나은 사용자 경험을 위해 개인의 Gmail ID, name, 나이, 키, 체중을 포함하되 이에 국한되지 않는 특정 개인 식별 정보를 제공하도록 요청할 수 있습니다. BMI(체질량 지수)에 따른 특정 도움말 및 팁으로 알림 받기 및 위치에 따라 알림 및 광고를 사용자 정의합니다. 우리가 요청한 정보는 우리가 보유하고 이 개인 정보 보호 정책에 설명된 대로 사용됩니다. 앱은 귀하를 식별하는 데 사용되는 정보를 수집할 수 있는 제3자 서비스를 사용합니다. 앱에서 사용하는 타사 서비스 제공업체의 개인정보 보호정책 링크
+
+        Google Play 서비스(https://policies.google.com/privacy)
+        AdMob(https://support.google.com/admob/answer/6128543?hl=ko)
+        Firebase 애널리틱스(https://firebase.google.com/policies/analytics)
+        페이스북 (https://www.facebook.com/about/privacy)
+        패브릭(https://fabric.io/privacy)
+        Crashlytics(https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+        당사는 귀하가 당사 서비스를 사용할 때 귀하의 위치에 대한 정보를 수집하여 귀하의 주말 휴가를 위한 운전 경로 또는 귀하 근처에서 상영되는 영화의 상영 시간과 같은 기능을 제공하는 데 도움이 됩니다.
+
+        귀하의 위치는 다음을 통해 다양한 정확도로 확인할 수 있습니다.
+
+GPS
+IP 주소
+기기의 센서 데이터
+Wi-Fi 액세스 포인트, 기지국 및 Bluetooth 지원 장치와 같이 장치 주변에 있는 사물에 대한 정보
+당사가 수집하는 위치 데이터의 유형은 부분적으로 귀하의 기기 및 계정 설정에 따라 다릅니다. 예를 들어 기기의 설정 앱을 사용하여 Android 기기의 위치를 ​​켜거나 끌 수 있습니다. 로그인한 기기로 이동하는 위치에 대한 비공개 지도를 생성하려는 경우 위치 기록을 켤 수도 있습니다.
+
+
+
+광고하는
+
+
+당사 앱을 사용함으로써 귀하는 광고 콘텐츠를 제공받을 수 있습니다. 당사 또는 당사가 사용하는 광고 네트워크는 쿠키, 비콘, 추적 픽셀 및 광고 내에 배치되고 당사 또는 당사 네트워크가 비개인 정보를 수집할 수 있도록 하는 기타 기술을 사용하는 광고 서비스 기술을 활용할 수 있습니다. 적절한 광고를 제공하기 위해 연령 및 성별과 같은 비개인 정보가 사용될 수 있습니다. 사용 데이터 및 광고 식별자와 같은 비개인 정보는 광고가 수신된 클릭 수를 결정하고, 광고 캠페인의 효율성을 측정하고, 특정 광고에 대한 적절한 반복 조회 수를 결정하고, 광고를 전달하는 데 사용될 수 있습니다. 귀하의 관심사와 가장 관련이 있습니다. 기기 및 운영 체제에 따라 기기의 광고 식별자가 관심 기반 광고에 사용되지 않도록 하거나 기기 설정을 변경하여 기기의 광고 식별자를 재설정할 수 있습니다. 광고 제공업체는 더 나은 광고 사용자 현지화 및 현지 언어 광고 개인화를 위해 귀하의 위치를 ​​파악할 수 있습니다.
+
+
+
+정보 수집 목적
+
+
+비 개인 정보는 통계 및 연구 목적과 앱의 사용자 정의 및 개선을 위해 사용됩니다.
+개인정보는 이메일을 통한 연락 시 회신을 위해 사용됩니다.
+위치/IP와 같은 개인 정보는 귀하의 위치에 따라 귀하에게 광고를 표시하는 데 사용되며, 이를 문맥 광고라고 합니다.
+당사는 귀하에게 서비스를 제공하고 비즈니스를 운영하기 위해 귀하/귀하의 장치에 대해 수집한 정보를 사용합니다. 당사 및 당사 파트너의 그러한 사용에는 다음이 포함될 수 있습니다.
+당사 서비스 제공: 당사 제품, 서비스 및 콘텐츠 개발, 제공 및 개선, 당사 제품 및 서비스 맞춤화, 소프트웨어 업데이트 및 제품 지원 제공, 앱 사용과 관련된 동향 이해 및 분석, 앱 관리 및 고객 커뮤니케이션.
+
+광고 표시: 당사 앱에 타사 광고를 표시하고 다른 게시자의 앱에 당사 앱에 대한 광고를 표시합니다. 교차 판촉: 당사 앱 및 서비스 교차 판촉, 즉 귀하가 당사의 다른 앱을 플레이하는 동안 당사가 당사 앱 중 하나를 홍보할 수 있음을 의미합니다.
+
+분석 및 연구: 앱 사용과 관련된 동향 이해 및 분석, 사용자 기반에 대한 인구 통계 정보 수집, 앱 다운로드 위치에 대한 데이터. 또한 당사는 예를 들어 당사 앱 및 서비스의 잠재적인 문제 또는 추세를 추적하거나 새로운 게임 기능 및 콘텐츠를 테스트하기 위해 연구 또는 비즈니스 인텔리전스를 위한 보고서 및 분석을 작성할 수 있습니다. 우리는 내부 분석을 위해서만 제3자 소셜 네트워크에서 받은 데이터를 사용합니다. 분석에서 옵트아웃하려면 이 개인정보 보호정책의 옵트아웃 섹션을 방문하십시오.
+
+
+
+로그 데이터
+
+
+귀하가 당사 서비스를 사용할 때마다 앱에 오류가 있는 경우 로그 데이터라고 하는 귀하의 전화기에서 데이터 및 정보(타사 제품을 통해)를 수집함을 알려드립니다. 이 로그 데이터에는 장치 인터넷 프로토콜("IP") 주소, 장치 name, 운영 체제 버전, 서비스 이용 시 앱 구성, 서비스 사용 시간 및 날짜 및 기타 통계와 같은 정보가 포함될 수 있습니다. . 위의 상황에서 귀하의 PII(개인 식별 정보)는 귀하에게 연락하고 서비스를 개선하는 용도로만 사용됨을 보장합니다. 우리는 그러한 정보(예: 귀하의 name 및 이메일 주소)를 당사 제품을 추가로 마케팅하거나 상업적 이익을 위해 제3자에게 귀하의 개인 정보를 공개하는 것과 같은 다른 목적으로 절대 사용하지 않습니다.
+
+귀하의 PII가 오용되는 것에 대해 우려 사항이 있거나 당사의 개인 정보 보호 정책 및 그 의미에 대한 추가 정보가 필요한 경우 drziocure@gmail.com으로 이메일을 보내주십시오. 귀하의 질문에 명확한 답변을 제공하기 위해 노력할 것입니다. 시각.
+
+
+
+
+쿠키
+
+
+당사는 쿠키 및 유사한 추적 기술을 사용하여 당사 서비스의 활동을 추적하고 특정 정보를 보유합니다. 쿠키는 익명의 고유 식별자로 일반적으로 사용되는 소량의 데이터가 포함된 파일입니다. 방문하는 웹사이트에서 브라우저로 전송되어 기기의 내부 메모리에 저장됩니다. 이 서비스는 이러한 "쿠키"를 명시적으로 사용하지 않습니다. 그러나 앱은 정보를 수집하고 서비스를 개선하기 위해 "쿠키"를 사용하는 타사 코드 및 라이브러리를 사용할 수 있습니다. 귀하는 이러한 쿠키를 수락하거나 거부할 수 있으며 쿠키가 귀하의 장치로 전송되는 시기를 알 수 있습니다. 쿠키를 거부하기로 선택하면 이 서비스의 일부를 사용하지 못할 수 있습니다.
+
+당사가 사용하는 쿠키의 예:
+
+세션 쿠키: 당사는 서비스를 운영하기 위해 세션 쿠키를 사용합니다.
+기본 설정 쿠키: 당사는 기본 설정 쿠키를 사용하여 귀하의 기본 설정 및 다양한 설정을 기억합니다.
+보안 쿠키: 우리는 보안 목적으로 보안 쿠키를 사용합니다.
+
+
+ 지불
+
+
+당사는 서비스 내에서 유료 제품 및/또는 서비스를 제공할 수 있습니다. 이 경우 당사는 결제 처리를 위해 제3자 서비스(예: 결제 프로세서)를 사용합니다.
+
+우리는 귀하의 지불 카드 세부 정보를 저장하거나 수집하지 않습니다. 해당 정보는 귀하의 개인 정보 사용이 해당 개인 정보 보호 정책의 적용을 받는 당사의 제3자 결제 처리자에게 직접 제공됩니다. 이러한 지불 프로세서는 Visa, Mastercard, American Express 및 Discover와 같은 브랜드의 공동 노력인 PCI 보안 표준 위원회에서 관리하는 PCI-DSS가 설정한 표준을 준수합니다. PCI-DSS 요구 사항은 지불 정보를 안전하게 처리하는 데 도움이 됩니다.
+
+우리가 협력하는 결제 프로세서는 다음과 같습니다.
+
+Google Play 인앱 결제 구매
+ 개인 정보 보호 정책은 https://policies.google.com/privacy에서 볼 수 있습니다.
+
+
+
+ 데이터 보안
+
+
+귀하의 데이터 보안은 저희에게 중요하지만 인터넷을 통한 전송 방법이나 전자적 저장 방법은 100% 안전하지 않다는 점을 기억하십시오. 당사는 귀하의 개인 데이터를 보호하기 위해 상업적으로 허용되는 수단을 사용하기 위해 노력하고 있지만 절대적인 보안을 보장할 수는 없습니다.
+
+
+
+
+
+서비스 제공자
+
+
+당사는 다음과 같은 이유로 제3자 회사 및 개인을 고용할 수 있습니다.
+
+서비스를 용이하게 하기 위해
+
+당사를 대신하여 서비스를 제공하기 위해
+
+서비스 관련 서비스를 수행하기 위해
+
+당사 서비스가 어떻게 사용되는지 분석하는 데 도움이 됩니다.
+
+이러한 제3자가 귀하의 개인 정보에 액세스할 수 있음을 이 서비스의 사용자에게 알리고자 합니다. 그 이유는 우리를 대신하여 그들에게 할당된 작업을 수행하기 위함입니다. 그러나 정보를 공개하거나 다른 목적으로 사용하지 않을 의무가 있습니다.
+
+
+
+
+
+보안
+
+
+당사는 귀하의 개인 정보 제공에 대한 귀하의 신뢰를 소중히 여기므로 상업적으로 허용되는 보호 수단을 사용하기 위해 노력하고 있습니다. 그러나 인터넷을 통한 전송 방법이나 전자적 저장 방법은 100% 안전하고 신뢰할 수 없습니다.
+
+그러나 인터넷이나 전화 네트워크를 통한 정보 전송은 완전히 안전하지 않습니다. 당사는 특히 귀하의 개인 데이터 보호와 관련하여 귀하의 정보를 보호하기 위해 최선을 다하지만,
+
+“박사. Zio-Yoga Teacher”는 인터넷, 전화 또는 기타 네트워크를 통해 전송되는 귀하의 데이터 보안을 보장할 수 없습니다.
+
+
+
+
+
+다른 사이트에 대한 링크
+
+
+이 서비스에는 다른 사이트에 대한 링크가 포함될 수 있습니다. 타사 링크를 클릭하면 해당 사이트로 이동합니다. 이러한 외부 사이트는 당사에서 운영하지 않습니다. 따라서 이러한 웹사이트의 개인정보 보호정책을 검토할 것을 강력히 권장합니다. 당사는 제3자 사이트 또는 서비스의 콘텐츠, 개인정보 보호정책 또는 관행을 통제할 수 없으며 책임을 지지 않습니다.
+
+
+
+어린이 프라이버시
+
+
+이 서비스는 13세 미만의 사람을 대상으로 하지 않습니다. 당사는 13세 미만의 어린이로부터 개인 식별 정보를 고의로 수집하지 않습니다. 13세 미만의 어린이가 당사에 개인 정보를 제공한 것을 발견하는 경우, 당사는 이를 당사 서버에서 즉시 삭제합니다. 귀하가 부모 또는 보호자이고 귀하의 자녀가 당사에 개인 정보를 제공했음을 알고 있는 경우 필요한 조치를 취할 수 있도록 당사에 연락해 주십시오. 이 개인 정보 보호 정책의 변경 우리는 때때로 개인 정보 보호 정책을 업데이트할 수 있습니다. 따라서 변경 사항이 있는지 이 페이지를 주기적으로 검토하는 것이 좋습니다. 변경 사항이 있는 경우 이 페이지에 새로운 개인정보 보호정책을 게시하여 알려드립니다. 이러한 변경 사항은 이 페이지에 게시된 직후부터 적용됩니다. 연락처 개인 정보 보호 정책에 대한 질문이나 제안 사항이 있는 경우 drziocure@gmail.com으로 이메일을 보내주십시오. 질문에 대한 명확한 답변을 제 시간에 제공하기 위해 노력할 것입니다.
+
+ California Online Privacy Protection ActCalOPPA는 상업용 웹사이트와 온라인 서비스에 개인 정보 보호 정책을 게시하도록 요구하는 미국 최초의 주법입니다. 이 법의 범위는 캘리포니아를 훨씬 넘어서서 캘리포니아 소비자로부터 개인 식별 정보를 수집하는 웹사이트를 운영하는 미국(그리고 아마도 세계)의 모든 개인이나 회사가 웹사이트에 수집되는 정보와 수집된 정보를 정확하게 명시하는 눈에 띄는 개인정보 보호정책을 게시하도록 요구합니다. 공유되는 개인 또는 회사. – 자세한 내용: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+CalOPPA에 따르면 다음 사항에 동의합니다.
+
+사용자는 익명으로 당사 사이트를 방문할 수 있습니다.
+
+
+
+광고 네트워크나 플러그인을 포함한 제3자가 13세 미만 아동의 PII를 수집하도록 허용합니까?
+
+– 우리는 13세 미만의 어린이에게 특별히 판매하지 않습니다.
+
+
+
+ 책임의 제한
+
+
+ Dr. Zio– 요가 교사는 앱을 통해 제공되는 콘텐츠의 정확성, 완전성 또는 적절성에 대해 어떠한 주장, 약속 또는 보장도 하지 않으며 앱을 통해 제공되는 콘텐츠의 오류 및 누락에 대해 명시적으로 책임을 지지 않습니다.
+
+– 제3자의 권리, 소유권, 상품성, 특정 목적에의 적합성 및 컴퓨터 바이러스로부터의 자유에 대한 비침해에 대한 보증을 포함하되 이에 국한되지 않는 묵시적, 명시적 또는 법적 어떠한 종류의 보증도 제공되지 않습니다. 앱을 통해 사용 가능한 콘텐츠 또는 앱을 통해 귀하가 사용할 수 있는 다른 인터넷 리소스에 대한 링크.
+
+– 앱에서 특정 상업 제품, 프로세스 또는 서비스에 대한 참조 또는 거래, 회사 또는 회사 name의 사용은 대중의 정보 및 편의를 위한 것이며 Dr. Zio – 요가 선생님.
+
+
+
+ 이 개인 정보 보호 정책의 변경 사항
+
+
+당사는 개인정보 보호정책을 수시로 업데이트할 수 있습니다. 따라서 변경 사항이 있는지 이 페이지를 주기적으로 검토하는 것이 좋습니다. 변경 사항이 있는 경우 이 페이지에 새로운 개인정보 보호정책을 게시하여 알려드립니다. 이러한 변경 사항은 이 페이지에 게시된 직후부터 적용됩니다.
+
+이 개인 정보 보호 정책이 만들어지면 당사 홈페이지에 링크를 추가하거나 최소한 당사 웹 사이트에 들어간 후 첫 번째 중요한 페이지에 링크를 추가합니다.
+
+질문이나 우려 사항이 있는 경우 언제든지 저희에게 이메일을 보내거나 drziocure@gmail.com으로 연락해 주시면 귀하의 우려 사항을 해결하기 위해 노력할 것입니다.
+   </string>
+
+
+    <string name="ntitle1">요통 운동이 없습니다!</string>
+    <string name="ntitle2">계획을 놓치지 마세요!</string>
+    <string name="ntitle3">운동을 시작할 시간입니다!</string>
+    <string name="ntitle4">지금은 안 되는 이유</string>
+    <string name="ntitle5">자신을 부양하십시오!</string>
+    <string name="ntitle6">시간이 되었습니다!</string>
+    <string name="ntitle7">당신은.. 예 당신은 달성할 수 있습니다... 여기를 클릭하시겠습니까?</string>
+
+    <string name="desc1">절대 포기하지 마십시오! 달성하려고 합니다!💪🔥</string>
+    <string name="desc2">포기할 생각은 하지 마세요!💪🔥</string>
+    <string name="desc3">작은 노력으로 더 큰 삶을 살 수 있습니다. 계속!💪🔥</string>
+    <string name="desc4">시도는 순간에 승리하는 것입니다! 계속하세요!💪🔥</string>
+    <string name="desc5">포기하지 마세요! 거의 다 왔습니다!💪🔥</string>
+    <string name="desc6">좋은 일에는 시간이 걸립니다! 절대 포기하지 마세요!💪🔥</string>
+    <string name="desc7">변경은 쉽지 않습니다! 계속 하세요!💪🔥</string>
+    <string name="desc8">승자는 몽상가입니다! 절대 포기하지 마세요!💪🔥</string>
+
+    <string name="icons">💪🔥</string>
+    <string name="strstate">상태 선택<font color='#FC527F'> *</font></string>
+    <string name="select_the_country">국가 선택<font color='#FC527F'> *</font></string>
+
+    <string name="details1">이 앱은 위의 자동 갱신 구독 옵션을 제공합니다.</string>
+    <string name="details3">Deep Sleep Pro에 대한 결제는 구매 확인 시 Google Play 계정으로 청구됩니다. 허리 통증 프로
+현재 구독 결제 기간이 종료되기 최소 24시간 전에 Google Play 계정 내에서 자동 갱신이 해제되어 있지 않으면 구독이 자동으로 갱신됩니다.\n구독을 관리하거나 Google Play 계정 설정에서 자동 갱신을 끌 수 있습니다 구매 후. 구독 기간 중간 다음 중간에 자동 갱신을 끄면. 기간이 끝날 때까지 모든 프리미엄 기능에 계속 액세스할 수 있습니다. 구독 기간 중 자동 갱신을 끄면 부분 환불이 제공되지 않습니다. 구독을 관리하거나 구매 후 Google Play 계정 설정에서 자동 갱신을 끌 수 있습니다. 구독 기간 중간 다음 중간에 자동 갱신을 끄면. 기간이 끝날 때까지 모든 프리미엄 기능에 계속 액세스할 수 있습니다. 구독 기간 중에 자동 갱신을 끄면 부분 환불이 제공되지 않습니다.</string>
+    <string name="more">더보기</string>
+    <string name="total">총계</string>
+    <string name="report">보고서</string>
+    <string name="your_plan">귀하의 계획</string>
+    <string name="_12_days_left">12일 남음</string>
+    <string name="days_left"> 남은 일수</string>
+    <string name="back_pain_relief">요통 완화</string>
+    <string name="info">정보</string>
+    <string name="intermediate_level">중급 수준</string>
+    <string name="intermediate">중간</string>
+    <string name="advanced_level">고급 수준</string>
+    <string name="advanced">고급</string>
+    <string name="weekly_goal">주간 목표</string>
+    <string name="set">+ 세트</string>
+    <string name="nutrition_nplan">영양 \n계획</string>
+
+
+    <string name="customize_plan">계획 사용자 정의</string>
+    <string name="customize_nyour_plan">\n계획 사용자화</string>
+    <string name="explore_plan">계획 탐색</string>
+    <string name="discover">디스커버</string>
+    <string name="discover1">발견</string>
+    <string name="daily_tips">일일 팁</string>
+    <string name="loading">로드 중...</string>
+    <string name="all_diets">모든 다이어트</string>
+    <string name="done">완료</string>
+    <string name="share">공유</string>
+    <string name="all_history">모든 기록</string>
+    <string name="category_name">카테고리 name</string>
+    <string name="covid_tracker">코로나 바이러스 추적기</string>
+    <string name="plans_made_for_you">당신을 위한 계획</string>
+    <string name="confirmed_cases">확인된 사례</string>
+    <string name="deaths">죽음</string>
+    <string name="recoveries">복구</string>
+    <string name="city_province">시/도</string>
+    <string name="confirmed_ncases">확인된\n사례</string>
+    <string name="my_training">나의 교육</string>
+
+    <string name="reports">보고서</string>
+    <string name="discover_plan">계획 발견</string>
+    <string name="covid_19">코로나19</string>
+    <string name="remove_ads">광고 제거</string>
+    <string name="new_apps">새 앱</string>
+    <string name="share_app">앱 공유</string>
+
+    <string name="jumping_jacks">점핑 잭</string>
+    <string name="_1_min">1분</string>
+    <string name="_2_exercises">2가지 연습</string>
+    <string name="edit">편집</string>
+    <string name="_5_ft_5_in">5피트 5인치</string>
+    <string name="veg">채소</string>
+    <string name="non_veg">비채소</string>
+    <string name="height_graph">신장 그래프</string>
+    <string name="please_login_to_unlock_graph">그래프를 잠금 해제하려면 로그인하십시오!!!</string>
+    <string name="weight_graph">무게 그래프</string>
+    <string name="user_info">사용자 정보</string>
+    <string name="premium">프리미엄</string>
+    <string name="get_effective_plan_with_premium">프리미엄으로 효과적인 플랜 받기</string>
+    <string name="_1_month_subscription">1개월 구독</string>
+    <string name="_6_months_subscriptions">6개월 구독</string>
+    <string name="_40_off">40% 할인</string>
+    <string name="life_time">평생 구독</string>
+    <string name="_60_off">60% 할인</string>
+    <string name="unlock_all_the_features">모든 기능 잠금 해제</string>
+    <string name="ads_free">광고 없음</string>
+    <string name="intermediate1">중급</string>
+    <string name="advanced1">고급</string>
+    <string name="unlock_all_yoga">모든 요가 잠금 해제</string>
+    <string name="easy_3d_workout_video">쉬운 3D 운동 동영상</string>
+    <string name="set_your_personal_goal">개인 목표 설정</string>
+    <string name="back_pain_relief_pro">요통 완화 프로</string>
+    <string name="purchase_now">지금 구매</string>
+    <string name="set_reminder">알림 설정</string>
+    <string name="user">사용자</string>
+    <string name="my_profile">내 프로필</string>
+    <string name="google_fit">Google 피트니스</string>
+    <string name="default1">기본값</string>
+    <string name="version_1_0">버전 1.0</string>
+    <string name="nutrition_plan">영양 계획</string>
+    <string name="today_s_plan">오늘의 계획</string>
+    <string name="use_this_plan">이 계획 사용</string>
+    <string name="ad">광고</string>
+    <string name="appname">앱 name</string>
+    <string name="reminder_text">알림 텍스트</string>
+    <string name="please_enter_your_text_here">여기에 텍스트를 입력하세요</string>
+    <string name="fitness_apps">피트니스 앱</string>
+    <string name="suggested_for_you">나에게 추천</string>
+    <string name="suggested_fitness_app">추천 피트니스 앱</string>
+    <string name="ads">광고 .</string>
+    <string name="top_free_apps">인기 무료 앱</string>
+    <string name="suggested_banners">추천 배너</string>
+    <string name="garena_free_fire">가레나 프리파이어</string>
+    <string name="free_fire_is_the">Free Fire는 모바일에서 사용할 수 있는 최고의 생존 슈팅 게임입니다.</string>
+    <string name="you_re_offline">오프라인 상태입니다.</string>
+    <string name="check_your_internet">인터넷 연결을 확인하고 다시 시도 버튼을 눌러 온라인으로 돌아가십시오.</string>
+    <string name="dr_zio_app_store">닥터지오 앱 스토어</string>
+    <string name="start_with_your_feeet">발을 모으고 팔을 옆구리에 붙인 다음 두 발을 벌리고 손을 머리 위로 올려 점프합니다.</string>
+    <string name="other_reason">기타 이유..</string>
+    <string name="write_your_feedback">의견 작성</string>
+    <string name="enter_your_paramaters">매개변수 입력</string>
+    <string name="get">GET</string>
+    <string name="personalized_plan">개인화된 계획</string>
+    <string name="get_daily_tips">국가를 추가하여 \n모국어로 된 일일 도움말을 받으세요</string>
+    <string name="select">선택</string>
+    <string name="next_2_12">다음 2/12</string>
+    <string name="calf_raise_with_splayed_foot_30s">펼친 발 30초로 종아리 레이즈</string>
+    <string name="plank">플랭크</string>
+    <string name="repeat_day">반복일</string>
+    <string name="repeat1">반복:</string>
+    <string name="every">모든</string>
+    <string name="hour_s">시</string>
+    <string name="date">날짜</string>
+    <string name="_12_07_2019">2019년 12월 7일</string>
+    <string name="showing_ads">광고 게재 중..</string>
+    <string name="watch_video_to_unlock">잠금 해제할 동영상 보기</string>
+    <string name="unlock_free">무료 잠금 해제</string>
+    <string name="or">또는</string>
+    <string name="watch_the_video_to_use_training_nplan_once">교육을 사용하려면 비디오를 시청하십시오.\n한 번 계획</string>
+    <string name="get_premium">프리미엄 받기</string>
+
+    <string name="cm">cm</string>
+    <string name="inch">인치</string>
+    <string name="ft">ft</string>
+    <string name="kgs">kg</string>
+    <string name="lbs">파운드</string>
+    <string name="no_thanks">감사합니다!!</string>
+    <string name="complete_100_workouts_for_best_results">최상의 결과를 위한 100% 운동 완료</string>
+    <string name="_16_0">16.0%</string>
+    <string name="we_work_day"><![CDATA[우리는 당신을 위해 밤낮으로 일합니다. 평가해 주세요🙏.]]> </string>
+    <string name="_10">(10)</string>
+    <string name="please_wait">잠시 기다려 주십시오....</string>
+    <string name="quit">종료</string>
+    <string name="choose_your_language">언어 선택:-</string>
+
+
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+
+
+    <string name="submit">제출</string>
+    <string name="music_for_workout">운동용 음악</string>
+    <string name="choose_from_gallery">갤러리에서 선택</string>
+    <string name="change_background_music">배경 음악 변경</string>
+    <string name="unlock_all_features">모든 기능 잠금 해제</string>
+    <string name="to_unlock_this">이 레벨을 잠금 해제하려면 - 하나의 옵션을 선택하십시오.</string>
+    <string name="complete_n_previous_n_level">전체 \n 이전 \n 레벨</string>
+    <string name="watch_n_ads">\n 광고 보기</string>
+    <string name="buy_n_premium">프리미엄 \n 구매</string>
+    <string name="to_unlock_this_excercise_choose_this_option">이 운동을 잠금 해제하려면 - 이 옵션을 선택하십시오.</string>
+    <string name="buy_premium">프리미엄 구매</string>
+    <string name="close">닫기</string>
+    <string name="other_users_will_benefit_from_your_review">다른 사용자가 귀하의 리뷰를 통해 혜택을 받을 수 있습니다.</string>
+    <string name="please_leave_your_review_on_google_play">Google Play에 리뷰를 남겨주세요</string>
+    <string name="rate_on_google_play">GOOGLE PLAY에서 평가</string>
+    <string name="plan_1">계획 1</string>
+    <string name="dfdfdf">dfdfdf</string>
+    <string name="india_cumulative_numbers">인도 - 누적 숫자</string>
+    <string name="updated_loading">업데이트됨: 로드 중...</string>
+    <string name="source_ministry_of_health_and_family_welfare">출처: 보건복지부</string>
+    <string name="today_cases">오늘의 사례</string>
+    <string name="today_deaths">오늘의 죽음</string>
+    <string name="today_recoveries">오늘 복구</string>
+    <string name="live_now">지금 라이브</string>
+    <string name="source_world_health_organization">출처: 세계보건기구</string>
+    <string name="country_region">국가/지역</string>
+    <string name="new_ncases">새\n케이스</string>
+    <string name="new_deaths">새로운 죽음</string>
+    <string name="gujarat">구자라트어</string>
+    <string name="day1">1일차</string>
+    <string name="trending">트렌딩</string>
+    <string name="vitamin_b6">비타민 B6</string>
+    <string name="update">업데이트</string>
+    <string name="sdsdsdds">sdsdsdds</string>
+    <string name="oct_9">10월 9일</string>
+    <string name="song_name">노래 name</string>
+    <string name="round">라운드</string>
+    <string name="sun1">태양</string>
+    <string name="water_drink_reminder_app">물 음료 알림 앱</string>
+    <string name="install_now">지금 설치</string>
+    <string name="temppdsdsd">Temppdsdsd 💪🔥</string>
+    <string name="snooze">스누즈</string>
+    <string name="once">한 번</string>
+    <string name="prayer_time_wake">기도 시간은 나를 9시에 깨우고 방금 식사를 하고 아침을 먹었습니다.</string>
+    <string name="let_s_do_backpain_exercise_today">오늘은 허리 통증 운동을 하자.</string>
+    <string name="reminder_type">알림 유형</string>
+    <string name="sound">사운드</string>
+    <string name="repeat_reminder">반복 알림</string>
+    <string name="report_as">보고 형식</string>
+    <string name="alarm">알람</string>
+    <string name="save_change">변경사항을 저장하시겠습니까?</string>
+    <string name="are_you_delete">정말 삭제하시겠습니까?</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="deleted">삭제됨</string>
+    <string name="confirmation">확인</string>
+    <string name="something_went_wrong">문제가 발생했습니다!!</string>
+    <string name="take_nrest">\n휴식</string>
+    <string name="press_the_resume">다음 연습으로 이동하려면 이력서를 누르십시오.</string>
+    <string name="is_completed"> 완료됨</string>
+    <string name="completed">완료</string>
+    <string name="recommand_for_you">추천</string>
+    <string name="hated_it">싫어함</string>
+    <string name="dislike_it">싫어요!</string>
+    <string name="its_ok">괜찮습니다</string>
+    <string name="liked_it">좋아요!</string>
+    <string name="loved_it">좋아요</string>
+    <string name="do_you_like_this_app">이 앱이 마음에 드시나요?</string>
+    <string name="your_feedback_is_useful">귀하의 피드백이 유용합니다</string>
+    <string name="did_you_hear_the_test_voice">테스트 음성을 들으셨습니까?</string>
+    <string name="error">오류</string>
+    <string name="latest">최신</string>
+    <string name="related_apps">관련 앱</string>
+    <string name="treading_apps">인기 앱</string>
+    <string name="please_check_after">잠시 후 확인해주세요!..</string>
+    <string name="prepe_app">앱 준비 중...</string>
+    <string name="are_you_sure">확실합니까?</string>
+    <string name="drzio_updatestring">박사 Zio는 앱의 원활하고 향상된 성능을 위해 최신 버전으로 업데이트할 것을 권장합니다.</string>
+    <string name="select_gender">성별을 선택하십시오</string>
+    <string name="addfood">음식 추가</string>
+    <string name="news">신규</string>
+    <string name="you_can_better">이것보다 더 잘할 수 있습니다!!</string>
+    <string name="perform_better">성능이 좋지 않습니다!!</string>
+    <string name="perform_okay">성능은 정상입니다</string>
+    <string name="perform_good">성능이 좋습니다!!</string>
+    <string name="perform_great">성능이 우수합니다!!</string>
+    <string name="purchasefeed1" >구매 가격이 높음</string>
+    <string name="purchasefeed2" >분석 &amp; 그런 다음 구매</string>
+    <string name="purchasefeed3" >기타</string>
+    <string name="copyright_2021_dr_zio">copyright @ 2022 Dr zio</string>
+    <string name="retry">재시도</string>
+    <string name="blog">블로그</string>
+    <string name="sett_edu">여기를 탭하여 프로필 및 기타 설정을 관리하세요.</string>
+    <string name="tap_here">여기를 탭하세요!!.</string>
+    <string name="repo_edu">진행 상황을 정기적으로 추적</string>
+    <string name="hom_edu">운동을 시작하고 영양 및 맞춤형 계획을 확인하십시오.</string>
+    <string name="dis_edu">모든 유형의 요통에 대한 요가 계획 알아보기</string>
+    <string name="blog_edu">좋아하는 주제에 대한 블로그 및 팁 읽기</string>
+    <string name="stor_edu">Dr. zio의 더 많은 앱 확인</string>
+    <string name="menu_edu">메뉴를 보려면 여기를 누르십시오.</string>
+    <string name="day">요일</string>
+    <string name="all_app">모든 앱</string>
+    <string name="want_uninterrupted">광고 없는 중단 없는 운동을 원하십니까?\n 지금 프리미엄을 받으십시오!</string>
+    <string name="admob_openapp" />
+    <string name="beginner">초보자</string>
+    <string name="rate_txt">저는 이 앱에서 별 5개 경험을 제공하기 위해 열심히 노력하는 프로그래머입니다. 저를 위해 별 5개 리뷰를 작성해 주세요. 감사 해요! 이것은 나에게 세상을 의미합니다.</string>
+
+    <string name="deep_sleep_yoga_and_yog_nindra">딥 슬립 요가와 요가 닌드라</string>
+    <string name="yoga_for_insomnia">불면증을 위한 요가</string>
+    <string name="deep_sleep_yoga">딥 슬립 요가</string>
+    <string name="yog_nindra_effective_sleep">요그 닌드라 효과적인 수면</string>
+    <string name="bed_time_yoga">침대 시간 요가</string>
+    <string name="for_sound_sleep">사운드 수면을 위해</string>
+    <string name="brething_exercise">호흡 운동</string>
+    <string name="sleep_apnea">수면 무호흡증</string>
+    <string name="bed_time_yoga_amp_brething_exercise"><![CDATA[침대 시간 요가 및 호흡 운동]]></string>
+    <string name="yog_nidra_effective_sleep">요그 닌드라 - 효과적인 수면</string>
+    <string name="bed_time_for_sound_sleep">숙면을 위한 취침 시간 요가</string>
+    <string name="bipolar_depresion">양극성 우울증</string>
+    <string name="info1">안녕하세요! 수면 문제를 극복할 준비가 된 것이 좋습니다. 수면요가&amp; 아래에 언급된 명상 연습. 시작하자! </string>
+    <string name="info2">이 계획에서 훨씬 더 도전적인 수면 명상 운동을 찾을 수 있습니다. 무릎 통증을 없애기 위한 더 많은 스트레칭, 더 많은 신체 운동은 곧 사라질 것이므로 시작하겠습니다!</string>
+    <string name="info3">궁극의 도전! 숙면을 취할 수 있는 가장 어려운 수면 명상 운동을 준비했습니다. 해보자!</string>
+    <string name="ftinch">피트 인치</string>
+</resources>

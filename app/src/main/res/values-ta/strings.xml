@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> 1 ஆழ்ந்த தூக்க யோகா </string>
+    <string name = "picker_box_arrows_icon"> பிக்கர் பாக்ஸ் அம்புகள் ஐகான்</string>
+    <string name = "favtitle"> உங்களுக்குப் பிடித்த உடற்பயிற்சிகளையும் இங்கே சேர்க்கவும். உங்கள் விருப்பங்களின் அடிப்படையில் உங்கள் சொந்த பயிற்சித் திட்டங்களைத் தனிப்பயனாக்கவும்.</string>
+
+    <string name = "mon"> திங்கள்</string>
+    <string name = "tu"> செவ்வாய்</string>
+    <string name = "wed"> புதன்</string>
+    <string name = "thri"> த்ரஸ்டே</string>
+    <string name = "fri"> வெள்ளிக்கிழமை</string>
+    <string name = "sat"> சனிக்கிழமை</string>
+    <string name = "sun"> ஞாயிறு</string>
+    <string name="facebook_app_id">394103198201105</string>
+    <string name = "exename1"> பூனை மாடு போஸ் (மஜர்யாசனா - பிதிலாசனா) </string>
+
+    <string name = "exename2"> பஸ்த்ரிக பிராணயாமா யோகா </string>
+
+    <string name = "exename3"> சாய்ந்த கோண போஸ் (சுப்தா பாத்தா கோனாசனா) </string>
+
+    <string name = "exename4"> உட்கார்ந்து பாதி முதுகு முறுக்கு போஸ் (அர்த்த மத்ஸ்யேந்திராசனா) </string>
+
+    <string name = "exename5"> அமர்ந்திருக்கும் அகன்ற கோண போஸ் (உபவிஷ்ட கோணாசனா) </string>
+
+    <string name = "exename6"> சண்முகி முத்ரா </string>
+
+    <string name = "exename7"> காற்று-நிவாரண போஸ் (பாவனமுக்தாசனா) </string>
+
+    <string name = "exename8"> ஊசிக்கு நூல் (பார்ஸ்வ பலசனா) </string>
+
+    <string name = "exename9"> கலப்பை போஸ் (ஹலாசன்) </string>
+
+    <string name = "exename10"> ஹீரோ போஸ் (விராசனா) </string>
+
+    <string name = "exename11"> நாடி ஷோதன் பிராணாயம் </string>
+
+    <string name = "exename12"> தண்டர்போல்ட் போஸ் (வஜ்ராசனா) </string>
+
+    <string name = "exename13"> லார்ட் ஆஃப் தி டான்ஸ் போஸ் (நடராஜாசனா) </string>
+
+    <string name = "exename14"> வக்ராசனம் (அரை முதுகு முறுக்கு போஸ்) </string>
+
+    <string name = "exename15"> குழந்தை போஸ் (ஹரே போஸ்) (பாலசனா) </string>
+
+    <string name = "exename16"> கபாலபதி பிராணயாமா </string>
+
+    <string name = "exename17"> அமர்ந்திருக்கும் முன்னோக்கி வளைவு (பச்சிமோட்டனாசன) </string>
+
+    <string name = "exename18"> கால் சுவர் போஸ் (விபரிதா கரணி) </string>
+
+    <string name = "exename19"> முன்னோக்கி வளைவு (ஹஸ்தா படாசனா) </string>
+
+    <string name = "exename20"> மலை போஸ் (தடாசன்) </string>
+
+    <string name = "exename21"> சுபைன் ஸ்பைனல் ட்விஸ்ட் (சுப்தா மத்ஸ்யேந்திராசனா) </string>
+
+    <string name = "exename22"> நாற்காலி போஸ் (உட்கடசனா) </string>
+
+    <string name = "exename23"> மீன் போஸ் (மத்யசனா) </string>
+
+    <string name = "exename24"> பிரம்மச்சாரியின் போஸ் (பிரம்மச்சரியாசனம்) </string>
+
+    <string name = "exename25"> தலை முதல் முழங்கால் வரை முன்னோக்கி வளைவு (ஜானு சிர்சசனா) </string>
+
+
+    <string name = "exedesc1"> இது பின்புற உடல் மற்றும் கழுத்தை நீட்டி, வயிற்று உறுப்புகளை மென்மையாகத் தூண்டுகிறது மற்றும் பலப்படுத்துகிறது. இது முதுகெலும்பை சரியான சீரமைப்பிற்கு கொண்டு வருகிறது மற்றும் தொடர்ந்து பயிற்சி செய்யும்போது முதுகுவலியைத் தடுக்க உதவும். </string>
+
+    <string name = "exedesc2"> நுரையீரல் மற்றும் மீண்டும் மீண்டும் இருமல், காய்ச்சல், சுவாசப் பிரச்சினைகள், ஒவ்வாமை அல்லது மூச்சுத் திணறல் ஆகியவற்றால் பாதிக்கப்பட்டவர்களுக்கு சிறந்தது. தலையில் அதிகரித்த இரத்த வழங்கல் கண்பார்வை மற்றும் கேட்கும் திறனை மேம்படுத்துகிறது. நுரையீரல் பலப்படுத்தப்பட்டு, மூச்சுக்குழாய் அழற்சிக்கு நன்மை பயக்கும், ஏனெனில் சுவாச அமைப்பு விரைவாகவும் ஆழமாகவும் சுத்திகரிக்கப்படுகிறது. • இது உடலுக்கும் மனதுக்கும் ஆற்றல் அளிக்க சிறந்தது </string>
+
+    <string name = "exedesc3"> இது செரிமானம் மற்றும் இனப்பெருக்க அமைப்புகளை ஆற்றும் மற்றும் எரிச்சலூட்டும் குடல் நோய், மலட்டுத்தன்மை, மாதவிடாய் கோளாறுகள், செரிமான பிரச்சனைகள், மாதவிடாய் போன்றவற்றுக்கு சிகிச்சையளிக்கிறது. . • இது தசை இறுக்கத்தை குறைக்கிறது மற்றும் சோர்வு மற்றும் தூக்கமின்மையிலிருந்து உங்களை விடுவிக்கிறது. அது மனதை </string> அமைதிப்படுத்துகிறது
+
+    <string name = "exedesc4"> இது ஊட்டச்சத்துக்கள், இரத்தம் மற்றும் ஆக்ஸிஜனை வழங்குகிறது, மற்றும் இனப்பெருக்க அமைப்பு மற்றும் சிறுநீர் அமைப்பின் ஆரோக்கியத்தை மேம்படுத்துகிறது. மாதவிடாய் கோளாறுகளுக்கு நன்மை பயக்கும் மற்றும் முதுகெலும்புக்கு ஆற்றல் அளிக்கிறது, • கல்லீரல் மற்றும் சிறுநீரகங்களைத் தூண்டுகிறது </string>
+
+    <string name = "exedesc5"> இது வயிற்று உறுப்புகளைத் தூண்டுகிறது. வயிறு, முதுகெலும்பு மற்றும் கால்களை வலுவாக்குகிறது மற்றும் தொனிக்கிறது. • சியாட்டிகா மற்றும் கீல்வாதத்தை குணப்படுத்தவும் நிவாரணம் பெறவும் உதவுகிறது.
+ </string>
+
+    <string name = "exedesc6"> கைகள் மற்றும் விரல்களின் வெப்பம் மற்றும் பிராணன் முகத் தசைகளைத் தூண்டுவதற்கும் தளர்த்துவதற்கும் முக தசைகள் மற்றும் தோற்றத்திற்கு சிறந்தது. • கவலையை நிர்வகிப்பதற்கும் எதிர்மறை அறிவுசார் வடிவங்களை அகற்றுவதற்கும் பயனுள்ளதாக இருக்கும். திரும்பப் பெறுதல். • கவனம், உள்முகம் மற்றும் அமைதி </string> பற்றி தருகிறது
+
+    <string name = "exedesc7"> முதுகு மற்றும் வயிற்று தசைகளை நீட்டி வலுவாக்குகிறது. • செரிமானம் மற்றும் வாயு வெளியீட்டில் உதவுகிறது. கொழுப்பை எரிப்பதைத் தூண்டும். • கால்கள் மற்றும் கைகளில் உள்ள தசைகளை தொனிக்கிறது.</string>
+
+    <string name = "exedesc8"> இது உங்கள் மேல் மார்பு தசைகளை மெதுவாக நீட்டுகிறது. • இது உங்கள் தோள்பட்டையின் மேல் மற்றும் வெளிப்புற தசைகளைத் திறக்கிறது. • இது மேல் முனைகளுக்கு இரத்த ஓட்டத்தை அதிகரிக்கிறது. </string>
+
+    <string name = "exedesc9"> இது முதுகின் நெகிழ்வுத்தன்மையை ஊக்குவிக்கிறது மற்றும் கால்களின் பின்புறத்தில் தசைகளை நீட்டுகிறது. இது கழுத்து, தோள்கள், ஏபிஎஸ் மற்றும் முதுகு தசைகளை வலுப்படுத்தி திறக்கிறது </string>
+
+    <string name = "exedesc10"> இது கைகளையும் தோள்களையும் பலப்படுத்துகிறது மற்றும் முதுகெலும்பை நெகிழ வைக்கிறது. இது மூளையை அதிக இரத்தத்துடன் ஊட்டுகிறது. </string>
+
+    <string name = "exedesc11"> இது வைக்கோல் காய்ச்சல், தும்மல் அல்லது மூச்சுத்திணறலை ஏற்படுத்தும் சுவாச ஒவ்வாமைகளைத் தணிக்க உதவுகிறது • மூளையின் இடது மற்றும் வலது அரைக்கோளங்களை ஒத்திசைக்க உதவுகிறது, இது நமது ஆளுமையின் தர்க்கரீதியான மற்றும் உணர்ச்சிபூர்வமான பக்கங்களுடன் தொடர்புடையது. </string>
+
+    <string name = "exedesc12"> செரிமானத்தை மேம்படுத்துகிறது மற்றும் மலச்சிக்கல் மற்றும் அமிலத்தன்மையை எதிர்த்துப் போராடுகிறது. • மாதவிடாய் கோளாறு நீக்குகிறது.</string>
+
+    <string name = "exedesc13"> போஸ் காஸ்மிக் ஆற்றலைக் குறிக்கிறது, நீங்கள் பிரபஞ்சத்தின் ஓட்டத்தில் நடனமாடுகிறீர்கள். பின்புறம், குவாட்ரைசெப்ஸ், கணுக்கால், அடி, தொடைகள், இடுப்பு மற்றும் வயிறு • சமநிலையை மேம்படுத்துகிறது </string>
+
+    <string name = "exedesc14"> இதயம், சிறுநீரகம், கல்லீரல், மண்ணீரல் மற்றும் நுரையீரலை தூண்டும் </string>
+
+    <string name = "exedesc15"> மலச்சிக்கலைப் போக்க உதவுகிறது. • இது அட்ரீனல் சுரப்பிகள் நன்கு செயல்பட வழிவகுக்கிறது. முதுகு தசைகளை நீட்டி அவற்றை வலுவாக்குகிறது. • ஆண் மற்றும் பெண் இனப்பெருக்க உறுப்புகளின் ஆரோக்கியத்தை மேம்படுத்துகிறது </string>
+
+    <string name = "exedesc16"> வளர்சிதை மாற்ற விகிதத்தை அதிகரிக்கிறது மற்றும் எடை இழப்புக்கு உதவுகிறது • செரிமான மண்டலத்தின் செயல்பாட்டை மேம்படுத்துகிறது, உறிஞ்சுதல் மற்றும் ஊட்டச்சத்துக்களை ஒருங்கிணைத்தல் வயிற்று உறுப்புகளைத் தூண்டுகிறது, இதனால் நீரிழிவு நோயாளிகளுக்கு மிகவும் பயனுள்ளதாக இருக்கும் • நினைவகம் மற்றும் செறிவு சக்தியை மேம்படுத்துகிறது </string>
+
+    <string name = "exedesc17"> இது பினியல், ஹைபோதாலமஸ் மற்றும் பிட்யூட்டரி சுரப்பிகளின் செயல்பாட்டைத் தூண்டுகிறது மற்றும் உயரத்திற்கு காரணமான வளர்ச்சி ஹார்மோனை இரகசியமாக்க உதவுகிறது. இது முதுகு, தோள்கள் மற்றும் கைகளின் தசைகளை பலப்படுத்துகிறது. </string>
+
+    <string name = "exedesc18"> சோர்வடைந்த அல்லது இறுக்கமான கால்கள் மற்றும் கால்களை நீக்குகிறது • தலைவலியைத் தணிக்கிறது • கீழ்-முதுகு வலியைப் போக்குகிறது • மனதை அமைதிப்படுத்துகிறது
+ </string>
+
+    <string name = "exedesc19"> இது நரம்பு மண்டலத்தை புத்துயிர் பெறுகிறது மற்றும் உயரத்திற்கு காரணமான வளர்ச்சி ஹார்மோனை வெளியிடும் பிட்யூட்டரி சுரப்பியில் சரியான இரத்த ஓட்டத்தை ஊக்குவிக்கிறது. இது முதுகு மற்றும் கீழ் உடல் தசைகளை முதுகெலும்புடன் நீட்டுகிறது. </string>
+
+    <string name = "exedesc20"> இது காலின் தசைகளை டன் செய்கிறது, கால்கள் மற்றும் இடுப்புகளில் விறைப்பை முடிக்கிறது, முதுகுவலி மற்றும் கழுத்து சுளுக்கு சிகிச்சை, மார்பை வளர்த்து கணுக்கால்களை பலப்படுத்துகிறது. </string>
+
+    <string name = "exedesc21"> முழங்கால் கீழே திருப்பம் முதுகெலும்புகள், தசைகள் மற்றும் முதுகெலும்புகளை நீட்டி, முதுகெலும்பு வட்டுகளை நீரேற்றுகிறது. நீட்சி</string>
+
+    <string name = "exedesc22"> முதுகு மற்றும் வயிற்று தசைகளை நீட்டி வலுவாக்குகிறது. • செரிமானம் மற்றும் வாயு வெளியீட்டில் உதவுகிறது. கொழுப்பை எரிப்பதைத் தூண்டும். • கால்கள் மற்றும் கைகளில் உள்ள தசைகளை தொனிக்கிறது.</string>
+
+    <string name = "exedesc23"> உங்கள் கழுத்து, தொண்டை மற்றும் தோள்களில் பதற்றத்தை நீக்குகிறது. உங்கள் தொப்பை மற்றும் தொண்டையின் உறுப்புகளை நீட்டி தூண்டுகிறது.
+ </string>
+
+    <string name = "exedesc24"> வளர்சிதை மாற்ற விகிதத்தை அதிகரிக்கிறது மற்றும் எடை இழப்புக்கு உதவுகிறது. செரிமான மண்டலத்தின் செயல்பாடு, உறிஞ்சுதல் மற்றும் ஊட்டச்சத்துக்களை ஒருங்கிணைத்தல் ஆகியவற்றை மேம்படுத்துகிறது. நரம்பு மண்டலத்தை ஊக்குவிக்கிறது மற்றும் மூளை செல்களை புதுப்பிக்கிறது வயிற்று உறுப்புகளைத் தூண்டுகிறது, இதனால் நீரிழிவு நோயாளிகளுக்கு மிகவும் பயனுள்ளதாக இருக்கும். நினைவாற்றல் மற்றும் செறிவு சக்தியை மேம்படுத்துகிறது. </string>
+
+    <string name = "exedesc25"> இது உங்கள் கை, தோள்கள் மற்றும் கால்களில் வலிமையை வளர்க்கும் போது உங்கள் தொடை எலும்புகள், தோள்கள், கன்றுகள், வளைவுகள், கைகள் மற்றும் முதுகெலும்புகளை முழுவதுமாக நீட்டுகிறது. இது இரத்த ஓட்டத்தைத் தூண்டுகிறது. உயரத்தை அதிகரிக்க முழு உடலையும் நீட்டுவதற்கு இது சரியான உடற்பயிற்சி. </string>
+
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+
+    <string name = "add_exercise"> உடற்பயிற்சியைச் சேர்</string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name = "please_check_your_internet_connection"> தயவுசெய்து உங்கள் இணைய இணைப்பைச் சரிபார்க்கவும் !!!</string>
+    <string name = "refresh"> புதுப்பி</string>
+    <string name = "start"> START</string>
+    <string name="previous"> முந்தைய</string>
+    <string name = "next"> அடுத்து</string>
+    <string name = "tips"> குறிப்புகள்</string>
+    <string name = "history"> வரலாறு</string>
+    <string name = "com_continue"> தொடரவும்</string>
+    <string name = "reminder"> நினைவூட்டல்</string>
+    <string name = "calculate_bmi"> பிஎம்ஐ கணக்கிடுங்கள்</string>
+    <string name = "weight"> எடை:</string>
+    <string name = "weight1"> எடை</string>
+    <string name = "bmi_kg_m"> BMI (KG/M²)</string>
+    <string name="calories"> கலோரி</string>
+    <string name="exercises"> பயிற்சிகள்</string>
+    <string name = "duration"> காலம்</string>
+    <string name = "ready_to_go"> செல்லத் தயார்!</string>
+    <string name = "skip"> SKIP</string>
+    <string name = "reset"> மீட்டமை</string>
+    <string name = "add"> ADD</string>
+    <string name = "video"> வீடியோ</string>
+    <string name = "animation"> அனிமேஷன்</string>
+    <string name = "txt_weekgoal"> வாராந்திர இலக்கை அமைக்கவும்</string>
+    <string name = "save"> சேமி</string>
+    <string name = "user_age"> வயது</string>
+    <string name = "user_gender"> பாலினம்</string>
+    <string name = "user_male"> ஆண்</string>
+    <string name = "user_height"> உயரம்</string>
+    <string name = "user_weight"> எடை</string>
+    <string name = "user_meal"> உணவு</string>
+    <string name = "rest_day"> ஓய்வு நாள்</string>
+    <string name="finished"> முடிக்கப்பட்டது</string>
+    <string name = "diet_list"> உணவு பட்டியல்</string>
+    <string name = "no_internet"> இணைய இணைப்பு இல்லை !!</string>
+    <string name = "set_your_weekly_goal"> உங்கள் வாராந்திர இலக்கை அமைக்கவும்</string>
+    <string name = "recommandedtxt"> ஒரு சிறந்த முடிவுக்கு வாரத்திற்கு 3 நாட்களாவது பயிற்சி அளிக்க பரிந்துரைக்கிறோம்</string>
+    <string name = "training_days"> பயிற்சி நாட்கள்</string>
+    <string name = "first_day_of_week"> வாரத்தின் முதல் நாள்</string>
+    <string name = "to_set_regional_plan"> பிராந்தியத் திட்டத்தை அமைக்க</string>
+    <string name = "select_state"> மாநிலத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name = "select_city"> நகரத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name = "what_s_your_gender"> நீங்கள் யார் என்பதை தேர்வு செய்யவும்?</string>
+    <string name = "to_personalize_your_plan"> உங்கள் திட்டத்தை தனிப்பயனாக்க</string>
+    <string name="female"> பெண்</string>
+    <string name = "male"> ஆண்</string>
+    <string name = "diet_plan"> உணவு திட்டம்</string>
+    <string name="vegetarian"> சைவம்</string>
+    <string name = "non_nvegetarian"> அசைவம் அல்லாதவர்</string>
+    <string name = "vegan"> சைவம்</string>
+    <string name = "how_old_are_you"> உங்களுக்கு எவ்வளவு வயது?</string>
+    <string name = "calculate"> கணக்கிடு</string>
+    <string name = "ok"> சரி</string>
+    <string name = "mute"> முடக்கு</string>
+    <string name = "voice_guide"> குரல் வழிகாட்டி</string>
+    <string name = "coach_tips"> பயிற்சியாளர் குறிப்புகள்</string>
+    <string name = "sound_options"> ஒலி விருப்பங்கள்</string>
+    <string name = "please_name_your_plan"> தயவுசெய்து உங்கள் திட்டத்திற்கு பெயரிடுங்கள்</string>
+    <string name = "cancel"> CANCEL</string>
+    <string name = "give_up"> கொடுங்கள்</string>
+    <string name = "please_set_reminder"> தயவுசெய்து நினைவூட்டலை அமைக்கவும்</string>
+    <string name = "restart"> RESTART</string>
+    <string name = "having_a_beautiful_body_has_never_easy"> ஒரு அழகான உடலை வைத்திருப்பது எளிதானது அல்ல!</string>
+    <string name = "settings"> அமைப்புகள்</string>
+    <string name = "test_voice"> டெஸ்ட் வாய்ஸ்</string>
+    <string name = "workout"> WORKOUT</string>
+    <string name = "remind_me_to_workout_every_day"> தினமும் உடற்பயிற்சி செய்ய எனக்கு நினைவூட்டுங்கள்</string>
+    <string name = "voice_options_tts"> குரல் விருப்பங்கள் (TTS)</string>
+    <string name = "voice_language"> குரல் மொழி</string>
+    <string name = "download_more_tts_language_data"> மேலும் TTS மொழி தரவைப் பதிவிறக்கவும்</string>
+    <string name = "device_tts_setting"> சாதன TTS அமைப்பு</string>
+    <string name = "general_settings"> பொது அமைப்புகள்</string>
+    <string name = "language_options"> மொழி விருப்பங்கள்</string>
+    <string name = "restart_progress"> முன்னேற்றத்தை மறுதொடக்கம் செய்யுங்கள்</string>
+    <string name = "support_us"> எங்களை ஆதரிக்கவும்</string>
+     <string name = "rate_us">விகிதம்</string>
+
+    <string name = "share_with_friends"> நண்பர்களுடன் பகிரவும்</string>
+    <string name = "privacy_policy"> தனியுரிமைக் கொள்கை</string>
+    <string name = "repeat"> மீண்டும் செய்யவும்</string>
+    <string name = "aboveage"> 18 வயதுக்கு மேல்</string>
+    <string name = "nextexespeech"> அடுத்த பயிற்சி</string>
+    <string name = "startspeech"> பயிற்சியைத் தொடங்குதல்</string>
+
+
+    <string name = "feed1"> எனக்கு வடிவமைப்பு பிடிக்கவில்லை</string>
+    <string name = "feed2"> எனக்குத் தேவையான செயல்பாடுகளை அது கொண்டிருக்கவில்லை</string>
+    <string name = "feed3"> இது பயன்படுத்த எளிதானது அல்ல</string>
+    <string name = "feed4"> இது மிகவும் சிக்கலானது</string>
+    <string name = "feed5"> மொழிபெயர்ப்பு மோசமாக உள்ளது</string>
+    <string name = "reminderdialtxt"> <u> 100% முடிவுக்கு நீ ஏன் உங்களை நினைவூட்டவில்லை. </u></string>
+
+    <string name="terms">ஒரு கணக்கை உருவாக்குவது என்பது உங்களுக்கு நன்றாக இருக்கிறது</string>
+
+    <string name = "tandc"> <u> சேவை விதிமுறைகள் </u></string>
+    <string name = "privacy"> <u> தனியுரிமைக் கொள்கை </u></string>
+
+    <string name = "tvbmis"> <u> BMI ஐக் கணக்கிடுங்கள் </u></string>
+
+    <string name = "tvmoretips"> <u> மேலும் குறிப்புகள் >> </u></string>
+    <string name = "tvmoredetail"> <u> மேலும் விவரங்கள் >> </u></string>
+
+    <string name = "termstxt"> பயன்பாட்டைப் பதிவிறக்குவதன் மூலம் அல்லது பயன்படுத்துவதன் மூலம், இந்த விதிமுறைகள் தானாகவே உங்களுக்குப் பொருந்தும் - எனவே பயன்பாட்டைப் பயன்படுத்துவதற்கு முன்பு அவற்றை கவனமாகப் படிக்க வேண்டும். நீங்கள் பயன்பாட்டை நகலெடுக்கவோ அல்லது மாற்றவோ அனுமதி இல்லை பயன்பாட்டின் மூலக் குறியீட்டைப் பிரித்தெடுக்க நீங்கள் அனுமதிக்கப்படவில்லை, மேலும் நீங்கள் பயன்பாட்டை மற்ற மொழிகளில் மொழிபெயர்க்கவோ அல்லது வழித்தோன்றல் பதிப்புகளை உருவாக்கவோ முயற்சிக்கக்கூடாது. பயன்பாடு மற்றும் அனைத்து வர்த்தக முத்திரைகள், பதிப்புரிமை, தரவுத்தள உரிமைகள் மற்றும் அது தொடர்பான பிற அறிவுசார் சொத்துரிமைகள் இன்னும் டாக்டர் ஜியோவுக்கு சொந்தமானது.
+
+டாக்டர் ஜியோ பயன்பாடு முடிந்தவரை பயனுள்ளதாகவும் திறமையாகவும் இருப்பதை உறுதி செய்வதில் உறுதியாக உள்ளது. அந்த காரணத்திற்காக, எந்த நேரத்திலும் எந்த காரணத்திற்காகவும், செயலியில் மாற்றங்களைச் செய்ய அல்லது அதன் சேவைகளுக்கு கட்டணம் வசூலிக்க எங்களுக்கு உரிமை உண்டு. நீங்கள் எதைச் செலுத்துகிறீர்கள் என்பதை உங்களுக்குத் தெளிவாகத் தெரியப்படுத்தாமல், ஆப் அல்லது அதன் சேவைகளுக்கு நாங்கள் ஒருபோதும் கட்டணம் வசூலிக்க மாட்டோம்.
+
+"18 பயன்பாட்டிற்குப் பிறகு உயரத்தை அதிகரிக்கவும்" சிறந்த சேவையை வழங்க, நீங்கள் எங்களுக்கு வழங்கிய தனிப்பட்ட தரவைச் சேமித்து செயலாக்குகிறது. உங்கள் தொலைபேசியையும் பயன்பாட்டிற்கான அணுகலையும் பாதுகாப்பாக வைத்திருப்பது உங்கள் பொறுப்பு. எனவே, உங்கள் தொலைபேசியை ஜெயில்பிரேக் செய்யவோ அல்லது ரூட் செய்யவோ வேண்டாம் என்று நாங்கள் பரிந்துரைக்கிறோம், இது உங்கள் சாதனத்தின் அதிகாரப்பூர்வ இயக்க முறைமையால் விதிக்கப்படும் மென்பொருள் கட்டுப்பாடுகள் மற்றும் வரம்புகளை அகற்றும் செயல்முறையாகும். இது உங்கள் தொலைபேசியை தீம்பொருள்/வைரஸ்கள்/தீங்கிழைக்கும் நிரல்களால் பாதிக்கக்கூடியதாக ஆக்கி, உங்கள் தொலைபேசியின் பாதுகாப்பு அம்சங்களை சமரசம் செய்து, இந்த ஆப் சரியாக வேலை செய்யாது என்று அர்த்தம்.
+
+டாக்டர் ஜியோ பொறுப்பேற்காத சில விஷயங்கள் உள்ளன என்பதை நீங்கள் அறிந்திருக்க வேண்டும். பயன்பாட்டின் சில செயல்பாடுகளுக்கு செயலில் இணைய இணைப்பு இருக்க வேண்டும். இணைப்பு வைஃபை அல்லது உங்கள் மொபைல் நெட்வொர்க் வழங்குநரால் வழங்கப்படலாம், ஆனால் உங்களுக்கு வைஃபை அணுகல் இல்லையென்றால், முழு செயல்பாட்டில் செயலி செயல்படாததற்கான பொறுப்பை டாக்டர் ஜியோ ஏற்க முடியாது. உங்கள் தரவு கொடுப்பனவு மீதமுள்ளது.
+
+வைஃபை கொண்ட பகுதிக்கு வெளியே நீங்கள் பயன்பாட்டைப் பயன்படுத்துகிறீர்கள் என்றால், உங்கள் மொபைல் நெட்வொர்க் வழங்குநருடனான ஒப்பந்தத்தின் விதிமுறைகள் இன்னும் பொருந்தும் என்பதை நீங்கள் நினைவில் கொள்ள வேண்டும். இதன் விளைவாக, பயன்பாட்டை அணுகும் போது, ​​அல்லது பிற மூன்றாம் தரப்பு கட்டணங்களுக்கான இணைப்பின் காலத்திற்கான தரவுச் செலவுக்கு உங்கள் மொபைல் வழங்குநரால் கட்டணம் விதிக்கப்படலாம். பயன்பாட்டைப் பயன்படுத்துவதில், தரவு ரோமிங்கை அணைக்காமல் உங்கள் வீட்டுப் பகுதிக்கு (அதாவது பிராந்தியம் அல்லது நாடு) பயன்பாட்டைப் பயன்படுத்தினால், ரோமிங் தரவு கட்டணங்கள் உட்பட எந்தவொரு கட்டணத்திற்கும் நீங்கள் பொறுப்பை ஏற்கிறீர்கள். நீங்கள் பயன்பாட்டைப் பயன்படுத்தும் சாதனத்திற்கான பில் செலுத்துபவர் இல்லையென்றால், பயன்பாட்டைப் பயன்படுத்துவதற்கு பில் செலுத்துபவரிடமிருந்து நீங்கள் அனுமதி பெற்றுள்ளீர்கள் என்று நாங்கள் கருதுகிறோம் என்பதை கவனத்தில் கொள்ளவும். அதே வழியில், டாக்டர் ஜியோ எப்போதும் நீங்கள் பயன்பாட்டைப் பயன்படுத்தும் விதத்தில் பொறுப்பேற்க முடியாது அதாவது உங்கள் சாதனம் சார்ஜ் செய்யப்பட்டிருப்பதை உறுதி செய்ய வேண்டும் - பேட்டரி தீர்ந்துவிட்டால் மற்றும் சேவையைப் பயன்படுத்த நீங்கள் அதை இயக்க முடியாவிட்டால், டாக்டர் ஜியோ பொறுப்பை ஏற்க முடியாது. நீங்கள் பயன்பாட்டைப் பயன்படுத்தும் போது டாக்டர் ஜியோவின் பொறுப்பைப் பொறுத்து, நீங்கள் பயன்பாட்டைப் பயன்படுத்தும் போது, ​​அது எப்போதும் புதுப்பிக்கப்பட்டு சரியானதாக இருப்பதை உறுதிசெய்ய நாங்கள் முயற்சி செய்தாலும், நாங்கள் மூன்றாம் தரப்பினரை நம்பியிருக்கிறோம் என்பதை நினைவில் கொள்ள வேண்டும். எங்களுக்கு தகவல் வழங்குவதற்காக நாங்கள் உங்களுக்கு கிடைக்கச் செய்வோம். பயன்பாட்டின் இந்த செயல்பாட்டை முழுமையாக நம்பியதன் விளைவாக நீங்கள் அனுபவிக்கும் எந்தவொரு இழப்பிற்கும் டாக்டர் ஜியோ எந்தப் பொறுப்பையும் ஏற்க மாட்டார். சில சமயங்களில், நாங்கள் பயன்பாட்டைப் புதுப்பிக்க விரும்பலாம். பயன்பாடு தற்போது ஆண்ட்ராய்டில் கிடைக்கிறது - சிஸ்டத்திற்கான தேவைகள் (மற்றும் எந்த கூடுதல் அமைப்புகளுக்கும் பயன்பாட்டின் கிடைக்கும் தன்மையை நீட்டிக்க முடிவு செய்கிறோம்) மாறலாம், மேலும் நீங்கள் பயன்பாட்டைப் பயன்படுத்த விரும்பினால் புதுப்பிப்புகளைப் பதிவிறக்க வேண்டும். டாக்டர் ஜியோ எப்போதும் பயன்பாட்டைப் புதுப்பிப்பதாக உறுதியளிக்கவில்லை, அதனால் அது உங்களுக்கு பொருத்தமானது மற்றும்/அல்லது உங்கள் சாதனத்தில் நீங்கள் நிறுவிய ஆண்ட்ராய்டு பதிப்பில் வேலை செய்கிறது. இருப்பினும், உங்களுக்கு வழங்கப்படும்போது பயன்பாட்டிற்கான புதுப்பிப்புகளை எப்போதும் ஏற்றுக்கொள்வதாக நீங்கள் உறுதியளிக்கிறீர்கள், நாங்கள் பயன்பாட்டை வழங்குவதை நிறுத்த விரும்பலாம், மேலும் எந்த நேரத்திலும் உங்களுக்கு அறிவிப்பு கொடுக்காமல் அதன் பயன்பாட்டை நிறுத்தலாம். மற்றபடி நாங்கள் உங்களுக்குச் சொல்லாவிட்டால், எந்த முடிவிலும், (அ) இந்த விதிமுறைகளில் உங்களுக்கு வழங்கப்பட்ட உரிமைகள் மற்றும் உரிமங்கள் முடிவடையும்; (ஆ) நீங்கள் பயன்பாட்டைப் பயன்படுத்துவதை நிறுத்த வேண்டும், (தேவைப்பட்டால்) அதை உங்கள் சாதனத்திலிருந்து நீக்க வேண்டும்.</string>
+
+
+    <string name = "policytxt" formatted="false"> பொதுக் கொள்கை பயன்பாட்டைப் பதிவிறக்குவதன் மூலம் அல்லது பயன்படுத்துவதன் மூலம், இந்த விதிமுறைகள் தானாகவே உங்களுக்குப் பொருந்தும் - எனவே பயன்பாட்டைப் பயன்படுத்துவதற்கு முன்பு அவற்றை கவனமாகப் படிக்க வேண்டும். நீங்கள் பயன்பாட்டை நகலெடுக்கவோ அல்லது மாற்றவோ அனுமதி இல்லை பயன்பாட்டின் மூலக் குறியீட்டைப் பிரித்தெடுக்க நீங்கள் அனுமதிக்கப்படவில்லை, மேலும் நீங்கள் பயன்பாட்டை மற்ற மொழிகளில் மொழிபெயர்க்கவோ அல்லது வழித்தோன்றல் பதிப்புகளை உருவாக்கவோ முயற்சிக்கக்கூடாது. பயன்பாடு மற்றும் அனைத்து வர்த்தக முத்திரைகள், பதிப்புரிமை, தரவுத்தள உரிமைகள் மற்றும் அது தொடர்பான பிற அறிவுசார் சொத்துரிமைகள் இன்னும் டாக்டர் ஜியோவுக்கு சொந்தமானது.
+        டாக்டர் ஜியோ பயன்பாடு முடிந்தவரை பயனுள்ளதாகவும் திறமையாகவும் இருப்பதை உறுதி செய்வதில் உறுதியாக உள்ளது. அந்த காரணத்திற்காக, எந்த நேரத்திலும் எந்த காரணத்திற்காகவும், செயலியில் மாற்றங்களைச் செய்ய அல்லது அதன் சேவைகளுக்கு கட்டணம் வசூலிக்க எங்களுக்கு உரிமை உண்டு. நீங்கள் எதைச் செலுத்துகிறீர்கள் என்பதை உங்களுக்குத் தெளிவாகத் தெரியப்படுத்தாமல், ஆப் அல்லது அதன் சேவைகளுக்கு நாங்கள் ஒருபோதும் கட்டணம் வசூலிக்க மாட்டோம்.
+        "முதுகுவலி பயன்பாடு" சிறந்த சேவையை வழங்க, நீங்கள் எங்களுக்கு வழங்கிய தனிப்பட்ட தரவை சேமித்து செயலாக்குகிறது. உங்கள் தொலைபேசியையும் பயன்பாட்டிற்கான அணுகலையும் பாதுகாப்பாக வைத்திருப்பது உங்கள் பொறுப்பு. எனவே, உங்கள் தொலைபேசியை ஜெயில்பிரேக் செய்யவோ அல்லது ரூட் செய்யவோ வேண்டாம் என்று நாங்கள் பரிந்துரைக்கிறோம், இது உங்கள் சாதனத்தின் அதிகாரப்பூர்வ இயக்க முறைமையால் விதிக்கப்படும் மென்பொருள் கட்டுப்பாடுகள் மற்றும் வரம்புகளை அகற்றும் செயல்முறையாகும். இது உங்கள் தொலைபேசியை தீம்பொருள்/வைரஸ்கள்/தீங்கிழைக்கும் நிரல்களால் பாதிக்கக்கூடியதாக ஆக்கி, உங்கள் தொலைபேசியின் பாதுகாப்பு அம்சங்களை சமரசம் செய்து, இந்த ஆப் சரியாக வேலை செய்யாது என்று அர்த்தம்.
+        டாக்டர் ஜியோ பொறுப்பேற்காத சில விஷயங்கள் உள்ளன என்பதை நீங்கள் அறிந்திருக்க வேண்டும். பயன்பாட்டின் சில செயல்பாடுகளுக்கு செயலில் இணைய இணைப்பு இருக்க வேண்டும். இணைப்பு வைஃபை அல்லது உங்கள் மொபைல் நெட்வொர்க் வழங்குநரால் வழங்கப்படலாம், ஆனால் உங்களுக்கு வைஃபை அணுகல் இல்லையென்றால், முழு செயல்பாட்டில் செயலி செயல்படாததற்கான பொறுப்பை டாக்டர் ஜியோ ஏற்க முடியாது. உங்கள் தரவு கொடுப்பனவு மீதமுள்ளது.
+        வைஃபை கொண்ட பகுதிக்கு வெளியே நீங்கள் பயன்பாட்டைப் பயன்படுத்துகிறீர்கள் என்றால், உங்கள் மொபைல் நெட்வொர்க் வழங்குநருடனான ஒப்பந்தத்தின் விதிமுறைகள் இன்னும் பொருந்தும் என்பதை நீங்கள் நினைவில் கொள்ள வேண்டும். இதன் விளைவாக, பயன்பாட்டை அணுகும் போது, ​​அல்லது பிற மூன்றாம் தரப்பு கட்டணங்களுக்கான இணைப்பின் காலத்திற்கான தரவுச் செலவுக்கு உங்கள் மொபைல் வழங்குநரால் கட்டணம் விதிக்கப்படலாம். பயன்பாட்டைப் பயன்படுத்துவதில், தரவு ரோமிங்கை அணைக்காமல் உங்கள் வீட்டுப் பகுதிக்கு (அதாவது பிராந்தியம் அல்லது நாடு) பயன்பாட்டைப் பயன்படுத்தினால், ரோமிங் தரவு கட்டணங்கள் உட்பட எந்தவொரு கட்டணத்திற்கும் நீங்கள் பொறுப்பை ஏற்கிறீர்கள். நீங்கள் பயன்பாட்டைப் பயன்படுத்தும் சாதனத்திற்கான பில் செலுத்துபவர் இல்லையென்றால், பயன்பாட்டைப் பயன்படுத்துவதற்கு பில் செலுத்துபவரிடமிருந்து நீங்கள் அனுமதி பெற்றுள்ளீர்கள் என்று நாங்கள் கருதுகிறோம் என்பதை கவனத்தில் கொள்ளவும். அதே வழியில், டாக்டர் ஜியோ எப்போதும் நீங்கள் பயன்பாட்டைப் பயன்படுத்தும் விதத்தில் பொறுப்பேற்க முடியாது அதாவது உங்கள் சாதனம் சார்ஜ் செய்யப்பட்டிருப்பதை உறுதி செய்ய வேண்டும் - பேட்டரி தீர்ந்துவிட்டால் மற்றும் சேவையைப் பயன்படுத்த நீங்கள் அதை இயக்க முடியாவிட்டால், டாக்டர் ஜியோ பொறுப்பை ஏற்க முடியாது. நீங்கள் பயன்பாட்டைப் பயன்படுத்தும் போது டாக்டர் ஜியோவின் பொறுப்பைப் பொறுத்து, நீங்கள் பயன்பாட்டைப் பயன்படுத்தும் போது, ​​அது எப்போதும் புதுப்பிக்கப்பட்டு சரியானதாக இருப்பதை உறுதிசெய்ய நாங்கள் முயற்சி செய்தாலும், நாங்கள் மூன்றாம் தரப்பினரை நம்பியிருக்கிறோம் என்பதை நினைவில் கொள்ள வேண்டும். எங்களுக்கு தகவல் வழங்குவதற்காக நாங்கள் உங்களுக்கு கிடைக்கச் செய்வோம். பயன்பாட்டின் இந்த செயல்பாட்டை முழுமையாக நம்பியதன் விளைவாக நீங்கள் அனுபவிக்கும் எந்தவொரு இழப்பிற்கும் டாக்டர் ஜியோ எந்தப் பொறுப்பையும் ஏற்க மாட்டார். சில சமயங்களில், நாங்கள் பயன்பாட்டைப் புதுப்பிக்க விரும்பலாம். பயன்பாடு தற்போது ஆண்ட்ராய்டில் கிடைக்கிறது - சிஸ்டத்திற்கான தேவைகள் (மற்றும் எந்த கூடுதல் அமைப்புகளுக்கும் பயன்பாட்டின் கிடைக்கும் தன்மையை நீட்டிக்க முடிவு செய்கிறோம்) மாறலாம், மேலும் நீங்கள் பயன்பாட்டைப் பயன்படுத்த விரும்பினால் புதுப்பிப்புகளைப் பதிவிறக்க வேண்டும். டாக்டர் ஜியோ எப்போதும் பயன்பாட்டைப் புதுப்பிப்பதாக உறுதியளிக்கவில்லை, அதனால் அது உங்களுக்கு பொருத்தமானது மற்றும்/அல்லது உங்கள் சாதனத்தில் நீங்கள் நிறுவிய ஆண்ட்ராய்டு பதிப்பில் வேலை செய்கிறது. இருப்பினும், உங்களுக்கு வழங்கப்படும்போது பயன்பாட்டிற்கான புதுப்பிப்புகளை எப்போதும் ஏற்றுக்கொள்வதாக நீங்கள் உறுதியளிக்கிறீர்கள், நாங்கள் பயன்பாட்டை வழங்குவதை நிறுத்த விரும்பலாம், மேலும் எந்த நேரத்திலும் உங்களுக்கு அறிவிப்பு கொடுக்காமல் அதன் பயன்பாட்டை நிறுத்தலாம். மற்றபடி நாங்கள் உங்களுக்குச் சொல்லாவிட்டால், எந்த முடிவிலும், (அ) இந்த விதிமுறைகளில் உங்களுக்கு வழங்கப்பட்ட உரிமைகள் மற்றும் உரிமங்கள் முடிவடையும்; (ஆ) நீங்கள் பயன்பாட்டைப் பயன்படுத்துவதை நிறுத்த வேண்டும், (தேவைப்பட்டால்) அதை உங்கள் சாதனத்திலிருந்து நீக்க வேண்டும்.
+
+        பயன்பாடுகளை எவ்வாறு பயன்படுத்துவது:
+
+        உங்களுக்கு எலும்புகள், இதயம், முதுகு காயம், முதுகெலும்பு, தலையில் காயம் அல்லது வேறு எந்த உடல் காயமும் இருந்தால், இந்த யோகா, உடற்பயிற்சி மற்றும் நிபுணர்/மருத்துவர்களிடம் கேளுங்கள். பயிற்சி
+
+        தனியுரிமை கொள்கை
+
+        டாக்டர் ஜியோ வணிகப் பயன்பாடாக முதுகு வலி பயன்பாட்டை உருவாக்கினார். இந்த சேவை டாக்டர் ஜியோவால் வழங்கப்பட்டது மற்றும் அது பயன்படுத்தப்பட உள்ளது. எங்கள் சேவையைப் பயன்படுத்த யாராவது முடிவு செய்தால் தனிப்பட்ட தகவல்களைச் சேகரித்தல், பயன்படுத்துதல் மற்றும் வெளிப்படுத்துதல் ஆகியவற்றுடன் எங்கள் கொள்கைகள் குறித்து பார்வையாளர்களுக்குத் தெரிவிக்க இந்தப் பக்கம் பயன்படுத்தப்படுகிறது. எங்கள் சேவையைப் பயன்படுத்த நீங்கள் தேர்வுசெய்தால், இந்தக் கொள்கையைப் பற்றிய தகவல்களைச் சேகரித்து பயன்படுத்துவதை நீங்கள் ஒப்புக்கொள்கிறீர்கள். நாங்கள் சேகரிக்கும் தனிப்பட்ட தகவல்கள் சேவையை வழங்குவதற்கும் மேம்படுத்துவதற்கும் பயன்படுத்தப்படுகிறது. இந்த தனியுரிமைக் கொள்கையில் விவரிக்கப்பட்டுள்ளதைத் தவிர உங்கள் தகவலை நாங்கள் யாருடனும் பயன்படுத்தவோ பகிரவோ மாட்டோம். இந்த தனியுரிமைக் கொள்கையில் வரையறுக்கப்படாவிட்டால் இந்த தனியுரிமைக் கொள்கையில் பயன்படுத்தப்படும் சொற்கள் எங்கள் விதிமுறைகள் மற்றும் நிபந்தனைகளின் அதே அர்த்தங்களைக் கொண்டுள்ளன, 18 க்குப் பிறகு உயர உயரத்திற்கு அணுகலாம்.
+
+        தகவல் சேகரிப்பு மற்றும் பயன்பாடு
+
+        ஒரு சிறந்த அனுபவத்திற்காக, எங்கள் சேவையைப் பயன்படுத்தும் போது, ​​தனிப்பட்ட முறையில் அடையாளம் காணக்கூடிய தகவலை நாங்கள் உங்களுக்கு வழங்க வேண்டும், இதில் நாங்கள் மட்டுமல்லாமல் தனிப்பட்ட நபரின் ஜிமெயில் ஐடி, பெயர், வயது, உயரம், எடை ஆகியவற்றை சேகரிப்போம். அவர்களின் பிஎம்ஐ (பாடி மாஸ் இன்டெக்ஸ்) படி குறிப்பிட்ட உதவி மற்றும் குறிப்புகள் மூலம் அறிவிப்பைப் பெறுங்கள் மற்றும் அவர்களின் இருப்பிடத்திற்கு ஏற்ப அறிவிப்பு மற்றும் விளம்பரங்களைத் தனிப்பயனாக்கவும். நாங்கள் கோரும் தகவல்கள் எங்களால் தக்கவைக்கப்பட்டு இந்த தனியுரிமைக் கொள்கையில் விவரிக்கப்பட்டுள்ளபடி பயன்படுத்தப்படும். பயன்பாடு உங்களை அடையாளம் காண பயன்படுத்தப்படும் தகவல்களைச் சேகரிக்கும் மூன்றாம் தரப்பு சேவைகளைப் பயன்படுத்துகிறது. பயன்பாட்டால் பயன்படுத்தப்படும் மூன்றாம் தரப்பு சேவை வழங்குநர்களின் தனியுரிமைக் கொள்கைக்கான இணைப்பு
+
+        Google Play சேவைகள் (https://policies.google.com/privacy)
+        AdMob (https://support.google.com/admob/answer/6128543?hl=en)
+        ஃபயர்பேஸ் அனலிட்டிக்ஸ் (https://firebase.google.com/policies/analytics)
+        பேஸ்புக் (https://www.facebook.com/about/privacy)
+        துணி (https://fabric.io/privacy)
+        க்ராஷ்லிடிக்ஸ் (https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+        நீங்கள் எங்கள் சேவைகளைப் பயன்படுத்தும் போது உங்கள் இருப்பிடத்தைப் பற்றிய தகவல்களை நாங்கள் சேகரிக்கிறோம், இது உங்கள் வார இறுதிப் பயணத்திற்கான ஓட்டுநர் திசைகள் அல்லது உங்களுக்கு அருகிலுள்ள திரைப்படங்களுக்கான காட்சி நேரங்கள் போன்ற அம்சங்களை வழங்க உதவுகிறது.
+
+        உங்கள் இருப்பிடத்தை பல்வேறு அளவுகளில் துல்லியத்துடன் தீர்மானிக்க முடியும்:
+
+ஜிபிஎஸ்
+ஐபி முகவரி
+உங்கள் சாதனத்திலிருந்து சென்சார் தரவு
+வைஃபை அணுகல் புள்ளிகள், செல் கோபுரங்கள் மற்றும் புளூடூத்-இயக்கப்பட்ட சாதனங்கள் போன்ற உங்கள் சாதனத்திற்கு அருகிலுள்ள விஷயங்களைப் பற்றிய தகவல்
+நாங்கள் சேகரிக்கும் இருப்பிடத் தரவு வகைகள் உங்கள் சாதனம் மற்றும் கணக்கு அமைப்புகளைப் பொறுத்தது. எடுத்துக்காட்டாக, சாதனத்தின் அமைப்புகள் பயன்பாட்டைப் பயன்படுத்தி உங்கள் Android சாதனத்தின் இருப்பிடத்தை இயக்கலாம் அல்லது முடக்கலாம். உங்கள் உள்நுழைந்த சாதனங்களுடன் நீங்கள் எங்கு செல்கிறீர்கள் என்பதற்கான தனிப்பட்ட வரைபடத்தை உருவாக்க விரும்பினால், நீங்கள் இருப்பிட வரலாற்றையும் இயக்கலாம்.
+
+
+
+விளம்பரம்
+
+
+எங்கள் பயன்பாடுகளைப் பயன்படுத்துவதன் மூலம், உங்களுக்கு விளம்பர உள்ளடக்கம் வழங்கப்படலாம். நாங்கள் அல்லது நாங்கள் பயன்படுத்தும் விளம்பர நெட்வொர்க்குகள் விளம்பரங்கள் வழங்கும் குக்கீகள், பீக்கன்கள், டிராக்கிங் பிக்சல்கள் மற்றும் பிற தொழில்நுட்பங்களைப் பயன்படுத்தும் விளம்பர சேவை தொழில்நுட்பங்களைப் பயன்படுத்தலாம் மற்றும் எங்களோ அல்லது எங்கள் நெட்வொர்க்குகளோ தனிப்பட்ட தகவல்களை சேகரிக்க அனுமதிக்கலாம். வயது மற்றும் பாலினம் போன்ற தனிப்பட்ட அல்லாத தகவல்கள் உங்களுக்கு பொருத்தமான விளம்பரம் வழங்கப்படுவதை உறுதிசெய்ய பயன்படுத்தப்படலாம். விளம்பரத் தகவல் அடையாளங்காட்டிகள் போன்ற பயன்பாட்டுத் தரவு மற்றும் தனிநபர் அல்லாத தகவல்கள் ஒரு விளம்பரத்திற்கு எத்தனை கிளிக்குகள் வந்தன என்பதைத் தீர்மானிக்கப் பயன்படுத்தப்படலாம், விளம்பர பிரச்சாரங்களின் செயல்திறனை அளவிட, கொடுக்கப்பட்ட விளம்பரத்தின் சரியான காட்சிகளின் சரியான அளவு மற்றும்/அல்லது விளம்பரங்களை வழங்க அது உங்கள் நலன்களுடன் சிறந்தது. உங்கள் சாதனம் மற்றும் அதன் இயக்க முறைமையைப் பொறுத்து, உங்கள் சாதனத்தின் விளம்பர அடையாளங்காட்டி ஆர்வம் அடிப்படையிலான விளம்பரத்திற்காகப் பயன்படுத்தப்படுவதைத் தடுக்க அல்லது உங்கள் சாதனத்தின் அமைப்புகளை மாற்றுவதன் மூலம் உங்கள் சாதனத்தின் விளம்பர அடையாளங்காட்டியை மீட்டமைக்கலாம். சிறந்த விளம்பரங்கள் பயனர் உள்ளூர்மயமாக்கல் மற்றும் உள்ளூர் மொழி விளம்பர தனிப்பயனாக்கத்திற்காக விளம்பர வழங்குநர் நிறுவனம் உங்கள் இருப்பிடத்தை எடுக்கலாம்.
+
+
+
+தகவல் சேகரிப்பின் நோக்கம்
+
+
+தனிப்பட்ட அல்லாத தகவல்கள் புள்ளிவிவர மற்றும் ஆராய்ச்சி நோக்கங்களுக்காகவும், எங்கள் பயன்பாடுகளின் தனிப்பயனாக்கம் மற்றும் மேம்பாட்டிற்காகவும் பயன்படுத்தப்படுகிறது
+நீங்கள் மின்னஞ்சல் மூலம் தொடர்பு கொள்ளும்போது உங்களுக்கு பதிலளிக்க தனிப்பட்ட தகவல் பயன்படுத்தப்படுகிறது.
+இருப்பிடம்/ஐபி போன்ற தனிப்பட்ட தகவல்கள் உங்கள் இருப்பிடத்திற்கு ஏற்ப விளம்பரங்களைக் காட்டப் பயன்படுகிறது, இது சூழல் விளம்பரம் என்று அழைக்கப்படுகிறது.
+நாங்கள் உங்களுக்கு/உங்கள் சாதனம் பற்றி சேகரிக்கும் தகவலை உங்களுக்கு சேவைகளை வழங்கவும் எங்கள் வணிகத்தை இயக்கவும் பயன்படுத்துகிறோம். எங்களாலும் எங்கள் கூட்டாளிகளாலும் இத்தகைய பயன்பாடு உள்ளடங்கலாம்:
+எங்கள் சேவைகளை வழங்குதல்: எங்கள் தயாரிப்புகள், சேவைகள் மற்றும் உள்ளடக்கங்களை உருவாக்குதல், வழங்குதல் மற்றும் மேம்படுத்துதல், எங்கள் தயாரிப்புகள் மற்றும் சேவைகளைத் தையல் செய்தல், மென்பொருள் புதுப்பிப்புகள் மற்றும் தயாரிப்பு ஆதரவை வழங்குதல், பயன்பாடுகளின் பயன்பாடு, பயன்பாடுகளை நிர்வகித்தல் மற்றும் வாடிக்கையாளர் தொடர்புகளைப் பற்றிய போக்குகளைப் புரிந்துகொள்வது மற்றும் பகுப்பாய்வு செய்தல்.
+
+விளம்பரங்களைக் காண்பித்தல்: எங்கள் பயன்பாடுகளில் மூன்றாம் தரப்பு விளம்பரங்களைக் காண்பித்தல் மற்றும் பிற வெளியீட்டாளரின் பயன்பாடுகளில் எங்கள் பயன்பாடுகளுக்கான விளம்பரங்களைக் காண்பித்தல். குறுக்கு ஊக்குவிப்பு: எங்கள் பயன்பாடுகள் மற்றும் சேவைகளை ஊக்குவித்தல், அதாவது நீங்கள் எங்களுடைய வித்தியாசமான செயலியை விளையாடும்போது எங்கள் செயலிகளில் ஒன்றை நாங்கள் விளம்பரப்படுத்தலாம்.
+
+பகுப்பாய்வு மற்றும் ஆராய்ச்சி: பயன்பாடுகளின் பயன்பாடு தொடர்பான போக்குகளைப் புரிந்துகொள்வது மற்றும் பகுப்பாய்வு செய்தல், எங்கள் பயனர் தளத்தைப் பற்றிய மக்கள்தொகை தகவல்களைச் சேகரித்தல், ஆப் எங்கிருந்து பதிவிறக்கம் செய்யப்பட்டது என்பது பற்றிய தரவு. ஆராய்ச்சி அல்லது வணிக நுண்ணறிவுக்கான அறிக்கைகள் மற்றும் பகுப்பாய்வுகளை நாங்கள் உருவாக்கலாம், எடுத்துக்காட்டாக, எங்கள் பயன்பாடுகள் மற்றும் சேவைகளில் சாத்தியமான சிக்கல்கள் அல்லது போக்குகளைக் கண்காணிக்க அல்லது எங்கள் புதிய விளையாட்டு அம்சங்கள் மற்றும் உள்ளடக்கத்தை சோதிக்க. நாம் மூன்றாம் தரப்பு சமூக வலைப்பின்னலில் இருந்து பெறும் தரவை உள் பகுப்பாய்வுகளுக்கு மட்டுமே பயன்படுத்துகிறோம். பகுப்பாய்விலிருந்து விலகுவதற்கு தயவுசெய்து இந்த தனியுரிமைக் கொள்கையின் விலகல் பிரிவைப் பார்வையிடவும்.
+
+
+
+பதிவு தரவு
+
+
+நீங்கள் எங்கள் சேவையைப் பயன்படுத்தும் போதெல்லாம், பயன்பாட்டில் பிழை ஏற்பட்டால், உங்கள் தொலைபேசியில் லாக் டேட்டா எனப்படும் தரவு மற்றும் தகவல்களை (மூன்றாம் தரப்பு தயாரிப்புகள் மூலம்) சேகரிப்போம் என்பதை நாங்கள் உங்களுக்குத் தெரிவிக்க விரும்புகிறோம். இந்த பதிவு தரவு உங்கள் சாதன இணைய நெறிமுறை ("ஐபி") முகவரி, சாதனத்தின் பெயர், இயக்க முறைமை பதிப்பு, எங்கள் சேவையைப் பயன்படுத்தும் போது பயன்பாட்டின் உள்ளமைவு, நீங்கள் சேவையைப் பயன்படுத்தும் நேரம் மற்றும் தேதி மற்றும் பிற புள்ளிவிவரங்கள் போன்ற தகவல்களை உள்ளடக்கியிருக்கலாம். . மேலே உள்ள சூழ்நிலையில், உங்கள் PII (தனிப்பட்ட அடையாளம் காணக்கூடிய தகவல்) உங்களைத் தொடர்புகொள்வதற்கும் எங்கள் சேவைகளை மேம்படுத்துவதற்கும் மட்டுமே பயன்படுத்தப்படும் என்று நாங்கள் உத்தரவாதம் அளிக்கிறோம். எங்கள் தயாரிப்புகளை மேலும் சந்தைப்படுத்துவது அல்லது வணிக ஆதாயங்களுக்காக உங்கள் தனிப்பட்ட தகவல்களை மூன்றாம் தரப்பினருக்கு வெளிப்படுத்துவது போன்ற வேறு எந்த நோக்கங்களுக்காகவும் (எ.கா. உங்கள் பெயர் மற்றும் மின்னஞ்சல் முகவரி) நாங்கள் ஒருபோதும் பயன்படுத்த மாட்டோம்.
+
+உங்கள் PII தவறாகப் பயன்படுத்தப்படுவதைப் பற்றி உங்களுக்கு கவலை இருந்தால், அல்லது எங்கள் தனியுரிமைக் கொள்கை மற்றும் அதன் பொருள் பற்றிய கூடுதல் தகவலை நீங்கள் விரும்பினால், தயவுசெய்து எங்களுக்கு drziocure@gmail.com இல் மின்னஞ்சல் அனுப்புங்கள், உங்கள் கேள்விகளுக்கு தெளிவான பதில்களை வழங்க முயற்சிப்போம் நேரம்.
+
+
+
+
+குக்கீகள்
+
+
+எங்கள் சேவையில் செயல்பாட்டைக் கண்காணிக்கவும் குறிப்பிட்ட தகவல்களை வைத்திருக்கவும் குக்கீகள் மற்றும் ஒத்த கண்காணிப்பு தொழில்நுட்பங்களைப் பயன்படுத்துகிறோம். குக்கீகள் என்பது அநாமதேய தனிப்பட்ட அடையாளங்காட்டிகளாக பொதுவாகப் பயன்படுத்தப்படும் சிறிய அளவிலான தரவைக் கொண்ட கோப்புகள். நீங்கள் பார்வையிடும் வலைத்தளங்களிலிருந்து இவை உங்கள் உலாவிக்கு அனுப்பப்பட்டு உங்கள் சாதனத்தின் உள் நினைவகத்தில் சேமிக்கப்படும். இந்த சேவை இந்த "குக்கீகளை" வெளிப்படையாகப் பயன்படுத்துவதில்லை. இருப்பினும், பயன்பாடானது மூன்றாம் தரப்பு குறியீடு மற்றும் நூலகங்களைப் பயன்படுத்தி "குக்கீகளை" பயன்படுத்தி தகவல்களைச் சேகரித்து அவர்களின் சேவைகளை மேம்படுத்தலாம். இந்த குக்கீகளை ஏற்க அல்லது மறுக்க உங்களுக்கு விருப்பம் உள்ளது மற்றும் உங்கள் சாதனத்திற்கு ஒரு குக்கீ எப்போது அனுப்பப்படுகிறது என்பதை அறியவும். எங்கள் குக்கீகளை மறுக்க நீங்கள் தேர்வுசெய்தால், இந்த சேவையின் சில பகுதிகளை உங்களால் பயன்படுத்த முடியாமல் போகலாம்.
+
+நாங்கள் பயன்படுத்தும் குக்கீகளின் உதாரணங்கள்:
+
+அமர்வு குக்கீகள்: எங்கள் சேவையை இயக்க நாங்கள் அமர்வு குக்கீகளைப் பயன்படுத்துகிறோம்.
+முன்னுரிமை குக்கீகள்: உங்கள் விருப்பத்தேர்வுகள் மற்றும் பல்வேறு அமைப்புகளை நினைவில் வைக்க நாங்கள் முன்னுரிமை குக்கீகளைப் பயன்படுத்துகிறோம்.
+பாதுகாப்பு குக்கீகள்: பாதுகாப்பு நோக்கங்களுக்காக நாங்கள் பாதுகாப்பு குக்கீகளைப் பயன்படுத்துகிறோம்.
+
+
+ கொடுப்பனவுகள்
+
+
+சேவைக்குள் பணம் செலுத்திய பொருட்கள் மற்றும்/அல்லது சேவைகளை நாங்கள் வழங்கலாம். அப்படியானால், நாங்கள் மூன்றாம் தரப்பு சேவைகளை கட்டணச் செயலாக்கத்திற்குப் பயன்படுத்துகிறோம் (எ.கா. கட்டணச் செயலிகள்).
+
+உங்கள் கட்டண அட்டை விவரங்களை நாங்கள் சேமிக்கவோ சேகரிக்கவோ மாட்டோம். உங்கள் தனிப்பட்ட தகவலைப் பயன்படுத்துவது அவர்களின் தனியுரிமைக் கொள்கையால் நிர்வகிக்கப்படும் எங்கள் மூன்றாம் தரப்பு கட்டணச் செயலிகளுக்கு அந்தத் தகவல் நேரடியாக வழங்கப்படுகிறது. இந்த கட்டணச் செயலிகள் PCI-DSS ஆல் நிர்ணயிக்கப்பட்ட தரங்களை PCI பாதுகாப்பு தர நிர்ணய கவுன்சிலால் நிர்வகிக்கின்றன, இது விசா, மாஸ்டர்கார்டு, அமெரிக்கன் எக்ஸ்பிரஸ் மற்றும் டிஸ்கவர் போன்ற பிராண்டுகளின் கூட்டு முயற்சியாகும். பிசிஐ-டிஎஸ்எஸ் தேவைகள் பணம் செலுத்தும் தகவலின் பாதுகாப்பான கையாளுதலை உறுதி செய்ய உதவுகின்றன.
+
+நாங்கள் பணிபுரியும் கட்டணச் செயலிகள்:
+
+கூகுள் ப்ளே இன்-ஆப் பேமெண்ட்ஸ் வாங்குதல்
+ அவர்களின் தனியுரிமைக் கொள்கையை https://policies.google.com/privacy இல் பார்க்கலாம்
+
+
+
+ தரவு பாதுகாப்பு
+
+
+உங்கள் தரவின் பாதுகாப்பு எங்களுக்கு முக்கியம் ஆனால் இணையத்தில் எந்த பரிமாற்ற முறையும் அல்லது மின்னணு சேமிப்பு முறையும் 100% பாதுகாப்பானது என்பதை நினைவில் கொள்ளவும். உங்கள் தனிப்பட்ட தரவைப் பாதுகாக்க வணிக ரீதியாக ஏற்றுக்கொள்ளக்கூடிய வழிமுறைகளைப் பயன்படுத்த நாங்கள் முயலும்போது, ​​அதன் முழுமையான பாதுகாப்பிற்கு நாங்கள் உத்தரவாதம் அளிக்க முடியாது.
+
+
+
+
+
+சேவை வழங்குபவர்கள்
+
+
+பின்வரும் காரணங்களுக்காக நாங்கள் மூன்றாம் தரப்பு நிறுவனங்கள் மற்றும் தனிநபர்களை வேலைக்கு அமர்த்தலாம்:
+
+எங்கள் சேவையை எளிதாக்க;
+
+எங்கள் சார்பாக சேவையை வழங்க;
+
+சேவை தொடர்பான சேவைகளைச் செய்ய;
+
+எங்கள் சேவை எவ்வாறு பயன்படுத்தப்படுகிறது என்பதை பகுப்பாய்வு செய்ய எங்களுக்கு உதவ.
+
+இந்த சேவையின் பயனர்களுக்கு இந்த மூன்றாம் தரப்பினருக்கு உங்கள் தனிப்பட்ட தகவலுக்கான அணுகல் இருப்பதை நாங்கள் தெரிவிக்க விரும்புகிறோம். காரணம், எங்கள் சார்பாக அவர்களுக்கு ஒதுக்கப்பட்ட பணிகளைச் செய்வதாகும். இருப்பினும், வேறு எந்த நோக்கத்திற்காகவும் தகவல்களை வெளியிடவோ அல்லது பயன்படுத்தவோ அவர்கள் கடமைப்பட்டிருக்கிறார்கள்.
+
+
+
+
+
+பாதுகாப்பு
+
+
+உங்கள் தனிப்பட்ட தகவலை எங்களுக்கு வழங்குவதில் உங்கள் நம்பிக்கையை நாங்கள் மதிக்கிறோம், எனவே அதைப் பாதுகாப்பதற்கான வணிக ரீதியாக ஏற்றுக்கொள்ளக்கூடிய வழிமுறைகளைப் பயன்படுத்த முயற்சிக்கிறோம். ஆனால் இணையத்தில் எந்த பரிமாற்ற முறையும், அல்லது மின்னணு சேமிப்பு முறையும் 100% பாதுகாப்பானது மற்றும் நம்பகமானது என்பதை நினைவில் கொள்ளுங்கள்.
+
+இருப்பினும், இணையம் அல்லது தொலைபேசி நெட்வொர்க்குகள் வழியாக தகவல் பரிமாற்றம் முற்றிலும் பாதுகாப்பானது அல்ல. உங்கள் தகவலைப் பாதுகாக்க நாங்கள் எங்களால் முடிந்த அனைத்தையும் செய்கிறோம், குறிப்பாக உங்கள் தனிப்பட்ட தரவைப் பாதுகாக்கும்போது,
+
+"டாக்டர். Zio- யோகா ஆசிரியர் "இணையம், தொலைபேசி அல்லது வேறு எந்த நெட்வொர்க்குகள் வழியாக அனுப்பப்படும் உங்கள் தரவின் பாதுகாப்பை உறுதிப்படுத்த முடியாது.
+
+
+
+
+
+பிற தளங்களுக்கான இணைப்புகள்
+
+
+இந்த சேவையில் மற்ற தளங்களுக்கான இணைப்புகள் இருக்கலாம். நீங்கள் மூன்றாம் தரப்பு இணைப்பைக் கிளிக் செய்தால், நீங்கள் அந்த தளத்திற்கு அனுப்பப்படுவீர்கள். இந்த வெளிப்புற தளங்கள் எங்களால் இயக்கப்படவில்லை என்பதை நினைவில் கொள்க. எனவே, இந்த வலைத்தளங்களின் தனியுரிமைக் கொள்கையை மதிப்பாய்வு செய்ய நாங்கள் கடுமையாக அறிவுறுத்துகிறோம். எந்தவொரு மூன்றாம் தரப்பு தளங்கள் அல்லது சேவைகளின் உள்ளடக்கம், தனியுரிமைக் கொள்கைகள் அல்லது நடைமுறைகளுக்கு எங்களுக்கு எந்தக் கட்டுப்பாடும் இல்லை.
+
+
+
+குழந்தைகளின் தனியுரிமை
+
+
+இந்த சேவைகள் 13 வயதிற்குட்பட்ட எவருக்கும் உரையாடவில்லை. 13 வயதிற்குட்பட்ட குழந்தைகளிடமிருந்து தனிப்பட்ட முறையில் அடையாளம் காணக்கூடிய தகவல்களை நாங்கள் தெரிந்தே சேகரிக்கவில்லை. 13 வயதிற்குட்பட்ட குழந்தை எங்களுக்கு தனிப்பட்ட தகவல்களை வழங்கியதை கண்டறிந்தால், இதை உடனடியாக எங்கள் சேவையகங்களிலிருந்து நீக்குகிறோம். நீங்கள் ஒரு பெற்றோர் அல்லது பாதுகாவலராக இருந்தால், உங்கள் குழந்தை எங்களுக்கு தனிப்பட்ட தகவல்களை வழங்கியிருப்பதை நீங்கள் அறிந்திருந்தால், தயவுசெய்து எங்களை தொடர்பு கொள்ளவும், இதனால் நாங்கள் தேவையான செயல்களைச் செய்ய முடியும். இந்த தனியுரிமைக் கொள்கையில் மாற்றங்கள் எங்கள் தனியுரிமைக் கொள்கையை அவ்வப்போது புதுப்பிக்கலாம். எனவே, ஏதேனும் மாற்றங்களுக்கு இந்தப் பக்கத்தை அவ்வப்போது மதிப்பாய்வு செய்ய அறிவுறுத்தப்படுகிறீர்கள். இந்தப் பக்கத்தில் புதிய தனியுரிமைக் கொள்கையை இடுகையிடுவதன் மூலம் ஏதேனும் மாற்றங்களை நாங்கள் உங்களுக்கு அறிவிப்போம். இந்த மாற்றங்கள் இந்த பக்கத்தில் வெளியிடப்பட்ட உடனேயே நடைமுறைக்கு வரும். எங்களைத் தொடர்பு கொள்ளுங்கள் எங்கள் தனியுரிமைக் கொள்கையைப் பற்றி ஏதேனும் கேள்விகள் அல்லது பரிந்துரைகள் இருந்தால், தயவுசெய்து எங்களுக்கு drziocure@gmail.com இல் மின்னஞ்சல் அனுப்புங்கள், உங்கள் கேள்விகளுக்கு சரியான நேரத்தில் தெளிவான பதில்களை வழங்க நாங்கள் முயற்சிப்போம்.
+
+ கலிபோர்னியா ஆன்லைன் தனியுரிமை பாதுகாப்பு சட்டம் CalopPA என்பது தனியுரிமைக் கொள்கையை இடுகையிட வணிக வலைத்தளங்கள் மற்றும் ஆன்லைன் சேவைகள் தேவைப்படும் நாட்டின் முதல் மாநிலச் சட்டம். கலிபோர்னியாவிலிருந்து தனிப்பட்ட முறையில் அடையாளம் காணக்கூடிய தகவல்களை சேகரிக்கும் வலைத்தளங்களை இயக்கும் அமெரிக்காவில் உள்ள எந்த நபரும் அல்லது நிறுவனமும் (கலிஃபோர்னியாவைத் தாண்டி சட்டத்தின் வரம்பு கச்சிதமாக நீண்டுள்ளது. இது பகிரப்படும் நபர்கள் அல்லது நிறுவனங்கள். மேலும் பார்க்கவும்: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+CalOPPA படி, நாங்கள் பின்வருவனவற்றை ஒப்புக்கொள்கிறோம்:
+
+பயனர்கள் அநாமதேயமாக எங்கள் தளத்தைப் பார்வையிடலாம்.
+
+
+
+விளம்பர நெட்வொர்க்குகள் அல்லது செருகுநிரல்கள் உட்பட மூன்றாம் தரப்பினரை 13 வயதிற்குட்பட்ட குழந்தைகளிடமிருந்து பிஐஐ சேகரிக்க அனுமதிக்கிறோமா?
+
+- 13 வயதுக்குட்பட்ட குழந்தைகளுக்கு நாங்கள் குறிப்பாக சந்தைப்படுத்துவதில்லை.
+
+
+
+ பொறுப்பின் கட்டுப்பாடு
+
+
+ டாக்டர். ஜியோ- யோகா ஆசிரியர் ஆப் மூலம் கிடைக்கும் உள்ளடக்கங்களின் துல்லியம், முழுமை அல்லது போதுமான அளவு பற்றி எந்த உரிமைகோரல்களையும், வாக்குறுதிகளையும் அல்லது உத்தரவாதங்களையும் அளிக்கவில்லை மற்றும் ஆப் மூலம் கிடைக்கும் உள்ளடக்கங்களில் பிழைகள் மற்றும் குறைபாடுகளுக்கான பொறுப்பை வெளிப்படையாக மறுக்கிறார்.
+
+-மூன்றாம் தரப்பு உரிமைகள், தலைப்பு, வணிகம், ஒரு குறிப்பிட்ட நோக்கத்திற்கான உடற்தகுதி மற்றும் கணினி வைரஸிலிருந்து சுதந்திரம் ஆகியவற்றை மீறாத உத்தரவாதங்கள் உட்பட, வரையறுக்கப்படாத, மறைமுகமான, வெளிப்படுத்தப்பட்ட அல்லது சட்டரீதியான எந்த உத்தரவாதமும் வழங்கப்படவில்லை. பயன்பாட்டின் மூலம் கிடைக்கும் உள்ளடக்கங்கள் அல்லது பிற இணைய வளங்களுக்கான அதன் இணைப்புகள் ஆப் மூலம் உங்களுக்குக் கிடைக்கலாம்.
+
+எந்தவொரு குறிப்பிட்ட வணிக தயாரிப்புகள், செயல்முறைகள் அல்லது சேவைகள் அல்லது எந்தவொரு வர்த்தகம், நிறுவனம் அல்லது கார்ப்பரேஷன் பெயரின் பயன்பாடும் பயன்பாட்டில் உள்ள குறிப்பு பொதுமக்களின் தகவல் மற்றும் வசதிக்காக உள்ளது மற்றும் டாக்டர் ஒப்புதல், பரிந்துரை அல்லது ஆதரவாக அமையாது. ஜியோ - யோகா ஆசிரியர்.
+
+
+
+ இந்த தனியுரிமை கொள்கையில் மாற்றங்கள்
+
+
+நாங்கள் எங்கள் தனியுரிமைக் கொள்கையை அவ்வப்போது புதுப்பிக்கலாம். எனவே, ஏதேனும் மாற்றங்களுக்கு இந்தப் பக்கத்தை அவ்வப்போது மதிப்பாய்வு செய்ய அறிவுறுத்தப்படுகிறீர்கள். இந்தப் பக்கத்தில் புதிய தனியுரிமைக் கொள்கையை இடுகையிடுவதன் மூலம் ஏதேனும் மாற்றங்களை நாங்கள் உங்களுக்கு அறிவிப்போம். இந்த மாற்றங்கள் இந்த பக்கத்தில் வெளியிடப்பட்ட உடனேயே நடைமுறைக்கு வரும்.
+
+இந்த தனியுரிமைக் கொள்கை உருவாக்கப்பட்டவுடன், எங்கள் இணையதளத்தில் நுழைந்த பிறகு முதல் குறிப்பிடத்தக்க பக்கத்தில், எங்கள் முகப்புப் பக்கத்தில் அல்லது குறைந்தபட்சம் ஒரு இணைப்பைச் சேர்ப்போம்.
+
+உங்களிடம் கேள்விகள் அல்லது கவலைகள் இருந்தால், தயவுசெய்து எங்களுக்கு மின்னஞ்சல் அனுப்பவும் அல்லது drziocure@gmail.com இல் தொடர்பு கொள்ளவும், உங்கள் கவலைகளை நாங்கள் தீர்க்க முயற்சிப்போம்.
+  </string>
+
+
+    <string name = "ntitle1"> முதுகு வலி வொர்க்அவுட்டை காணவில்லை!</string>
+    <string name = "ntitle2"> உங்கள் திட்டத்தை தவறவிடாதீர்கள்!</string>
+    <string name = "ntitle3"> வொர்க்அவுட்டைத் தொடங்க வேண்டிய நேரம் இது!</string>
+    <string name = "ntitle4"> ஏன் இப்போது இல்லை?</string>
+    <string name = "ntitle5"> உங்களை உயர்த்திக் கொள்ளுங்கள்!</string>
+    <string name = "ntitle6"> நேரம் இப்போது!</string>
+    <string name = "ntitle7"> நீங்கள் .. ஆம் நீங்கள் சாதிக்கலாம் ... இங்கே கிளிக் செய்யவும்?</string>
+
+    <string name = "desc1"> ஒருபோதும் கைவிடாதே! நீங்கள் சாதிக்கப் போகிறீர்கள்! 💪🔥</string>
+    <string name = "desc2"> விட்டுக்கொடுக்க நினைக்காதே! 💪🔥</string>
+    <string name = "desc3"> சிறிய வேலை உங்களுக்கு பெரிய வாழ்க்கையை அளிக்கும். தொடருங்கள்! 💪🔥</string>
+    <string name = "desc4"> முயற்சி நேரத்தில் வெற்றி பெறுகிறது! தொடருங்கள்! 💪🔥</string>
+    <string name = "desc5"> விட்டுவிடாதீர்கள்! நீங்கள் கிட்டத்தட்ட அங்கே இருக்கிறீர்கள்! 💪🔥</string>
+    <string name = "desc6"> நல்ல விஷயங்களுக்கு நேரம் எடுக்கும்! ஒருபோதும் கைவிடாதீர்கள்! 💪🔥</string>
+    <string name = "desc7"> மாற்றம் எளிதானது அல்ல! தொடருங்கள்! 💪🔥</string>
+    <string name = "desc8"> வெற்றியாளர் ஒரு கனவு காண்பவர்! ஒருபோதும் கைவிடாதீர்கள்! 💪🔥</string>
+
+    <string name = "icons"> 💪🔥</string>
+    <string name = "strstate"> மாநிலத்தைத் தேர்ந்தெடுக்கவும் <font color = '#FC527F'> *</font></string>
+    <string name = "select_the_country"> நாட்டைத் தேர்ந்தெடுக்கவும் <font color = '#FC527F'> *</font></string>
+
+    <string name = "details1"> இந்த ஆப் தானாக புதுப்பித்தல் சந்தா விருப்பங்களை மேலே வழங்குகிறது:</string>
+    <string name = "details3"> முதுகுவலி புரோவுக்கான கட்டணம் உங்கள் கூகுள் பிளே கணக்கில் வாங்கியதை உறுதி செய்யும் போது கட்டணம் விதிக்கப்படும். உங்கள் முதுகு வலி புரோ
+தற்போதைய சந்தா பில்லிங் காலம் முடிவதற்கு 24 மணி நேரத்திற்கு முன்பே உங்கள் Google Play கணக்கிற்குள் தானாக புதுப்பிக்கப்படும் வரை சந்தா தானாகவே புதுப்பிக்கப்படும். \n நீங்கள் உங்கள் சந்தாவை நிர்வகிக்கலாம் அல்லது உங்கள் Google Play கணக்கு அமைப்புகளில் தானாக மீண்டும் புதுப்பிக்கலாம் வாங்கிய பிறகு. சந்தா காலத்தின் நடுவில் தானாக புதுப்பிப்பதை நீங்கள் முடக்கினால். காலம் முடிவடையும் வரை அனைத்து பிரீமியம் அம்சங்களுக்கும் நீங்கள் இன்னும் அணுகலாம். சந்தா காலத்தின் நடுவில் தானாகப் புதுப்பிப்பதை முடக்க பகுதி ரீஃபண்ட் எதுவும் கொடுக்கப்படாது சந்தா காலத்தின் நடுவில் தானாக புதுப்பிப்பதை நீங்கள் முடக்கினால். காலம் முடிவடையும் வரை அனைத்து பிரீமியம் அம்சங்களுக்கும் நீங்கள் இன்னும் அணுகலாம். சந்தா காலத்தின் நடுவில் தானாகப் புதுப்பிப்பதை முடக்க பகுதி ரீஃபண்ட் எதுவும் வழங்கப்படாது.</string>
+    <string name = "more"> மேலும்</string>
+    <string name = "total"> மொத்தம்</string>
+    <string name = "report"> அறிக்கை</string>
+    <string name = "your_plan"> உங்கள் திட்டம்</string>
+    <string name = "_12_days_left"> 12 நாட்கள் மீதமுள்ளன</string>
+    <string name = "days_left"> நாட்கள் மீதமுள்ளன</string>
+    <string name = "back_pain_relief"> முதுகு வலி நிவாரணம்</string>
+    <string name = "info"> தகவல்</string>
+    <string name = "intermediate_level"> இடைநிலை நிலை</string>
+    <string name = "intermediate"> INTERMEDIATE</string>
+    <string name = "advanced_level"> மேம்பட்ட நிலை</string>
+    <string name = "advanced"> மேம்பட்டது</string>
+    <string name = "weekly_goal"> வாராந்திர இலக்கு</string>
+    <string name = "set">+ அமை</string>
+    <string name = "nutrition_nplan"> ஊட்டச்சத்து \n திட்டம்</string>
+
+
+    <string name = "customize_plan"> தனிப்பயனாக்கு திட்டம்</string>
+    <string name = "customize_nyour_plan"> தனிப்பயனாக்கலாம் \n உங்கள் திட்டம்</string>
+    <string name = "explore_plan"> திட்டத்தை ஆராயுங்கள்</string>
+    <string name = "discover"> கண்டுபிடி</string>
+    <string name = "discover1"> கண்டுபிடி</string>
+    <string name = "daily_tips"> தினசரி குறிப்புகள்</string>
+    <string name = "loading"> ஏற்றுகிறது ...</string>
+    <string name = "all_diets"> அனைத்து உணவுகளும்</string>
+    <string name = "done"> முடிந்தது</string>
+    <string name = "share"> Share</string>
+    <string name = "all_history"> அனைத்து வரலாறும்</string>
+    <string name = "category_name"> வகை பெயர்</string>
+    <string name = "covid_tracker"> கோவிட் டிராக்கர்</string>
+    <string name = "plans_made_for_you"> உங்களுக்காக உருவாக்கப்பட்ட திட்டங்கள்</string>
+    <string name="confirmed_cases"> உறுதிப்படுத்தப்பட்ட வழக்குகள்</string>
+    <string name="deaths"> இறப்புகள்</string>
+    <string name="recoveries"> மீட்டெடுப்புகள்</string>
+    <string name = "city_province"> நகரம்/மாகாணம்</string>
+    <string name="confirmed_ncases"> உறுதிப்படுத்தப்பட்டது\nவழக்குகள்</string>
+    <string name = "my_training"> எனது பயிற்சி</string>
+
+    <string name="reports"> அறிக்கைகள்</string>
+    <string name = "discover_plan"> கண்டுபிடிப்புத் திட்டம்</string>
+    <string name = "covid_19"> கோவிட் -19</string>
+    <string name = "remove_ads"> விளம்பரங்களை அகற்று</string>
+    <string name = "new_apps"> புதிய பயன்பாடுகள்</string>
+    <string name = "share_app"> பயன்பாட்டைப் பகிரவும்</string>
+
+    <string name = "jumping_jacks"> ஜம்பிங் ஜாக்ஸ்</string>
+    <string name = "_1_min"> 1 நிமிடம்</string>
+    <string name="_2_exercises"> 2 பயிற்சிகள்</string>
+    <string name = "edit"> திருத்து</string>
+    <string name = "_5_ft_5_in"> 5 FT 5 IN</string>
+    <string name = "veg"> வெஜ்</string>
+    <string name = "non_veg"> அசைவம்</string>
+    <string name = "height_graph"> உயர வரைபடம்</string>
+    <string name = "please_login_to_unlock_graph"> வரைபடத்தைத் திறக்க உள்நுழையவும் !!!</string>
+    <string name = "weight_graph"> எடை வரைபடம்</string>
+    <string name = "user_info"> பயனர் தகவல்</string>
+    <string name = "premium"> பிரீமியம்</string>
+    <string name = "get_effective_plan_with_premium"> பிரீமியத்துடன் பயனுள்ள திட்டங்களைப் பெறுங்கள்</string>
+    <string name = "_1_month_subscription"> 1 மாத சந்தா</string>
+    <string name = "_6_months_subscriptions"> 6 மாத சந்தா</string>
+    <string name = "_40_off"> 40 % தள்ளுபடி</string>
+    <string name = "life_time"> வாழ்நாள் சந்தா</string>
+    <string name = "_60_off"> 60 % தள்ளுபடி</string>
+    <string name = "unlock_all_the_features"> அனைத்து அம்சங்களையும் திறக்கவும்</string>
+    <string name = "ads_free"> விளம்பரங்கள் இலவசம்</string>
+    <string name = "intermediate1"> இடைநிலை</string>
+    <string name = "advanced1"> மேம்பட்ட</string>
+    <string name = "unlock_all_yoga"> அனைத்து யோகாவையும் திறக்கவும்</string>
+    <string name = "easy_3d_workout_video"> எளிதான 3D பயிற்சி வீடியோ</string>
+    <string name = "set_your_personal_goal"> உங்கள் தனிப்பட்ட இலக்கை அமைக்கவும்</string>
+    <string name = "back_pain_relief_pro"> முதுகு வலி நிவாரண புரோ</string>
+    <string name = "purchase_now"> இப்போது வாங்கவும்</string>
+    <string name = "set_reminder"> நினைவூட்டலை அமைக்கவும்</string>
+    <string name = "user"> பயனர்</string>
+    <string name = "my_profile"> எனது சுயவிவரம்</string>
+    <string name = "google_fit"> Google Fit</string>
+    <string name = "default1"> இயல்புநிலை</string>
+    <string name = "version_1_0"> பதிப்பு 1.0</string>
+    <string name = "nutrition_plan"> ஊட்டச்சத்து திட்டம்</string>
+    <string name = "today_s_plan"> இன்று  \'S திட்டம்</string>
+    <string name = "use_this_plan"> இந்தத் திட்டத்தை பயன்படுத்தவும்</string>
+    <string name = "ad"> விளம்பரம்</string>
+    <string name = "appname"> பயன்பாட்டின் பெயர்</string>
+    <string name = "reminder_text"> நினைவூட்டல் உரை</string>
+    <string name = "please_enter_your_text_here"> தயவுசெய்து உங்கள் உரையை இங்கே உள்ளிடவும்</string>
+    <string name = "fitness_apps"> உடற்பயிற்சி பயன்பாடுகள்</string>
+    <string name="suggested_for_you"> உங்களுக்காக பரிந்துரைக்கப்படுகிறது</string>
+    <string name="suggested_fitness_app"> பரிந்துரைக்கப்பட்ட உடற்பயிற்சி பயன்பாடு</string>
+    <string name = "ads"> விளம்பரங்கள்.</string>
+    <string name = "top_free_apps"> சிறந்த இலவச பயன்பாடுகள்</string>
+    <string name="suggested_banners"> பரிந்துரைக்கப்பட்ட பேனர்கள்</string>
+    <string name = "garena_free_fire"> கரீனா ஃப்ரீ ஃபயர்</string>
+    <string name = "free_fire_is_the"> ஃப்ரீ ஃபயர் என்பது மொபைலில் கிடைக்கும் இறுதி உயிர் ஷூட்டர் விளையாட்டு</string>
+    <string name = "you_re_offline"> நீங்கள் ஆஃப்லைனில் இருக்கிறீர்கள்</string>
+    <string name = "check_your_internet"> உங்கள் இணைய இணைப்பைச் சரிபார்த்து, ஆன்லைனில் திரும்பப் பெற மீண்டும் முயற்சி பொத்தானை அழுத்தவும்</string>
+    <string name = "dr_zio_app_store"> Dr.Zio App Store</string>
+    <string name = "start_with_your_feeet"> உங்கள் ஃபீட் டோகெதர் மற்றும் உங்கள் கைகளை உங்கள் பக்கங்களிலிருந்து தொடங்குங்கள், பின்னர் உங்கள் கால்களைத் தவிர்த்து, உங்கள் கைகளை மேல்நோக்கி குதிக்கவும்.</string>
+    <string name = "other_reason"> வேறு காரணம் ..</string>
+    <string name = "write_your_feedback"> உங்கள் கருத்தை எழுதுங்கள்</string>
+    <string name = "enter_your_paramaters"> உங்கள் பாரமாட்டர்களை உள்ளிடவும்</string>
+    <string name = "get"> GET</string>
+    <string name = "personalized_plan"> தனிப்பட்ட திட்டம்</string>
+    <string name = "get_daily_tips"> நாட்டைச் சேர்ப்பதன் மூலம் உங்கள் மொழியில் தினசரி உதவிக்குறிப்புகளைப் பெறுங்கள்</string>
+    <string name = "select"> தேர்ந்தெடுக்கவும்</string>
+    <string name = "next_2_12"> அடுத்து 2/12</string>
+    <string name = "calf_raise_with_splayed_foot_30s"> 30 வது காலுடன் விளையாடிய கால்ஃப் ரேஸ்</string>
+    <string name = "plank"> பிளாங்</string>
+    <string name = "repeat_day"> நாள் மீண்டும் செய்யவும்</string>
+    <string name = "repeat1"> மீண்டும் செய்யவும்:</string>
+    <string name = "every"> ஒவ்வொரு</string>
+    <string name = "hour_s"> மணி (கள்)</string>
+    <string name = "date"> தேதி</string>
+    <string name = "_12_07_2019"> 12/07/2019</string>
+    <string name = "showing_ads"> விளம்பரங்களைக் காட்டுகிறது ..</string>
+    <string name = "watch_video_to_unlock"> அன்லாக் செய்ய வீடியோவைப் பாருங்கள்</string>
+    <string name = "unlock_free"> இலவசமாகத் திறக்கவும்</string>
+    <string name = "or"> அல்லது</string>
+    <string name = "watch_the_video_to_use_training_nplan_once"> பயிற்சியைப் பயன்படுத்த வீடியோவைப் பாருங்கள் \n திட்டம் ஒருமுறை</string>
+    <string name = "get_premium"> பிரீமியம் கிடைக்கும்</string>
+
+    <string name = "cm"> cm</string>
+    <string name = "inch"> அங்குலம்</string>
+    <string name = "ft"> அடி</string>
+    <string name = "kgs"> Kgs</string>
+    <string name = "lbs"> Lbs</string>
+    <string name = "no_thanks"> இல்லை நன்றி !!</string>
+    <string name = "complete_100_workouts_for_best_results"> சிறந்த முடிவுகளுக்கு 100% உடற்பயிற்சிகளையும் முடிக்கவும்</string>
+    <string name = "_16_0"> 16.0%</string>
+    <string name="we_work_day"><![CDATA[நாங்கள் உங்களுக்காக இரவும் பகலும் வேலை செய்கிறோம். தயவுசெய்து எங்களை மதிப்பிடுங்கள்🙏.]]></string>
+    <string name = "_10"> (10)</string>
+    <string name = "please_wait"> தயவுசெய்து காத்திருங்கள் ....</string>
+    <string name = "quit"> வெளியேறு</string>
+    <string name = "choose_your_language"> உங்கள் மொழியை தேர்வு செய்யவும்:-</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+    <string name = "submit"> சமர்ப்பிக்கவும்</string>
+    <string name = "music_for_workout"> உடற்பயிற்சிக்கான இசை</string>
+    <string name = "choose_from_gallery"> கேலரியில் இருந்து தேர்வு செய்யவும்</string>
+    <string name = "change_background_music"> பின்னணி இசையை மாற்றுங்கள்</string>
+    <string name = "unlock_all_features"> அனைத்து அம்சங்களையும் திறக்கவும்</string>
+    <string name = "to_unlock_this"> இந்த நிலை திறக்க - ஏதேனும் ஒரு விருப்பத்தைத் தேர்வு செய்யவும்.</string>
+    <string name = "complete_n_previous_n_level"> முடிந்தது \n முந்தைய \n நிலை</string>
+    <string name = "watch_n_ads"> பார்க்கவும் \n விளம்பரங்கள்</string>
+    <string name = "buy_n_premium"> வாங்க \n பிரீமியம்</string>
+    <string name = "to_unlock_this_excercise_choose_this_option"> இந்தப் பயிற்சியைத் திறக்க - இந்த விருப்பத்தைத் தேர்வு செய்யவும்.</string>
+    <string name = "buy_premium"> பிரீமியம் வாங்கவும்</string>
+    <string name = "close"> மூடு</string>
+    <string name = "other_users_will_benefit_from_your_review"> உங்கள் மதிப்பாய்வில் பிற பயனர்கள் பயனடைவார்கள்</string>
+    <string name = "please_leave_your_review_on_google_play"> தயவுசெய்து உங்கள் விமர்சனத்தை Google Play இல் விடுங்கள்</string>
+    <string name = "rate_on_google_play"> GOOGLE Play இல் மதிப்பிடவும்</string>
+    <string name = "plan_1"> திட்டம் 1</string>
+    <string name = "dfdfdf"> dfdfdf</string>
+    <string name = "india_cumulative_numbers"> இந்தியா - ஒட்டுமொத்த எண்கள்</string>
+    <string name = "updated_loading"> புதுப்பிக்கப்பட்டது: ஏற்றுகிறது ...</string>
+    <string name = "source_ministry_of_health_and_family_welfare"> ஆதாரம்: சுகாதாரம் மற்றும் குடும்ப நல அமைச்சகம்</string>
+    <string name = "today_cases"> இன்றைய வழக்குகள்</string>
+    <string name = "today_deaths"> இன்றைய இறப்புகள்</string>
+    <string name = "today_recoveries"> இன்று மீட்டெடுப்புகள்</string>
+    <string name = "live_now"> இப்போது வாழ்க</string>
+    <string name = "source_world_health_organization"> ஆதாரம்: உலக சுகாதார நிறுவனம்</string>
+    <string name = "country_region"> நாடு/பகுதி</string>
+    <string name = "new_ncases"> புதிய \n வழக்குகள்</string>
+    <string name = "new_deaths"> புதிய இறப்புகள்</string>
+    <string name = "gujarat"> குஜராத்</string>
+    <string name = "day1"> Day1</string>
+    <string name = "trending"> Trending</string>
+    <string name = "vitamin_b6"> வைட்டமின் B6</string>
+    <string name = "update"> புதுப்பிப்பு</string>
+    <string name = "sdsdsdds"> sdsdsdds</string>
+    <string name = "oct_9"> அக்டோபர் 9</string>
+    <string name = "song_name"> பாடல் பெயர்</string>
+    <string name = "round"> ​​சுற்று</string>
+    <string name = "sun1"> சூரியன்</string>
+    <string name = "water_drink_reminder_app"> வாட்டர் ட்ரிங்க் ரிமைண்டர் ஆப்</string>
+    <string name = "install_now"> இப்போது நிறுவவும்</string>
+    <string name = "temppdsdsd"> Temppdsdsd 💪🔥</string>
+    <string name = "snooze"> SNOOZE</string>
+    <string name = "once"> ஒரு முறை</string>
+    <string name = "prayer_time_wake"> பிரார்த்தனை நேரம் என்னை 9 மணிக்கு எழுப்பி, முதலில் சாப்பிட்டுவிட்டு காலை உணவு</string>
+    <string name = "let_s_do_backpain_exercise_today"> இன்று Backpain உடற்பயிற்சி செய்வோம்.</string>
+    <string name = "reminder_type"> நினைவூட்டல் வகை</string>
+    <string name = "sound"> ​​ஒலி</string>
+    <string name = "repeat_reminder"> நினைவூட்டலை மீண்டும் செய்யவும்</string>
+    <string name = "report_as"> என புகாரளிக்கவும்</string>
+    <string name = "alarm"> அலாரம்</string>
+    <string name = "save_change"> மாற்றங்களைச் சேமிக்கவா?</string>
+    <string name = "are_you_delete"> நீங்கள் நிச்சயமாக நீக்க விரும்புகிறீர்களா?</string>
+    <string name = "yes"> ஆம்</string>
+    <string name = "no"> இல்லை</string>
+    <string name = "deleted"> நீக்கப்பட்டது</string>
+    <string name="confirmation"> உறுதிப்படுத்தல்</string>
+    <string name = "something_went_wrong"> ஏதோ தவறாகிவிட்டது !!</string>
+    <string name = "take_nrest"> எடுத்துக் கொள்ளுங்கள் \n ஓய்வு</string>
+    <string name = "press_the_resume"> அடுத்த பயிற்சிக்கு செல்ல விண்ணப்பத்தை அழுத்தவும்</string>
+    <string name = "is_completed"> முடிந்தது</string>
+    <string name = "completed"> முடிந்தது</string>
+    <string name = "recommand_for_you"> உங்களுக்கான பரிந்துரை</string>
+    <string name = "hated_it"> அதை வெறுத்தேன்</string>
+    <string name = "dislike_it"> விரும்பவில்லை!</string>
+    <string name = "its_ok"> அது சரி</string>
+    <string name = "liked_it"> பிடித்தது!</string>
+    <string name = "loved_it"> விரும்பினேன்</string>
+    <string name = "do_you_like_this_app"> உங்களுக்கு இந்த ஆப் பிடிக்குமா?</string>
+    <string name = "your_feedback_is_useful"> உங்கள் கருத்து பயனுள்ளதாக இருக்கும்</string>
+    <string name = "did_you_hear_the_test_voice"> நீங்கள் சோதனை குரலைக் கேட்டீர்களா?</string>
+    <string name = "error"> பிழை</string>
+    <string name = "latest"> சமீபத்திய</string>
+    <string name = "related_apps"> தொடர்புடைய பயன்பாடுகள்</string>
+    <string name = "treading_apps"> பிரபலமான பயன்பாடுகள்</string>
+    <string name = "please_check_after"> சிறிது நேரம் கழித்து சரிபார்க்கவும்! ..</string>
+    <string name = "prepe_app"> உங்களுக்காக ஆப் தயாரிக்கிறது ...</string>
+    <string name = "are_you_sure"> உறுதியாக இருக்கிறீர்களா?</string>
+    <string name = "drzio_updatestring"> டாக்டர். பயன்பாட்டின் தடையற்ற மற்றும் மேம்பட்ட செயல்திறனுக்காக தயவுசெய்து சமீபத்திய பதிப்பைப் புதுப்பிக்க ஜியோ பரிந்துரைக்கிறது.</string>
+    <string name = "select_gender"> தயவுசெய்து பாலினத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name = "addfood"> உணவைச் சேர்</string>
+    <string name = "news"> புதிய</string>
+    <string name = "you_can_better"> இதை விட நீங்கள் சிறப்பாக செயல்பட முடியும் !!</string>
+    <string name = "perform_better"> செயல்திறன் மோசமானது !!</string>
+    <string name = "perform_okay"> செயல்திறன் சரி</string>
+    <string name = "perform_good"> செயல்திறன் நல்லது !!</string>
+    <string name = "perform_great"> செயல்திறன் சிறந்தது !!</string>
+    <string name = "purchasefeed1"> கொள்முதல் விலை அதிகம்</string>
+    <string name = "purchasefeed2"> பகுப்பாய்வு &amp; பிறகு வாங்குங்கள்</string>
+    <string name = "purchasefeed3"> மற்றவை</string>
+    <string name = "copyright_2021_dr_zio"> பதிப்புரிமை @ 2022 டாக்டர் ஜியோ</string>
+    <string name = "retry"> மீண்டும் முயற்சிக்கவும்</string>
+
+    <string name = "blog"> வலைப்பதிவு </string>
+    <string name = "sett_edu"> உங்கள் சுயவிவரத்தையும் மேலும் அமைப்புகளையும் நிர்வகிக்க இங்கே தட்டவும் </string>
+    <string name = "tap_here"> இங்கே தட்டவும் !!. </string>
+    <string name = "repo_edu"> உங்கள் முன்னேற்றத்தை தொடர்ந்து கண்காணியுங்கள் </string>
+    <string name = "hom_edu"> உங்கள் வொர்க்அவுட்டைத் தொடங்கி ஊட்டச்சத்து மற்றும் தனிப்பயன் திட்டத்தைப் பாருங்கள் </string>
+    <string name = "dis_edu"> அனைத்து வகையான முதுகு வலிக்கும் யோகா திட்டங்களைக் கண்டறியவும் </string>
+    <string name = "blog_edu"> நீங்கள் விரும்பும் தலைப்புகளுக்கான வலைப்பதிவுகள் மற்றும் உதவிக்குறிப்புகளைப் படிக்கவும் </string>
+    <string name = "stor_edu"> Dr. zio </string> இலிருந்து மேலும் பயன்பாடுகளைப் பார்க்கவும்
+    <string name = "menu_edu"> மெனுவுக்கு இங்கே தட்டவும் </string>
+    <string name = "day"> நாள் </string>
+    <string name = "all_app"> அனைத்து ஆப் </string>
+    <string name = "want_uninterrupted"> தடையில்லா விளம்பரமில்லாத பயிற்சி வேண்டுமா? \n இப்போது பிரீமியம் பெறுங்கள்! </string>
+    <string name="admob_openapp" />
+    <string name = "beginner"> ஆரம்பம் </string>
+    <string name = "rate_txt"> இந்த அப்ளிகேஷனில் உங்களுக்கு 5 ஸ்டார் அனுபவத்தை வழங்க நான் மிகவும் கடினமாக உழைக்கிறேன். தயவுசெய்து எனக்கு 5 நட்சத்திர மதிப்பாய்வை எழுதுங்கள். நன்றி! இதன் பொருள் எனக்கு உலகம். </string>
+
+    <string name = "deep_sleep_yoga_and_yog_nindra"> டீப் ஸ்லீப் யோகா மற்றும் யோக் நிந்த்ரா </string>
+    <string name = "yoga_for_insomnia"> இன்சோம்னியாவுக்கான யோகா </string>
+    <string name = "deep_sleep_yoga"> டீப் ஸ்லீப் யோகா </string>
+    <string name = "yog_nindra_effective_sleep"> யோக நித்ரா பயனுள்ள தூக்கம் </string>
+    <string name = "bed_time_yoga"> படுக்கை நேர யோகா </string>
+    <string name = "for_sound_sleep"> ஒலி தூக்கத்திற்கு </string>
+    <string name = "brething_exercise"> சுறுசுறுப்பான உடற்பயிற்சி </string>
+    <string name = "sleep_apnea"> ஸ்லீப் APNEA </string>
+    <string name = "bed_time_yoga_amp_brething_exercise"> <![CDATA[BED TIME YOGA & BRETHINH EXERCISE]]> </string>
+    <string name = "yog_nidra_effective_sleep"> யோக நிந்த்ரா - பயனுள்ள தூக்கம் </string>
+    <string name = "bed_time_for_sound_sleep"> நல்ல தூக்கத்திற்கான படுக்கை நேர யோகா </string>
+    <string name = "bipolar_depresion"> இருமுனை மந்தநிலை </string>
+    <string name="info1">ஏய்! தூக்க பிரச்சனைகளை சமாளிக்க நீங்கள் தயாராக இருப்பது நல்லது. நீங்கள் தூக்க யோகா &amp; ஆம்ப்; கீழே குறிப்பிடப்பட்டுள்ள தியான பயிற்சிகள். ஆரம்பிக்கலாம்! </string>
+    <string name="info2">இந்தத் திட்டத்தில் மிகவும் சவாலான தூக்க தியானப் பயிற்சிகளைக் காணலாம். உங்கள் முழங்கால் வலியை விரைவில் போக்க, அதிக நீட்சி, அதிக உடல் பயிற்சி, எனவே தொடங்குவோம்!</string>
+    <string name="info3">இறுதி சவால்! உங்களுக்காக கடினமான தூக்க தியான பயிற்சிகளை நாங்கள் தயார் செய்துள்ளோம், அது உங்களுக்கு சிறந்த தூக்கத்தை அளிக்கும். இதை செய்வோம்!</string>
+    <string name="ftinch">அடி அங்குலம்</string>
+</resources>

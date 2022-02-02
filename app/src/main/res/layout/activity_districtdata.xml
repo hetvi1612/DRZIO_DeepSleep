@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+
+    android:background="@android:color/white">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/statusbar"
+        android:background="@android:color/white">
+
+        <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+            android:id="@+id/statusbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent" />
+
+        <RelativeLayout
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/statusbar"
+            android:layout_marginBottom="5dp"
+            android:elevation="5dp">
+
+            <ImageView
+                android:id="@+id/icback"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:padding="13dp"
+                android:src="@drawable/ic_arrow_back_black_24dp"
+                android:tint="@color/headercolor" />
+
+           <TextView
+
+                android:id="@+id/tvstatename"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/icback"
+                android:fontFamily="@font/themefont"
+                android:text="@string/covid_tracker"
+                android:textColor="@color/headercolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <LinearLayout
+                android:id="@+id/laystore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="10dp"
+                android:visibility="gone"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/ivbtnstore"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center" />
+
+               <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="More"
+                    android:textColor="@color/headercolor"
+                    android:textSize="10sp" />
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <com.amar.library.ui.StickyScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        app:stickyHeader="@id/stickylayout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="5dp"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/main_border"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingStart="10dp">
+
+                   <TextView
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/fontr_m"
+                        android:text="@string/confirmed_cases"
+                        android:textColor="@color/tabselectedtxt"
+                        android:textSize="14sp" />
+
+
+                   <TextView
+
+                        android:id="@+id/tvcasenum"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/themefont"
+                        android:text="@string/loading"
+                        android:textColor="#50D5E4"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/main_border"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingStart="10dp">
+
+                   <TextView
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/fontr_m"
+                        android:text="@string/deaths"
+                        android:textColor="@color/tabselectedtxt"
+                        android:textSize="14sp" />
+
+                   <TextView
+
+                        android:id="@+id/tvdeathnum"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/themefont"
+                        android:text="@string/loading"
+                        android:textColor="#243C5E"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="5dp"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/main_border"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingStart="10dp">
+
+                   <TextView
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/fontr_m"
+                        android:text="@string/recoveries"
+                        android:textColor="@color/tabselectedtxt"
+                        android:textSize="14sp" />
+
+
+                   <TextView
+
+                        android:id="@+id/tvrecovernum"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/themefont"
+                        android:text="@string/loading"
+                        android:textColor="#0BC98B"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:layout_margin="10dp"
+                    android:layout_weight="1">
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/stickylayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/layerborder1"
+                android:orientation="horizontal">
+
+               <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/fontr_m"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/city_province"
+                    android:textColor="@color/tabselectedtxt"
+                    android:textSize="12sp" />
+
+               <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/fontr_m"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/confirmed_ncases"
+                    android:textColor="@color/tabselectedtxt"
+                    android:textSize="12sp" />
+
+
+               <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/fontr_m"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/deaths"
+                    android:textColor="@color/tabselectedtxt"
+                    android:textSize="12sp" />
+
+
+               <TextView
+
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/fontr_m"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/recoveries"
+                    android:textColor="@color/tabselectedtxt"
+                    android:textSize="12sp" />
+
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/layerborder2"
+                android:orientation="vertical">
+
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rvdistricts"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:nestedScrollingEnabled="false" />
+
+
+                <ProgressBar
+                    android:id="@+id/loadbar"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginBottom="50dp"
+                    android:visibility="gone" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </com.amar.library.ui.StickyScrollView>
+
+</LinearLayout>

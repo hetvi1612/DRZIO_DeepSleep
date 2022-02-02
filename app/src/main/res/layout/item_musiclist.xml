@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/llaymain"
+    android:layoutDirection="ltr"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/ivimg"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/img_song1" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/fontr_r"
+            android:text="@string/song_name"
+
+
+            android:textColor="@color/btitlecolor"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvduration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="04:00"
+
+
+            android:textColor="@color/smalltxtcolor"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivplay"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:padding="8dp"
+            android:src="@drawable/ic_play_arrow_black_24dp"
+            android:visibility="gone"
+            app:tint="#747474" />
+
+        <ImageView
+            android:id="@+id/ivdownload"
+            android:layout_width="50dp"
+
+            android:layout_height="50dp"
+            android:foreground="?attr/selectableItemBackground"
+            android:padding="5dp"
+            android:src="@drawable/download_music"
+            android:visibility="visible"
+            app:tint="#747474" />
+
+        <com.dinuscxj.progressbar.CircleProgressBar
+            android:id="@+id/circleprog"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:visibility="gone"
+            app:drawBackgroundOutsideProgress="true"
+            app:line_count="30"
+            app:line_width="4dp"
+            app:progress_background_color="#747474"
+            app:progress_blur_radius="5dp"
+            app:progress_blur_style="solid"
+            app:progress_end_color="#BA9C9C"
+            app:progress_shader="sweep"
+            app:progress_start_color="#FF2600"
+            app:progress_start_degree="-90"
+            app:progress_stroke_cap="round"
+            app:progress_stroke_width="1dp"
+            app:progress_style="solid_line"
+            app:progress_text_color="@color/black"
+            app:progress_text_size="10dp" />
+    </RelativeLayout>
+    <!--   <ImageView
+           android:id="@+id/ivplay"
+           android:layout_width="50dp"
+           android:layout_height="50dp"
+           android:src="@drawable/ic_play_arrow_black_24dp"
+           android:padding="8dp"
+           app:tint="@color/smalltxtcolor" />-->
+
+</LinearLayout>

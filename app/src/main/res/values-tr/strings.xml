@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> 1 Derin Uyku Yogası</string>
+    <string name="picker_box_arrows_icon">seçici kutu okları simgesi</string>
+    <string name="favtitle">En sevdiğiniz antrenmanları buraya ekleyin.❤tercihlerinize göre kendi antrenman planlarınızı özelleştirin.</string>
+
+    <string name="mon">Pazartesi</string>
+    <string name="tu">Salı</string>
+    <string name="wed">Çarşamba</string>
+    <string name="thri">Perşembe</string>
+    <string name="fri">Cuma</string>
+    <string name="sat">Cumartesi</string>
+    <string name="sun">Pazar</string>
+    <string name="facebook_app_id">394103198201105</string>
+    <string name="exename1">Kedi İnek Duruşu (Majaryasana – Bitilasana) </string>
+
+    <string name="exename2">Bhastrika Pranayama Yoga</string>
+
+    <string name="exename3">Yatan Sınırlı Açı Pozu (Supta Baddha Konasana)</string>
+
+    <string name="exename4">Oturarak yarım omurga bükülmesi pozu (Ardha Matsyendrasana)</string>
+
+    <string name="exename5">Oturarak Geniş Açı Pozu (Upavistha Konasana)</string>
+
+    <string name="exename6">Shanmukhi mudra</string>
+
+    <string name="exename7">Rüzgarı Gideren poz (Pavanamuktasana) </string>
+
+    <string name="exename8">İplikten İğneye (Parsva Balasana)</string>
+
+    <string name="exename9">Saban Duruşu (Halasan)</string>
+
+    <string name="exename10">Kahraman Duruşu (Virasana )</string>
+
+    <string name="exename11">Nadi Shodhan Pranayam</string>
+
+    <string name="exename12">Yıldırım Duruşu (Vajrasana)</string>
+
+    <string name="exename13">Dans Duruşunun Efendisi (Natarajasana)</string>
+
+    <string name="exename14">Vakrasana (Yarı Spinal Büküm Duruşu)</string>
+
+    <string name="exename15">Çocuk pozu (Hare Pose) (Balasana) </string>
+
+    <string name="exename16">kapalbhati Pranayama</string>
+
+    <string name="exename17">Oturmuş Öne Bükme (Paschimottanasana)</string>
+
+    <string name="exename18">Bacakları Duvara Kaldırma Duruşu (Viparita Karani)</string>
+
+    <string name="exename19">İleriye Bükme (Hasta Padasana)</string>
+
+    <string name="exename20">Dağ Duruşu (Tadasan)</string>
+
+    <string name="exename21">Sırtüstü Spinal Büküm (Supta Matsyendrasana)</string>
+
+    <string name="exename22">Sandalye duruşu (Utkatasana) </string>
+
+    <string name="exename23">Balık Duruşu (Matsyasanaa)</string>
+
+    <string name="exename24">Bekarlığın Duruşu (Brahmacharyasana)</string>
+
+    <string name="exename25">Baştan dizlere öne eğilme (Janu Sirsasana)</string>
+
+
+    <string name="exedesc1">Arka gövdeyi ve boynu esnetir, karın organlarını yumuşak bir şekilde uyarır ve güçlendirir. Omurgayı doğru hizaya getirir ve düzenli olarak uygulandığında sırt ağrısını önlemeye yardımcı olabilir.</string>
+
+    <string name="exedesc2">Akciğerler ve tekrarlayan öksürük, grip, solunum sorunları, alerji veya nefes darlığı çeken kişiler için idealdir. Kafaya artan kan akışı, görme ve işitmeyi iyileştirir. Solunum sistemi hızlı ve derinlemesine temizlendiği için akciğerler güçlenir ve bronşite faydalıdır. •Vücuda ve zihne enerji vermek için harikadır</string>
+
+    <string name="exedesc3">Sindirim ve üreme sistemlerini yatıştırır ve irritabl bağırsak hastalığı, kısırlık, adet bozuklukları, sindirim sorunları, menopoz vb. durumları tedavi eder.•Kasıklarınıza, iç uyluklarınıza ve dizlerinize iyi bir esneme sağlar. .•Kas gerginliğini azaltır, yorgunluk ve uykusuzluktan kurtarır. Ayrıca zihni sakinleştirir </string>
+
+    <string name="exedesc4">Besin, kan ve oksijen sağlar, üreme sistemi ve üriner sistemin sağlığını iyileştirir. Adet düzensizliklerine iyi gelir ve omurgaya enerji verir,•Karaciğer ve böbrekleri uyarır </string >
+
+    <string name="exedesc5">Karın organlarını uyarır. Karın, omurga ve bacakları güçlendirir ve tonlandırır. • Siyatik ve artriti iyileştirmeye ve rahatlatmaya yardımcı olur. Böbrekleri detoksifiye eder.
+ </string>
+
+    <string name="exedesc6">Ellerin ve parmakların ısısı ve pranası yüz kaslarını uyardığı ve gevşettiği için yüz kasları ve görünüm için harikadır.•Anksiyeteyi yönetmek ve olumsuz entelektüel kalıpları ortadan kaldırmak için faydalıdır.•Duyu organlarını ve sonraki aşamaları uyarır. geri çekilme.•Odaklanma, içe kapanma ve sakinlik getirir </string>
+
+    <string name="exedesc7">Sırt ve karın kaslarını esnetir ve güçlendirir. •Sindirime ve gaz çıkışına yardımcı olur. Yağ yakımını tetikler.•Bacak ve kollardaki kasları güçlendirir.•Kalça eklemlerindeki kan dolaşımını iyileştirir</string>
+
+    <string name="exedesc8">Üst göğüs kaslarınızı nazikçe esnetir.•Omuzunuzun üst ve dış kaslarını açar.•Üst ekstremite kan dolaşımını artırır. </string>
+
+    <string name="exedesc9">Sırtın esnekliğini teşvik eder ve bacakların arkası boyunca uzanan kasları esnetir. • Boyun, omuz, karın ve sırt kaslarını güçlendirir ve açar </string>
+
+    <string name="exedesc10">Kolları ve omuzları güçlendirir, omurgayı esnek tutar. Beyni daha fazla kanla besler. </string>
+
+    <string name="exedesc11">Ayrıca saman nezlesine, hapşırmaya veya hırıltılı solunuma neden olan solunum yolu alerjilerini hafifletmeye yardımcı olur•Kişiliğimizin mantıksal ve duygusal yönleriyle ilişkili olan beynin sol ve sağ yarım kürelerini uyumlu hale getirmeye yardımcı olur.</string>
+
+    <string name="exedesc12">Sindirimi iyileştirir, kabızlık ve asitle mücadele eder.•Adet düzensizliğini hafifletir.•Üreme organlarının ve tiroid bezinin işleyişini düzenler.•Pelvik kasları güçlendirir </string>
+
+    <string name="exedesc13">Poz Kozmik Enerjiyi sembolize eder ve bunu yaptığınızda Evrenin akışında dans edersiniz.•Göğsü, omuzları, kuadrisepsleri, karın dahil ön bedeni esnetir ve güçlendirir.•Üst tarafı esnetir sırt, kuadriseps, ayak bilekleri, ayaklar, uyluklar, kasıklar ve mide•Dengeyi iyileştirir </string>
+
+    <string name="exedesc14">Kalbi, böbrekleri, karaciğeri, dalağı ve akciğerleri uyarır.•Karın yağını azaltmaya yardımcı olur, böbreği güçlendirir, •Şeker hastalığını önlemeye ve kontrol altına almaya yardımcı olur.•Sırt kaslarını güçlendirir ve sırt ağrılarını azaltır. </string>
+
+    <string name="exedesc15">Kabızlıktan kurtulmaya yardımcı olur.•Bu, böbreküstü bezlerinin iyi çalışmasına yol açar. Sırt kaslarını esnetir ve onları güçlendirir.•Hem erkek hem de dişi üreme organlarının sağlığını iyileştirir </string>
+
+    <string name="exedesc16">Metabolik hızı artırır ve kilo vermeye yardımcı olur•Sindirim sistemi işleyişini, besin maddelerinin emilimini ve asimilasyonunu iyileştirir•Sinir sistemine enerji verir ve beyin hücrelerini canlandırır•Kan dolaşımını iyileştirir ve yüze parlaklık katar• karın organlarını uyarır ve bu nedenle şeker hastaları için son derece yararlıdır•Hafıza ve konsantrasyon gücünü geliştirir </string>
+
+    <string name="exedesc17">Epifiz, hipotalamus ve hipofiz bezlerinin çalışmasını uyarır ve Boydan sorumlu olan Büyüme hormonunun salgılanmasına yardımcı olur. •Sırt, omuz ve kol kaslarını güçlendirir. </string>
+
+    <string name="exedesc18">Yorgun veya sıkışık bacakları ve ayakları rahatlatır•Baş ağrılarını hafifletir•Bel ağrısını hafifletir•Zihni sakinleştirir
+ </string>
+
+    <string name="exedesc19">Sinir sistemini canlandırır ve boydan sorumlu Büyüme hormonu salgılayan hipofiz bezinde uygun kan dolaşımını destekler. Omurga ile birlikte sırt ve alt vücut kaslarını da esnetir. </string>
+
+    <string name="exedesc20">Bacak kaslarını güçlendirir, bacaklarda ve kalçalardaki sertliği giderir, sırt ağrılarını ve boyun burkulmalarını giderir, göğsü geliştirir ve ayak bileklerini güçlendirir.</string>
+
+    <string name="exedesc21">Diz aşağı büküm, sırtı yeniden hizalar, kasları esnetir ve omurgayı uzatır ve omurga disklerini nemlendirir.•Omuzlarınıza, göğsünüze, orta omurganıza, kalçalarınıza, alt sırtınıza ve üst sırtınıza iyi bir görünüm kazandırır. streç.•İç organlara taze kan akışını teşvik eder ve iç organlarınıza tam bir detoks sunar </string>
+
+    <string name="exedesc22">Sırt ve karın kaslarını esnetir ve güçlendirir. •Sindirime ve gaz çıkışına yardımcı olur. Yağ yakımını tetikler.•Bacak ve kollardaki kasları güçlendirir.•Kalça eklemlerindeki kan dolaşımını iyileştirir.</string>
+
+    <string name="exedesc23">Boynunuzdaki, boğazınızdaki ve omuzlarınızdaki gerginliği giderir. Karnınızın ve boğazınızın organlarını esnetir ve uyarır.
+ </string>
+
+    <string name="exedesc24">Metabolik hızı arttırır ve kilo vermeye yardımcı olur. Sindirim sisteminin işleyişini, emilimini ve besinlerin asimilasyonunu iyileştirir.Sinir sistemine enerji verir ve beyin hücrelerini gençleştirir.Kan dolaşımını iyileştirir ve yüze ışıltı katar. karın organlarını uyarır ve bu nedenle şeker hastaları için son derece faydalıdır. Hafıza ve konsantrasyon gücünü geliştirir. </string>
+
+    <string name="exedesc25">Kollarınızda, omuzlarınızda ve bacaklarınızda güç oluştururken hamstringlerinizi, omuzlarınızı, baldırlarınızı, kemerlerinizi, ellerinizi ve omurganızı tamamen esnetir. Kan dolaşımını uyarır. Yüksekliği artırmak için tüm vücut germe için mükemmel bir egzersizdir.</string>
+
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+
+    <string name="add_exercise">Alıştırma ekle</string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name="please_check_your_internet_connection">Lütfen İnternet Bağlantınızı Kontrol Edin !!!</string>
+    <string name="refresh">Yenile</string>
+    <string name="start">BAŞLAT</string>
+    <string name="previous">Önceki</string>
+    <string name="next">Sonraki</string>
+    <string name="tips">İpuçları</string>
+    <string name="history">Geçmiş</string>
+    <string name="com_continue">Devam</string>
+    <string name="reminder">Hatırlatıcı</string>
+    <string name="calculate_bmi">BMI hesaplayın</string>
+    <string name="weight">AĞIRLIK :</string>
+    <string name="weight1">Ağırlık</string>
+    <string name="bmi_kg_m">BMI (KG/M²)</string>
+    <string name="calories">Kaloriler</string>
+    <string name="exercises">Alıştırmalar</string>
+    <string name="duration">Süre</string>
+    <string name="ready_to_go">Gitmeye hazır!</string>
+    <string name="skip">SKIP</string>
+    <string name="reset">Sıfırla</string>
+    <string name="add">EKLE</string>
+    <string name="video">VİDEO</string>
+    <string name="animation">ANİMASYON</string>
+    <string name="txt_weekgoal">Haftalık hedef belirleyin</string>
+    <string name="save">KAYDET</string>
+    <string name="user_age">Yaş</string>
+    <string name="user_gender">Cinsiyet</string>
+    <string name="user_male">Erkek</string>
+    <string name="user_height">Yükseklik</string>
+    <string name="user_weight">Ağırlık</string>
+    <string name="user_meal">Yemek</string>
+    <string name="rest_day">Dinlenme Günü</string>
+    <string name="finished">BİTTİ</string>
+    <string name="diet_list">Diyet Listesi</string>
+    <string name="no_internet">İnternet Bağlantısı Yok !!</string>
+    <string name="set_your_weekly_goal">HAFTALIK HEDEFİNİZİ BELİRLE</string>
+    <string name="recommandedtxt">Daha iyi bir sonuç için haftada en az 3 gün antrenman yapmanızı öneririz</string>
+    <string name="training_days">Eğitim günleri</string>
+    <string name="first_day_of_week">Haftanın ilk günü</string>
+    <string name="to_set_regional_plan">BÖLGESEL PLAN AYARLAMAK İÇİN</string>
+    <string name="select_state">Durumu Seç</string>
+    <string name="select_city">Şehir Seç</string>
+    <string name="what_s_your_gender">Kim olduğunuzu seçin?</string>
+    <string name="to_personalize_your_plan">Planınızı kişiselleştirmek için</string>
+    <string name="female">Kadın</string>
+    <string name="male">Erkek</string>
+    <string name="diet_plan">Diyet Planı</string>
+    <string name="vegetarian">Vejetaryen</string>
+    <string name="non_nvegetarian">Vejetaryen olmayan</string>
+    <string name="vegan">Vegan</string>
+    <string name="how_old_are_you">Kaç yaşındasın?</string>
+    <string name="calculate">Hesapla</string>
+    <string name="ok">Tamam</string>
+    <string name="mute">Sesi kapat</string>
+    <string name="voice_guide">Sesli kılavuz</string>
+    <string name="coach_tips">Koç ipuçları</string>
+    <string name="sound_options">Ses seçenekleri</string>
+    <string name="please_name_your_plan">Lütfen planınızı adlandırın</string>
+    <string name="cancel">İPTAL</string>
+    <string name="give_up">VAZGEÇ</string>
+    <string name="please_set_reminder">Lütfen hatırlatıcı ayarlayın</string>
+    <string name="restart">YENİDEN BAŞLAT</string>
+    <string name="having_a_beautiful_body_has_never_easy">Güzel bir vücuda sahip olmak hiçbir zaman kolay olmadı!</string>
+    <string name="settings">Ayarlar</string>
+    <string name="test_voice">Sesi Test Et</string>
+    <string name="workout">ANTRENMAN</string>
+    <string name="remind_me_to_workout_every_day">Bana her gün antrenman yapmamı hatırlat</string>
+    <string name="voice_options_tts">SES SEÇENEKLERİ (TTS)</string>
+    <string name="voice_language">Ses Dili</string>
+    <string name="download_more_tts_language_data">Daha Fazla TTS Dili verisi indirin</string>
+    <string name="device_tts_setting">Cihaz TTS Ayarı</string>
+    <string name="general_settings">GENEL AYARLAR</string>
+    <string name="language_options">Dil seçenekleri</string>
+    <string name="restart_progress">İlerlemeyi Yeniden Başlat</string>
+    <string name="support_us">BİZİ DESTEKLEYİN</string>
+    <string name="rate_us">Bize puan verin</string>
+
+    <string name="share_with_friends">Arkadaşlarınızla paylaşın</string>
+    <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="repeat">Tekrar</string>
+    <string name="aboveage">18 Yaş Üstü</string>
+    <string name="nextexespeech">bir sonraki alıştırma</string>
+    <string name="startspeech">egzersizi başlatma</string>
+
+
+    <string name="feed1">Tasarımını beğenmedim</string>
+    <string name="feed2">İhtiyacım olan fonksiyonlara sahip değil</string>
+    <string name="feed3">Kullanımı kolay değil</string>
+    <string name="feed4">Çok karmaşık</string>
+    <string name="feed5">Çeviri zayıf</string>
+    <string name="reminderdialtxt"><u>Neden %100 sonuç için kendinize hatırlatmıyorsunuz?</u></string>
+
+    <string name="terms">Bir hesap oluşturmak, sizin için sorun olmadığı anlamına gelir</string>
+
+    <string name="tandc"><u>Hizmet şartları</u></string>
+    <string name="privacy"><u>Gizlilik politikası</u></string>
+
+    <string name="tvbmis"><u>BMI hesaplayın</u></string>
+
+    <string name="tvmoretips"><u>Daha Fazla İpucu >></u></string>
+    <string name="tvmoredetail"><u>Daha Fazla Ayrıntı >></u></string>
+
+    <string name="termstxt">Uygulamayı indirerek veya kullanarak bu şartlar sizin için otomatik olarak geçerli olacaktır – bu nedenle uygulamayı kullanmadan önce bunları dikkatlice okuduğunuzdan emin olmalısınız. Uygulamayı, uygulamanın herhangi bir bölümünü veya ticari markalarımızı hiçbir şekilde kopyalamanıza veya değiştirmenize izin verilmez. Uygulamanın kaynak kodunu çıkarmaya çalışmanıza izin verilmez ve ayrıca uygulamayı başka dillere çevirmeye veya türev sürümler oluşturmaya çalışmamalısınız. Uygulamanın kendisi ve onunla ilgili tüm ticari markalar, telif hakkı, veritabanı hakları ve diğer fikri mülkiyet hakları hala Dr. Zio\\\'ya aittir.
+
+Dr. Zio, uygulamanın mümkün olduğunca faydalı ve verimli olmasını sağlamaya kendini adamıştır. Bu nedenle, herhangi bir zamanda ve herhangi bir nedenle uygulamada değişiklik yapma veya hizmetleri için ücret alma hakkını saklı tutarız. Tam olarak ne için ödeme yaptığınızı size açıkça belirtmeden, uygulama veya hizmetleri için sizden asla ücret almayacağız.
+
+“18 Sonrası Boy Artır” uygulaması, bize vermiş olduğunuz kişisel verileri daha iyi hizmet verebilmek için saklar ve işler. Telefonunuzu ve uygulamaya erişimi güvenli tutmak sizin sorumluluğunuzdadır. Bu nedenle, cihazınızın resmi işletim sistemi tarafından dayatılan yazılım kısıtlamalarını ve sınırlamalarını kaldırma işlemi olan telefonunuzu jailbreak veya root yapmamanızı öneririz. Telefonunuzu kötü amaçlı yazılımlara/virüslere/kötü amaçlı programlara karşı savunmasız hale getirebilir, telefonunuzun güvenlik özelliklerini tehlikeye atabilir ve bu uygulamanın düzgün veya hiç çalışmadığı anlamına gelebilir.
+
+Dr. Zio\'nun sorumluluk almayacağı bazı şeyler olduğunu bilmelisiniz. Uygulamanın belirli işlevleri, uygulamanın etkin bir internet bağlantısına sahip olmasını gerektirir. Bağlantı Wi-Fi olabilir veya mobil ağ sağlayıcınız tarafından sağlanabilir, ancak Dr. Zio, Wi-Fi erişiminiz yoksa ve herhangi birine sahip değilseniz, uygulamanın tam işlevsellikte çalışmamasından sorumlu tutulamaz. veri ödeneğiniz kaldı.
+
+Uygulamayı Wi-Fi olan bir alanın dışında kullanıyorsanız, mobil ağ sağlayıcınızla yaptığınız sözleşmenin şartlarının geçerli olacağını unutmamalısınız. Sonuç olarak, uygulamaya erişirken bağlantı süresince veri maliyeti veya diğer üçüncü taraf ücretleri için mobil sağlayıcınız tarafından sizden ücret alınabilir. Uygulamayı kullanırken, veri dolaşımını kapatmadan uygulamayı kendi ülkeniz (yani bölge veya ülke) dışında kullanırsanız, dolaşım veri ücretleri de dahil olmak üzere bu tür ücretlerin sorumluluğunu kabul etmiş olursunuz. Uygulamayı kullandığınız cihazın fatura ödeyen tarafı siz değilseniz, uygulamayı kullanmak için fatura ödeyen kişiden izin aldığınızı varsaydığımızı lütfen unutmayın. Aynı şekilde, Dr. Zio, uygulamayı kullanma şekliniz konusunda her zaman sorumluluk alamaz. Örneğin, cihazınızın şarjlı kaldığından emin olmanız gerekir – pili biterse ve Hizmeti kullanmak için açamazsanız, Dr. Zio sorumluluk kabul edemez. Uygulamayı kullanmanızla ilgili olarak Dr. Zio\'nun sorumluluğuyla ilgili olarak, uygulamayı kullanırken, her zaman güncel ve doğru olmasını sağlamaya çalışmamıza rağmen, üçüncü taraflara güvendiğimizi unutmamak önemlidir. size bilgi verebilmemiz için bize bilgi sağlamak. Dr. Zio, tamamen uygulamanın bu işlevselliğine güvenmenizin bir sonucu olarak yaşadığınız doğrudan veya dolaylı hiçbir kayıp için hiçbir sorumluluk kabul etmez. Bir noktada, uygulamayı güncellemek isteyebiliriz. Uygulama şu anda Android\'de mevcuttur - sistem gereksinimleri (ve uygulamanın kullanılabilirliğini genişletmeye karar verdiğimiz ek sistemler için) değişebilir ve uygulamayı kullanmaya devam etmek istiyorsanız güncellemeleri indirmeniz gerekir. Dr. Zio, sizinle alakalı olması ve/veya cihazınıza yüklediğiniz Android sürümüyle çalışması için uygulamayı her zaman güncelleyeceğine söz vermez. Ancak, size teklif edildiğinde uygulamaya ilişkin güncellemeleri her zaman kabul edeceğinize söz verirsiniz, ayrıca uygulamayı sağlamayı durdurmak isteyebiliriz ve size herhangi bir fesih bildiriminde bulunmaksızın uygulamayı herhangi bir zamanda sonlandırabiliriz. Size aksini söylemediğimiz sürece, herhangi bir fesih üzerine, (a) bu şartlarda size verilen haklar ve lisanslar sona erecektir; (b) uygulamayı kullanmayı bırakmalı ve (gerekirse) cihazınızdan silmelisiniz.</string>
+
+    <string name="policytxt">Genel Politika Uygulamayı indirerek veya kullanarak bu şartlar sizin için otomatik olarak geçerli olacaktır – bu nedenle uygulamayı kullanmadan önce bunları dikkatlice okuduğunuzdan emin olmalısınız. Uygulamayı, uygulamanın herhangi bir bölümünü veya ticari markalarımızı hiçbir şekilde kopyalamanıza veya değiştirmenize izin verilmez. Uygulamanın kaynak kodunu çıkarmaya çalışmanıza izin verilmez ve ayrıca uygulamayı başka dillere çevirmeye veya türev sürümler oluşturmaya çalışmamalısınız. Uygulamanın kendisi ve onunla ilgili tüm ticari markalar, telif hakkı, veritabanı hakları ve diğer fikri mülkiyet hakları hala Dr. Zio\'ya aittir.
+        Dr. Zio, uygulamanın mümkün olduğunca faydalı ve verimli olmasını sağlamaya kendini adamıştır. Bu nedenle, herhangi bir zamanda ve herhangi bir nedenle uygulamada değişiklik yapma veya hizmetleri için ücret alma hakkını saklı tutarız. Tam olarak ne için ödeme yaptığınızı size açıkça belirtmeden, uygulama veya hizmetleri için sizden asla ücret almayacağız.
+        “Sırt Ağrıları uygulaması” bize vermiş olduğunuz kişisel verilerinizi daha iyi hizmet verebilmek için saklar ve işler. Telefonunuzu ve uygulamaya erişimi güvenli tutmak sizin sorumluluğunuzdadır. Bu nedenle, cihazınızın resmi işletim sistemi tarafından dayatılan yazılım kısıtlamalarını ve sınırlamalarını kaldırma işlemi olan telefonunuzu jailbreak veya root yapmamanızı öneririz. Telefonunuzu kötü amaçlı yazılımlara/virüslere/kötü amaçlı programlara karşı savunmasız hale getirebilir, telefonunuzun güvenlik özelliklerini tehlikeye atabilir ve bu uygulamanın düzgün veya hiç çalışmadığı anlamına gelebilir.
+        Dr. Zio\'nun sorumluluk almayacağı bazı şeyler olduğunu bilmelisiniz. Uygulamanın belirli işlevleri, uygulamanın etkin bir internet bağlantısına sahip olmasını gerektirir. Bağlantı Wi-Fi olabilir veya mobil ağ sağlayıcınız tarafından sağlanabilir, ancak Dr. Zio, Wi-Fi erişiminiz yoksa ve herhangi birine sahip değilseniz, uygulamanın tam işlevsellikte çalışmamasından sorumlu tutulamaz. veri ödeneğiniz kaldı.
+        Uygulamayı Wi-Fi olan bir alanın dışında kullanıyorsanız, mobil ağ sağlayıcınızla yaptığınız sözleşmenin şartlarının geçerli olacağını unutmamalısınız. Sonuç olarak, uygulamaya erişirken bağlantı süresince veri maliyeti veya diğer üçüncü taraf ücretleri için mobil sağlayıcınız tarafından sizden ücret alınabilir. Uygulamayı kullanırken, veri dolaşımını kapatmadan uygulamayı kendi ülkeniz (yani bölge veya ülke) dışında kullanırsanız, dolaşım veri ücretleri de dahil olmak üzere bu tür ücretlerin sorumluluğunu kabul etmiş olursunuz. Uygulamayı kullandığınız cihazın fatura ödeyen tarafı siz değilseniz, uygulamayı kullanmak için fatura ödeyen kişiden izin aldığınızı varsaydığımızı lütfen unutmayın. Aynı şekilde, Dr. Zio, uygulamayı kullanma şekliniz konusunda her zaman sorumluluk alamaz. Örneğin, cihazınızın şarjlı kaldığından emin olmanız gerekir – pili biterse ve Hizmeti kullanmak için açamazsanız, Dr. Zio sorumluluk kabul edemez. Uygulamayı kullanmanızla ilgili olarak Dr. Zio\'nun sorumluluğuyla ilgili olarak, uygulamayı kullanırken, her zaman güncel ve doğru olmasını sağlamaya çalışmamıza rağmen, üçüncü taraflara güvendiğimizi unutmamak önemlidir. size bilgi verebilmemiz için bize bilgi sağlamak. Dr. Zio, tamamen uygulamanın bu işlevselliğine güvenmenizin bir sonucu olarak yaşadığınız doğrudan veya dolaylı hiçbir kayıp için hiçbir sorumluluk kabul etmez. Bir noktada, uygulamayı güncellemek isteyebiliriz. Uygulama şu anda Android\'de mevcuttur - sistem gereksinimleri (ve uygulamanın kullanılabilirliğini genişletmeye karar verdiğimiz ek sistemler için) değişebilir ve uygulamayı kullanmaya devam etmek istiyorsanız güncellemeleri indirmeniz gerekir. Dr. Zio, sizinle alakalı olması ve/veya cihazınıza yüklediğiniz Android sürümüyle çalışması için uygulamayı her zaman güncelleyeceğine söz vermez. Ancak, size teklif edildiğinde uygulamaya ilişkin güncellemeleri her zaman kabul edeceğinize söz verirsiniz, ayrıca uygulamayı sağlamayı durdurmak isteyebiliriz ve size herhangi bir fesih bildiriminde bulunmaksızın uygulamayı herhangi bir zamanda sonlandırabiliriz. Size aksini söylemediğimiz sürece, herhangi bir fesih üzerine, (a) bu şartlarda size verilen haklar ve lisanslar sona erecektir; (b) uygulamayı kullanmayı bırakmalı ve (gerekirse) cihazınızdan silmelisiniz.
+
+        Uygulamalar nasıl kullanılır:
+
+        Kemik, kalp, sırt yaralanması, omurga, kafa travması veya diğer herhangi bir bedensel yaralanmada ciddi bir hastalığınız ve yaralanmanız varsa, bu uygulamayı doktorların aboneliği ile kullanmanızı öneririz, lütfen uzman / Doktorlardan bu yoga, egzersizi yapmasını isteyin ve egzersiz yapmak.
+
+        Gizlilik Politikası
+
+        Dr. Zio, Deep Sleep uygulamasını Ticari bir uygulama olarak geliştirdi. Bu HİZMET Dr. Zio tarafından sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır. Bu sayfa, herhangi biri Hizmetimizi kullanmaya karar verirse, Kişisel Bilgilerin toplanması, kullanılması ve ifşa edilmesiyle ilgili politikalarımız hakkında ziyaretçileri bilgilendirmek için kullanılır. Hizmetimizi kullanmayı seçerseniz, bu politikayla ilgili bilgilerin toplanmasını ve kullanılmasını kabul etmiş olursunuz. Topladığımız Kişisel Bilgiler, Hizmeti sağlamak ve geliştirmek için kullanılır. Bilgilerinizi bu Gizlilik Politikasında açıklananlar dışında kimseyle kullanmayacağız veya paylaşmayacağız. Bu Gizlilik Politikasında kullanılan terimler, bu Gizlilik Politikasında aksi belirtilmedikçe, 18\'den Sonra Artış Yüksekliği\'nde erişilebilen Hüküm ve Koşullarımızdakiyle aynı anlamlara sahiptir.
+
+        Bilgi Toplama ve Kullanım
+
+        Daha iyi bir deneyim için, Hizmetimizi kullanırken, Kullanıcı Olarak Kişi olarak daha iyi bir deneyim için bize kişinin Gmail Kimliğini, Adını, Yaşını, Boyunu, Kilosunu topluyoruz dahil ancak bunlarla sınırlı olmamak üzere belirli kişisel olarak tanımlanabilir bilgileri sağlamanızı isteyebiliriz. BMI\'larına (Vücut Kitle İndeksi) göre özel yardım ve İpuçları ile bildirim alın ve bildirimleri ve reklamları konumlarına göre özelleştirin. Talep ettiğimiz bilgiler tarafımızca tutulacak ve bu gizlilik politikasında açıklandığı şekilde kullanılacaktır. Uygulama, sizi tanımlamak için kullanılan bilgileri toplayabilen üçüncü taraf hizmetleri kullanır. Uygulama tarafından kullanılan üçüncü taraf hizmet sağlayıcıların gizlilik politikasına bağlantı
+
+        Google Play Hizmetleri (https://policies.google.com/privacy)
+        AdMob (https://support.google.com/admob/answer/6128543?hl=tr)
+        Firebase Analytics (https://firebase.google.com/policies/analytics)
+        Facebook (https://www.facebook.com/about/privacy)
+        Kumaş (https://fabric.io/privacy)
+        Crashlytics (https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+        Hizmetlerimizi kullandığınızda konumunuz hakkında bilgi topluyoruz; bu, hafta sonu kaçamağınız için yol tarifleri veya yakınınızda oynayan filmlerin gösterim saatleri gibi özellikler sunmamıza yardımcı olur.
+
+        Konumunuz, çeşitli doğruluk dereceleriyle şu şekilde belirlenebilir:
+
+Küresel Konumlama Sistemi
+IP adresi
+Cihazınızdan sensör verileri
+Wi-Fi erişim noktaları, baz istasyonları ve Bluetooth özellikli cihazlar gibi cihazınızın yakınında bulunan şeyler hakkında bilgiler
+Topladığımız konum verilerinin türleri, kısmen cihazınıza ve hesap ayarlarınıza bağlıdır. Örneğin, cihazın ayarlar uygulamasını kullanarak android cihazınızın konumunu açıp kapatabilirsiniz. Oturum açtığınız cihazlarınızla gittiğiniz yerlerin özel bir haritasını oluşturmak istiyorsanız konum geçmişini de açabilirsiniz.
+
+
+
+reklam
+
+
+Uygulamalarımızı kullanarak size reklam içeriği sunulabilir. Biz veya kullandığımız reklam ağları, reklamların içine yerleştirilen tanımlama bilgileri, işaretçiler, izleme pikselleri ve diğer teknolojileri kullanan ve bizim veya ağlarımızın Kişisel Olmayan Bilgiler toplamasına izin veren reklam sunma teknolojilerini kullanabiliriz. Size uygun reklamların sunulmasını sağlamak için yaş ve cinsiyet gibi Kişisel Olmayan Bilgiler kullanılabilir. Kullanım Verileri ve Reklam tanımlayıcıları gibi Kişisel Olmayan Bilgiler, bir reklamın kaç tıklama aldığını belirlemek, reklam kampanyalarının etkinliğini ölçmek, belirli bir reklamın uygun tekrar görüntülenme miktarını belirlemek ve/veya reklamları yayınlamak için kullanılabilir. ilgi alanlarınıza en uygun olanıdır. Cihazınıza ve işletim sistemine bağlı olarak, cihazınızın reklam tanımlayıcısının ilgi alanına dayalı reklamcılık için kullanılmasını engellemeyi seçebilir veya cihazınızın ayarlarını değiştirerek cihazınızın reklam tanımlayıcısını sıfırlayabilirsiniz. Reklam sağlayıcı şirket, daha iyi reklam kullanıcı yerelleştirmesi ve yerel dilde reklam kişiselleştirmesi için konumunuzu alabilir.
+
+
+
+Bilgi Toplamanın Amacı
+
+
+Kişisel Olmayan Bilgiler, istatistiksel ve araştırma amaçları ile Uygulamalarımızın özelleştirilmesi ve iyileştirilmesi için kullanılır.
+Kişisel Bilgiler, E-posta yoluyla iletişim kurduğunuzda size yanıt verebilmek için kullanılır.
+Konum/IP gibi Kişisel Bilgiler, size konumunuza göre Reklamlar göstermek için kullanılır, buna bağlamsal reklam denir.
+Siz/cihazınız hakkında topladığımız bilgileri size hizmet sunmak ve işimizi yürütmek için kullanırız. Tarafımızca ve Ortaklarımız tarafından bu tür kullanım şunları içerebilir:
+Hizmetlerimizi Sunmak: Ürünlerimizi, hizmetlerimizi ve içeriğimizi geliştirmek, sunmak ve iyileştirmek, ürünlerimizi ve hizmetlerimizi uyarlamak, yazılım güncellemeleri ve ürün desteği sağlamak, Uygulamaların kullanımıyla bağlantılı eğilimleri anlamak ve analiz etmek, Uygulamaları yönetmek ve müşteri iletişimleri.
+
+Reklamların Görüntülenmesi: Uygulamalarımızda üçüncü taraf reklamlarının görüntülenmesi ve diğer yayıncıların uygulamalarında Uygulamalarımız için reklamların gösterilmesi. Çapraz tanıtım: Uygulamalarımızı ve hizmetlerimizi Çapraz Tanıtma, yani siz farklı bir Uygulamamızı oynarken Uygulamalarımızdan birini tanıtabiliriz.
+
+Analitik ve Araştırma: Uygulamaların kullanımıyla bağlantılı eğilimleri anlamak ve analiz etmek, kullanıcı tabanımız hakkında demografik bilgiler toplamak, Uygulamanın nereden indirildiğine ilişkin veriler. Ayrıca, örneğin Uygulamalarımız ve hizmetlerimizle ilgili olası sorunları veya eğilimleri izlemek veya yeni oyun özelliklerimizi ve içeriğimizi test etmek için araştırma veya iş zekası için raporlar ve analizler oluşturabiliriz. Üçüncü Taraf Sosyal Ağından aldığımız verileri yalnızca dahili analizler için kullanırız. Analitikten çıkmak için lütfen bu Gizlilik Politikasının Devre Dışı Bırakma Bölümünü ziyaret edin.
+
+
+
+Günlük Verileri
+
+
+Hizmetimizi her kullandığınızda, uygulamada bir hata olması durumunda, telefonunuzdaki Log Data adlı veri ve bilgileri (üçüncü taraf ürünler aracılığıyla) topladığımızı size bildirmek isteriz. Bu Günlük Verileri, cihazınızın İnternet Protokolü (“IP”) adresi, cihaz adı, işletim sistemi sürümü, Hizmetimizi kullanırken uygulamanın yapılandırması, Hizmeti kullanımınızın saati ve tarihi ve diğer istatistikler gibi bilgileri içerebilir. . Yukarıdaki durumda, PII\'nizin (kişisel olarak tanımlanabilir bilgiler) yalnızca sizinle iletişim kurmak ve hizmetlerimizi geliştirmek için kullanılacağını garanti ederiz. Bu tür bilgileri (örneğin adınız ve e-posta adresiniz) ürünlerimizi daha fazla pazarlamak veya kişisel bilgilerinizi ticari kazançlar için üçüncü bir tarafa ifşa etmek gibi başka amaçlar için asla kullanmayacağız.
+
+Kişisel Bilgilerinizin kötüye kullanılmasıyla ilgili bir endişeniz varsa veya gizlilik politikamız ve bunun ne anlama geldiği hakkında daha fazla bilgi istiyorsanız, lütfen bize drziocure@gmail.com adresinden e-posta göndermekten çekinmeyin, sorularınıza net cevaplar vermeye çalışacağız. zaman.
+
+
+
+
+Kurabiye
+
+
+Hizmetimizdeki etkinliği izlemek ve belirli bilgileri tutmak için tanımlama bilgileri ve benzer izleme teknolojileri kullanıyoruz. Çerezler, genellikle anonim benzersiz tanımlayıcılar olarak kullanılan az miktarda veri içeren dosyalardır. Bunlar, ziyaret ettiğiniz web sitelerinden tarayıcınıza gönderilir ve cihazınızın dahili hafızasında saklanır. Bu Hizmet, bu "çerezleri" açıkça kullanmaz. Ancak uygulama, bilgi toplamak ve hizmetlerini iyileştirmek için üçüncü taraf kodu ve "çerezler" kullanan kitaplıklar kullanabilir. Bu tanımlama bilgilerini kabul etme veya reddetme seçeneğine sahipsiniz ve cihazınıza bir tanımlama bilgisinin ne zaman gönderildiğini bilirsiniz. Çerezlerimizi reddetmeyi seçerseniz, bu Hizmetin bazı kısımlarını kullanamayabilirsiniz.
+
+Kullandığımız Çerez örnekleri:
+
+Oturum Tanımlama Bilgileri: Hizmetimizi işletmek için Oturum Tanımlama Bilgileri kullanıyoruz.
+Tercih Çerezleri: Tercihlerinizi ve çeşitli ayarlarınızı hatırlamak için Tercih Çerezlerini kullanıyoruz.
+Güvenlik Çerezleri: Güvenlik amacıyla Güvenlik Çerezlerini kullanıyoruz.
+
+
+ ödemeler
+
+
+Hizmet dahilinde ücretli ürünler ve/veya hizmetler sağlayabiliriz. Bu durumda, ödeme işlemleri için üçüncü taraf hizmetleri kullanırız (ör. ödeme işlemcileri).
+
+Ödeme kartı bilgilerinizi saklamayacağız veya toplamayacağız. Bu bilgiler, kişisel bilgilerinizin kullanımı Gizlilik Politikalarına tabi olan üçüncü taraf ödeme işlemcilerimize doğrudan sağlanır. Bu ödeme işlemcileri, Visa, Mastercard, American Express ve Discover gibi markaların ortak çabası olan PCI Güvenlik Standartları Konseyi tarafından yönetilen PCI-DSS tarafından belirlenen standartlara uygundur. PCI-DSS gereksinimleri, ödeme bilgilerinin güvenli bir şekilde işlenmesini sağlamaya yardımcı olur.
+
+Çalıştığımız ödeme işlemcileri şunlardır:
+
+Google Play Uygulama İçi Ödemeler satın alma
+ Gizlilik Politikaları https://policies.google.com/privacy adresinde görüntülenebilir.
+
+
+
+ Veri Güvenliği
+
+
+Verilerinizin güvenliği bizim için önemlidir, ancak İnternet üzerinden hiçbir aktarım yönteminin veya elektronik depolama yönteminin %100 güvenli olmadığını unutmayın. Kişisel Verilerinizi korumak için ticari olarak kabul edilebilir yöntemler kullanmaya çabalarken, bunların mutlak güvenliğini garanti edemeyiz.
+
+
+
+
+
+Servis sağlayıcıları
+
+
+Aşağıdaki nedenlerden dolayı üçüncü taraf şirketleri ve bireyleri istihdam edebiliriz:
+
+Hizmetimizi kolaylaştırmak için;
+
+Hizmeti bizim adımıza sağlamak için;
+
+Hizmetle ilgili hizmetleri gerçekleştirmek için;
+
+Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak için.
+
+Bu Hizmetin kullanıcılarını, bu üçüncü tarafların Kişisel Bilgilerinize erişimi olduğu konusunda bilgilendirmek istiyoruz. Sebebi ise kendilerine verilen görevleri bizim adımıza yerine getirmektir. Ancak, bilgileri başka bir amaçla açıklamamak veya kullanmamakla yükümlüdürler.
+
+
+
+
+
+Güvenlik
+
+
+Bize Kişisel Bilgilerinizi sağlama konusundaki güveninize değer veriyoruz, bu nedenle ticari olarak kabul edilebilir koruma yöntemlerini kullanmaya çalışıyoruz. Ancak internet üzerinden hiçbir aktarım yönteminin veya elektronik depolama yönteminin %100 güvenli ve güvenilir olmadığını unutmayın.
+
+Ancak, bilgilerin internet veya telefon ağları üzerinden iletilmesi tamamen güvenli değildir. Bilgilerinizi korumak için, özellikle kişisel verilerinizin korunmasıyla ilgili olarak elimizden gelenin en iyisini yaparken,
+
+"Dr. Zio-Yoga Teacher” internet, telefon veya diğer ağlar üzerinden iletilen verilerinizin güvenliğini sağlayamaz.
+
+
+
+
+
+Diğer Sitelere Bağlantılar
+
+
+Bu Hizmet, diğer sitelere bağlantılar içerebilir. Üçüncü taraf bir bağlantıya tıklarsanız, o siteye yönlendirileceksiniz. Bu harici sitelerin bizim tarafımızdan işletilmediğini unutmayın. Bu nedenle, bu web sitelerinin Gizlilik Politikasını incelemenizi şiddetle tavsiye ederiz. Herhangi bir üçüncü taraf site veya hizmetin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrole sahip değiliz ve sorumluluk kabul etmiyoruz.
+
+
+
+Çocukların Gizliliği
+
+
+Bu Hizmetler 13 yaşın altındaki hiç kimseye hitap etmez. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. 13 yaşın altındaki bir çocuğun bize kişisel bilgiler sağladığını keşfetmemiz durumunda, bunu derhal sunucularımızdan sileriz. Ebeveyn veya vasi iseniz ve çocuğunuzun bize kişisel bilgiler verdiğini biliyorsanız, gerekli işlemleri yapabilmemiz için lütfen bizimle iletişime geçin. Bu Gizlilik Politikasındaki Değişiklikler Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir değişiklik için bu sayfayı periyodik olarak gözden geçirmeniz önerilir. Bu sayfada yeni Gizlilik Politikasını yayınlayarak herhangi bir değişiklik hakkında sizi bilgilendireceğiz. Bu değişiklikler, bu sayfada yayınlandıktan hemen sonra yürürlüğe girer. Bize Ulaşın Gizlilik Politikamız hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen bize drziocure@gmail.com adresinden e-posta göndermekten çekinmeyin, sorularınıza zamanında net cevaplar vermeye çalışacağız.
+
+ California Çevrimiçi Gizliliği Koruma YasasıCalOPPA, ticari web sitelerinin ve çevrimiçi hizmetlerin bir gizlilik politikası yayınlamasını zorunlu kılan ülkedeki ilk eyalet yasasıdır. Yasanın kapsamı Kaliforniya\'nın çok ötesine uzanıyor ve Amerika Birleşik Devletleri\'nde (ve muhtemelen dünyada) Kaliforniya tüketicilerinden Kişisel Olarak Tanımlanabilir Bilgi toplayan web sitelerini işleten herhangi bir kişi veya şirketin, web sitesinde tam olarak toplanan bilgileri ve bu bilgileri tam olarak belirten göze çarpan bir gizlilik politikası yayınlamasını zorunlu kılıyor. paylaşıldığı kişi veya şirketler. – Daha fazlasını şu adreste görün: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+CalOPPA\'ya göre, aşağıdakileri kabul ediyoruz:
+
+Kullanıcılar sitemizi anonim olarak ziyaret edebilirler.
+
+
+
+Reklam ağları veya eklentiler dahil olmak üzere üçüncü tarafların 13 yaşından küçük çocuklardan PII toplamasına izin veriyor muyuz?
+
+– Özellikle 13 yaşın altındaki çocuklara pazarlama yapmıyoruz.
+
+
+
+ Sorumluluğun Sınırlandırılması
+
+
+ Dr. Zio– yoga öğretmeni, Uygulama aracılığıyla sunulan içeriklerin doğruluğu, eksiksizliği veya yeterliliği hakkında hiçbir iddiada bulunmaz, söz vermez veya garanti vermez ve Uygulama aracılığıyla sunulan içeriklerdeki hatalar ve eksiklikler için sorumluluk kabul etmez.
+
+- Üçüncü şahıs haklarının ihlal edilmemesi, mülkiyet, ticarete elverişlilik, belirli bir amaca uygunluk ve bilgisayar virüsü içermeme garantileri dahil ancak bunlarla sınırlı olmamak üzere, zımni, açık veya kanuni hiçbir garanti verilmemektedir. Uygulama aracılığıyla erişilebilen içerikler veya Uygulama aracılığıyla Sizin için mevcut olabilecek diğer internet kaynaklarına bağlantılar.
+
+- Uygulamada herhangi bir özel ticari ürün, süreç veya hizmete atıfta bulunulması veya herhangi bir ticaret, firma veya şirket adının kullanılması, kamuoyunun bilgilendirilmesi ve rahatlığı içindir ve Dr. Zio- yoga öğretmeni.
+
+
+
+ Bu Gizlilik Politikasındaki Değişiklikler
+
+
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir değişiklik için bu sayfayı periyodik olarak gözden geçirmeniz önerilir. Bu sayfada yeni Gizlilik Politikasını yayınlayarak herhangi bir değişiklik hakkında sizi bilgilendireceğiz. Bu değişiklikler, bu sayfada yayınlandıktan hemen sonra yürürlüğe girer.
+
+Bu gizlilik politikası oluşturulduktan sonra, ana sayfamıza veya en azından web sitemize girdikten sonra ilk önemli sayfaya bir bağlantı ekleyeceğiz.
+
+Sorularınız veya endişeleriniz varsa, Bize e-posta göndermekten veya drziocure@gmail.com adresinden iletişim kurmaktan çekinmeyin; Endişelerinizi gidermeye çalışacağız.
+   </string>
+
+
+    <string name="ntitle1">Sırt Ağrısı Egzersizi Eksik!</string>
+    <string name="ntitle2">Planınızı kaçırmayın!</string>
+    <string name="ntitle3">Antrenmana başlama zamanı!</string>
+    <string name="ntitle4">Neden şimdi olmasın?</string>
+    <string name="ntitle5">Kendinizi geliştirin!</string>
+    <string name="ntitle6">Şimdi tam zamanı!</string>
+    <string name="ntitle7">Siz.. Evet Ulaşabilirsiniz… Burayı tıklayın?</string>
+
+    <string name="desc1">Asla pes etmeyin! Başarmak üzeresiniz!💪🔥</string>
+    <string name="desc2">Vazgeçmeyi Düşünmeyin!💪🔥</string>
+    <string name="desc3">Az çalışma size daha uzun bir yaşam sağlayabilir. Devam edin!💪🔥</string>
+    <string name="desc4">Denemek şu anda kazanmaktır! Devam edin!💪🔥</string>
+    <string name="desc5">Pes etme! Neredeyse geldin!💪🔥</string>
+    <string name="desc6">İyi şeyler zaman alır! Asla pes etme!💪🔥</string>
+    <string name="desc7">Değişim kolay değil! Devam edin !💪🔥</string>
+    <string name="desc8">Kazanan hayalperesttir! Asla pes etme!💪🔥</string>
+
+    <string name="icons">💪🔥</string>
+    <string name="strstate">Durum Seç<font color="#FC527F"> *</font></string>
+    <string name="select_the_country">Ülke Seç<font color="#FC527F"> *</font></string>
+
+    <string name="details1">Bu uygulama, yukarıdaki otomatik yenilenen abonelik seçenekleri sunar:</string>
+    <string name="details3">Deep Sleep Pro ödemesi, satın alma onayı ile Google Play Hesabınızdan tahsil edilecektir. Sırt Ağrınız Pro
+Geçerli abonelik faturalandırma döneminin bitiminden en az 24 saat önce Google Play Hesabınızda otomatik yenileme kapatılmadığı sürece abonelik otomatik olarak yenilenir.\nAboneliğinizi Google Play Hesap ayarlarınızdan yönetebilir veya otomatik yenilemeyi kapatabilirsiniz satın aldıktan sonra. Otomatik yenilemeyi abonelik süresinin ortasında ve ortasında kapatırsanız. Dönemin sonuna kadar tüm premium özelliklere erişmeye devam edeceksiniz. Abonelik döneminin ortasında otomatik yenilemenin kapatılması için kısmi geri ödeme yapılmayacaktır. Satın alma işleminden sonra Google Play Hesap ayarlarınızdan aboneliğinizi yönetebilir veya otomatik yenilemeyi kapatabilirsiniz. Otomatik yenilemeyi abonelik süresinin ortasında ve ortasında kapatırsanız. Dönemin sonuna kadar tüm premium özelliklere erişmeye devam edeceksiniz. Abonelik döneminin ortasında otomatik yenilemeyi kapattığınızda kısmi geri ödeme yapılmaz.</string>
+    <string name="more">Diğer</string>
+    <string name="total">Toplam</string>
+    <string name="report">Rapor</string>
+    <string name="your_plan">PLANINIZ</string>
+    <string name="_12_days_left">12 gün kaldı</string>
+    <string name="days_left"> gün kaldı</string>
+    <string name="back_pain_relief">Sırt Ağrısını Giderme</string>
+    <string name="info">Bilgi</string>
+    <string name="intermediate_level">Orta Düzey</string>
+    <string name="intermediate">ORTA DÜZEY</string>
+    <string name="advanced_level">İleri Düzey</string>
+    <string name="advanced">GELİŞMİŞ</string>
+    <string name="weekly_goal">HAFTALIK HEDEF</string>
+    <string name="set">+ AYARLAMAK</string>
+    <string name="nutrition_nplan">Beslenme \nPlan</string>
+
+
+    <string name="customize_plan">Planı Özelleştir</string>
+    <string name="customize_nyour_plan">Planınızı \nÖzelleştirin</string>
+    <string name="explore_plan">Planı Keşfet</string>
+    <string name="discover">KEŞFEDİN</string>
+    <string name="discover1">Keşfet</string>
+    <string name="daily_tips">Günlük İpuçları</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="all_diets">Tüm Diyetler</string>
+    <string name="done">Bitti</string>
+    <string name="share">Paylaş</string>
+    <string name="all_history">Tüm Geçmiş</string>
+    <string name="category_name">Kategori Adı</string>
+    <string name="covid_tracker">Covid Tracker</string>
+    <string name="plans_made_for_you">Sizin İçin Yapılan Planlar</string>
+    <string name="confirmed_cases">Onaylanmış Vakalar</string>
+    <string name="deaths">Ölümler</string>
+    <string name="recoveries">Kurtarmalar</string>
+    <string name="city_province">Şehir/İl</string>
+    <string name="confirmed_ncases">Onaylandı\nVakalar</string>
+    <string name="my_training">Eğitimim</string>
+
+    <string name="reports">Raporlar</string>
+    <string name="discover_plan">Planı Keşfet</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="remove_ads">Reklamları Kaldır</string>
+    <string name="new_apps">Yeni Uygulamalar</string>
+    <string name="share_app">Uygulamayı Paylaş</string>
+
+    <string name="jumping_jacks">JUMPING JACKS</string>
+    <string name="_1_min">1 dk</string>
+    <string name="_2_exercises">2 alıştırma</string>
+    <string name="edit">Düzenle</string>
+    <string name="_5_ft_5_in">5 FT 5 IN</string>
+    <string name="veg">Sebze</string>
+    <string name="non_veg">Vejetaryen olmayan</string>
+    <string name="height_graph">Yükseklik Grafiği</string>
+    <string name="please_login_to_unlock_graph">Grafik Kilidini Açmak İçin Lütfen Giriş Yapın !!!</string>
+    <string name="weight_graph">Ağırlık Grafiği</string>
+    <string name="user_info">Kullanıcı Bilgileri</string>
+    <string name="premium">Premium</string>
+    <string name="get_effective_plan_with_premium">Premium ile Etkili Planlar Alın</string>
+    <string name="_1_month_subscription">1 Aylık Abonelik</string>
+    <string name="_6_months_subscriptions">6 Aylık Abonelik</string>
+    <string name="_40_off">%40 indirim</string>
+    <string name="life_time">Ömür Boyu Abonelik</string>
+    <string name="_60_off">%60 indirim</string>
+    <string name="unlock_all_the_features">Tüm özelliklerin kilidini açın</string>
+    <string name="ads_free">Reklamsız</string>
+    <string name="intermediate1">Orta Düzey</string>
+    <string name="advanced1">Gelişmiş</string>
+    <string name="unlock_all_yoga">Tüm Yoga\'nın kilidini aç</string>
+    <string name="easy_3d_workout_video">Kolay 3D antrenman videosu</string>
+    <string name="set_your_personal_goal">Kişisel hedefinizi belirleyin</string>
+    <string name="back_pain_relief_pro">Sırt Ağrısını Giderme Pro</string>
+    <string name="purchase_now">Şimdi Satın Alın</string>
+    <string name="set_reminder">Hatırlatıcı Ayarla</string>
+    <string name="user">Kullanıcı</string>
+    <string name="my_profile">Profilim</string>
+    <string name="google_fit">Google Fit</string>
+    <string name="default1">Varsayılan</string>
+    <string name="version_1_0">Sürüm 1.0</string>
+    <string name="nutrition_plan">Beslenme Planı</string>
+    <string name="today_s_plan">BUGÜN\'ÜN PLANI</string>
+    <string name="use_this_plan">Bu Planı Kullan</string>
+    <string name="ad">Reklam</string>
+    <string name="appname">uygulama adı</string>
+    <string name="reminder_text">Hatırlatma Metni</string>
+    <string name="please_enter_your_text_here">Lütfen metninizi buraya girin</string>
+    <string name="fitness_apps">Fitness Uygulamaları</string>
+    <string name="suggested_for_you">Sizin İçin Önerilir</string>
+    <string name="suggested_fitness_app">Önerilen Fitness Uygulaması</string>
+    <string name="ads">Reklamlar .</string>
+    <string name="top_free_apps">En Popüler Ücretsiz Uygulamalar</string>
+    <string name="suggested_banners">Önerilen Banner\'lar</string>
+    <string name="garena_free_fire">Garena Free Fire</string>
+    <string name="free_fire_is_the">Free Fire, mobil cihazlarda kullanılabilen nihai hayatta kalma nişancı oyunudur</string>
+    <string name="you_re_offline">Çevrimdışısınız</string>
+    <string name="check_your_internet">İnternet bağlantınızı kontrol edin ve tekrar çevrimiçi olmak için yeniden dene düğmesine basın</string>
+    <string name="dr_zio_app_store">Dr.Zio App Store</string>
+    <string name="start_with_your_feeet">Ayaklarınız bir arada ve kollarınız yanlarınızda olacak şekilde başlayın, ardından ayaklarınız ayrı ve elleriniz yukarıda olacak şekilde zıplayın.</string>
+    <string name="other_reason">Diğer Neden..</string>
+    <string name="write_your_feedback">Geri Bildiriminizi Yazın</string>
+    <string name="enter_your_paramaters">PARAMATERLERİNİZİ GİRİN</string>
+    <string name="get">GET</string>
+    <string name="personalized_plan">KİŞİSELLEŞTİRİLMİŞ PLAN</string>
+    <string name="get_daily_tips">Ülke ekleyerek \nkendi dilinizde günlük ipuçları alın</string>
+    <string name="select">Seç</string>
+    <string name="next_2_12">SONRAKİ 2/12</string>
+    <string name="calf_raise_with_splayed_foot_30s">30 sn. AYAKLI AYAKLA BALDIR KALDIRMA</string>
+    <string name="plank">Döşeme</string>
+    <string name="repeat_day">Günü Tekrarla</string>
+    <string name="repeat1">Tekrar:</string>
+    <string name="every">Her</string>
+    <string name="hour_s">Saatler</string>
+    <string name="date">Tarih</string>
+    <string name="_12_07_2019">12/07/2019</string>
+    <string name="showing_ads">Reklam Gösteriliyor..</string>
+    <string name="watch_video_to_unlock">KİLİDİ ​​AÇMAK İÇİN VİDEO İZLE</string>
+    <string name="unlock_free">Ücretsiz Kilidi Aç</string>
+    <string name="or">veya</string>
+    <string name="watch_the_video_to_use_training_nplan_once">Eğitimi kullanmak için videoyu izleyin \nbir kez planlayın</string>
+    <string name="get_premium">Premium Alın</string>
+
+    <string name="cm">cm</string>
+    <string name="inch">inç</string>
+    <string name="ft">ft</string>
+    <string name="kgs">Kg</string>
+    <string name="lbs">Lbs</string>
+    <string name="no_thanks">Hayır Teşekkürler!!</string>
+    <string name="complete_100_workouts_for_best_results">En İyi Sonuçlar İçin %100 Antrenmanları Tamamlayın</string>
+    <string name="_16_0">%16,0</string>
+    <string name="we_work_day"><![CDATA[Sizin için gece gündüz çalışıyoruz. Lütfen bizi değerlendirin🙏.]]></string>
+    <string name="_10">(10)</string>
+    <string name="please_wait">Lütfen Bekleyin....</string>
+    <string name="quit">Çıkış</string>
+    <string name="choose_your_language">Dilinizi seçin:-</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+
+    <string name="submit">Gönder</string>
+    <string name="music_for_workout">Antrenman için müzik</string>
+    <string name="choose_from_gallery">Galeriden seçin</string>
+    <string name="change_background_music">Arka Plan Müziğini Değiştir</string>
+    <string name="unlock_all_features">Tüm Özelliklerin Kilidini Açın</string>
+    <string name="to_unlock_this">Bu seviyenin kilidini açmak için - Herhangi bir seçenek belirleyin.</string>
+    <string name="complete_n_previous_n_level">Tamamlandı \n Önceki \n Düzey</string>
+    <string name="watch_n_ads">\n Reklamları İzle</string>
+    <string name="buy_n_premium">\n Premium Satın Alın</string>
+    <string name="to_unlock_this_excercise_choose_this_option">Bu Egzersizin kilidini açmak için - Bu seçeneği belirleyin.</string>
+    <string name="buy_premium">Premium Satın Alın</string>
+    <string name="close">Kapat</string>
+    <string name="other_users_will_benefit_from_your_review">Diğer kullanıcılar incelemenizden faydalanacak</string>
+    <string name="please_leave_your_review_on_google_play">Lütfen yorumunuzu Google Play\'de bırakın</string>
+    <string name="rate_on_google_play">GOOGLE PLAY\'DE DEĞERLENDİRME</string>
+    <string name="plan_1">Plan 1</string>
+    <string name="dfdfdf">dfdfdf</string>
+    <string name="india_cumulative_numbers">Hindistan - Kümülatif sayılar</string>
+    <string name="updated_loading">Güncellendi: Yükleniyor...</string>
+    <string name="source_ministry_of_health_and_family_welfare">Kaynak: Sağlık ve Aile Refahı Bakanlığı</string>
+    <string name="today_cases">Günümüz Vakaları</string>
+    <string name="today_deaths">Bugünkü Ölümler</string>
+    <string name="today_recoveries">Bugünün Kurtarmaları</string>
+    <string name="live_now">Şimdi Yaşa</string>
+    <string name="source_world_health_organization">Kaynak: Dünya Sağlık Örgütü</string>
+    <string name="country_region">Ülke/Bölge</string>
+    <string name="new_ncases">Yeni\nVakalar</string>
+    <string name="new_deaths">Yeni Ölümler</string>
+    <string name="gujarat">Gucerat</string>
+    <string name="day1">Gün1</string>
+    <string name="trending">Trend</string>
+    <string name="vitamin_b6">B6 Vitamini</string>
+    <string name="update">Güncelleme</string>
+    <string name="sdsdsdds">sdsdsdds</string>
+    <string name="oct_9">9 Ekim</string>
+    <string name="song_name">Şarkı Adı</string>
+    <string name="round">Yuvarlak</string>
+    <string name="sun1">güneş</string>
+    <string name="water_drink_reminder_app">Su İçeceği Hatırlatma Uygulaması</string>
+    <string name="install_now">Şimdi Yükle</string>
+    <string name="temppdsdsd">Temppdsdsd 💪🔥</string>
+    <string name="snooze">ERTELEME</string>
+    <string name="once">Bir kez</string>
+    <string name="prayer_time_wake">Namaz vakti beni 9\'da uyandır ve daha yeni kahvaltı edip kahvaltı yap</string>
+    <string name="let_s_do_backpain_exercise_today">Bugün Sırt Ağrısı egzersizi yapalım.</string>
+    <string name="reminder_type">Hatırlatıcı Türü</string>
+    <string name="sound">Ses</string>
+    <string name="repeat_reminder">Yineleme Hatırlatıcısı</string>
+    <string name="report_as">Farklı raporla</string>
+    <string name="alarm">Alarm</string>
+    <string name="save_change">Değişiklikler kaydedilsin mi?</string>
+    <string name="are_you_delete">Silmek istediğinizden emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="deleted">Silindi</string>
+    <string name="confirmation">Onay</string>
+    <string name="something_went_wrong">Bir şeyler ters gitti!!</string>
+    <string name="take_nrest">\nDinlen</string>
+    <string name="press_the_resume">Bir sonraki Egzersize geçmek için özgeçmişe basın</string>
+    <string name="is_completed"> Tamamlandı</string>
+    <string name="completed">tamamlandı</string>
+    <string name="recommand_for_you">Sizin İçin Öneririm</string>
+    <string name="hated_it">Nefret ettim</string>
+    <string name="dislike_it">Beğenmedim!</string>
+    <string name="its_ok">Sorun değil</string>
+    <string name="liked_it">Beğendim!</string>
+    <string name="loved_it">Sevdim</string>
+    <string name="do_you_like_this_app">Bu Uygulamayı beğendiniz mi?</string>
+    <string name="your_feedback_is_useful">Geri bildiriminiz faydalı</string>
+    <string name="did_you_hear_the_test_voice">Test sesini duydunuz mu?</string>
+    <string name="error">Hata</string>
+    <string name="latest">En son</string>
+    <string name="related_apps">İlgili Uygulamalar</string>
+    <string name="treading_apps">Trend Olan Uygulamalar</string>
+    <string name="please_check_after">Lütfen bir süre sonra kontrol edin!..</string>
+    <string name="prepe_app">Uygulama Sizin İçin Hazırlanıyor...</string>
+    <string name="are_you_sure">Emin misiniz?</string>
+    <string name="drzio_updatestring">Dr. Zio, uygulamanın sorunsuz ve gelişmiş performansı için lütfen en son sürüme güncellemenizi önerir.</string>
+    <string name="select_gender">Lütfen Cinsiyet Seçiniz</string>
+    <string name="addfood">Yiyecek Ekle</string>
+    <string name="news">Yeni</string>
+    <string name="you_can_better">Bundan daha iyi performans gösterebilirsiniz!!</string>
+    <string name="perform_better">Performans Kötü !!</string>
+    <string name="perform_okay">Performans İyi</string>
+    <string name="perform_good">Performans İyi !!</string>
+    <string name="perform_great">Performans Harika!!</string>
+    <string name="purchasefeed1" >Satın Alma Fiyatı Yüksek</string>
+    <string name="purchasefeed2" >Analiz et &amp; Ardından Satın Alın</string>
+    <string name="purchasefeed3" >Diğer</string>
+    <string name="copyright_2021_dr_zio">telif hakkı @ 2022 Dr zio</string>
+    <string name="retry">Yeniden dene</string>
+
+    <string name="blog">Blog</string>
+    <string name="sett_edu">Profilinizi ve diğer ayarları yönetmek için buraya dokunun</string>
+    <string name="tap_here">Buraya dokunun!!.</string>
+    <string name="repo_edu">ilerlemenizi düzenli olarak takip edin</string>
+    <string name="hom_edu">Antrenmanınıza başlayın ve beslenme ve özel plana göz atın</string>
+    <string name="dis_edu">Her türlü sırt ağrısı için yoga planlarını keşfedin</string>
+    <string name="blog_edu">Beğendiğiniz konulara ilişkin blogları ve ipuçlarını okuyun</string>
+    <string name="stor_edu">Dr. zio\'dan daha fazla uygulamaya göz atın</string>
+    <string name="menu_edu">Menü için buraya dokunun</string>
+    <string name="day">Gün</string>
+    <string name="all_app">Tüm Uygulamalar</string>
+    <string name="want_uninterrupted">kesintisiz, reklamsız bir antrenman mı istiyorsunuz?\n ŞİMDİ PREMIUM ALIN!</string>
+    <string name="admob_openapp" />
+    <string name="beginner">BAŞLANGIÇ</string>
+    <string name="rate_txt">Ben bu uygulamada size 5 yıldızlı bir deneyim yaşatmak için çok çalışan bir Programcıyım. Lütfen benim için 5 yıldızlı bir inceleme yazın. Teşekkürler! Bu benim için dünya demek.</string>
+
+    <string name="deep_sleep_yoga_and_yog_nindra">DERİN UYKU YOGA VE YOG NİNDRA</string>
+    <string name="yoga_for_insomnia">INSOMNIA İÇİN YOGA</string>
+    <string name="deep_sleep_yoga">DERİN UYKU Yogası</string>
+    <string name="yog_nindra_effective_sleep">YOG NİNDRA ETKİLİ UYKU</string>
+    <string name="bed_time_yoga">YATAK ZAMANI YOGA</string>
+    <string name="for_sound_sleep">SESLİ UYKU İÇİN</string>
+    <string name="brething_exercise">BRETHING EGZERSİZ</string>
+    <string name="sleep_apnea">UYKU APNESI</string>
+    <string name="bed_time_yoga_amp_brething_exercise"><![CDATA[BED TIME YOGA & BRETHINH EXERCISE]]></string>
+    <string name="yog_nidra_effective_sleep">Yog nindra - Etkili uyku</string>
+    <string name="bed_time_for_sound_sleep">Sesli uyku için yatak zamanı yogası</string>
+    <string name="bipolar_depresion">Bipolar Depresyon</string>
+    <string name="info1">Merhaba! Uyku problemlerinin üstesinden gelmeye hazır olmanız harika. Uyku yoga &amp; Aşağıda belirtilen meditasyon egzersizleri. Hadi başlayalım! </string>
+    <string name="info2">Bu planda çok daha zorlu uyku meditasyonu egzersizleri bulacaksınız. Daha fazla esneme, daha fazla vücut egzersizi ile diz ağrınız çok çabuk geçer, haydi başlayalım!</string>
+    <string name="info3">En büyük meydan okuma! Harika bir uyku çekmenizi sağlayacak en zor uyku meditasyonu egzersizlerini sizin için hazırladık. Hadi Bunu Yapalım!</string>
+    <string name="ftinch">ft inç</string>
+</resources>

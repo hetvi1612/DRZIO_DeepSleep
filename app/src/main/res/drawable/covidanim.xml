@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/canim1" android:duration="80" />
+    <item android:drawable="@drawable/canim2" android:duration="80" />
+    <item android:drawable="@drawable/canim3" android:duration="80" />
+    <item android:drawable="@drawable/canim4" android:duration="80" />
+    <item android:drawable="@drawable/canim5" android:duration="80" />
+    <item android:drawable="@drawable/canim6" android:duration="80" />
+    <item android:drawable="@drawable/canim7" android:duration="80" />
+    <item android:drawable="@drawable/canim8" android:duration="80" />
+    <item android:drawable="@drawable/canim9" android:duration="80" />
+    <item android:drawable="@drawable/canim10" android:duration="80" />
+    <item android:drawable="@drawable/canim11" android:duration="80" />
+    <item android:drawable="@drawable/canim12" android:duration="80" />
+    <item android:drawable="@drawable/canim13" android:duration="80" />
+    <item android:drawable="@drawable/canim14" android:duration="80" />
+    <item android:drawable="@drawable/canim15" android:duration="80" />
+    <item android:drawable="@drawable/canim16" android:duration="80" />
+    <item android:drawable="@drawable/canim17" android:duration="80" />
+    <item android:drawable="@drawable/canim18" android:duration="80" />
+    <item android:drawable="@drawable/canim19" android:duration="80" />
+</animation-list >

@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1 Joga głębokiego snu</string>
+    <string name="picker_box_arrows_icon">ikona strzałek pola wyboru</string>
+    <string name="favtitle">Dodaj tutaj swoje ulubione treningi.❤dostosuj własne plany treningowe w oparciu o swoje preferencje.</string>
+
+    <string name="mon">Poniedziałek</string>
+    <string name="tu">Wtorek</string>
+    <string name="wed">Środa</string>
+    <string name="thri">Czwartek</string>
+    <string name="fri">Piątek</string>
+    <string name="sat">Sobota</string>
+    <string name="sun">Niedziela</string>
+    <string name="facebook_app_id">394103198201105</string>
+    <string name="exename1">Kot i krowa (Majaryasana – Bitilasana) </string>
+
+    <string name="exename2">Bhastrika Pranajama Joga</string>
+
+    <string name="exename3">Pozycja leżąca pod kątem (Supta Baddha Konasana)</string>
+
+    <string name="exename4">Siedząca połowa skrętu kręgosłupa (Ardha Matsyendrasana)</string>
+
+    <string name="exename5">Siedząca pozycja szerokokątna (Upavistha Konasana)</string>
+
+    <string name="exename6">Shanmukhi mudra</string>
+
+    <string name="exename7">Poza łagodząca wiatr (Pavanamuktasana) </string>
+
+    <string name="exename8">Wątek do igły (Parsva Balasana)</string>
+
+    <string name="exename9">Pług (Halasan)</string>
+
+    <string name="exename10">Poza bohatera (Virasana )</string>
+
+    <string name="exename11">Nadi Shodhan Pranayam</string>
+
+    <string name="exename12">Poza pioruna (Vajrasana)</string>
+
+    <string name="exename13">Pozy Władcy Tańca (Natarajasana)</string>
+
+    <string name="exename14">Vakrasana (połowa skrętu kręgosłupa)</string>
+
+    <string name="exename15">Poza dziecka (pozycja zająca) (Balasana) </string>
+
+    <string name="exename16">kapalbhati pranajama</string>
+
+    <string name="exename17">Skłon do przodu w pozycji siedzącej (Paschimottanasana)</string>
+
+    <string name="exename18">Pozy z nogami na ścianie (Viparita Karani)</string>
+
+    <string name="exename19">Zagięcie do przodu (Hasta Padasana)</string>
+
+    <string name="exename20">Poza górska (Tadasan)</string>
+
+    <string name="exename21">Skręt kręgosłupa na plecach (Supta Matsyendrasana)</string>
+
+    <string name="exename22">Poza krzesła (Utkatasana) </string>
+
+    <string name="exename23">Pozycja ryby (Matsyasanaa)</string>
+
+    <string name="exename24">Poza celibatu (Brahmacharyasana)</string>
+
+    <string name="exename25">Skłon do przodu od głowy do kolan (Janu Sirsasana)</string>
+
+
+    <string name="exedesc1">Rozciąga plecy tułowia i szyję oraz delikatnie stymuluje i wzmacnia narządy jamy brzusznej. Przywraca kręgosłup do prawidłowego wyrównania i może pomóc w zapobieganiu bólowi pleców, gdy jest regularnie ćwiczony.</string>
+
+    <string name="exedesc2">Doskonały dla płuc i osób cierpiących na powtarzający się kaszel, grypę, problemy z oddychaniem, alergie lub duszności. Zwiększony dopływ krwi do głowy poprawia wzrok i słuch. Płuca są wzmocnione i jest to korzystne w przypadku zapalenia oskrzeli, ponieważ układ oddechowy jest szybko i głęboko oczyszczany.•Wspaniale nadaje się do energetyzowania ciała i umysłu</string>
+
+    <string name="exedesc3">Uspokaja układ trawienny i rozrodczy oraz leczy stany takie jak choroba jelita drażliwego, niepłodność, zaburzenia miesiączkowania, problemy z trawieniem, menopauza itp. • Dobrze rozciąga pachwiny, wewnętrzne uda i kolana .•Obniża napięcie mięśni, łagodzi zmęczenie i bezsenność. Uspokaja także umysł </string>
+
+    <string name="exedesc4">Dostarcza składników odżywczych, krwi i tlenu oraz poprawia zdrowie układu rozrodczego i układu moczowego.Korzystny przy zaburzeniach miesiączkowania i energetyzujący kręgosłup,•Pobudza wątrobę i nerki </string>
+
+    <string name="exedesc5">Pobudza narządy jamy brzusznej.Wzmacnia i tonizuje mięśnie brzucha, kręgosłupa i nóg.•Pomaga leczyć i łagodzić rwę kulszową i zapalenie stawów.Odtruwa nerki.
+ </string>
+
+    <string name="exedesc6">Idealny dla mięśni twarzy i wyglądu, ponieważ ciepło i prana dłoni i palców stymulują i rozluźniają mięśnie twarzy.•Przydatne do radzenia sobie z lękiem i usuwania negatywnych wzorców intelektualnych.•Pobudza narządy zmysłów i zmysły w późniejszych stadiach wycofanie. • Przynosi skupienie, introwersję i spokój </string>
+
+    <string name="exedesc7">Rozciąga i wzmacnia mięśnie pleców i brzucha.•Pomaga w trawieniu i uwalnianiu gazów. Pobudza spalanie tłuszczu.•Uelastycznia mięśnie nóg i ramion.•Poprawia krążenie krwi w stawach biodrowych</string>
+
+    <string name="exedesc8">Łagodnie rozciąga mięśnie górnej części klatki piersiowej.•Otwiera górne i zewnętrzne mięśnie barku.•Poprawia krążenie krwi w kończynach górnych. </string>
+
+    <string name="exedesc9">Wzmaga elastyczność pleców i rozciąga mięśnie wzdłuż tylnej części nóg. • Wzmacnia i otwiera mięśnie szyi, ramion, brzucha i pleców </string>
+
+    <string name="exedesc10">Wzmacnia ramiona i barki oraz utrzymuje elastyczność kręgosłupa.Odżywia mózg większą ilością krwi. </string>
+
+    <string name="exedesc11">Pomaga również łagodzić alergie układu oddechowego, które powodują katar sienny, kichanie lub świszczący oddech•Pomaga zharmonizować lewą i prawą półkulę mózgu, co koreluje z logicznymi i emocjonalnymi stronami naszej osobowości.</string>
+
+    <string name="exedesc12">Poprawia trawienie i zwalcza zaparcia i nadkwaśność.•Łagodzi zaburzenia miesiączkowania.•Reguluje pracę narządów rozrodczych i tarczycy.•Wzmacnia mięśnie miednicy </string>
+
+    <string name="exedesc13">Poza symbolizuje Kosmiczną Energię, a kiedy to robisz, tańczysz w przepływie Wszechświata.•Rozciąga i wzmacnia klatkę piersiową, ramiona, czworogłowe, przednią część ciała, w tym brzuch.•Rozciąga górną część ciała plecy, mięśnie czworogłowe, kostki, stopy, uda, pachwiny i brzuch • Poprawia równowagę </string>
+
+    <string name="exedesc14">Pobudza serce, nerki, wątrobę, śledzionę i płuca.•Przyczynia się do redukcji tłuszczu z brzucha, wzmacnia nerki, •Pomaga zapobiegać i kontrolować cukrzycę.•Wzmacnia mięśnie pleców i zmniejsza ból pleców </string>
+
+    <string name="exedesc15">Pomocna w pozbyciu się zaparć.•Prowadzi to do prawidłowego funkcjonowania nadnerczy. Rozciąga mięśnie pleców, czyniąc je silniejszymi. • Poprawia zdrowie zarówno męskich, jak i żeńskich narządów rozrodczych </string>
+
+    <string name="exedesc16">Zwiększa tempo przemiany materii i pomaga w utracie wagi•Poprawia pracę przewodu pokarmowego, wchłanianie i przyswajanie składników odżywczych•Pobudza układ nerwowy i odmładza komórki mózgowe•Poprawia krążenie krwi i dodaje blasku twarzy•To stymuluje narządy jamy brzusznej i dlatego jest niezwykle przydatny dla osób chorych na cukrzycę • Poprawia pamięć i zdolność koncentracji </string>
+
+    <string name="exedesc17">Pobudza pracę szyszynki, podwzgórza i przysadki mózgowej oraz pomaga w wydzielaniu hormonu wzrostu odpowiedzialnego za wzrost. • Wzmacnia mięśnie pleców, ramion i ramion. </string>
+
+    <string name="exedesc18">Łagodzi zmęczone lub kurczowe nogi i stopy•Łagodzi bóle głowy•Łagodzi ból w dole pleców•Uspokaja umysł
+ </string>
+
+    <string name="exedesc19">Rewitalizuje układ nerwowy i wspomaga prawidłowe krążenie krwi w przysadce mózgowej, która uwalnia hormon wzrostu odpowiedzialny za wzrost. Rozciąga mięśnie pleców i dolnych partii ciała wraz z kręgosłupem. </string>
+
+    <string name="exedesc20">Ujędrnia mięśnie nóg, likwiduje sztywność nóg i bioder, leczy bóle pleców i skręcenia karku, rozwija klatkę piersiową i wzmacnia kostki.</string>
+
+    <string name="exedesc21">Skręt kolana rozciąga plecy, wyrównuje mięśnie i wydłuża kręgosłup oraz nawilża dyski kręgosłupa.•Dodaje barkom, klatce piersiowej, środkowemu kręgosłupowi, biodrom, dolnej części pleców i górnej części pleców. stretch.•Wzmaga świeży przepływ krwi do narządów wewnętrznych i zapewnia całkowity detoks narządów wewnętrznych </string>
+
+    <string name="exedesc22">Rozciąga i wzmacnia mięśnie pleców i brzucha.•Pomaga w trawieniu i uwalnianiu gazów. Pobudza spalanie tłuszczu.•Uelastycznia mięśnie nóg i ramion.•Poprawia krążenie krwi w stawach biodrowych.</string>
+
+    <string name="exedesc23">Łagodzi napięcie szyi, gardła i ramion. Rozciąga i stymuluje narządy brzucha i gardła.
+ </string>
+
+    <string name="exedesc24">Zwiększa tempo przemiany materii i pomaga w odchudzaniu.Poprawia pracę przewodu pokarmowego, wchłanianie i przyswajanie składników odżywczych.Pobudza układ nerwowy i odmładza komórki mózgowe.Poprawia krążenie krwi i dodaje blasku twarzy.To stymuluje narządy jamy brzusznej, dzięki czemu jest niezwykle przydatny dla osób z cukrzycą. Poprawia pamięć i siłę koncentracji. </string>
+
+    <string name="exedesc25">Całkowicie rozciąga ścięgna podkolanowe, barki, łydki, łuki, dłonie i kręgosłup, jednocześnie budując siłę w ramionach, barkach i nogach. Pobudza krążenie krwi. To idealne ćwiczenie do rozciągania całego ciała w celu zwiększenia wzrostu.</string>
+    <string name="exeyouvid1">kqnua4rHVVA</string>
+
+    <string name="exeyouvid2">TsYT02UnkMA</string>
+
+    <string name="exeyouvid3">Ay_s_a7L9T4</string>
+
+    <string name="exeyouvid4">51EqCa6ZGCw</string>
+
+    <string name="exeyouvid5">TsCxqXU9g0Q</string>
+
+    <string name="exeyouvid6">ibfX5IGqrU4</string>
+
+    <string name="exeyouvid7">YMO8QRprW2w</string>
+
+    <string name="exeyouvid8">UCjqxT4YzXo</string>
+
+    <string name="exeyouvid9">zE0IhWwRt8s</string>
+
+    <string name="exeyouvid10">8vtA2nnxoEI</string>
+
+    <string name="exeyouvid11">TSvxys_Ywq0</string>
+
+    <string name="exeyouvid12">QSUe1ElVcMI</string>
+
+    <string name="exeyouvid13">yw6NpUtK48A</string>
+
+    <string name="exeyouvid14">Qo2FokvUj6M</string>
+
+    <string name="exeyouvid15">2MJGg-dUKh0</string>
+
+    <string name="exeyouvid16">1d3erUbB3uw</string>
+
+    <string name="exeyouvid17">T8sgVyF4Ux4</string>
+
+    <string name="exeyouvid18">DzONedGzUzY</string>
+
+    <string name="exeyouvid19">SnoFGPZTjs0</string>
+
+    <string name="exeyouvid20">NKp9DvzzZTo</string>
+
+    <string name="exeyouvid21">G28BnPX-tlA</string>
+
+    <string name="exeyouvid22">Kp7XJkG9ubc</string>
+
+    <string name="exeyouvid23">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid24">_wKvqBbmvls</string>
+
+    <string name="exeyouvid25">qLPRDus9zzg</string>
+
+    <string name="exeyouvid26">xyIAT7XzAe4</string>
+
+    <string name="exeyouvid27">wdln9qWYloU</string>
+
+    <string name="exeyouvid28">3CnPUfZsIwg</string>
+
+    <string name="exeyouvid29">U2oimBogB4k</string>
+
+
+    <string name="totaltime">6</string>
+    <string name="round1time">20</string>
+    <string name="round2time">30</string>
+    <string name="round3time">40</string>
+
+
+    <string name="exekcal1">3</string>
+
+    <string name="exekcal2">3</string>
+
+    <string name="exekcal3">3</string>
+
+    <string name="exekcal4">3</string>
+
+    <string name="exekcal5">3</string>
+
+    <string name="exekcal6">3</string>
+
+    <string name="exekcal7">3</string>
+
+    <string name="exekcal8">3</string>
+
+    <string name="exekcal9">3</string>
+
+    <string name="exekcal10">3</string>
+
+    <string name="exekcal11">3</string>
+
+    <string name="exekcal12">3</string>
+
+    <string name="exekcal13">3</string>
+
+    <string name="exekcal14">3</string>
+
+    <string name="exekcal15">3</string>
+
+    <string name="exekcal16">3</string>
+
+    <string name="exekcal17">3</string>
+
+    <string name="exekcal18">4</string>
+
+    <string name="exekcal19">3</string>
+
+    <string name="exekcal20">3</string>
+
+    <string name="exekcal21">3</string>
+
+    <string name="exekcal22">3</string>
+
+    <string name="exekcal23">3</string>
+
+    <string name="exekcal24">3</string>
+
+    <string name="exekcal25">3</string>
+
+    <string name="exekcal26">3</string>
+
+    <string name="exekcal27">3</string>
+
+    <string name="exekcal28">3</string>
+
+    <string name="exekcal29">3</string>
+
+    <string name="cal51exe1">4</string>
+
+    <string name="cal51exe2">5</string>
+
+    <string name="cal51exe3">5</string>
+
+    <string name="cal51exe4">5</string>
+
+    <string name="cal51exe5">5</string>
+
+    <string name="cal51exe6">5</string>
+
+    <string name="cal51exe7">5</string>
+
+    <string name="cal51exe8">5</string>
+
+    <string name="cal51exe9">5</string>
+
+    <string name="cal51exe10">4</string>
+
+    <string name="cal51exe11">4</string>
+
+    <string name="cal51exe12">5</string>
+
+    <string name="cal51exe13">4</string>
+
+    <string name="cal51exe14">4</string>
+
+    <string name="cal51exe15">4</string>
+
+    <string name="cal51exe16">5</string>
+
+    <string name="cal51exe17">4</string>
+
+    <string name="cal51exe18">6</string>
+
+    <string name="cal51exe19">4</string>
+
+    <string name="cal51exe20">4</string>
+
+    <string name="cal51exe21">5</string>
+
+    <string name="cal51exe22">5</string>
+
+    <string name="cal51exe23">4</string>
+
+    <string name="cal51exe24">4</string>
+
+    <string name="cal51exe25">5</string>
+
+
+    <string name="cal51exe26">5</string>
+
+    <string name="cal51exe27">4</string>
+
+    <string name="cal51exe28">4</string>
+
+    <string name="cal51exe29">5</string>
+
+    <!--   <string name="cal51exe30">5</string>
+
+      <string name="cal51exe31">7</string>
+
+      <string name="cal51exe32">4</string>
+
+      <string name="cal51exe33">5</string>
+
+      <string name="cal51exe34">5</string>
+
+      <string name="cal51exe35">4</string>
+
+      <string name="cal51exe36">6</string>
+
+      <string name="cal51exe37">4</string>
+
+      <string name="cal51exe38">7</string>
+
+      <string name="cal51exe39">5</string>
+
+      <string name="cal51exe40">4</string>
+
+      <string name="cal51exe41">4</string>
+
+      <string name="cal51exe42">5</string>-->
+
+    <!--  <string name="cal51exe43">5</string>
+
+      <string name="cal51exe44">5</string>
+
+      <string name="cal51exe45">4</string>
+
+      <string name="cal51exe46">5</string>
+
+      <string name="cal51exe47">5</string>
+
+      <string name="cal51exe48">4</string>
+
+      <string name="cal51exe49">4</string>
+
+      <string name="cal51exe50">4</string>
+
+      <string name="cal51exe51">5</string>
+
+      <string name="cal51exe52">5</string>
+
+      <string name="cal51exe53">6</string>
+
+      <string name="cal51exe54">5</string>
+
+      <string name="cal51exe55">5</string>
+
+      <string name="cal51exe56">5</string>
+
+      <string name="cal51exe57">5</string>
+
+      <string name="cal51exe58">6</string>
+
+      <string name="cal51exe59">5</string>
+
+      <string name="cal51exe60">5</string>
+
+      <string name="cal51exe61">5</string>
+
+      <string name="cal51exe62">5</string>
+  -->
+
+    <string name="cal76exe1">6</string>
+
+    <string name="cal76exe2">8</string>
+
+    <string name="cal76exe3">8</string>
+
+    <string name="cal76exe4">8</string>
+
+    <string name="cal76exe5">8</string>
+
+    <string name="cal76exe6">8</string>
+
+    <string name="cal76exe7">8</string>
+
+    <string name="cal76exe8">8</string>
+
+    <string name="cal76exe9">6</string>
+
+    <string name="cal76exe10">6</string>
+
+    <string name="cal76exe11">8</string>
+
+    <string name="cal76exe12">6</string>
+
+    <string name="cal76exe13">6</string>
+
+    <string name="cal76exe14">6</string>
+
+    <string name="cal76exe15">6</string>
+
+    <string name="cal76exe16">8</string>
+
+    <string name="cal76exe17">6</string>
+
+    <string name="cal76exe18">9</string>
+
+    <string name="cal76exe19">6</string>
+
+    <string name="cal76exe20">6</string>
+
+    <string name="cal76exe21">8</string>
+
+    <string name="cal76exe22">8</string>
+
+    <string name="cal76exe23">6</string>
+
+    <string name="cal76exe24">6</string>
+
+    <string name="cal76exe25">8</string>
+
+    <string name="cal76exe26">8</string>
+
+    <string name="cal76exe27">6</string>
+
+    <string name="cal76exe28">6</string>
+
+    <string name="cal76exe29">8</string>
+
+    <!--  <string name="cal76exe30">8</string>
+
+  <string name="cal76exe31">11</string>
+
+  <string name="cal76exe32">6</string>
+
+  <string name="cal76exe33">8</string>
+
+  <string name="cal76exe34">8</string>
+
+  <string name="cal76exe35">6</string>
+
+  <string name="cal76exe36">9</string>
+
+  <string name="cal76exe37">6</string>
+
+  <string name="cal76exe38">11</string>
+
+  <string name="cal76exe39">8</string>
+
+  <string name="cal76exe40">6</string>
+
+  <string name="cal76exe41">6</string>
+
+  <string name="cal76exe42">8</string>
+-->
+
+    <!-- <string name="cal76exe43">10</string>
+
+     <string name="cal76exe44">10</string>
+
+     <string name="cal76exe45">8</string>
+
+     <string name="cal76exe46">10</string>
+
+     <string name="cal76exe47">10</string>
+
+     <string name="cal76exe48">8</string>
+
+     <string name="cal76exe49">8</string>
+
+     <string name="cal76exe50">8</string>
+
+     <string name="cal76exe51">10</string>
+
+     <string name="cal76exe52">10</string>
+
+     <string name="cal76exe53">12</string>
+
+     <string name="cal76exe54">10</string>
+
+     <string name="cal76exe55">10</string>
+
+     <string name="cal76exe56">10</string>
+
+     <string name="cal76exe57">10</string>
+
+     <string name="cal76exe58">12</string>
+
+     <string name="cal76exe59">10</string>
+
+     <string name="cal76exe60">10</string>
+
+     <string name="cal76exe61">10</string>
+
+     <string name="cal76exe62">10</string>
+ -->
+    <string name="cal90exe1">8</string>
+
+    <string name="cal90exe2">10</string>
+
+    <string name="cal90exe3">10</string>
+
+    <string name="cal90exe4">10</string>
+
+    <string name="cal90exe5">10</string>
+
+    <string name="cal90exe6">10</string>
+
+    <string name="cal90exe7">10</string>
+
+    <string name="cal90exe8">10</string>
+
+    <string name="cal90exe9">8</string>
+
+    <string name="cal90exe10">8</string>
+
+    <string name="cal90exe11">10</string>
+
+    <string name="cal90exe12">8</string>
+
+    <string name="cal90exe13">8</string>
+
+    <string name="cal90exe14">8</string>
+
+    <string name="cal90exe15">8</string>
+
+    <string name="cal90exe16">10</string>
+
+    <string name="cal90exe17">8</string>
+
+    <string name="cal90exe18">12</string>
+
+    <string name="cal90exe19">8</string>
+
+    <string name="cal90exe20">8</string>
+
+    <string name="cal90exe21">10</string>
+
+    <string name="cal90exe22">10</string>
+
+    <string name="cal90exe23">8</string>
+
+    <string name="cal90exe24">8</string>
+
+    <string name="cal90exe25">10</string>
+
+    <string name="cal90exe26">10</string>
+
+    <string name="cal90exe27">8</string>
+
+    <string name="cal90exe28">8</string>
+
+    <string name="cal90exe29">10</string>
+
+    <string name="cal90exe30">10</string>
+
+    <string name="cal90exe31">14</string>
+
+    <string name="cal90exe32">8</string>
+
+    <string name="cal90exe33">10</string>
+
+    <string name="cal90exe34">10</string>
+
+    <string name="cal90exe35">8</string>
+
+    <string name="cal90exe36">12</string>
+
+    <string name="cal90exe37">8</string>
+
+    <string name="cal90exe38">14</string>
+
+    <string name="cal90exe39">10</string>
+
+    <string name="cal90exe40">8</string>
+
+    <string name="cal90exe41">8</string>
+
+    <string name="cal90exe42">10</string>
+
+    <!-- <string name="cal90exe43">10</string>
+
+     <string name="cal90exe44">10</string>
+
+     <string name="cal90exe45">8</string>
+
+     <string name="cal90exe46">10</string>
+
+     <string name="cal90exe47">10</string>
+
+     <string name="cal90exe48">8</string>
+
+     <string name="cal90exe49">8</string>
+
+     <string name="cal90exe50">8</string>
+
+     <string name="cal90exe51">10</string>
+
+     <string name="cal90exe52">10</string>
+
+     <string name="cal90exe53">12</string>
+
+     <string name="cal90exe54">10</string>
+
+     <string name="cal90exe55">10</string>
+
+     <string name="cal90exe56">10</string>
+
+     <string name="cal90exe57">10</string>
+
+     <string name="cal90exe58">12</string>
+
+     <string name="cal90exe59">10</string>
+
+     <string name="cal90exe60">10</string>
+
+     <string name="cal90exe61">10</string>
+
+     <string name="cal90exe62">10</string>
+ -->
+
+
+    <!--Dummy Ids-->
+    <!-- <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+     <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+     <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
+     <string name="admob_nativead">ca-app-pub-3940256099942544/2247696110</string>
+     <string name="admob_rewardedad">ca-app-pub-3940256099942544/5224354917</string>
+
+     <string name="facebook_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_native">YOUR_PLACEMENT_ID</string>
+     <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+     <string name="facebook_interstitial">YOUR_PLACEMENT_ID</string>
+ -->
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg99pOYHUOWfbuteWSjfgnx40l3UExKLTngMr3RmlO/mdqik5BfRwo57lSWVhcrKbHrPLbtksOGsy/5nB2LbtPfIiwYojdzPLTvHA+wkqadFTIkH03PrCm26IrW/TViEn5R7Lq0DWxDjK49PAXMgoBWTPUoo513slgy89kBtbf5HqMgUNeyp2mR/1gVusTbmiKbquqRk28IGWQoX/b1QV/rDfPustsjMo1oGMjtz+/iT+TCKkYGgjNI/19PDoY2sslVE8feEJxRhQ6757AGztHl09Ht5SxcgnTijL/WP1sR71lJUflULeczoQIuTcUOrCUm+2Yu2InKPLmgzvbkWvEQIDAQAB</string>
+    <!--
+        <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    -->
+
+
+    <string name="admob_banner">ca-app-pub-6061383953767821/8702608950</string>
+    <string name="admob_Interstitial">ca-app-pub-6061383953767821/2285358508</string>
+    <string name="admob_nativead">ca-app-pub-6061383953767821/6551906572</string>
+    <string name="admob_rewardedad">ca-app-pub-6061383953767821/4528378465</string>
+
+    <string name="facebook_banner">212840833245904_212841479912506</string>
+    <string name="facebook_interstitial">212840833245904_212841839912470</string>
+    <string name="facebook_native">212840833245904_212841346579186</string>
+    <string name="facebooknative_banner">YOUR_PLACEMENT_ID</string>
+    <string name="facebook_rectangle">YOUR_PLACEMENT_ID</string>
+
+
+    <string name="add_exercise">Dodaj ćwiczenie</string>
+    <string name="height_increase_workout">@string/app_name</string>
+    <string name="please_check_your_internet_connection">Sprawdź swoje połączenie internetowe !!!</string>
+    <string name="refresh">Odśwież</string>
+    <string name="start">ROZPOCZNIJ</string>
+    <string name="previous">Poprzedni</string>
+    <string name="next">Dalej</string>
+    <string name="tips">Wskazówki</string>
+    <string name="history">Historia</string>
+    <string name="com_continue">Kontynuuj</string>
+    <string name="reminder">Przypomnienie</string>
+    <string name="calculate_bmi">Oblicz BMI</string>
+    <string name="weight">WAGA:</string>
+    <string name="weight1">Waga</string>
+    <string name="bmi_kg_m">BMI (KG/M²)</string>
+    <string name="calories">Kalorie</string>
+    <string name="exercises">Ćwiczenia</string>
+    <string name="duration">Czas trwania</string>
+    <string name="ready_to_go">Gotowy do pracy!</string>
+    <string name="skip">POMIŃ</string>
+    <string name="reset">Resetuj</string>
+    <string name="add">DODAJ</string>
+    <string name="video">WIDEO</string>
+    <string name="animation">ANIMACJA</string>
+    <string name="txt_weekgoal">Ustaw cel tygodniowy</string>
+    <string name="save">ZAPISZ</string>
+    <string name="user_age">Wiek</string>
+    <string name="user_gender">Płeć</string>
+    <string name="user_male">Mężczyzna</string>
+    <string name="user_height">Wysokość</string>
+    <string name="user_weight">Waga</string>
+    <string name="user_meal">Posiłek</string>
+    <string name="rest_day">Dzień odpoczynku</string>
+    <string name="finished">GOTOWE</string>
+    <string name="diet_list">Lista diet</string>
+    <string name="no_internet">Brak połączenia internetowego!</string>
+    <string name="set_your_weekly_goal">WYZNACZ SWÓJ CEL TYGODNIOWY</string>
+    <string name="recommandedtxt">Zalecamy szkolenie co najmniej 3 dni w tygodniu, aby uzyskać lepsze wyniki</string>
+    <string name="training_days">Dni treningowe</string>
+    <string name="first_day_of_week">Pierwszy dzień tygodnia</string>
+    <string name="to_set_regional_plan">ABY USTAWIĆ PLAN REGIONALNY</string>
+    <string name="select_state">Wybierz stan</string>
+    <string name="select_city">Wybierz miasto</string>
+    <string name="what_s_your_gender">Wybierz Kim jesteś?</string>
+    <string name="to_personalize_your_plan">Aby spersonalizować swój plan</string>
+    <string name="female">Kobieta</string>
+    <string name="male">Mężczyzna</string>
+    <string name="diet_plan">Plan diety</string>
+    <string name="vegetarian">Wegetariański</string>
+    <string name="non_nvegetarian">Niewegetariańskie</string>
+    <string name="vegan">Wegańskie</string>
+    <string name="how_old_are_you">Ile masz lat?</string>
+    <string name="calculate">Oblicz</string>
+    <string name="ok">OK</string>
+    <string name="mute">Wycisz</string>
+    <string name="voice_guide">Przewodnik głosowy</string>
+    <string name="coach_tips">Wskazówki trenera</string>
+    <string name="sound_options">Opcje dźwięku</string>
+    <string name="please_name_your_plan">Nazwij swój plan</string>
+    <string name="cancel">ANULUJ</string>
+    <string name="give_up"> PODDAJ SIĘ</string>
+    <string name="please_set_reminder">Ustaw przypomnienie</string>
+    <string name="restart">RESTART</string>
+    <string name="having_a_beautiful_body_has_never_easy">Mając piękne ciało nigdy nie było łatwo!</string>
+    <string name="settings">Ustawienia</string>
+    <string name="test_voice">Przetestuj głos</string>
+    <string name="workout">TRENING</string>
+    <string name="remind_me_to_workout_every_day">Przypomnij mi o codziennym treningu</string>
+    <string name="voice_options_tts">OPCJE GŁOSOWE (TTS)</string>
+    <string name="voice_language">Język głosu</string>
+    <string name="download_more_tts_language_data">Pobierz więcej danych języka TTS</string>
+    <string name="device_tts_setting">Ustawienia TTS urządzenia</string>
+    <string name="general_settings">USTAWIENIA OGÓLNE</string>
+    <string name="language_options">Opcje języka</string>
+    <string name="restart_progress">Ponownie uruchom postęp</string>
+    <string name="support_us">WSPIERAJ NAS</string>
+    <string name="rate_us">Oceń nas</string>
+
+    <string name="share_with_friends">Udostępnij znajomym</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="repeat">Powtórz</string>
+    <string name="aboveage">Powyżej 18 roku życia</string>
+    <string name="nextexespeech">następne ćwiczenie to</string>
+    <string name="startspeech">rozpoczęcie ćwiczenia</string>
+
+
+    <string name="feed1">Nie podoba mi się projekt</string>
+    <string name="feed2">Nie ma funkcji, których potrzebuję</string>
+    <string name="feed3">Nie jest to łatwe w użyciu</string>
+    <string name="feed4">To zbyt skomplikowane</string>
+    <string name="feed5">Tłumaczenie jest słabe</string>
+    <string name="reminderdialtxt"><u>Dlaczego nie przypominasz sobie o wyniku 100%.</u></string>
+
+    <string name="terms">Utworzenie konta oznacza, że ​​nie masz nic przeciwko</string>
+
+    <string name="tandc"><u>Warunki korzystania z usługi</u></string>
+    <string name="privacy"><u>Polityka prywatności</u></string>
+
+    <string name="tvbmis"><u>Oblicz BMI</u></string>
+
+    <string name="tvmoretips"><u>Więcej wskazówek >></u></string>
+    <string name="tvmoredetail"><u>Więcej szczegółów >></u></string>
+
+    <string name="termstxt">Pobierając lub korzystając z aplikacji, te warunki będą automatycznie obowiązywać Cię – dlatego przed użyciem aplikacji upewnij się, że dokładnie je przeczytałeś. Nie możesz w żaden sposób kopiować ani modyfikować aplikacji, żadnej jej części ani naszych znaków towarowych. Nie możesz próbować wyodrębnić kodu źródłowego aplikacji, nie powinieneś też próbować tłumaczyć aplikacji na inne języki ani tworzyć wersji pochodnych. Sama aplikacja i wszystkie znaki towarowe, prawa autorskie, prawa do baz danych i inne prawa własności intelektualnej z nią związane nadal należą do dr Zio.
+
+Dr Zio dokłada wszelkich starań, aby aplikacja była jak najbardziej użyteczna i wydajna. Z tego powodu zastrzegamy sobie prawo do wprowadzania zmian w aplikacji lub pobierania opłat za jej usługi w dowolnym momencie i z dowolnego powodu. Nigdy nie pobieramy opłat za aplikację lub jej usługi bez wyraźnego wyjaśnienia, za co płacisz.
+
+„Aplikacja Zwiększ wysokość po 18 latach” przechowuje i przetwarza dane osobowe, które nam przekazałeś, w celu zapewnienia lepszej obsługi. Twoim obowiązkiem jest zapewnienie bezpieczeństwa telefonu i dostępu do aplikacji. Dlatego zalecamy, aby nie jailbreakować ani rootować telefonu, co jest procesem usuwania ograniczeń oprogramowania i ograniczeń nałożonych przez oficjalny system operacyjny urządzenia. Może to spowodować, że Twój telefon będzie podatny na złośliwe oprogramowanie/wirusy/złośliwe programy, naruszyć funkcje zabezpieczeń telefonu i może to oznaczać, że ta aplikacja nie będzie działać poprawnie lub w ogóle.
+
+Powinieneś mieć świadomość, że są pewne rzeczy, za które dr Zio nie bierze odpowiedzialności. Niektóre funkcje aplikacji wymagają, aby aplikacja miała aktywne połączenie z Internetem. Połączenie może być Wi-Fi lub dostarczone przez operatora sieci komórkowej, ale Dr Zio nie może brać odpowiedzialności za to, że aplikacja nie działa z pełną funkcjonalnością, jeśli nie masz dostępu do Wi-Fi i nie masz żadnego pozostały Twój limit danych.
+
+Jeśli korzystasz z aplikacji poza obszarem z Wi-Fi, pamiętaj, że nadal obowiązują warunki umowy z operatorem sieci komórkowej. W rezultacie operator komórkowy może zostać obciążony kosztami transmisji danych za czas połączenia podczas korzystania z aplikacji lub innymi opłatami stron trzecich. Korzystając z aplikacji, akceptujesz wszelkie takie opłaty, w tym opłaty za transmisję danych w roamingu, jeśli korzystasz z aplikacji poza swoim terytorium (tj. regionem lub krajem) bez wyłączania roamingu danych. Jeśli nie jesteś płatnikiem rachunków za urządzenie, na którym korzystasz z aplikacji, pamiętaj, że zakładamy, że otrzymałeś zgodę płatnika rachunków na korzystanie z aplikacji. W ten sam sposób, Dr Zio nie zawsze może wziąć odpowiedzialność za sposób, w jaki korzystasz z aplikacji, tj. Musisz upewnić się, że Twoje urządzenie pozostaje naładowane – jeśli wyczerpie się bateria i nie możesz jej włączyć, aby skorzystać z Usługi, Dr Zio nie może przyjąć odpowiedzialności. W odniesieniu do odpowiedzialności dr Zio za korzystanie z aplikacji, podczas korzystania z niej należy pamiętać, że chociaż staramy się, aby była ona zawsze aktualizowana i poprawna, polegamy na osobach trzecich aby przekazać nam informacje, abyśmy mogli je Tobie udostępnić. Dr Zio nie ponosi odpowiedzialności za jakiekolwiek straty, bezpośrednie lub pośrednie, których doświadczysz w wyniku całkowitego polegania na tej funkcjonalności aplikacji. W pewnym momencie możemy chcieć zaktualizować aplikację. Aplikacja jest obecnie dostępna na Androida – wymagania dotyczące systemu (oraz wszelkich dodatkowych systemów, na które zdecydujemy się rozszerzyć dostępność aplikacji) mogą ulec zmianie i będziesz musiał pobrać aktualizacje, jeśli chcesz nadal korzystać z aplikacji. Dr Zio nie obiecuje, że zawsze będzie aktualizować aplikację, aby była odpowiednia dla Ciebie i / lub działała z wersją Androida, którą zainstalowałeś na swoim urządzeniu. Jednak obiecujesz, że zawsze będziesz akceptować aktualizacje aplikacji, gdy zostaną Ci zaoferowane. Możemy również chcieć zaprzestać dostarczania aplikacji i możemy zakończyć korzystanie z niej w dowolnym momencie bez powiadomienia o wypowiedzeniu. O ile nie postanowimy inaczej, po wypowiedzeniu (a) prawa i licencje przyznane w niniejszych warunkach wygasną; (b) musisz przestać korzystać z aplikacji i (w razie potrzeby) usunąć ją ze swojego urządzenia.</string>
+
+
+    <string name="policytxt">Zasady ogólne Pobierając aplikację lub korzystając z niej, niniejsze warunki automatycznie odnoszą się do Ciebie – dlatego przed użyciem aplikacji należy się z nimi dokładnie zapoznać. Nie możesz w żaden sposób kopiować ani modyfikować aplikacji, żadnej jej części ani naszych znaków towarowych. Nie możesz próbować wyodrębnić kodu źródłowego aplikacji, nie powinieneś też próbować tłumaczyć aplikacji na inne języki ani tworzyć wersji pochodnych. Sama aplikacja i wszystkie znaki towarowe, prawa autorskie, prawa do baz danych i inne prawa własności intelektualnej z nią związane nadal należą do dr Zio.
+        Dr Zio dokłada wszelkich starań, aby aplikacja była jak najbardziej użyteczna i wydajna. Z tego powodu zastrzegamy sobie prawo do wprowadzania zmian w aplikacji lub pobierania opłat za jej usługi w dowolnym momencie i z dowolnego powodu. Nigdy nie pobieramy opłat za aplikację lub jej usługi bez wyraźnego wyjaśnienia, za co płacisz.
+        „Aplikacja Deep Sleep” przechowuje i przetwarza dane osobowe, które nam przekazałeś, aby zapewnić lepszą obsługę. Twoim obowiązkiem jest zapewnienie bezpieczeństwa telefonu i dostępu do aplikacji. Dlatego zalecamy, aby nie jailbreakować ani rootować telefonu, co jest procesem usuwania ograniczeń oprogramowania i ograniczeń nałożonych przez oficjalny system operacyjny urządzenia. Może to spowodować, że Twój telefon będzie podatny na złośliwe oprogramowanie/wirusy/złośliwe programy, naruszyć funkcje zabezpieczeń telefonu i może to oznaczać, że ta aplikacja nie będzie działać poprawnie lub w ogóle.
+        Powinieneś mieć świadomość, że są pewne rzeczy, za które dr Zio nie bierze odpowiedzialności. Niektóre funkcje aplikacji wymagają, aby aplikacja miała aktywne połączenie z Internetem. Połączenie może być Wi-Fi lub dostarczone przez operatora sieci komórkowej, ale Dr Zio nie może brać odpowiedzialności za to, że aplikacja nie działa z pełną funkcjonalnością, jeśli nie masz dostępu do Wi-Fi i nie masz żadnego pozostały Twój limit danych.
+        Jeśli korzystasz z aplikacji poza obszarem z Wi-Fi, pamiętaj, że nadal obowiązują warunki umowy z operatorem sieci komórkowej. W rezultacie operator komórkowy może zostać obciążony kosztami transmisji danych za czas połączenia podczas korzystania z aplikacji lub innymi opłatami stron trzecich. Korzystając z aplikacji, akceptujesz wszelkie takie opłaty, w tym opłaty za transmisję danych w roamingu, jeśli korzystasz z aplikacji poza swoim terytorium (tj. regionem lub krajem) bez wyłączania roamingu danych. Jeśli nie jesteś płatnikiem rachunków za urządzenie, na którym korzystasz z aplikacji, pamiętaj, że zakładamy, że otrzymałeś zgodę płatnika rachunków na korzystanie z aplikacji. W ten sam sposób, Dr Zio nie zawsze może wziąć odpowiedzialność za sposób, w jaki korzystasz z aplikacji, tj. Musisz upewnić się, że Twoje urządzenie pozostaje naładowane – jeśli wyczerpie się bateria i nie możesz jej włączyć, aby skorzystać z Usługi, Dr Zio nie może przyjąć odpowiedzialności. W odniesieniu do odpowiedzialności dr Zio za korzystanie z aplikacji, podczas korzystania z niej należy pamiętać, że chociaż staramy się, aby była ona zawsze aktualizowana i poprawna, polegamy na osobach trzecich aby przekazać nam informacje, abyśmy mogli je Tobie udostępnić. Dr Zio nie ponosi odpowiedzialności za jakiekolwiek straty, bezpośrednie lub pośrednie, których doświadczysz w wyniku całkowitego polegania na tej funkcjonalności aplikacji. W pewnym momencie możemy chcieć zaktualizować aplikację. Aplikacja jest obecnie dostępna na Androida – wymagania dotyczące systemu (oraz wszelkich dodatkowych systemów, na które zdecydujemy się rozszerzyć dostępność aplikacji) mogą ulec zmianie i będziesz musiał pobrać aktualizacje, jeśli chcesz nadal korzystać z aplikacji. Dr Zio nie obiecuje, że zawsze będzie aktualizować aplikację, aby była odpowiednia dla Ciebie i / lub działała z wersją Androida, którą zainstalowałeś na swoim urządzeniu. Jednak obiecujesz, że zawsze będziesz akceptować aktualizacje aplikacji, gdy zostaną Ci zaoferowane. Możemy również chcieć zaprzestać dostarczania aplikacji i możemy zakończyć korzystanie z niej w dowolnym momencie bez powiadomienia o wypowiedzeniu. O ile nie postanowimy inaczej, po wypowiedzeniu (a) prawa i licencje przyznane w niniejszych warunkach wygasną; (b) musisz zaprzestać korzystania z aplikacji i (w razie potrzeby) usunąć ją ze swojego urządzenia.
+
+        Jak korzystać z aplikacji:
+
+        Zalecamy korzystanie z tej aplikacji poprzez subskrypcję lekarzy, jeśli masz poważną chorobę i urazy kości, serca, urazy pleców, kręgosłupa, urazy głowy lub jakiekolwiek inne obrażenia ciała, poproś eksperta / lekarzy o wykonanie tej jogi, ćwiczeń i ćwiczyć.
+
+        Polityka prywatności
+
+        Dr Zio stworzył aplikację Deep Sleep jako aplikację komercyjną. Ta USŁUGA jest świadczona przez Dr. Zio i jest przeznaczona do użytku w obecnej postaci. Ta strona służy do informowania odwiedzających o naszych zasadach dotyczących gromadzenia, wykorzystywania i ujawniania danych osobowych, jeśli ktokolwiek zdecyduje się skorzystać z naszej Usługi. Jeśli zdecydujesz się korzystać z naszej Usługi, zgadzasz się na zbieranie i wykorzystywanie informacji dotyczących tej polityki. Gromadzone przez nas dane osobowe są wykorzystywane do świadczenia i ulepszania Usługi. Nie będziemy wykorzystywać ani udostępniać Twoich danych nikomu, z wyjątkiem przypadków opisanych w niniejszej Polityce prywatności. Terminy użyte w niniejszej Polityce prywatności mają takie samo znaczenie jak w naszym Regulaminie, który jest dostępny pod adresem Zwiększ wysokość po 18, chyba że niniejsza Polityka prywatności stanowi inaczej.
+
+        Gromadzenie i wykorzystywanie informacji
+
+        Aby zapewnić lepsze wrażenia podczas korzystania z naszej Usługi, możemy wymagać od Ciebie podania pewnych danych osobowych, w tym między innymi identyfikatora Gmaila osoby, imienia, imienia, wieku, wzrostu, wagi, aby zapewnić lepsze wrażenia użytkownika jako osoby. konkretna pomoc zgodnie z ich BMI (wskaźnik masy ciała) i otrzymuj powiadomienia za pomocą wskazówek oraz dostosuj powiadomienia i reklamy zgodnie z ich lokalizacją. Informacje, o które prosimy, będą przez nas przechowywane i wykorzystywane zgodnie z niniejszą polityką prywatności. Aplikacja korzysta z usług stron trzecich, które mogą gromadzić informacje służące do identyfikacji użytkownika. Link do polityki prywatności zewnętrznych dostawców usług używanych przez aplikację
+
+        Usługi Google Play (https://policies.google.com/privacy)
+        AdMob (https://support.google.com/admob/answer/6128543?hl=pl)
+        Firebase Analytics (https://firebase.google.com/policies/analytics)
+        Facebook (https://www.facebook.com/about/privacy)
+        Tkanina (https://fabric.io/privacy)
+        Crashlytics (https://firebase.google.com/products/crashlytics?utm_source=crashlytics_marketin%20g&amp;utm_medium=redirect&amp;utm_campaign=crashlytics_redirect)
+        Zbieramy informacje o Twojej lokalizacji, gdy korzystasz z naszych usług, co pomaga nam oferować funkcje, takie jak wskazówki dojazdu na weekendowy wypad lub godziny seansów filmów odtwarzanych w pobliżu.
+
+        Twoją lokalizację można określić z różnym stopniem dokładności poprzez:
+
+GPS
+adres IP
+Dane czujnika z Twojego urządzenia
+Informacje o obiektach w pobliżu urządzenia, takich jak punkty dostępu Wi-Fi, wieże komórkowe i urządzenia obsługujące technologię Bluetooth
+Rodzaje zbieranych przez nas danych o lokalizacji zależą częściowo od ustawień Twojego urządzenia i konta. Na przykład możesz włączyć lub wyłączyć lokalizację urządzenia z Androidem, korzystając z aplikacji ustawień urządzenia. Możesz też włączyć historię lokalizacji, jeśli chcesz utworzyć prywatną mapę miejsc, które odwiedzasz z urządzeniami, na których jesteś zalogowany.
+
+
+
+Reklama
+
+
+Korzystając z naszych Aplikacji, możesz otrzymać treści reklamowe. My lub sieci reklamowe, z których korzystamy, możemy wykorzystywać technologie wyświetlania reklam, które wykorzystują pliki cookie, sygnały nawigacyjne, piksele śledzące i inne technologie, które są umieszczane w reklamach i pozwalają nam lub naszym sieciom zbierać dane nieosobowe. Informacje nieosobowe, takie jak wiek i płeć, mogą być wykorzystywane w celu zapewnienia odpowiedniej reklamy. Dane użytkowania i informacje nieosobowe, takie jak identyfikatory reklam, mogą być wykorzystywane do określania liczby kliknięć reklamy, mierzenia skuteczności kampanii reklamowych, określania odpowiedniej liczby powtórnych wyświetleń danej reklamy i/lub dostarczania reklam które najlepiej odpowiadają Twoim zainteresowaniom. W zależności od urządzenia i jego systemu operacyjnego możesz mieć możliwość uniemożliwienia używania identyfikatora reklamy urządzenia do reklam opartych na zainteresowaniach lub zresetowania identyfikatora reklamy urządzenia poprzez zmianę ustawień urządzenia. Dostawca reklam może wykorzystać Twoją lokalizację w celu lepszej lokalizacji reklam przez użytkowników i personalizacji reklam w języku lokalnym.
+
+
+
+Cel zbierania informacji
+
+
+Dane nieosobowe są wykorzystywane do celów statystycznych i badawczych oraz dostosowywania i ulepszania naszych Aplikacji
+Dane osobowe są używane, aby móc odpowiedzieć, gdy kontaktujesz się za pośrednictwem poczty e-mail.
+Dane osobowe, takie jak lokalizacja/adres IP, służą do wyświetlania reklam w zależności od lokalizacji, co nazywa się reklamą kontekstową.
+Używamy informacji, które zbieramy o Tobie/Twoim urządzeniu, aby świadczyć Ci usługi i prowadzić naszą działalność. Takie wykorzystanie przez nas i naszych Partnerów może obejmować:
+Świadczenie naszych usług: Opracowywanie, dostarczanie i ulepszanie naszych produktów, usług i treści, dostosowywanie naszych produktów i usług, dostarczanie aktualizacji oprogramowania i pomocy technicznej, zrozumienie i analizowanie trendów związanych z korzystaniem z Aplikacji, administrowaniem Aplikacjami i komunikacją z klientami.
+
+Wyświetlanie reklam: Wyświetlanie reklam stron trzecich w naszych Aplikacjach i wyświetlanie reklam naszych Aplikacji w aplikacjach innych wydawców. Promocja krzyżowa: Promowanie krzyżowe naszych aplikacji i usług, co oznacza, że ​​możemy promować jedną z naszych aplikacji, gdy grasz w inną naszą aplikację.
+
+Analityka i Badania: zrozumienie i analiza trendów w związku z korzystaniem z Aplikacji, zbieranie informacji demograficznych o naszej bazie użytkowników, dane o tym, skąd pobrano Aplikację. Możemy również tworzyć raporty i analizy na potrzeby badań lub analizy biznesowej, na przykład w celu śledzenia potencjalnych problemów lub trendów w naszych aplikacjach i usługach lub w celu testowania naszych nowych funkcji i treści gier. Używamy danych, które otrzymujemy z zewnętrznej sieci społecznościowej tylko do wewnętrznej analizy. Aby zrezygnować z analiz, odwiedź sekcję dotyczącą rezygnacji w niniejszej Polityce prywatności.
+
+
+
+Dane dziennika
+
+
+Informujemy, że za każdym razem, gdy korzystasz z naszej Usługi, w przypadku wystąpienia błędu w aplikacji zbieramy dane i informacje (za pośrednictwem produktów firm trzecich) na Twoim telefonie o nazwie Log Data. Dane dziennika mogą zawierać takie informacje, jak adres IP urządzenia, nazwa urządzenia, wersja systemu operacyjnego, konfiguracja aplikacji podczas korzystania z naszej Usługi, czas i data korzystania z Usługi oraz inne statystyki . W powyższej sytuacji gwarantujemy, że Twoje PII (dane umożliwiające identyfikację osobową) będą wykorzystywane wyłącznie w celu skontaktowania się z Tobą i ulepszenia naszych usług. Nigdy nie wykorzystamy takich informacji (np. Twoje imię i nazwisko oraz adres e-mail) do jakichkolwiek innych celów, takich jak dalszy marketing naszych produktów lub ujawnienie Twoich danych osobowych stronom trzecim w celu uzyskania korzyści handlowych.
+
+Jeśli masz obawy dotyczące niewłaściwego wykorzystania Twoich danych osobowych lub chcesz uzyskać więcej informacji na temat naszej polityki prywatności i jej znaczenia, napisz do nas na adres drziocure@gmail.com, postaramy się udzielić jasnych odpowiedzi na Twoje pytania dotyczące czas.
+
+
+
+
+Ciasteczka
+
+
+Używamy plików cookie i podobnych technologii śledzenia, aby śledzić aktywność w naszej usłudze i przechowywać określone informacje. Pliki cookie to pliki z niewielką ilością danych, które są powszechnie używane jako anonimowe unikalne identyfikatory. Są one wysyłane do Twojej przeglądarki z odwiedzanych przez Ciebie stron internetowych i są przechowywane w pamięci wewnętrznej Twojego urządzenia. Niniejsza Usługa nie wykorzystuje wyraźnie tych plików „cookies”. Aplikacja może jednak wykorzystywać kod i biblioteki stron trzecich, które używają plików „cookies” do zbierania informacji i ulepszania ich usług. Masz możliwość zaakceptowania lub odrzucenia tych plików cookie i wiedzieć, kiedy plik cookie jest wysyłany na Twoje urządzenie. Jeśli zdecydujesz się odrzucić nasze pliki cookie, możesz nie być w stanie korzystać z niektórych części tej Usługi.
+
+Przykłady plików cookie, których używamy:
+
+Pliki cookie sesji: używamy plików cookie sesji do obsługi naszego Serwisu.
+Pliki cookie preferencji: używamy plików cookie preferencji, aby zapamiętać Twoje preferencje i różne ustawienia.
+Pliki cookie bezpieczeństwa: używamy plików cookie bezpieczeństwa do celów bezpieczeństwa.
+
+
+ Płatności
+
+
+W ramach Usługi możemy dostarczać płatne produkty i/lub usługi. W takim przypadku korzystamy z usług stron trzecich do przetwarzania płatności (np. procesorów płatności).
+
+Nie będziemy przechowywać ani gromadzić danych Twojej karty płatniczej. Informacje te są przekazywane bezpośrednio naszym zewnętrznym podmiotom przetwarzającym płatności, których wykorzystanie danych osobowych podlega ich Polityce prywatności. Te procesory płatności spełniają standardy określone przez PCI-DSS zarządzane przez Radę Standardów Bezpieczeństwa PCI, która jest wspólnym wysiłkiem marek takich jak Visa, Mastercard, American Express i Discover. Wymagania PCI-DSS pomagają zapewnić bezpieczną obsługę informacji o płatnościach.
+
+Procesorami płatności, z którymi współpracujemy, są:
+
+Zakup w Google Play w ramach aplikacji
+ Ich Politykę prywatności można zobaczyć na https://policies.google.com/privacy
+
+
+
+ Bezpieczeństwo danych
+
+
+Bezpieczeństwo Twoich danych jest dla nas ważne, ale pamiętaj, że żadna metoda transmisji przez Internet, ani metoda elektronicznego przechowywania nie jest w 100% bezpieczna. Chociaż staramy się wykorzystywać komercyjnie akceptowalne środki ochrony Twoich danych osobowych, nie możemy zagwarantować ich absolutnego bezpieczeństwa.
+
+
+
+
+
+Usługodawcy
+
+
+Możemy zatrudniać firmy i osoby trzecie z następujących powodów:
+
+Aby ułatwić naszą usługę;
+
+Aby świadczyć Usługę w naszym imieniu;
+
+Aby świadczyć usługi związane z Usługą;
+
+Aby pomóc nam w analizie sposobu korzystania z naszej Usługi.
+
+Chcemy poinformować użytkowników tej Usługi, że te osoby trzecie mają dostęp do Twoich danych osobowych. Powodem jest wykonywanie powierzonych im zadań w naszym imieniu. Są jednak zobowiązani do nieujawniania ani nie wykorzystywania informacji w żadnym innym celu.
+
+
+
+
+
+Bezpieczeństwo
+
+
+Cenimy Twoje zaufanie w dostarczaniu nam Twoich Danych Osobowych, dlatego staramy się stosować komercyjnie akceptowalne środki ich ochrony. Pamiętaj jednak, że żadna metoda transmisji przez Internet ani metoda elektronicznego przechowywania nie jest w 100% bezpieczna i niezawodna.
+
+Jednak przesyłanie informacji za pośrednictwem Internetu lub sieci telefonicznej nie jest całkowicie bezpieczne. Chociaż dokładamy wszelkich starań, aby chronić Twoje informacje, w szczególności w odniesieniu do ochrony Twoich danych osobowych,
+
+"Dr. Nauczyciel Zio-Jogi” nie może zapewnić bezpieczeństwa Twoich danych przesyłanych za pośrednictwem Internetu, telefonu lub innych sieci.
+
+
+
+
+
+Linki do innych witryn
+
+
+Niniejsza Usługa może zawierać łącza do innych witryn. Jeśli klikniesz link strony trzeciej, zostaniesz przekierowany do tej witryny. Pamiętaj, że te zewnętrzne witryny nie są przez nas obsługiwane. Dlatego zdecydowanie zalecamy zapoznanie się z Polityką prywatności tych witryn. Nie mamy kontroli nad treścią, polityką prywatności ani praktykami witryn lub usług stron trzecich i nie ponosimy za nie odpowiedzialności.
+
+
+
+Prywatność dzieci
+
+
+Usługi te nie są skierowane do osób poniżej 13 roku życia. Nie gromadzimy świadomie danych osobowych od dzieci poniżej 13 roku życia. W przypadku odkrycia, że ​​dziecko poniżej 13 roku życia przekazało nam dane osobowe, natychmiast usuwamy je z naszych serwerów. Jeśli jesteś rodzicem lub opiekunem i masz świadomość, że Twoje dziecko przekazało nam dane osobowe, skontaktuj się z nami, abyśmy mogli podjąć niezbędne działania. Zmiany w niniejszej Polityce prywatności Od czasu do czasu możemy aktualizować naszą Politykę prywatności. Dlatego zaleca się okresowe przeglądanie tej strony pod kątem wszelkich zmian. Powiadomimy Cię o wszelkich zmianach, publikując nową Politykę prywatności na tej stronie. Zmiany te wchodzą w życie natychmiast po ich opublikowaniu na tej stronie. Skontaktuj się z nami Jeśli masz jakiekolwiek pytania lub sugestie dotyczące naszej Polityki Prywatności, napisz do nas na adres drziocure@gmail.com, postaramy się udzielić jasnych odpowiedzi na Twoje pytania na czas.
+
+ Kalifornijska ustawa o ochronie prywatności w Internecie ActCalOPPA jest pierwszym stanowym prawem w kraju, które wymaga, aby komercyjne witryny i usługi online publikowały politykę prywatności. Zasięg prawa wykracza daleko poza Kalifornię i wymaga, aby każda osoba lub firma w Stanach Zjednoczonych (i prawdopodobnie na świecie), która prowadzi strony internetowe gromadzące dane osobowe od konsumentów w Kalifornii, zamieściła na swojej stronie internetowej wyraźną politykę prywatności dokładnie określającą gromadzone informacje i te osoby lub firmy, z którymi jest udostępniany. – Zobacz więcej na: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+Według CalOPPA zgadzamy się na:
+
+Użytkownicy mogą odwiedzać naszą stronę anonimowo.
+
+
+
+Czy umożliwiamy stronom trzecim, w tym sieciom reklamowym lub wtyczkom, zbieranie informacji umożliwiających identyfikację osób poniżej 13 roku życia?
+
+– Nie kierujemy konkretnie do dzieci poniżej 13 roku życia.
+
+
+
+ Ograniczenie odpowiedzialności
+
+
+ Dr Zio – nauczyciel jogi nie składa żadnych oświadczeń, obietnic ani gwarancji dotyczących dokładności, kompletności lub adekwatności treści dostępnych za pośrednictwem Aplikacji i wyraźnie zrzeka się odpowiedzialności za błędy i pominięcia w treściach dostępnych za pośrednictwem Aplikacji.
+
+– W odniesieniu do treści dostępne za pośrednictwem Aplikacji lub jej łączy do innych zasobów internetowych, które mogą być dostępne dla Użytkownika za pośrednictwem Aplikacji.
+
+– Odniesienie w Aplikacji do jakichkolwiek konkretnych produktów, procesów lub usług komercyjnych lub użycie jakiejkolwiek nazwy handlowej, firmy lub korporacji ma na celu informację i wygodę opinii publicznej i nie stanowi poparcia, rekomendacji ani faworyzowania przez dr. Zio– nauczycielka jogi.
+
+
+
+ Zmiany w niniejszej Polityce prywatności
+
+
+Od czasu do czasu możemy aktualizować naszą Politykę prywatności. Dlatego zaleca się okresowe przeglądanie tej strony pod kątem wszelkich zmian. Powiadomimy Cię o wszelkich zmianach, publikując nową Politykę prywatności na tej stronie. Zmiany te wchodzą w życie natychmiast po ich opublikowaniu na tej stronie.
+
+Po utworzeniu niniejszej polityki prywatności dodamy do niej link na naszej stronie głównej lub co najmniej na pierwszej znaczącej stronie po wejściu na naszą stronę internetową.
+
+Jeśli masz pytania lub wątpliwości, napisz do nas lub koresponduj na adres drziocure@gmail.com, a my postaramy się odpowiedzieć na Twoje wątpliwości.
+   </string>
+
+
+    <string name="ntitle1">Brakujący trening bólu pleców!</string>
+    <string name="ntitle2">Nie przegap swojego planu!</string>
+    <string name="ntitle3">Czas rozpocząć Trening!</string>
+    <string name="ntitle4">Dlaczego nie teraz?</string>
+    <string name="ntitle5">Doładuj się!</string>
+    <string name="ntitle6">Czas już nadszedł!</string>
+    <string name="ntitle7">Ty.. Tak, możesz osiągnąć… Kliknij tutaj?</string>
+
+    <string name="desc1">Nigdy się nie poddawaj! Masz zamiar osiągnąć!💪🔥</string>
+    <string name="desc2">Nie myśl o poddawaniu się!💪🔥</string>
+    <string name="desc3">Niewielka praca może zwiększyć Twoje życie. Kontynuuj!💪🔥</string>
+    <string name="desc4">Próbowanie wygrywa w tej chwili! Kontynuuj!💪🔥</string>
+    <string name="desc5">Nie poddawaj się! Już prawie jesteś!💪🔥</string>
+    <string name="desc6">Dobre rzeczy wymagają czasu! Nigdy się nie poddawaj!💪🔥</string>
+    <string name="desc7">Zmiana nie jest łatwa! Kontynuuj !💪🔥</string>
+    <string name="desc8">Zwycięzca to marzyciel! Nigdy się nie poddawaj!💪🔥</string>
+
+    <string name="icons">💪🔥</string>
+    <string name="strstate">Wybierz stan<font color='#FC527F'> *</font></string>
+    <string name="select_the_country">Wybierz kraj<font color='#FC527F'> *</font></string>
+
+    <string name="details1">Ta aplikacja oferuje powyższe opcje automatycznego odnawiania subskrypcji:</string>
+    <string name="details3">Płatność za Deep Sleep Pro zostanie pobrana z Twojego konta Google Play po potwierdzeniu zakupu. Twój ból pleców Pro
+subskrypcja zostanie odnowiona automatycznie, chyba że automatyczne odnawianie zostanie wyłączone na Twoim koncie Google Play co najmniej 24 godziny przed końcem bieżącego okresu rozliczeniowego subskrypcji.\nMożesz zarządzać subskrypcją lub wyłączyć automatyczne odnawianie w ustawieniach konta Google Play po zakupie. Jeśli wyłączysz automatyczne odnawianie w środku, a następnie w połowie okresu subskrypcji. Do końca okresu nadal będziesz mieć dostęp do wszystkich funkcji premium. Za wyłączenie automatycznego odnawiania w środku okresu subskrypcji nie zostaną przyznane żadne częściowe zwroty. Możesz zarządzać swoją subskrypcją lub wyłączyć automatyczne odnawianie w ustawieniach konta Google Play po zakupie. Jeśli wyłączysz automatyczne odnawianie w środku, a następnie w połowie okresu subskrypcji. Do końca okresu nadal będziesz mieć dostęp do wszystkich funkcji premium. Żadne częściowe zwroty nie zostaną przyznane za wyłączenie automatycznego odnawiania w środku okresu subskrypcji.</string>
+    <string name="more">Więcej</string>
+    <string name="total">Łącznie</string>
+    <string name="report">Raport</string>
+    <string name="your_plan">TWÓJ PLAN</string>
+    <string name="_12_days_left">12 dni pozostało</string>
+    <string name="days_left"> pozostało dni</string>
+    <string name="back_pain_relief">Uśmierzanie bólu pleców</string>
+    <string name="info">Informacje</string>
+    <string name="intermediate_level">Poziom średniozaawansowany</string>
+    <string name="intermediate">POŚREDNIO</string>
+    <string name="advanced_level">Poziom zaawansowany</string>
+    <string name="advanced">ZAAWANSOWANE</string>
+    <string name="weekly_goal">CEL TYGODNIOWY</string>
+    <string name="set">+ USTAW</string>
+    <string name="nutrition_nplan">Odżywianie \nPlan</string>
+
+
+    <string name="customize_plan">Dostosuj plan</string>
+    <string name="customize_nyour_plan">Dostosuj \nTwój plan</string>
+    <string name="explore_plan">Przeglądaj plan</string>
+    <string name="discover">ODKRYJ</string>
+    <string name="discover1">Odkryj</string>
+    <string name="daily_tips">Codzienne wskazówki</string>
+    <string name="loading">Ładowanie...</string>
+    <string name="all_diets">Wszystkie diety</string>
+    <string name="done">Gotowe</string>
+    <string name="share">Udostępnij</string>
+    <string name="all_history">Cała historia</string>
+    <string name="category_name">Nazwa kategorii</string>
+    <string name="covid_tracker">Śledzenie Covid</string>
+    <string name="plans_made_for_you">Plany stworzone dla Ciebie</string>
+    <string name="confirmed_cases">Potwierdzone przypadki</string>
+    <string name="deaths">Zgony</string>
+    <string name="recoveries">Odzyskiwanie</string>
+    <string name="city_province">Miasto/prowincja</string>
+    <string name="confirmed_ncases">Potwierdzone\nSprawy</string>
+    <string name="my_training">Mój trening</string>
+
+    <string name="reports">Raporty</string>
+    <string name="discover_plan">Odkryj plan</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="remove_ads">Usuń reklamy</string>
+    <string name="new_apps">Nowe aplikacje</string>
+    <string name="share_app">Udostępnij aplikację</string>
+
+    <string name="jumping_jacks">JAKOWANIE PODNOŚNIKÓW</string>
+    <string name="_1_min">1 min</string>
+    <string name="_2_exercises">2 ćwiczenia</string>
+    <string name="edit">Edytuj</string>
+    <string name="_5_ft_5_in">5 FT 5 IN</string>
+    <string name="veg">Warzywa</string>
+    <string name="non_veg">Niewegetariańskie</string>
+    <string name="height_graph">Wykres wzrostu</string>
+    <string name="please_login_to_unlock_graph">Zaloguj się, aby odblokować wykres !!!</string>
+    <string name="weight_graph">Wykres wagi</string>
+    <string name="user_info">Informacje o użytkowniku</string>
+    <string name="premium">Premium</string>
+    <string name="get_effective_plan_with_premium">Uzyskaj efektywne plany z Premium</string>
+    <string name="_1_month_subscription">1 miesięczna subskrypcja</string>
+    <string name="_6_months_subscriptions">6-miesięczna subskrypcja</string>
+    <string name="_40_off">40% zniżki</string>
+    <string name="life_time">Dożywotnia subskrypcja</string>
+    <string name="_60_off">60% zniżki</string>
+    <string name="unlock_all_the_features">Odblokuj wszystkie funkcje</string>
+    <string name="ads_free">Bez reklam</string>
+    <string name="intermediate1">Pośredni</string>
+    <string name="advanced1">Zaawansowane</string>
+    <string name="unlock_all_yoga">Odblokuj całą jogę</string>
+    <string name="easy_3d_workout_video">Łatwy trening wideo 3D</string>
+    <string name="set_your_personal_goal">Ustaw swój osobisty cel</string>
+    <string name="back_pain_relief_pro">Deep SleepPro</string>
+    <string name="purchase_now">Kup teraz</string>
+    <string name="set_reminder">Ustaw przypomnienie</string>
+    <string name="user">Użytkownik</string>
+    <string name="my_profile">Mój profil</string>
+    <string name="google_fit">Google Fit</string>
+    <string name="default1">Domyślne</string>
+    <string name="version_1_0">Wersja 1.0</string>
+    <string name="nutrition_plan">Plan żywieniowy</string>
+    <string name="today_s_plan">PLAN NA DZIŚ</string>
+    <string name="use_this_plan">Użyj tego planu</string>
+    <string name="ad">Reklama</string>
+    <string name="appname">nazwa aplikacji</string>
+    <string name="reminder_text">Tekst przypomnienia</string>
+    <string name="please_enter_your_text_here">Wprowadź tutaj swój tekst</string>
+    <string name="fitness_apps">Aplikacje fitness</string>
+    <string name="suggested_for_you">Sugerowane dla Ciebie</string>
+    <string name="suggested_fitness_app">Sugerowana aplikacja fitness</string>
+    <string name="ads">Reklamy .</string>
+    <string name="top_free_apps">Najlepsze bezpłatne aplikacje</string>
+    <string name="suggested_banners">Sugerowane banery</string>
+    <string name="garena_free_fire">Garena Free Fire</string>
+    <string name="free_fire_is_the">Free Fire to najlepsza strzelanka survivalowa dostępna na urządzenia mobilne</string>
+    <string name="you_re_offline">Jesteś offline</string>
+    <string name="check_your_internet">Sprawdź swoje połączenie internetowe i naciśnij przycisk ponów, aby wrócić do trybu online</string>
+    <string name="dr_zio_app_store">Dr.Zio App Store</string>
+    <string name="start_with_your_feeet">Zacznij ze złączonymi stopami i ramionami po bokach, a następnie podskocz z rozstawionymi stopami i rękami nad głową.</string>
+    <string name="other_reason">Inny powód...</string>
+    <string name="write_your_feedback">Napisz swoją opinię</string>
+    <string name="enter_your_paramaters">WPROWADŹ SWOJE PARAMETRY</string>
+    <string name="get">POBIERZ</string>
+    <string name="personalized_plan">PLAN SPERSONALIZOWANY</string>
+    <string name="get_daily_tips">Otrzymuj codzienne wskazówki w swoim języku \ndodając kraj</string>
+    <string name="select">Wybierz</string>
+    <string name="next_2_12">NASTĘPNY 2/12</string>
+    <string name="calf_raise_with_splayed_foot_30s">PODNOSZENIE ŁADKI Z ROZSTAWIONĄ STOPĄ 30s</string>
+    <string name="plank">Deska</string>
+    <string name="repeat_day">Powtórz dzień</string>
+    <string name="repeat1">Powtórz:</string>
+    <string name="every">Każdy</string>
+    <string name="hour_s">Godziny</string>
+    <string name="date">Data</string>
+    <string name="_12_07_2019">12.07.2019</string>
+    <string name="showing_ads">Wyświetlanie reklam...</string>
+    <string name="watch_video_to_unlock">OBEJRZYJ WIDEO, ABY ODBLOKOWAĆ</string>
+    <string name="unlock_free">Odblokuj bezpłatne</string>
+    <string name="or">lub</string>
+    <string name="watch_the_video_to_use_training_nplan_once">Obejrzyj film, aby skorzystać ze szkolenia \nplanuj raz</string>
+    <string name="get_premium">Zdobądź Premium</string>
+
+    <string name="cm">cm</string>
+    <string name="inch">cal</string>
+    <string name="ft">ft</string>
+    <string name="kgs">Kg</string>
+    <string name="lbs">Lbs</string>
+    <string name="no_thanks">Nie, dziękuję!!</string>
+    <string name="complete_100_workouts_for_best_results">Ukończ treningi 100%, aby uzyskać najlepsze wyniki</string>
+    <string name="_16_0">16,0%</string>
+    <string name="we_work_day"><![CDATA[Pracujemy dla Ciebie dzień i noc. Uprzejmie oceń nas🙏.]]></string>
+    <string name="_10">(10)</string>
+    <string name="please_wait">Proszę czekać...</string>
+    <string name="quit">Zakończ</string>
+    <string name="choose_your_language">Wybierz swój język:-</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="chinise">中文</string>
+    <string name="french">français</string>
+    <string name="arabic">عربي</string>
+    <string name="thai">คนไทย</string>
+    <string name="portuguese">português</string>
+    <string name="russian">русский</string>
+    <string name="spanish">española</string>
+    <string name="italian">Italiana</string>
+    <string name="turkish">Türkçe</string>
+    <string name="dutch">Nederlands</string>
+    <string name="korean">한국인</string>
+    <string name="swedish">svenska</string>
+    <string name="danish">dansk</string>
+    <string name="bengali">বাংলা</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="persian">فارسی</string>
+    <string name="polish">Polskie</string>
+
+    <string name="submit">Prześlij</string>
+    <string name="music_for_workout">Muzyka do treningu</string>
+    <string name="choose_from_gallery">Wybierz z galerii</string>
+    <string name="change_background_music">Zmień muzykę w tle</string>
+    <string name="unlock_all_features">Odblokuj wszystkie funkcje</string>
+    <string name="to_unlock_this">Aby odblokować ten poziom - Wybierz dowolną opcję.</string>
+    <string name="complete_n_previous_n_level">Ukończ \n Poprzedni \n Poziom</string>
+    <string name="watch_n_ads">Obejrzyj \n Reklamy</string>
+    <string name="buy_n_premium">Kup \n Premium</string>
+    <string name="to_unlock_this_excercise_choose_this_option">Aby odblokować to ćwiczenie — Wybierz tę opcję.</string>
+    <string name="buy_premium">Kup Premium</string>
+    <string name="close">Zamknij</string>
+    <string name="other_users_will_benefit_from_your_review">Inni użytkownicy skorzystają z Twojej recenzji</string>
+    <string name="please_leave_your_review_on_google_play">Pozostaw swoją opinię w Google Play</string>
+    <string name="rate_on_google_play">OCENA W GOOGLE PLAY</string>
+    <string name="plan_1">Plan 1</string>
+    <string name="dfdfdf">dfdfdf</string>
+    <string name="india_cumulative_numbers">Indie — Liczby skumulowane</string>
+    <string name="updated_loading">Zaktualizowano: Ładowanie...</string>
+    <string name="source_ministry_of_health_and_family_welfare">Źródło: Ministerstwo Zdrowia i Opieki Rodzinnej</string>
+    <string name="today_cases">Dzisiejsze sprawy</string>
+    <string name="today_deaths">Dzisiejsze zgony</string>
+    <string name="today_recoveries">Dzisiejsze odzyskiwanie</string>
+    <string name="live_now">Na żywo teraz</string>
+    <string name="source_world_health_organization">Źródło: Światowa Organizacja Zdrowia</string>
+    <string name="country_region">Kraj/region</string>
+    <string name="new_ncases">Nowe\nSprawy</string>
+    <string name="new_deaths">Nowe zgony</string>
+    <string name="gujarat">Gujarat</string>
+    <string name="day1">Dzień1</string>
+    <string name="trending">Trendy</string>
+    <string name="vitamin_b6">Witamina B6</string>
+    <string name="update">Aktualizuj</string>
+    <string name="sdsdsdds">sdsdsdds</string>
+    <string name="oct_9">9 października</string>
+    <string name="song_name">Nazwa utworu</string>
+    <string name="round">Okrągłe</string>
+    <string name="sun1">słońce</string>
+    <string name="water_drink_reminder_app">Aplikacja przypominająca o napojach wodnych</string>
+    <string name="install_now">Zainstaluj teraz</string>
+    <string name="temppdsdsd">Temppdsdsd </string>
+    <string name="snooze">Drzemka</string>
+    <string name="once">Raz</string>
+    <string name="prayer_time_wake">Czas modlitwy obudził mnie o 9 i po prostu najpierw zjadłem śniadanie</string>
+    <string name="let_s_do_backpain_exercise_today">Zróbmy dzisiaj ćwiczenie Backpain.</string>
+    <string name="reminder_type">Typ przypomnienia</string>
+    <string name="sound">Dźwięk</string>
+    <string name="repeat_reminder">Powtórz przypomnienie</string>
+    <string name="report_as">Zgłoś jako</string>
+    <string name="alarm">Alarm</string>
+    <string name="save_change">Zapisać zmiany?</string>
+    <string name="are_you_delete">Czy na pewno chcesz usunąć?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="deleted">Usunięte</string>
+    <string name="confirmation">Potwierdzenie</string>
+    <string name="something_went_wrong">Coś poszło nie tak!!</string>
+    <string name="take_nrest">Odpocznij \nOdpoczynek</string>
+    <string name="press_the_resume">Naciśnij CV, aby przejść do następnego ćwiczenia</string>
+    <string name="is_completed"> jest zakończone</string>
+    <string name="completed">ukończono</string>
+    <string name="recommand_for_you">Polecam dla Ciebie</string>
+    <string name="hated_it">Nienawidzę</string>
+    <string name="dislike_it">Nie podobało mi się!</string>
+    <string name="its_ok">W porządku</string>
+    <string name="liked_it">Podobało mi się!</string>
+    <string name="loved_it">Podobało mi się</string>
+    <string name="do_you_like_this_app">Czy podoba Ci się ta aplikacja?</string>
+    <string name="your_feedback_is_useful">Twoja opinia jest przydatna</string>
+    <string name="did_you_hear_the_test_voice">Czy słyszałeś głos testowy?</string>
+    <string name="error">Błąd</string>
+    <string name="latest">Najnowsze</string>
+    <string name="related_apps">Powiązane aplikacje</string>
+    <string name="treading_apps">Najpopularniejsze aplikacje</string>
+    <string name="please_check_after">Sprawdź za jakiś czas!..</string>
+    <string name="prepe_app">Przygotowuję aplikację dla Ciebie...</string>
+    <string name="are_you_sure">Czy na pewno?</string>
+    <string name="drzio_updatestring">Dr. Zio zaleca aktualizację do najnowszej wersji, aby uzyskać płynną i lepszą wydajność aplikacji.</string>
+    <string name="select_gender">Wybierz płeć</string>
+    <string name="addfood">Dodaj jedzenie</string>
+    <string name="news">Nowe</string>
+    <string name="you_can_better">Możesz działać lepiej niż to!!</string>
+    <string name="perform_better">Wydajność jest zła!!</string>
+    <string name="perform_okay">Wydajność jest w porządku</string>
+    <string name="perform_good">Wydajność jest dobra!!</string>
+    <string name="perform_great">Wydajność jest świetna!!</string>
+    <string name="purchasefeed1">Cena zakupu jest wysoka</string>
+    <string name="purchasefeed2" >Analizuj &amp; Następnie kup</string>
+    <string name="purchasefeed3">Inne</string>
+    <string name="copyright_2021_dr_zio">prawa autorskie @ 2022 Dr zio</string>
+    <string name="retry">Spróbuj ponownie</string>
+
+    <string name="blog">Blog</string>
+    <string name="sett_edu">Dotknij tutaj, aby zarządzać swoim profilem i innymi ustawieniami</string>
+    <string name="tap_here">Dotknij tutaj!!.</string>
+    <string name="repo_edu">śledź regularnie swoje postępy</string>
+    <string name="hom_edu">Rozpocznij trening i sprawdź odżywianie oraz własny plan</string>
+    <string name="dis_edu">Odkryj plany jogi na wszystkie rodzaje bólu pleców</string>
+    <string name="blog_edu">Czytaj blogi i wskazówki dotyczące tematów, które lubisz</string>
+    <string name="stor_edu">Sprawdź więcej aplikacji od dr zio</string>
+    <string name="menu_edu">Dotknij tutaj, aby wyświetlić menu</string>
+    <string name="day">Dzień</string>
+    <string name="all_app">Wszystkie aplikacje</string>
+    <string name="want_uninterrupted">Chcesz nieprzerwanego treningu bez reklam?\n ZBIERZ PREMIUM TERAZ!</string>
+    <string name="admob_openapp" />
+    <string name="beginner">POCZĄTKUJĄCY</string>
+    <string name="rate_txt">Jestem programistą bardzo ciężko pracującym, aby zapewnić Ci 5-gwiazdkowe doświadczenie w tej aplikacji. Napisz dla mnie 5-gwiazdkową recenzję. Dziękuję! To dla mnie oznacza świat.</string>
+
+    <string name="deep_sleep_yoga_and_yog_nindra">GŁĘBOKI SEN JOGA I JOGI NINDRA</string>
+    <string name="yoga_for_insomnia">JOGA NA BEZSENNOŚĆ</string>
+    <string name="deep_sleep_yoga">JOGA GŁĘBOKIEGO SNU</string>
+    <string name="yog_nindra_effective_sleep">EFEKTYWNY SEN YOG NINDRA</string>
+    <string name="bed_time_yoga">CZAS NA SŁÓŻ JOGA</string>
+    <string name="for_sound_sleep">DŹWIĘKOWY SEN</string>
+    <string name="brething_exercise">ĆWICZENIE ODDECHOWE</string>
+    <string name="sleep_apnea">BEZDECH SENNY</string>
+    <string name="bed_time_yoga_amp_brething_exercise"><![CDATA[ŚŁÓDKA JOGA I ĆWICZENIA ODDYCHAJĄCE]]></string>
+    <string name="yog_nidra_effective_sleep">Jog nindra - Efektywny sen</string>
+    <string name="bed_time_for_sound_sleep">Joga na dobranoc zapewniająca zdrowy sen</string>
+    <string name="bipolar_depresion">Depresja dwubiegunowa</string>
+    <string name="info1">Hej! Świetnie, że jesteś gotowa przezwyciężyć problemy ze snem. Możesz zobaczyć jogę snu i ćwiczenia medytacyjne wymienione poniżej. Zaczynajmy! </string>
+    <string name="info2">W tym planie znajdziesz znacznie trudniejsze ćwiczenia medytacji podczas snu. Więcej rozciągania, więcej treningu ciała, aby szybko pozbyć się bólu kolana, więc zacznijmy!</string>
+    <string name="info3">Ostateczne wyzwanie! Przygotowaliśmy dla Ciebie najtrudniejsze treningi medytacji podczas snu, które zapewnią Ci wspaniały sen. Zróbmy to!</string>
+    <string name="ftinch">ft cal</string>
+</resources>

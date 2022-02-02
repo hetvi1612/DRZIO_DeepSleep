@@ -1,0 +1,129 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Design.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor" tools:ignore="NewApi">@android:color/transparent</item>
+
+
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="MaterialDialogSheet" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/MaterialDialogSheetAnimation</item>
+    </style>
+
+    <style name="MaterialDialogSheetAnimation">
+        <item name="android:windowEnterAnimation">@anim/popup_show</item>
+        <item name="android:windowExitAnimation">@anim/popup_hide</item>
+    </style>
+
+    <style name="CollapsedAppBar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/tbtncolor</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">@font/themefont</item>
+    </style>
+
+    <style name="ExpandedAppBarPlus1" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+
+        <item name="fontFamily">@font/themefont</item>
+    </style>
+
+
+    <style name="FullScreenDialogStyle" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="SwitchTheme" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated" tools:ignore="NewApi">@color/tbtncolor</item>
+    </style>
+
+    <style name="MaterialThemeDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/tbtncolor</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/rating_inactive</item>
+        <item name="colorControlActivated">@color/rating_active</item>
+    </style>
+
+    <style name="BrandedSwitch.control" parent="@style/Theme.AppCompat.Light">
+        <item name="colorControlActivated">@color/tbtncolor</item>
+        <item name="colorSwitchThumbNormal">@color/grey</item>
+    </style>
+
+    <style name="WrapEverythingDialog" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowMinWidthMajor">0.0dip</item>
+        <item name="android:windowMinWidthMinor">0.0dip</item>
+    </style>
+
+    <style name="MyTimePickerDialogStyle">
+        <item name="showTitle">false</item>
+        <item name="colorControlActivated">@color/tbtncolor</item>
+        <item name="colorAccent">@color/tbtncolor</item>
+        <item name="android:textColorPrimary">@color/headercolor</item>
+       <item name="android:fontFamily">@font/themefont</item>
+        <item name="android:textColorSecondary">@color/headercolor</item>
+        <item name="android:numbersTextColor">@color/headercolor</item>
+        <item name="android:amPmTextColor">@color/headercolor</item>
+        <item name="android:numbersBackgroundColor">@color/headercolor</item>
+    </style>
+
+
+    <style name="checkBoxStyle" parent="Base.Theme.AppCompat">
+        <item name="colorAccent">@color/tbtncolor</item>
+    </style>
+    <style name="AdsAppTheme" parent="@style/Theme.AppCompat.Light" />
+
+    <style name="AppTheme.Ads" parent="@style/AdsAppTheme">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:background">@drawable/ads_icon</item>
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:paddingRight">6.0dip</item>
+        <item name="android:paddingBottom">1.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">13.0px</item>
+        <item name="android:minHeight">13.0px</item>
+        <item name="android:text">Ad</item>
+    </style>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowEnterAnimation">@anim/slide_up1</item>
+        <item name="android:windowExitAnimation">@anim/slide_down1</item>
+    </style>
+
+    <style name="CustomCheckbox02" parent="@style/Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_selector</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="TitleCollapsed">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/def_pointer_color</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingBottom">0.0dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+
+    >
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/toolbar">
+
+        <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+            android:id="@+id/statusbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent" />
+
+        <RelativeLayout
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+
+            <ImageView
+                android:id="@+id/icback"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:padding="13dp"
+                android:src="@drawable/ic_arrow_back_black_24dp"
+                app:tint="#FFFFFF" />
+
+           <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/icback"
+                android:fontFamily="@font/fontr_r"
+                android:text="@string/blog"
+                android:textColor="@color/white"
+
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/btnshare11"
+                android:layout_width="35dp"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="10dp"
+                android:layout_toStartOf="@+id/btnlike"
+                android:paddingStart="5dp"
+                android:paddingEnd="5dp"
+                android:src="@drawable/ic_share_blog"
+
+                android:visibility="visible"
+                app:tint="@color/def_pointer_color" />
+            <ImageView
+                android:id="@+id/share_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:paddingTop="12dp"
+                android:paddingBottom="12dp"
+                android:paddingStart="5dp"
+                android:visibility="gone"
+                android:paddingEnd="5dp"
+                android:src="@drawable/ic_share_blog"
+                android:layout_toStartOf="@+id/btnlike"
+                app:tint="@color/def_pointer_color" />
+
+            <CheckBox
+                android:id="@+id/btnlike"
+                android:layout_width="25dp"
+                android:layout_height="24dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_toStartOf="@+id/laycomment"
+                android:background="@drawable/like_white"
+                android:button="@null"
+                android:checked="false"
+                android:foreground="?attr/selectableItemBackground" />
+
+
+            <!--  <ImageView
+                  android:id="@+id/btnlike"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_centerVertical="true"
+
+
+                  android:layout_toStartOf="@+id/laycomment"
+                  android:paddingTop="15dp"
+                  android:paddingBottom="15dp"
+                  android:paddingStart="5dp"
+                  android:paddingEnd="5dp"
+                  android:src="@drawable/like"
+                  app:tint="@color/white" />-->
+
+            <LinearLayout
+                android:id="@+id/laycomment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/btncomment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:paddingTop="12dp"
+                    android:paddingBottom="12dp"
+                    android:paddingStart="5dp"
+                    android:paddingEnd="5dp"
+                    android:visibility="visible"
+                    android:src="@drawable/commewnt"
+                    app:tint="@color/def_pointer_color" />
+
+              <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="Like"
+                    android:textColor="@color/headercolor"
+                    android:textSize="10sp"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/appbar" />
+
+    <ProgressBar
+        android:id="@+id/idPBLoading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true" />
+    <RelativeLayout
+        android:id="@+id/neterror"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/appbar"
+        android:background="@android:color/white"
+        android:visibility="gone">
+
+      <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/fontr_r"
+            android:gravity="center"
+            android:text="@string/no_internet"
+            android:textColor="@color/headercolor"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <Chronometer
+        android:id="@+id/simpleChronometer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="#f00"
+        android:textSize="25sp"
+        android:visibility="gone" />
+</RelativeLayout>

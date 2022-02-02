@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layoutDirection="ltr"
+
+    android:background="@drawable/dialog_background">
+
+   <TextView
+
+        android:id="@+id/dialogTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="60.0dip"
+        android:layout_marginStart="30.0dip"
+        android:layout_marginEnd="30.0dip"
+        android:gravity="center_vertical"
+        android:text="@string/repeat1"
+        android:textColor="@color/headercolor"
+        android:textSize="18.0dip"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/headercolor"
+        android:layout_marginTop="20.0dip" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="fill_parent"
+        android:layout_height="1.0dip"
+        android:layout_below="@+id/dialogTitle"
+        android:background="@color/devidercolor" />
+
+   <TextView
+
+        android:id="@+id/every_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="35.0dip"
+        android:layout_marginTop="83.0dip"
+        android:layout_marginEnd="35.0dip"
+        android:text="@string/every"
+        android:textColor="@color/headercolor"
+        android:textSize="16.0dip" />
+
+     <EditText
+
+        android:id="@+id/custom_editText"
+        android:layout_width="136.0dip"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/every_text"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:foreground="?attr/selectableItemBackground"
+
+        android:gravity="center"
+        android:maxLength="3"
+        android:text="2"
+        android:textColor="@color/headercolor" />
+
+   <TextView
+
+        android:id="@+id/custom_repeatoption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/every_text"
+        android:layout_marginStart="250.0dip"
+        android:layout_marginEnd="250.0dip"
+        android:text="@string/hour_s"
+        android:textColor="@color/headercolor" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/custom_repeatoption"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25.0dip"
+        android:layout_marginBottom="15.0dip">
+
+        <Button
+            android:id="@+id/Okbutton_custom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="20.0dip"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:background="@android:color/transparent"
+            android:textColor="@color/tbtncolor"
+            android:text="@string/ok" />
+
+        <Button
+            android:id="@+id/Cancelbutton_custom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_alignParentTop="true"
+            android:layout_toStartOf="@+id/Okbutton_custom"
+            android:background="@android:color/transparent"
+            android:text="@string/cancel"
+            android:textColor="@color/tbtncolor" />
+    </RelativeLayout>
+</RelativeLayout>

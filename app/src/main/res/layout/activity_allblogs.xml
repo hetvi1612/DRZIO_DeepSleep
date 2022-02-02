@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:layoutDirection="ltr"
+
+    >
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/statusbar"
+        android:background="@android:color/white">
+
+      <!--  <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+            android:id="@+id/statusbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent" />-->
+
+        <RelativeLayout
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/statusbar"
+            android:background="@android:color/white">
+
+            <ImageView
+                android:id="@+id/btnback"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginStart="2dp"
+                android:foreground="?attr/selectableItemBackground"
+                android:padding="15dp"
+                android:src="@drawable/ic_hammenu"
+                android:tint="@color/headercolor" />
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="5dp"
+                android:layout_toEndOf="@+id/btnback"
+                android:fontFamily="@font/themefont"
+                android:text="@string/daily_tips"
+                android:textColor="@color/headercolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+            <LinearLayout
+                android:id="@+id/laystore"
+                android:foreground="?attr/selectableItemBackground"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="10dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/ivbtnstore"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center" />
+
+               <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/more"
+                    android:textColor="@color/headercolor"
+                    android:textSize="10sp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/idNestedSV"
+
+        android:layout_below="@+id/appbar">
+
+        <RelativeLayout
+            android:id="@+id/blog_rela"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/bottomrecycler"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="50dp"
+
+                />
+
+
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+    <ProgressBar
+
+        android:id="@+id/idPBLoading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true" />
+    <!--
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/appbar"
+            android:layout_above="@+id/bottombar">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/adcard"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    app:cardBackgroundColor="@android:color/white"
+                    app:cardCornerRadius="5dp"
+                    android:visibility="gone"
+                    app:cardElevation="8dp">
+
+                <LinearLayout
+                    android:id="@+id/adframe"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:orientation="vertical"
+                    android:visibility="visible"/>
+
+                </androidx.cardview.widget.CardView>
+
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/bottomrecycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    />
+
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+    -->
+
+
+    <RelativeLayout
+        android:id="@+id/loadlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/appbar"
+        android:layout_marginBottom="60dp"
+
+        android:visibility="gone">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/lotti2"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:visibility="visible" />
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/themefont"
+                android:text="@string/loading"
+                android:textColor="@color/headercolor"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/no_video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/appbar"
+        android:layout_marginBottom="60dp"
+        android:background="@android:color/white"
+
+        android:visibility="gone">
+
+
+        <Button
+            android:id="@+id/btrefresh"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/gradbtn"
+            android:fontFamily="@font/themefont"
+            android:text="@string/refresh"
+            android:textColor="@android:color/white" />
+
+       <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btrefresh"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/themefont"
+            android:text="@string/please_check_your_internet_connection"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+    <!--
+        <RelativeLayout
+            android:id="@+id/bottombar"
+            android:layout_above="@+id/bottombar1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:visibility="visible"
+            android:orientation="horizontal">
+
+
+            <View
+                android:id="@+id/tmpview"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#E2E2E2"/>
+
+
+            <LinearLayout
+                android:id="@+id/adframe2"
+                android:layout_width="match_parent"
+                android:layout_height="65.0dip"
+                android:layout_gravity="center"
+                android:orientation="vertical"
+                android:layout_below="@+id/tmpview"
+                android:visibility="gone" />
+
+            <FrameLayout
+                android:id="@+id/adframe4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                android:layout_below="@+id/tmpview"
+                android:layout_centerInParent="true"
+                />
+
+        </RelativeLayout>
+    -->
+    <include layout="@layout/nointercincation_layout1" />
+
+    <include layout="@layout/dataisemp_layout" />
+
+</RelativeLayout>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BE343D55"
+    android:layoutDirection="ltr"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_padlock"
+            android:tint="@android:color/white"/>
+
+
+       <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/watch_video_to_unlock"
+            android:textSize="20sp"
+            android:fontFamily="@font/homepagefont"
+            android:layout_marginTop="15dp"
+            android:textColor="@android:color/white"/>
+
+       <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#CCFEFEFE"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/thmefontlite"
+            android:text="@string/watch_the_video_to_use_training_nplan_once"/>
+
+
+        <LinearLayout
+            android:id="@+id/btnwatchad"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:background="@drawable/gradbtntwo"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_centerVertical="true"
+                android:src="@drawable/img_lock2"
+                android:tint="@android:color/white"/>
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unlock_free"
+                android:gravity="center"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/thmefontlite"
+                android:layout_centerInParent="true"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+       <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/or"
+            android:gravity="center"
+            android:fontFamily="@font/thmefontlite"
+            android:layout_gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"/>
+
+
+        <LinearLayout
+            android:id="@+id/btnpurchase"
+            android:layout_width="180dp"
+            android:layout_height="50dp"
+            android:background="@drawable/gradbtntwo"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_navcrown"
+                android:tint="@android:color/white"/>
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/get_premium"
+                android:gravity="center"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/thmefontlite"
+                android:layout_centerInParent="true"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColor="#CCFEFEFE"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/thmefontlite"
+            android:text="@string/want_uninterrupted"/>
+    </LinearLayout>
+</RelativeLayout>

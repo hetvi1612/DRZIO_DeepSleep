@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:layout_margin="20.0dip"
+    android:layoutDirection="ltr"
+
+    android:background="@drawable/dialogbg"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/lay2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:orientation="horizontal">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/user_height"
+                android:fontFamily="@font/themefont"
+                android:textColor="@color/headercolor"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+
+            <LinearLayout
+                android:id="@+id/switchcminch"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/switchbg"
+                android:orientation="horizontal">
+
+
+               <TextView
+
+                    android:id="@+id/btcm"
+                    android:foreground="?attr/selectableItemBackground"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_margin="2dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/cm"
+                    android:fontFamily="@font/themefont"
+                    android:textStyle="bold" />
+
+               <TextView
+
+                    android:id="@+id/btinch"
+                    android:foreground="?attr/selectableItemBackground"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/ftinch"
+                    android:fontFamily="@font/themefont"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/inchlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ft"
+                android:fontFamily="@font/themefont"
+                android:textColor="@color/smalltxtcolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <com.shawnlin.numberpicker.NumberPicker
+                android:id="@+id/ftpicker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:np_dividerColor="@color/tbtncolor"
+                app:np_fadingEdgeEnabled="false"
+                app:np_height="64dp"
+                app:np_max="10"
+                app:np_min="0"
+                app:np_order="ascending"
+                app:np_orientation="horizontal"
+                app:np_selectedTextColor="@color/tbtncolor"
+                app:np_selectedTextSize="25sp"
+                app:np_textColor="@color/smalltxtcolor"
+                app:np_textSize="16sp"
+                app:np_value="5"
+                app:np_wheelItemCount="5"
+                app:np_width="180dp"
+                app:np_wrapSelectorWheel="true" />
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/inch"
+                android:fontFamily="@font/themefont"
+                android:textColor="@color/smalltxtcolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <com.shawnlin.numberpicker.NumberPicker
+                android:id="@+id/inchpicker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:np_dividerColor="@color/tbtncolor"
+                app:np_fadingEdgeEnabled="false"
+                app:np_height="64dp"
+                app:np_max="11"
+                app:np_min="0"
+                app:np_order="ascending"
+                app:np_orientation="horizontal"
+                app:np_selectedTextColor="@color/tbtncolor"
+                app:np_selectedTextSize="25sp"
+                app:np_textColor="@color/smalltxtcolor"
+                app:np_textSize="16sp"
+                app:np_value="0"
+                app:np_wheelItemCount="5"
+                app:np_width="180dp"
+                app:np_wrapSelectorWheel="true" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cmlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cm"
+                android:textColor="@color/smalltxtcolor"
+                android:textSize="20sp"
+                android:fontFamily="@font/themefont"
+                android:textStyle="bold" />
+
+            <com.shawnlin.numberpicker.NumberPicker
+                android:id="@+id/cmpicker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:np_dividerColor="@color/tbtncolor"
+                app:np_fadingEdgeEnabled="false"
+                app:np_height="64dp"
+                app:np_max="400"
+                app:np_min="20"
+                app:np_order="ascending"
+                app:np_orientation="horizontal"
+                app:np_selectedTextColor="@color/tbtncolor"
+                app:np_selectedTextSize="25sp"
+                app:np_textColor="@color/smalltxtcolor"
+                app:np_textSize="16sp"
+                app:np_value="100"
+                app:np_wheelItemCount="5"
+                app:np_width="180dp"
+                app:np_wrapSelectorWheel="true" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/lay3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:orientation="horizontal">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/user_weight"
+                android:textColor="@color/headercolor"
+                android:textSize="28sp"
+                android:fontFamily="@font/themefont"
+                android:textStyle="bold" />
+
+
+            <LinearLayout
+                android:id="@+id/laykglb"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/switchbg"
+                android:orientation="horizontal">
+
+
+               <TextView
+
+                    android:id="@+id/btkgs"
+                    android:foreground="?attr/selectableItemBackground"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_margin="2dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/kgs"
+                    android:fontFamily="@font/themefont"
+                    android:textStyle="bold" />
+
+               <TextView
+
+                    android:id="@+id/btlbs"
+                    android:foreground="?attr/selectableItemBackground"
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="2dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/lbs"
+                    android:fontFamily="@font/themefont"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:id="@+id/laykgs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/kgs"
+                android:fontFamily="@font/themefont"
+                android:textColor="@color/smalltxtcolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <com.shawnlin.numberpicker.NumberPicker
+                android:id="@+id/kgpicker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:np_dividerColor="@color/tbtncolor"
+                app:np_fadingEdgeEnabled="false"
+                app:np_height="64dp"
+                app:np_max="150"
+                app:np_min="20"
+                app:np_order="ascending"
+                app:np_orientation="horizontal"
+                app:np_selectedTextColor="@color/tbtncolor"
+                app:np_selectedTextSize="25sp"
+                app:np_textColor="@color/smalltxtcolor"
+                app:np_textSize="16sp"
+                app:np_value="45"
+                app:np_wheelItemCount="5"
+                app:np_width="180dp"
+                app:np_wrapSelectorWheel="true" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/laylbs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lbs"
+                android:fontFamily="@font/themefont"
+                android:textColor="@color/smalltxtcolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <com.shawnlin.numberpicker.NumberPicker
+                android:id="@+id/lbsbpicker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:np_dividerColor="@color/tbtncolor"
+                app:np_fadingEdgeEnabled="false"
+                app:np_height="64dp"
+                app:np_max="330"
+                app:np_min="44"
+                app:np_order="ascending"
+                app:np_orientation="horizontal"
+                app:np_selectedTextColor="@color/tbtncolor"
+                app:np_selectedTextSize="25sp"
+                app:np_textColor="@color/smalltxtcolor"
+                app:np_textSize="16sp"
+                app:np_value="130"
+                app:np_wheelItemCount="5"
+                app:np_width="180dp"
+                app:np_wrapSelectorWheel="true" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15.0dip"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/calculate"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="10.0dip"
+            app:cardCornerRadius="10dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:src="@drawable/gradbtn" />
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:text="@string/calculate"
+                android:textAllCaps="false"
+                android:fontFamily="@font/themefont"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</LinearLayout>

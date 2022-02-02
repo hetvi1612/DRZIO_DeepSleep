@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:layoutDirection="ltr"
+
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btbuton"
+        android:orientation="vertical">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/appbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/statusbar"
+            android:background="@android:color/white">
+
+            <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+                android:id="@+id/statusbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent" />
+
+            <RelativeLayout
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/statusbar"
+                android:background="@android:color/white">
+
+                <ImageView
+                    android:id="@+id/img_back"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentStart="true"
+
+                    android:layout_alignParentTop="true"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:padding="13dp"
+                    android:src="@drawable/ic_arrow_back_black_24dp"
+                    android:tint="@color/headercolor" />
+
+               <TextView
+
+                    android:id="@+id/tvtitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="50dp"
+                    android:fontFamily="@font/themefont"
+                    android:text=""
+                    android:textColor="@color/headercolor"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+               <TextView
+
+                    android:id="@+id/btnedit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/ad_bordercorners"
+
+                    android:backgroundTint="@color/tbtncolor"
+                    android:fontFamily="@font/themefont"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:paddingStart="20dp"
+                    android:paddingTop="5dp"
+                    android:paddingEnd="20dp"
+                    android:paddingBottom="5dp"
+                    android:text="@string/edit"
+                    android:textColor="@color/headercolor"
+                    android:textSize="14sp"
+                    android:visibility="visible" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@android:color/white">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="20dp"
+                    android:padding="8dp"
+                    android:src="@drawable/ic_watch_later_black_24dp"
+                    android:tint="@color/tbtncolor" />
+
+               <TextView
+
+                    android:id="@+id/tvptime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:fontFamily="@font/themefont"
+                    android:text="@string/_1_min"
+                    android:textColor="@color/headercolor"
+                    android:textStyle="bold" />
+
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:padding="8dp"
+                    android:src="@drawable/ic_donut_large_black_24dp"
+                    android:tint="@color/tbtncolor" />
+
+               <TextView
+
+                    android:id="@+id/tvptotalexe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:fontFamily="@font/themefont"
+                    android:text="@string/_2_exercises"
+                    android:textColor="@color/headercolor"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/myplanrecycler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/btbuton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <RelativeLayout
+            android:id="@+id/r1_staret"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="25dp"
+            android:layout_marginBottom="2dp">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/btnstart"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_gravity="bottom"
+
+                app:cardCornerRadius="10dp"
+                app:cardElevation="4.0dip">
+
+               <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/gradbtn"
+                    android:fontFamily="@font/themefont"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:gravity="center"
+                    android:text="@string/start"
+
+                    android:textColor="#ffffffff"
+                    android:textSize="22sp"
+                    android:textStyle="bold" />
+                <View
+                    android:id="@+id/shine"
+                    android:layout_width="25dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/bg_shine"
+                    android:rotation="20" />
+            </androidx.cardview.widget.CardView>
+
+
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/tmpview"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_below="@+id/r1_staret"
+            android:background="@drawable/adupshadow" />
+
+
+        <LinearLayout
+            android:id="@+id/adframe"
+            android:layout_width="match_parent"
+            android:layout_height="65.0dip"
+            android:layout_below="@+id/tmpview"
+            android:layout_gravity="center"
+            android:background="@drawable/ad_border"
+            android:orientation="vertical"
+            android:padding="1dp"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

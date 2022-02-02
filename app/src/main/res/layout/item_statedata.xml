@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:id="@+id/mainlayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="ltr"
+    >
+
+
+        <TextView
+            android:id="@+id/tvstatename"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:gravity="center"
+            android:textColor="@color/tabselectedtxt"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+
+            android:textSize="12sp"
+            android:text="@string/gujarat"/>
+
+        <TextView
+            android:id="@+id/tvcasesnum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#50D5E4"
+            android:layout_gravity="center"
+            android:padding="10dp"
+            android:textStyle="bold"
+            android:text="1000"/>
+
+        <TextView
+            android:id="@+id/tvdeathnum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textColor="#243C5E"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:text="1000"/>
+
+        <TextView
+            android:id="@+id/tvrecovernum"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:gravity="center"
+            android:textColor="#0BC98B"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:text="1000"/>
+
+</LinearLayout>

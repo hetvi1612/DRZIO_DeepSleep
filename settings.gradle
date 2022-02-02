@@ -1,0 +1,3 @@
+include ':translateapi'
+include ':app', ':currency', ':stickyscroll',":Updater"
+rootProject.name='My Application'

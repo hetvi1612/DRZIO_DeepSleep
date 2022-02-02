@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="ltr"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/dialogbg"
+        android:backgroundTint="#192F57"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+
+       <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/themefont"
+            android:gravity="center"
+            android:text="@string/unlock_all_features"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/img_p1" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/img_p2" />
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/img_p3" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="60dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/img_p4" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/img_p5" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_marginTop="10dp"
+            android:background="#13274B" />
+
+       <TextView
+
+            android:id="@+id/temptxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/themefont"
+            android:text="@string/to_unlock_this_excercise_choose_this_option"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="10dp">
+
+
+
+           <TextView
+
+                android:id="@+id/buybtn"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/purchase_gradbtntwo"
+                android:fontFamily="@font/themefont"
+                android:gravity="center"
+                android:text="@string/buy_premium"
+                android:textColor="@android:color/white"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+
+<!--
+        <LinearLayout
+            android:id="@+id/layoutor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="100dp"
+                android:layout_height="1dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:background="@android:color/white" />
+
+           <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:fontFamily="@font/themefont"
+                android:text="Or"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/img_lock" />
+
+            <View
+                android:layout_width="100dp"
+                android:layout_height="1dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:background="@android:color/white" />
+        </LinearLayout>
+-->
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

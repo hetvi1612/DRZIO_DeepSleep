@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+    >
+
+
+    <RelativeLayout
+        android:id="@+id/dietlayout"
+        android:foreground="?attr/selectableItemBackground"
+
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/dietshape"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/dietimg"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:padding="5dp"
+                android:scaleType="centerCrop"
+                app:riv_corner_radius="10dp"
+                android:visibility="visible"
+                />
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="15dp"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/dietname"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="20dp"
+                    android:fontFamily="@font/fontr_r"
+                    android:gravity="start"
+                    android:maxLines="2"
+                    android:text=""
+                    android:textColor="@color/headercolor"
+
+
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:id="@+id/dietype"
+                    android:layout_width="80dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/dietname"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/fontr_r"
+                    android:gravity="start"
+                    android:maxLines="1"
+
+
+                    android:text="Vitamin B6"
+                    android:textColor="@color/smalltxtcolor"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:visibility="gone"
+                    tools:ignore="RtlHardcoded" />
+
+                <LinearLayout
+                    android:id="@+id/btninfo"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_below="@+id/dietname"
+                    android:layout_marginTop="6dp"
+                    android:layout_toEndOf="@+id/dietype"
+                    android:orientation="horizontal"
+                    android:visibility="visible">
+                    <TextView
+                        android:id="@+id/namea"
+                        android:layout_width="wrap_content"
+
+
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/name"
+                        android:layout_toEndOf="@+id/dietimg11"
+                        android:text="Calories :- "
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/calories123"
+                        android:layout_width="wrap_content"
+
+
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/name"
+                        android:layout_toEndOf="@+id/namea"
+                        android:text="55"
+                        android:textColor="@color/black" />
+
+                    <ImageView
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        android:layout_gravity="center_vertical"
+                        android:padding="4dp"
+                        android:layout_marginStart="10dp"
+                        android:src="@drawable/ic_info_outline_black_24dp"
+                        android:tint="@color/homeprogresscolor" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_gravity="center_vertical"
+                        android:fontFamily="@font/fontr_r"
+                        android:text="Info"
+
+
+                        android:textColor="@color/homeprogresscolor"
+                        android:textSize="12sp" />
+
+
+                </LinearLayout>
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/btn_remove"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/ic_remove"
+            android:tint="@android:color/white"
+            android:visibility="gone"
+            android:padding="5dp"/>
+
+
+        <CheckBox
+            android:id="@+id/btncheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:gravity="center"
+            android:button="@null"
+            android:layout_marginEnd="15dp"
+
+            android:background="@drawable/ic_checkbox_unchecked"
+            android:visibility="visible"
+            android:layout_centerVertical="true"
+            />
+
+        <TextView
+            android:id="@+id/btn_update"
+            android:layout_width="100dp"
+            android:layout_height="35dp"
+            android:layout_alignParentEnd="true"
+            android:text="@string/update"
+            android:gravity="center"
+            android:textColor="@color/headercolor"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginEnd="15dp"
+            android:fontFamily="@font/fontr_r"
+            android:visibility="gone"
+
+
+            android:background="@drawable/infobtnbg"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp"
+            />
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

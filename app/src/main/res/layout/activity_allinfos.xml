@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnstart"
+        android:orientation="vertical">
+
+        <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+            android:id="@+id/statusbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+
+            <ImageView
+                android:id="@+id/btnclose"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:padding="10dp"
+                android:foreground="?attr/selectableItemBackground"
+
+                android:src="@drawable/ic_close_black_24dp"
+                android:tint="@color/headercolor" />
+        </RelativeLayout>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    android:id="@+id/dietimg"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="20dp"
+                    />
+
+
+               <TextView
+
+                    android:id="@+id/txtname"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text=""
+                    android:fontFamily="@font/themefont"
+                    android:textColor="@color/headercolor"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+
+               <TextView
+
+                    android:id="@+id/txtdesc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:fontFamily="@font/thmefontlite"
+                    android:textColor="@color/smalltxtcolor" />
+
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/btnstart"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginTop="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="4.0dip"
+        android:layout_above="@+id/bottomlayout">
+
+       <TextView
+
+            android:id="@+id/txtbtstart"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/gradbtn"
+            android:fontFamily="@font/themefont"
+            android:gravity="center"
+            android:text="@string/start"
+            android:textColor="#ffffffff"
+            android:textSize="22sp"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:textStyle="bold" />
+    </androidx.cardview.widget.CardView>
+
+    <RelativeLayout
+        android:id="@+id/bottomlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentBottom="true">
+
+        <LinearLayout
+            android:id="@+id/banner_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/ad_border2"
+            android:padding="1dp"
+            android:orientation="vertical"
+            />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

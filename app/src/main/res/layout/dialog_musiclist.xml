@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:orientation="vertical"
+    android:layoutDirection="ltr"
+
+    app:cardCornerRadius="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dialogbg"
+        android:orientation="vertical">
+
+
+       <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/fontr_r"
+            android:gravity="center"
+            android:text="@string/change_background_music"
+            android:textColor="@color/btitlecolor"
+            android:textSize="18sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.6dp"
+            android:background="@color/smalltxtcolor" />
+
+        <Button
+            android:id="@+id/submitButton"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/gradbtn"
+            android:fontFamily="@font/fontr_r"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/choose_from_gallery"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="310dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp" >
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/songslist"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+                <androidx.recyclerview.widget.RecyclerView
+                    android:layout_below="@+id/songslist"
+                    android:id="@+id/songslist1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                 />
+            </RelativeLayout>
+        </androidx.core.widget.NestedScrollView>
+
+        <LinearLayout
+            android:id="@+id/txtdialok"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@drawable/mlist_bg"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+
+            <ImageView
+                android:id="@+id/ivimg"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/img_song1" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:orientation="horizontal">
+
+                   <TextView
+
+                        android:id="@+id/tvsongname"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toStartOf="@+id/btprev"
+                        android:fontFamily="@font/fontr_r"
+                        android:maxLines="1"
+                        android:text="@string/music_for_workout"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/btprev"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_toStartOf="@+id/btpause"
+                        android:alpha="0.5"
+                        android:padding="2dp"
+                        android:foreground="?attr/selectableItemBackground"
+
+                        android:src="@drawable/ic_baseline_skip_previous_24"
+                        app:tint="@android:color/white" />
+
+                    <ImageView
+                        android:id="@+id/btpause"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+
+                        android:layout_toStartOf="@+id/btnext"
+                        android:foreground="?attr/selectableItemBackground"
+                        android:padding="2dp"
+                        android:src="@drawable/ic_play_arrow_black_24dp"
+                        android:tint="@color/white"/>
+
+                    <ImageView
+                        android:id="@+id/btnext"
+                        android:foreground="?attr/selectableItemBackground"
+
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentEnd="true"
+                        android:alpha="0.5"
+                        android:padding="2dp"
+                        android:src="@drawable/ic_baseline_skip_next_24" />
+
+
+                </RelativeLayout>
+
+                <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+                    android:id="@+id/songbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="5dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_weight="1"
+                    app:rcAnimationEnable="true"
+                    app:rcBackgroundColor="#80FFFFFF"
+                    app:rcMax="100"
+                    app:rcProgress="0"
+                    app:rcProgressColor="#F8F8F8"
+                    app:rcRadius="25dp" />
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:orientation="horizontal">
+
+                   <TextView
+
+                        android:id="@+id/tvstarttime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/fontr_r"
+                        android:text="00:00"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" />
+
+
+                   <TextView
+
+                        android:id="@+id/tvendtime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:fontFamily="@font/fontr_r"
+                        android:text="03:20"
+                        android:textColor="@android:color/white"
+                        android:textSize="12sp" />
+
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

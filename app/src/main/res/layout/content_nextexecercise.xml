@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layoutrest"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#30384D"
+    android:visibility="gone"
+    android:layoutDirection="ltr"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.4"
+        android:scaleType="centerCrop"
+        android:src="@drawable/splesh_bg" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/nxtbottombar">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <LinearLayout
+                android:id="@+id/tempead"
+                android:layout_width="match_parent"
+                android:layout_height="320dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardadd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                app:cardBackgroundColor="@android:color/white"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="8dp">
+
+                <LinearLayout
+                    android:id="@+id/adframerest"
+                    android:layout_width="match_parent"
+                    android:layout_height="320dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/ad_bordercorners"
+                    android:orientation="vertical"
+                    android:padding="1dp"
+                    android:visibility="visible">
+
+                   <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="@string/loading"
+                        android:textColor="#212121"
+                        android:textSize="14sp" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+            <LinearLayout
+                android:id="@+id/header1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_below="@+id/tempead"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#80F0F0F0" />
+
+
+               <TextView
+
+                    android:id="@+id/tvrounds"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/fontm_m"
+                    android:gravity="center"
+                    android:text="Round 1 is Completed"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="#80F0F0F0" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/nxtbottombar"
+                android:gravity="center_vertical"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/header1">
+
+               <TextView
+
+                    android:id="@+id/txte"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/fontm_m"
+
+                    android:gravity="center"
+                    android:foreground="?attr/selectableItemBackground"
+
+                    android:layout_weight="1"
+                    android:layout_centerVertical="true"
+                    android:textColor="@android:color/white"
+                    android:textSize="20sp" />
+
+
+               <TextView
+
+                   android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginStart="40dp"
+                    android:background="@drawable/nextlayoutbtn"
+                    android:fontFamily="@font/themefont"
+                    android:paddingStart="5dp"
+                    android:paddingEnd="5dp"
+                    android:text=" +20s "
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp"
+                    android:visibility="gone" />
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_weight="1"
+                    android:layout_centerHorizontal="true">
+
+                    <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.CircleSeekBar
+                        android:id="@+id/restbar"
+                        android:layout_width="130.0dip"
+                        android:layout_height="130.0dip"
+                        android:layout_centerInParent="true"
+                        android:padding="8.0dip"
+                        app:wheel_can_touch="false"
+                        app:wheel_has_pointer_shadow="false"
+                        app:wheel_pointer_radius="6.0dip"
+                        app:wheel_pointer_shadow_radius="10dp"
+                        app:wheel_reached_color="#68D2FF"
+                        app:wheel_reached_colortwo="#8486FF"
+                        app:wheel_reached_width="10.0dip"
+                        app:wheel_unreached_color="#80FFFFFF"
+                        app:wheel_unreached_width="10.0dip" />
+
+
+                    <ImageView
+                        android:id="@+id/ivrestresume"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:layout_centerInParent="true"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginBottom="50dp"
+                        android:background="@drawable/controlbackbg"
+                        android:elevation="5dp"
+                        android:padding="8dp"
+                        android:src="@drawable/ic_play_arrow_black_24dp"
+                        android:tint="@android:color/white"
+                        android:visibility="invisible" />
+
+                    <FrameLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true">
+
+                       <TextView
+
+                            android:id="@+id/tvrestprogress"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:fontFamily="@font/fontm_l"
+                            android:gravity="center"
+                            android:text="45"
+                            android:textColor="@android:color/white"
+                            android:textSize="40.0sp"
+                            android:textStyle="bold" />
+                    </FrameLayout>
+                </RelativeLayout>
+
+
+               <TextView
+
+                    android:id="@+id/tvbtnskip"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:fontFamily="@font/fontm_m"
+                    android:foreground="?attr/selectableItemBackground"
+
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:textColor="@color/tbtncolor"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+    <RelativeLayout
+        android:id="@+id/nxtbottombar"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="105dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+           <TextView
+
+                android:id="@+id/tvexecount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/fontm_m"
+                android:text="@string/next_2_12"
+                android:textSize="15sp" />
+
+
+           <TextView
+
+                android:id="@+id/tvnexename"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/fontm_sb"
+                android:text="@string/jumping_jacks"
+                android:textColor="@color/tbtncolor"
+                android:textSize="18sp" />
+
+
+           <TextView
+
+               android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/themefont"
+                android:text="00:45"
+                android:textColor="@color/gradcolor1"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/ivrestexe"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

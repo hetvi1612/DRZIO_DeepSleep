@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="YogaforInsomniaexe_exename">
+        <item>@string/exename1</item>
+        <item>@string/exename2</item>
+        <item>@string/exename6</item>
+        <item>@string/exename9</item>
+        <item>@string/exename11</item>
+        <item>@string/exename12</item>
+        <item>@string/exename15</item>
+        <item>@string/exename16</item>
+        <item>@string/exename18</item>
+        <item>@string/exename19</item>
+        <item>@string/exename22</item>
+        <item>@string/exename25</item>
+
+    </string-array>
+
+    <array name="YogaforInsomniaexe_thumbimg">
+        <item>@raw/exeimg9</item>
+        <item>@raw/exeimg61</item>
+        <item>@raw/exeimg46</item>
+        <item>@raw/exeimg19</item>
+        <item>@raw/exeimg60</item>
+        <item>@raw/exeimg50</item>
+        <item>@raw/exeimg38</item>
+        <item>@raw/exeimg62</item>
+        <item>@raw/exeimg54</item>
+        <item>@raw/exeimg4</item>
+        <item>@raw/exeimg33</item>
+        <item>@raw/exeimg53</item>
+     <!--   <item>@raw/exeimg27</item>
+        <item>@raw/exeimg8</item>
+        <item>@raw/exeimg9</item>
+        <item>@raw/exeimg12</item>
+        <item>@raw/exeimg14</item>
+        <item>@raw/exeimg18</item>
+        <item>@raw/exeimg23</item>
+        <item>@raw/exeimg46</item>
+        <item>@raw/exeimg28</item>
+        <item>@raw/exeimg29</item>
+        <item>@raw/exeimg33</item>
+        <item>@raw/exeimg35</item>
+        <item>@raw/exeimg4</item>
+        <item>@raw/exeimg37</item>
+        <item>@raw/exeimg63</item>
+        <item>@raw/exeimg42</item>
+        <item>@raw/exeimg50</item>
+        <item>@raw/exeimg5</item>
+        <item>@raw/exeimg54</item>
+        <item>@raw/exeimg55</item>
+        <item>@raw/exeimg59</item>
+        <item>@raw/exeimg60</item>-->
+    </array>
+
+    <array name="YogaforInsomniaexe_vids">
+        <item>@raw/exe9</item>
+        <item>@raw/exe61</item>
+        <item>@raw/exe46</item>
+        <item>@raw/exe19</item>
+        <item>@raw/exe60</item>
+        <item>@raw/exe50</item>
+        <item>@raw/exe38</item>
+        <item>@raw/exe62</item>
+        <item>@raw/exe54</item>
+        <item>@raw/exe4</item>
+        <item>@raw/exe33</item>
+        <item>@raw/exe53</item>
+     <!--   <item>@raw/exe55</item>
+        <item>@raw/exe1</item>
+        <item>@raw/exe48</item>
+        <item>@raw/exe46</item>
+        <item>@raw/exe54</item>
+        <item>@raw/exe7</item>
+        <item>@raw/exe18</item>
+        <item>@raw/exe40</item>
+        <item>@raw/exe9</item>
+        <item>@raw/exe31</item>
+        <item>@raw/exe23</item>
+        <item>@raw/exe59</item>
+        <item>@raw/exe42</item>
+        <item>@raw/exe56</item>
+        <item>@raw/exe63</item>
+        <item>@raw/exe26</item>
+        <item>@raw/exe44</item>
+        <item>@raw/exe52</item>
+        <item>@raw/exe12</item>
+        <item>@raw/exe27</item>
+        <item>@raw/exe10</item>
+        <item>@raw/exe25</item>-->
+        <!--<item>@raw/exe55</item>
+        <item>@raw/exe1</item>
+        <item>@raw/exe48</item>
+        <item>@raw/exe46</item>
+        <item>@raw/exe54</item>
+        <item>@raw/exe7</item>
+        <item>@raw/exe18</item>
+        <item>@raw/exe40</item>
+        <item>@raw/exe9</item>
+        <item>@raw/exe17</item>
+        <item>@raw/exe20</item>
+        <item>@raw/exe22</item>
+        <item>@raw/exe24</item>
+        <item>@raw/exe27</item>
+        <item>@raw/exe28</item>-->
+    </array>
+
+    <string-array name="YogaforInsomniaexe_youtubevid">
+        <item>@string/exeyouvid1</item>
+        <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid6</item>
+        <item>@string/exeyouvid9</item>
+        <item>@string/exeyouvid11</item>
+        <item>@string/exeyouvid12</item>
+        <item>@string/exeyouvid15</item>
+        <item>@string/exeyouvid16</item>
+        <item>@string/exeyouvid18</item>
+        <item>@string/exeyouvid19</item>
+        <item>@string/exeyouvid22</item>
+        <item>@string/exeyouvid25</item>
+        <!-- <item>@string/exeyouvid1</item>
+         <item>@string/exeyouvid3</item>
+         <item>@string/exeyouvid4</item>
+         <item>@string/exeyouvid6</item>
+         <item>@string/exeyouvid9</item>
+         <item>@string/exeyouvid10</item>
+         <item>@string/exeyouvid12</item>
+         <item>@string/exeyouvid13</item>
+         <item>@string/exeyouvid15</item>
+         <item>@string/exeyouvid17</item>
+         <item>@string/exeyouvid20</item>
+         <item>@string/exeyouvid22</item>
+         <item>@string/exeyouvid24</item>
+         <item>@string/exeyouvid27</item>
+         <item>@string/exeyouvid28</item>-->
+    </string-array>
+
+    <string-array name="YogaforInsomniaexedesc">
+        <item>@string/exedesc1</item>
+        <item>@string/exedesc2</item>
+        <item>@string/exedesc6</item>
+        <item>@string/exedesc9</item>
+        <item>@string/exedesc11</item>
+        <item>@string/exedesc12</item>
+        <item>@string/exedesc15</item>
+        <item>@string/exedesc16</item>
+        <item>@string/exedesc18</item>
+        <item>@string/exedesc19</item>
+        <item>@string/exedesc22</item>
+        <item>@string/exedesc25</item>
+
+        <!--    <item>@string/exedesc1</item>
+            <item>@string/exedesc3</item>
+            <item>@string/exedesc4</item>
+            <item>@string/exedesc6</item>
+            <item>@string/exedesc9</item>
+            <item>@string/exedesc10</item>
+            <item>@string/exedesc12</item>
+            <item>@string/exedesc13</item>exedesc
+            <item>@string/exedesc15</item>
+            <item>@string/exedesc17</item>
+            <item>@string/exedesc20</item>
+            <item>@string/exedesc22</item>
+            <item>@string/exedesc24</item>
+            <item>@string/exedesc27</item>
+            <item>@string/exedesc28</item>-->
+    </string-array>
+
+    <string-array name="YogaforInsomniaexecalorie">
+        <item>@string/exekcal1</item>
+        <item>@string/exekcal2</item>
+        <item>@string/exekcal6</item>
+        <item>@string/exekcal9</item>
+        <item>@string/exekcal11</item>
+        <item>@string/exekcal12</item>
+        <item>@string/exekcal15</item>
+        <item>@string/exekcal16</item>
+        <item>@string/exekcal18</item>
+        <item>@string/exekcal19</item>
+        <item>@string/exekcal22</item>
+        <item>@string/exekcal25</item>
+
+        <!--   <item>@string/exekcal1</item>
+           <item>@string/exekcal3</item>
+           <item>@string/exekcal4</item>
+           <item>@string/exekcal6</item>
+           <item>@string/exekcal9</item>
+           <item>@string/exekcal10</item>
+           <item>@string/exekcal12</item>
+           <item>@string/exekcal13</item>
+           <item>@string/exekcal15</item>
+           <item>@string/exekcal17</item>
+           <item>@string/exekcal20</item>
+           <item>@string/exekcal22</item>
+           <item>@string/exekcal24</item>
+           <item>@string/exekcal27</item>
+           <item>@string/exekcal28</item>-->
+    </string-array>
+
+    <string-array name="YogaforInsomniaexe51_75calorie">
+        <item>@string/cal51exe1</item>
+        <item>@string/cal51exe2</item>
+        <item>@string/cal51exe6</item>
+        <item>@string/cal51exe9</item>
+        <item>@string/cal51exe11</item>
+        <item>@string/cal51exe12</item>
+        <item>@string/cal51exe15</item>
+        <item>@string/cal51exe16</item>
+        <item>@string/cal51exe18</item>
+        <item>@string/cal51exe19</item>
+        <item>@string/cal51exe22</item>
+        <item>@string/cal51exe25</item>
+
+        <!--   <item>@string/cal51exe1</item>
+           <item>@string/cal51exe3</item>
+           <item>@string/cal51exe4</item>
+           <item>@string/cal51exe6</item>
+           <item>@string/cal51exe9</item>
+           <item>@string/cal51exe10</item>
+           <item>@string/cal51exe12</item>
+           <item>@string/cal51exe13</item>
+           <item>@string/cal51exe15</item>
+           <item>@string/cal51exe17</item>
+           <item>@string/cal51exe20</item>
+           <item>@string/cal51exe22</item>
+           <item>@string/cal51exe24</item>
+           <item>@string/cal51exe27</item>
+           <item>@string/cal51exe28</item>-->
+    </string-array>
+
+    <string-array name="YogaforInsomniaexe76_90calorie">
+        <item>@string/cal76exe1</item>
+        <item>@string/cal76exe2</item>
+        <item>@string/cal76exe6</item>
+        <item>@string/cal76exe9</item>
+        <item>@string/cal76exe11</item>
+        <item>@string/cal76exe12</item>
+        <item>@string/cal76exe15</item>
+        <item>@string/cal76exe16</item>
+        <item>@string/cal76exe18</item>
+        <item>@string/cal76exe19</item>
+        <item>@string/cal76exe22</item>
+        <item>@string/cal76exe25</item>
+
+        <!--  <item>@string/cal76exe1</item>
+          <item>@string/cal76exe3</item>
+          <item>@string/cal76exe4</item>
+          <item>@string/cal76exe6</item>
+          <item>@string/cal76exe9</item>
+          <item>@string/cal76exe10</item>
+          <item>@string/cal76exe12</item>
+          <item>@string/cal76exe13</item>
+          <item>@string/cal76exe15</item>
+          <item>@string/cal76exe17</item>
+          <item>@string/cal76exe20</item>
+          <item>@string/cal76exe22</item>
+          <item>@string/cal76exe24</item>
+          <item>@string/cal76exe27</item>
+          <item>@string/cal76exe28</item>-->
+    </string-array>
+
+    <string-array name="YogaforInsomniaexe_90calorie">
+        <item>@string/cal90exe1</item>
+        <item>@string/cal90exe2</item>
+        <item>@string/cal90exe6</item>
+        <item>@string/cal90exe9</item>
+        <item>@string/cal90exe11</item>
+        <item>@string/cal90exe12</item>
+        <item>@string/cal90exe15</item>
+        <item>@string/cal90exe16</item>
+        <item>@string/cal90exe18</item>
+        <item>@string/cal90exe19</item>
+        <item>@string/cal90exe22</item>
+        <item>@string/cal90exe25</item>
+        <!-- <item>@string/cal90exe1</item>
+         <item>@string/cal90exe3</item>
+         <item>@string/cal90exe4</item>
+         <item>@string/cal90exe6</item>
+         <item>@string/cal90exe9</item>
+         <item>@string/cal90exe10</item>
+         <item>@string/cal90exe12</item>
+         <item>@string/cal90exe13</item>
+         <item>@string/cal90exe15</item>
+         <item>@string/cal90exe17</item>
+         <item>@string/cal90exe20</item>
+         <item>@string/cal90exe22</item>
+         <item>@string/cal90exe24</item>
+         <item>@string/cal90exe27</item>
+         <item>@string/cal90exe28</item>-->
+    </string-array>
+
+    <string-array name="YogaforInsomniaexetotaltime">
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+
+    </string-array>
+
+
+
+    <string-array name="DeepSleepYogaexe_exename">
+        <item>@string/exename2</item>
+        <item>@string/exename3</item>
+        <item>@string/exename4</item>
+        <item>@string/exename6</item>
+        <item>@string/exename8</item>
+        <item>@string/exename11</item>
+        <item>@string/exename13</item>
+        <item>@string/exename16</item>
+        <item>@string/exename20</item>
+        <item>@string/exename21</item>
+        <item>@string/exename23</item>
+
+
+    </string-array>
+
+    <array name="DeepSleepYogaexe_thumbimg">
+        <item>@raw/exeimg61</item>
+        <item>@raw/exeimg55</item>
+        <item>@raw/exeimg52</item>
+        <item>@raw/exeimg46</item>
+        <item>@raw/exeimg23</item>
+        <item>@raw/exeimg60</item>
+        <item>@raw/exeimg34</item>
+        <item>@raw/exeimg62</item>
+        <item>@raw/exeimg12</item>
+        <item>@raw/exeimg40</item>
+        <item>@raw/exeimg39</item>
+
+    </array>
+
+    <array name="DeepSleepYogaexe_vids">
+        <item>@raw/exe61</item>
+        <item>@raw/exe55</item>
+        <item>@raw/exe52</item>
+        <item>@raw/exe46</item>
+        <item>@raw/exe23</item>
+        <item>@raw/exe60</item>
+        <item>@raw/exe34</item>
+        <item>@raw/exe62</item>
+        <item>@raw/exe12</item>
+        <item>@raw/exe40</item>
+        <item>@raw/exe39</item>
+
+        <!--<item>@raw/exe2</item>
+        <item>@raw/exe3</item>
+        <item>@raw/exe4</item>
+        <item>@raw/exe7</item>
+        <item>@raw/exe9</item>
+        <item>@raw/exe12</item>
+        <item>@raw/exe16</item>
+        <item>@raw/exe18</item>
+        <item>@raw/exe20</item>
+        <item>@raw/exe22</item>
+        <item>@raw/exe23</item>
+        <item>@raw/exe24</item>
+        <item>@raw/exe25</item>
+        <item>@raw/exe27</item>
+        <item>@raw/exe29</item>-->
+    </array>
+
+    <string-array name="DeepSleepYogaexe_youtubevid">
+        <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid3</item>
+        <item>@string/exeyouvid4</item>
+        <item>@string/exeyouvid6</item>
+        <item>@string/exeyouvid8</item>
+        <item>@string/exeyouvid11</item>
+        <item>@string/exeyouvid13</item>
+        <item>@string/exeyouvid16</item>
+        <item>@string/exeyouvid20</item>
+        <item>@string/exeyouvid21</item>
+        <item>@string/exeyouvid23</item>
+
+      <!--  <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid3</item>
+        <item>@string/exeyouvid4</item>
+        <item>@string/exeyouvid7</item>
+        <item>@string/exeyouvid9</item>
+        <item>@string/exeyouvid12</item>
+        <item>@string/exeyouvid16</item>
+        <item>@string/exeyouvid18</item>
+        <item>@string/exeyouvid20</item>
+        <item>@string/exeyouvid22</item>
+        <item>@string/exeyouvid23</item>
+        <item>@string/exeyouvid24</item>
+        <item>@string/exeyouvid25</item>
+        <item>@string/exeyouvid27</item>
+        <item>@string/exeyouvid29</item>-->
+    </string-array>
+
+    <string-array name="DeepSleepYogaexedesc">
+        <item>@string/exedesc2</item>
+        <item>@string/exedesc3</item>
+        <item>@string/exedesc4</item>
+        <item>@string/exedesc6</item>
+        <item>@string/exedesc8</item>
+        <item>@string/exedesc11</item>
+        <item>@string/exedesc13</item>
+        <item>@string/exedesc16</item>
+        <item>@string/exedesc20</item>
+        <item>@string/exedesc21</item>
+        <item>@string/exedesc23</item>
+       <!-- <item>@string/exedesc2</item>
+        <item>@string/exedesc3</item>
+        <item>@string/exedesc4</item>
+        <item>@string/exedesc7</item>
+        <item>@string/exedesc9</item>
+        <item>@string/exedesc12</item>
+        <item>@string/exedesc16</item>
+        <item>@string/exedesc18</item>
+        <item>@string/exedesc20</item>
+        <item>@string/exedesc22</item>
+        <item>@string/exedesc23</item>
+        <item>@string/exedesc24</item>
+        <item>@string/exedesc25</item>
+        <item>@string/exedesc27</item>
+        <item>@string/exedesc29</item>-->
+    </string-array>
+
+    <string-array name="DeepSleepYogaexe51_75calorie">
+        <item>@string/cal51exe2</item>
+        <item>@string/cal51exe3</item>
+        <item>@string/cal51exe4</item>
+        <item>@string/cal51exe6</item>
+        <item>@string/cal51exe8</item>
+        <item>@string/cal51exe11</item>
+        <item>@string/cal51exe13</item>
+        <item>@string/cal51exe16</item>
+        <item>@string/cal51exe20</item>
+        <item>@string/cal51exe21</item>
+        <item>@string/cal51exe23</item>
+       <!-- <item>@string/cal51exe2</item>
+        <item>@string/cal51exe3</item>
+        <item>@string/cal51exe4</item>
+        <item>@string/cal51exe7</item>
+        <item>@string/cal51exe9</item>
+        <item>@string/cal51exe12</item>
+        <item>@string/cal51exe16</item>
+        <item>@string/cal51exe18</item>
+        <item>@string/cal51exe20</item>
+        <item>@string/cal51exe22</item>
+        <item>@string/cal51exe23</item>
+        <item>@string/cal51exe24</item>
+        <item>@string/cal51exe25</item>
+        <item>@string/cal51exe27</item>
+        <item>@string/cal51exe29</item>-->
+    </string-array>
+
+    <string-array name="DeepSleepYogaexe76_90calorie">
+        <item>@string/cal76exe2</item>
+        <item>@string/cal76exe3</item>
+        <item>@string/cal76exe4</item>
+        <item>@string/cal76exe6</item>
+        <item>@string/cal76exe8</item>
+        <item>@string/cal76exe11</item>
+        <item>@string/cal76exe13</item>
+        <item>@string/cal76exe16</item>
+        <item>@string/cal76exe20</item>
+        <item>@string/cal76exe21</item>
+        <item>@string/cal76exe23</item>
+
+     <!--   <item>@string/cal76exe2</item>
+        <item>@string/cal76exe3</item>
+        <item>@string/cal76exe4</item>
+        <item>@string/cal76exe7</item>
+        <item>@string/cal76exe9</item>
+        <item>@string/cal76exe12</item>
+        <item>@string/cal76exe16</item>
+        <item>@string/cal76exe18</item>
+        <item>@string/cal76exe20</item>
+        <item>@string/cal76exe22</item>
+        <item>@string/cal76exe23</item>
+        <item>@string/cal76exe24</item>
+        <item>@string/cal76exe25</item>
+        <item>@string/cal76exe27</item>
+        <item>@string/cal76exe29</item>-->
+    </string-array>
+
+    <string-array name="DeepSleepYogaexe_90calorie">
+        <item>@string/cal90exe2</item>
+        <item>@string/cal90exe3</item>
+        <item>@string/cal90exe4</item>
+        <item>@string/cal90exe6</item>
+        <item>@string/cal90exe8</item>
+        <item>@string/cal90exe11</item>
+        <item>@string/cal90exe13</item>
+        <item>@string/cal90exe16</item>
+        <item>@string/cal90exe20</item>
+        <item>@string/cal90exe21</item>
+        <item>@string/cal90exe23</item>
+      <!--  <item>@string/cal90exe2</item>
+        <item>@string/cal90exe3</item>
+        <item>@string/cal90exe4</item>
+        <item>@string/cal90exe7</item>
+        <item>@string/cal90exe9</item>
+        <item>@string/cal90exe12</item>
+        <item>@string/cal90exe16</item>
+        <item>@string/cal90exe18</item>
+        <item>@string/cal90exe20</item>
+        <item>@string/cal90exe22</item>
+        <item>@string/cal90exe23</item>
+        <item>@string/cal90exe24</item>
+        <item>@string/cal90exe25</item>
+        <item>@string/cal90exe27</item>
+        <item>@string/cal90exe29</item>-->
+    </string-array>
+
+
+    <string-array name="DeepSleepYogaexetotaltime">
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+
+    </string-array>
+
+
+
+    <string-array name="Yognindra_Effectivesleepexename">
+        <item>@string/exename2</item>
+        <item>@string/exename3</item>
+        <item>@string/exename5</item>
+        <item>@string/exename6</item>
+        <item>@string/exename10</item>
+        <item>@string/exename11</item>
+        <item>@string/exename12</item>
+        <item>@string/exename14</item>
+        <item>@string/exename16</item>
+        <item>@string/exename17</item>
+        <item>@string/exename20</item>
+        <item>@string/exename22</item>
+        <item>@string/exename24</item>
+
+    </string-array>
+
+    <array name="Yognindra_Effectivesleep_thumbimg">
+        <item>@raw/exeimg61</item>
+        <item>@raw/exeimg55</item>
+        <item>@raw/exeimg58</item>
+        <item>@raw/exeimg46</item>
+        <item>@raw/exeimg51</item>
+        <item>@raw/exeimg60</item>
+        <item>@raw/exeimg50</item>
+        <item>@raw/exeimg36</item>
+        <item>@raw/exeimg62</item>
+        <item>@raw/exeimg22</item>
+        <item>@raw/exeimg12</item>
+        <item>@raw/exeimg33</item>
+        <item>@raw/exeimg50</item>
+
+       <!-- <item>@raw/exeimg22</item>
+        <item>@raw/exeimg24</item>
+        <item>@raw/exeimg1</item>
+        <item>@raw/exeimg31</item>
+        <item>@raw/exeimg32</item>
+        <item>@raw/exeimg34</item>
+        <item>@raw/exeimg40</item>-->
+
+    </array>
+
+    <array name="Yognindra_Effectivesleep_vids">
+        <item>@raw/exe61</item>
+        <item>@raw/exe55</item>
+        <item>@raw/exe58</item>
+        <item>@raw/exe46</item>
+        <item>@raw/exe51</item>
+        <item>@raw/exe60</item>
+        <item>@raw/exe50</item>
+        <item>@raw/exe36</item>
+        <item>@raw/exe62</item>
+        <item>@raw/exe22</item>
+        <item>@raw/exe12</item>
+        <item>@raw/exe33</item>
+        <item>@raw/exe50</item>
+
+        <!--<item>@raw/exe1</item>
+        <item>@raw/exe4</item>
+        <item>@raw/exe6</item>
+        <item>@raw/exe8</item>
+        <item>@raw/exe9</item>
+        <item>@raw/exe11</item>
+        <item>@raw/exe14</item>
+        <item>@raw/exe15</item>
+        <item>@raw/exe17</item>
+        <item>@raw/exe21</item>
+        <item>@raw/exe22</item>
+        <item>@raw/exe26</item>
+        <item>@raw/exe27</item>
+        <item>@raw/exe13</item>
+        <item>@raw/exe24</item>-->
+    </array>
+
+    <string-array name="Yognindra_Effectivesleep_youtubevid">
+        <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid3</item>
+        <item>@string/exeyouvid5</item>
+        <item>@string/exeyouvid6</item>
+        <item>@string/exeyouvid10</item>
+        <item>@string/exeyouvid11</item>
+        <item>@string/exeyouvid12</item>
+        <item>@string/exeyouvid14</item>
+        <item>@string/exeyouvid16</item>
+        <item>@string/exeyouvid17</item>
+        <item>@string/exeyouvid20</item>
+        <item>@string/exeyouvid22</item>
+        <item>@string/exeyouvid24</item>
+    <!--    <item>@string/exeyouvid1</item>
+        <item>@string/exeyouvid4</item>
+        <item>@string/exeyouvid6</item>
+        <item>@string/exeyouvid8</item>
+        <item>@string/exeyouvid9</item>
+        <item>@string/exeyouvid11</item>
+        <item>@string/exeyouvid14</item>
+        <item>@string/exeyouvid15</item>
+        <item>@string/exeyouvid17</item>
+        <item>@string/exeyouvid21</item>
+        <item>@string/exeyouvid22</item>
+        <item>@string/exeyouvid26</item>
+        <item>@string/exeyouvid27</item>
+        <item>@string/exeyouvid13</item>
+        <item>@string/exeyouvid24</item>-->
+    </string-array>
+
+    <string-array name="Yognindra_Effectivesleepexedesc">
+        <item>@string/exedesc2</item>
+        <item>@string/exedesc3</item>
+        <item>@string/exedesc5</item>
+        <item>@string/exedesc6</item>
+        <item>@string/exedesc10</item>
+        <item>@string/exedesc11</item>
+        <item>@string/exedesc12</item>
+        <item>@string/exedesc14</item>
+        <item>@string/exedesc16</item>
+        <item>@string/exedesc17</item>
+        <item>@string/exedesc20</item>
+        <item>@string/exedesc22</item>
+        <item>@string/exedesc24</item>
+        <!--<item>@string/exedesc1</item>
+        <item>@string/exedesc4</item>
+        <item>@string/exedesc6</item>
+        <item>@string/exedesc8</item>
+        <item>@string/exedesc9</item>
+        <item>@string/exedesc11</item>
+        <item>@string/exedesc14</item>
+        <item>@string/exedesc15</item>
+        <item>@string/exedesc17</item>
+        <item>@string/exedesc21</item>
+        <item>@string/exedesc22</item>
+        <item>@string/exedesc26</item>
+        <item>@string/exedesc27</item>
+        <item>@string/exedesc13</item>
+        <item>@string/exedesc24</item>-->
+    </string-array>
+
+    <string-array name="Yognindra_Effectivesleepcalorie">
+        <item>@string/exekcal2</item>
+        <item>@string/exekcal3</item>
+        <item>@string/exekcal5</item>
+        <item>@string/exekcal6</item>
+        <item>@string/exekcal10</item>
+        <item>@string/exekcal11</item>
+        <item>@string/exekcal12</item>
+        <item>@string/exekcal14</item>
+        <item>@string/exekcal16</item>
+        <item>@string/exekcal17</item>
+        <item>@string/exekcal20</item>
+        <item>@string/exekcal22</item>
+        <item>@string/exekcal24</item>
+
+        <!-- <item>@string/exekcal1</item>
+         <item>@string/exekcal4</item>
+         <item>@string/exekcal6</item>
+         <item>@string/exekcal8</item>
+         <item>@string/exekcal9</item>
+         <item>@string/exekcal11</item>
+         <item>@string/exekcal14</item>
+         <item>@string/exekcal15</item>
+         <item>@string/exekcal17</item>
+         <item>@string/exekcal21</item>
+         <item>@string/exekcal22</item>
+         <item>@string/exekcal26</item>
+         <item>@string/exekcal27</item>
+         <item>@string/exekcal13</item>
+         <item>@string/exekcal24</item>-->
+    </string-array>
+
+    <string-array name="Yognindra_Effectivesleep51_75calorie">
+        <item>@string/cal51exe2</item>
+        <item>@string/cal51exe3</item>
+        <item>@string/cal51exe5</item>
+        <item>@string/cal51exe6</item>
+        <item>@string/cal51exe10</item>
+        <item>@string/cal51exe11</item>
+        <item>@string/cal51exe12</item>
+        <item>@string/cal51exe14</item>
+        <item>@string/cal51exe16</item>
+        <item>@string/cal51exe17</item>
+        <item>@string/cal51exe20</item>
+        <item>@string/cal51exe22</item>
+        <item>@string/cal51exe24</item>
+        <!--    <item>@string/cal51exe1</item>
+            <item>@string/cal51exe4</item>
+            <item>@string/cal51exe6</item>
+            <item>@string/cal51exe8</item>
+            <item>@string/cal51exe9</item>
+            <item>@string/cal51exe11</item>
+            <item>@string/cal51exe14</item>
+            <item>@string/cal51exe15</item>
+            <item>@string/cal51exe17</item>
+            <item>@string/cal51exe21</item>
+            <item>@string/cal51exe22</item>
+            <item>@string/cal51exe26</item>
+            <item>@string/cal51exe27</item>
+            <item>@string/cal51exe13</item>
+            <item>@string/cal51exe24</item>-->
+    </string-array>
+
+    <string-array name="Yognindra_Effectivesleep76_90calorie">
+        <item>@string/cal76exe2</item>
+        <item>@string/cal76exe3</item>
+        <item>@string/cal76exe5</item>
+        <item>@string/cal76exe6</item>
+        <item>@string/cal76exe10</item>
+        <item>@string/cal76exe11</item>
+        <item>@string/cal76exe12</item>
+        <item>@string/cal76exe14</item>
+        <item>@string/cal76exe16</item>
+        <item>@string/cal76exe17</item>
+        <item>@string/cal76exe20</item>
+        <item>@string/cal76exe22</item>
+        <item>@string/cal76exe24</item>
+      <!--  <item>@string/cal76exe1</item>
+        <item>@string/cal76exe4</item>
+        <item>@string/cal76exe6</item>
+        <item>@string/cal76exe8</item>
+        <item>@string/cal76exe9</item>
+        <item>@string/cal76exe11</item>
+        <item>@string/cal76exe14</item>
+        <item>@string/cal76exe15</item>
+        <item>@string/cal76exe17</item>
+        <item>@string/cal76exe21</item>
+        <item>@string/cal76exe22</item>
+        <item>@string/cal76exe26</item>
+        <item>@string/cal76exe27</item>
+        <item>@string/cal76exe13</item>
+        <item>@string/cal76exe24</item>-->
+    </string-array>
+
+    <string-array name="Yognindra_Effectivesleep_90calorie">
+        <item>@string/cal90exe2</item>
+        <item>@string/cal90exe3</item>
+        <item>@string/cal90exe5</item>
+        <item>@string/cal90exe6</item>
+        <item>@string/cal90exe10</item>
+        <item>@string/cal90exe11</item>
+        <item>@string/cal90exe12</item>
+        <item>@string/cal90exe14</item>
+        <item>@string/cal90exe16</item>
+        <item>@string/cal90exe17</item>
+        <item>@string/cal90exe20</item>
+        <item>@string/cal90exe22</item>
+        <item>@string/cal90exe24</item>
+
+        <!--     <item>@string/cal90exe1</item>
+             <item>@string/cal90exe4</item>
+             <item>@string/cal90exe6</item>
+             <item>@string/cal90exe8</item>
+             <item>@string/cal90exe9</item>
+             <item>@string/cal90exe11</item>
+             <item>@string/cal90exe14</item>
+             <item>@string/cal90exe15</item>
+             <item>@string/cal90exe17</item>
+             <item>@string/cal90exe21</item>
+             <item>@string/cal90exe22</item>
+             <item>@string/cal90exe26</item>
+             <item>@string/cal90exe27</item>
+             <item>@string/cal90exe13</item>
+             <item>@string/cal90exe24</item>-->
+    </string-array>
+    <string-array name="Yognindra_Effectivesleeptotaltime">
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+
+    </string-array>
+
+
+    <string-array name="Bedtimeyogaforsoundsleepexename">
+        <item>@string/exename2</item>
+        <item>@string/exename4</item>
+        <item>@string/exename6</item>
+        <item>@string/exename9</item>
+        <item>@string/exename11</item>
+        <item>@string/exename13</item>
+        <item>@string/exename15</item>
+        <item>@string/exename16</item>
+        <item>@string/exename19</item>
+        <item>@string/exename21</item>
+        <item>@string/exename23</item>
+        <item>@string/exename25</item>
+    </string-array>
+
+    <array name="Bedtimeyogaforsoundsleepexe_thumbimg">
+
+        <item>@raw/exeimg61</item>
+        <item>@raw/exeimg52</item>
+        <item>@raw/exeimg46</item>
+        <item>@raw/exeimg19</item>
+        <item>@raw/exeimg60</item>
+        <item>@raw/exeimg34</item>
+        <item>@raw/exeimg38</item>
+        <item>@raw/exeimg62</item>
+        <item>@raw/exeimg4</item>
+        <item>@raw/exeimg40</item>
+        <item>@raw/exeimg39</item>
+        <item>@raw/exeimg53</item>
+
+    </array>
+
+    <array name="Bedtimeyogaforsoundsleepexe_vids">
+        <item>@raw/exe61</item>
+        <item>@raw/exe52</item>
+        <item>@raw/exe46</item>
+        <item>@raw/exe19</item>
+        <item>@raw/exe60</item>
+        <item>@raw/exe34</item>
+        <item>@raw/exe38</item>
+        <item>@raw/exe62</item>
+        <item>@raw/exe4</item>
+        <item>@raw/exe40</item>
+        <item>@raw/exe39</item>
+        <item>@raw/exe53</item>
+
+
+        <!--   <item>@raw/exe1</item>
+           <item>@raw/exe3</item>
+           <item>@raw/exe4</item>
+           <item>@raw/exe7</item>
+           <item>@raw/exe9</item>
+           <item>@raw/exe10</item>
+           <item>@raw/exe12</item>
+           <item>@raw/exe13</item>
+           <item>@raw/exe17</item>
+           <item>@raw/exe20</item>
+           <item>@raw/exe22</item>
+           <item>@raw/exe23</item>
+           <item>@raw/exe24</item>
+           <item>@raw/exe27</item>
+           <item>@raw/exe14</item>-->
+    </array>
+
+    <string-array name="Bedtimeyogaforsoundsleepexe_youtubevid">
+        <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid4</item>
+        <item>@string/exeyouvid6</item>
+        <item>@string/exeyouvid9</item>
+        <item>@string/exeyouvid11</item>
+        <item>@string/exeyouvid13</item>
+        <item>@string/exeyouvid15</item>
+        <item>@string/exeyouvid16</item>
+        <item>@string/exeyouvid19</item>
+        <item>@string/exeyouvid21</item>
+        <item>@string/exeyouvid23</item>
+        <item>@string/exeyouvid25</item>
+      <!--  <item>@string/exeyouvid1</item>
+        <item>@string/exeyouvid3</item>
+        <item>@string/exeyouvid4</item>
+        <item>@string/exeyouvid7</item>
+        <item>@string/exeyouvid9</item>
+        <item>@string/exeyouvid10</item>
+        <item>@string/exeyouvid12</item>
+        <item>@string/exeyouvid13</item>
+        <item>@string/exeyouvid17</item>
+        <item>@string/exeyouvid20</item>
+        <item>@string/exeyouvid22</item>
+        <item>@string/exeyouvid23</item>
+        <item>@string/exeyouvid24</item>
+        <item>@string/exeyouvid27</item>
+        <item>@string/exeyouvid14</item>-->
+    </string-array>
+
+    <string-array name="Bedtimeyogaforsoundsleepexedesc">
+        <item>@string/exedesc2</item>
+        <item>@string/exedesc4</item>
+        <item>@string/exedesc6</item>
+        <item>@string/exedesc9</item>
+        <item>@string/exedesc11</item>
+        <item>@string/exedesc13</item>
+        <item>@string/exedesc15</item>
+        <item>@string/exedesc16</item>
+        <item>@string/exedesc19</item>
+        <item>@string/exedesc21</item>
+        <item>@string/exedesc23</item>
+        <item>@string/exedesc25</item>
+      <!--  <item>@string/exedesc1</item>
+        <item>@string/exedesc3</item>
+        <item>@string/exedesc4</item>
+        <item>@string/exedesc7</item>
+        <item>@string/exedesc9</item>
+        <item>@string/exedesc10</item>
+        <item>@string/exedesc12</item>
+        <item>@string/exedesc13</item>
+        <item>@string/exedesc17</item>
+        <item>@string/eexedsc20</item>
+        <item>@string/exedesc22</item>
+        <item>@string/exedesc23</item>
+        <item>@string/exedesc24</item>
+        <item>@string/exedesc27</item>
+        <item>@string/exedesc14</item>-->
+    </string-array>
+
+    <string-array name="Bedtimeyogaforsoundsleepexecalorie">
+        <item>@string/exekcal2</item>
+        <item>@string/exekcal4</item>
+        <item>@string/exekcal6</item>
+        <item>@string/exekcal9</item>
+        <item>@string/exekcal11</item>
+        <item>@string/exekcal13</item>
+        <item>@string/exekcal15</item>
+        <item>@string/exekcal16</item>
+        <item>@string/exekcal19</item>
+        <item>@string/exekcal21</item>
+        <item>@string/exekcal23</item>
+        <item>@string/exekcal25</item>
+        <!--<item>@string/exekcal1</item>
+        <item>@string/exekcal3</item>
+        <item>@string/exekcal4</item>
+        <item>@string/exekcal7</item>
+        <item>@string/exekcal9</item>
+        <item>@string/exekcal10</item>
+        <item>@string/exekcal12</item>
+        <item>@string/exekcal13</item>
+        <item>@string/exekcal17</item>
+        <item>@string/exekcal20</item>
+        <item>@string/exekcal22</item>
+        <item>@string/exekcal23</item>
+        <item>@string/exekcal24</item>
+        <item>@string/exekcal27</item>
+        <item>@string/exekcal14</item>-->
+    </string-array>
+
+    <string-array name="Bedtimeyogaforsoundsleepexe51_75calorie">
+        <item>@string/cal51exe2</item>
+        <item>@string/cal51exe4</item>
+        <item>@string/cal51exe6</item>
+        <item>@string/cal51exe9</item>
+        <item>@string/cal51exe11</item>
+        <item>@string/cal51exe13</item>
+        <item>@string/cal51exe15</item>
+        <item>@string/cal51exe16</item>
+        <item>@string/cal51exe19</item>
+        <item>@string/cal51exe21</item>
+        <item>@string/cal51exe23</item>
+        <item>@string/cal51exe25</item>
+       <!-- <item>@string/cal51exe1</item>
+        <item>@string/cal51exe3</item>
+        <item>@string/cal51exe4</item>
+        <item>@string/cal51exe7</item>
+        <item>@string/cal51exe9</item>
+        <item>@string/cal51exe10</item>
+        <item>@string/cal51exe12</item>
+        <item>@string/cal51exe13</item>
+        <item>@string/cal51exe17</item>
+        <item>@string/cal51exe20</item>
+        <item>@string/cal51exe22</item>
+        <item>@string/cal51exe23</item>
+        <item>@string/cal51exe24</item>
+        <item>@string/cal51exe27</item>
+        <item>@string/cal51exe14</item-->>
+    </string-array>
+
+    <string-array name="Bedtimeyogaforsoundsleepexe_90calorie">
+        <item>@string/cal90exe2</item>
+        <item>@string/cal90exe4</item>
+        <item>@string/cal90exe6</item>
+        <item>@string/cal90exe9</item>
+        <item>@string/cal90exe11</item>
+        <item>@string/cal90exe13</item>
+        <item>@string/cal90exe15</item>
+        <item>@string/cal90exe16</item>
+        <item>@string/cal90exe19</item>
+        <item>@string/cal90exe21</item>
+        <item>@string/cal90exe23</item>
+        <item>@string/cal90exe25</item>
+           <!-- <item>@string/cal90exe1</item>
+            <item>@string/cal90exe3</item>
+            <item>@string/cal90exe4</item>
+            <item>@string/cal90exe7</item>
+            <item>@string/cal90exe9</item>
+            <item>@string/cal90exe10</item>
+            <item>@string/cal90exe12</item>
+            <item>@string/cal90exe13</item>
+            <item>@string/cal90exe17</item>
+            <item>@string/cal90exe20</item>
+            <item>@string/cal90exe22</item>
+            <item>@string/cal90exe23</item>
+            <item>@string/cal90exe24</item>
+            <item>@string/cal90exe27</item>
+            <item>@string/cal90exe14</item>-->
+    </string-array>
+
+    <string-array name="Bedtimeyogaforsoundsleepexetotaltime">
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+
+    </string-array>
+    <string-array name="SleepApneaexename">
+        <item>@string/exename1</item>
+        <item>@string/exename2</item>
+        <item>@string/exename5</item>
+        <item>@string/exename7</item>
+        <item>@string/exename8</item>
+        <item>@string/exename11</item>
+        <item>@string/exename14</item>
+        <item>@string/exename16</item>
+        <item>@string/exename17</item>
+        <item>@string/exename18</item>
+        <item>@string/exename24</item>
+
+    </string-array>
+
+    <array name="SleepApneaexe_thumbimg">
+        <item>@raw/exeimg9</item>
+        <item>@raw/exeimg61</item>
+        <item>@raw/exeimg58</item>
+        <item>@raw/exeimg32</item>
+        <item>@raw/exeimg23</item>
+        <item>@raw/exeimg60</item>
+        <item>@raw/exeimg36</item>
+        <item>@raw/exeimg62</item>
+        <item>@raw/exeimg22</item>
+        <item>@raw/exeimg54</item>
+        <item>@raw/exeimg50</item>
+
+
+    </array>
+
+    <array name="SleepApneaexe_vids">
+        <item>@raw/exe9</item>
+        <item>@raw/exe61</item>
+        <item>@raw/exe58</item>
+        <item>@raw/exe32</item>
+        <item>@raw/exe23</item>
+        <item>@raw/exe60</item>
+        <item>@raw/exe36</item>
+        <item>@raw/exe62</item>
+        <item>@raw/exe22</item>
+        <item>@raw/exe54</item>
+        <item>@raw/exe50</item>
+
+        <!--  <item>@raw/exe2</item>
+          <item>@raw/exe3</item>
+          <item>@raw/exe4</item>
+          <item>@raw/exe5</item>
+          <item>@raw/exe8</item>
+          <item>@raw/exe9</item>
+          <item>@raw/exe11</item>
+          <item>@raw/exe14</item>
+          <item>@raw/exe16</item>
+          <item>@raw/exe18</item>
+          <item>@raw/exe22</item>
+          <item>@raw/exe25</item>
+          <item>@raw/exe26</item>
+          <item>@raw/exe27</item>
+          <item>@raw/exe28</item>-->
+    </array>
+
+    <string-array name="SleepApneaexe_youtubevid">
+        <item>@string/exeyouvid1</item>
+        <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid5</item>
+        <item>@string/exeyouvid7</item>
+        <item>@string/exeyouvid8</item>
+        <item>@string/exeyouvid11</item>
+        <item>@string/exeyouvid14</item>
+        <item>@string/exeyouvid16</item>
+        <item>@string/exeyouvid17</item>
+        <item>@string/exeyouvid18</item>
+        <item>@string/exeyouvid24</item>
+      <!--  <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid3</item>
+        <item>@string/exeyouvid4</item>
+        <item>@string/exeyouvid5</item>
+        <item>@string/exeyouvid8</item>
+        <item>@string/exeyouvid9</item>
+        <item>@string/exeyouvid11</item>
+        <item>@string/exeyouvid14</item>
+        <item>@string/exeyouvid16</item>
+        <item>@string/exeyouvid18</item>
+        <item>@string/exeyouvid22</item>
+        <item>@string/exeyouvid25</item>
+        <item>@string/exeyouvid26</item>
+        <item>@string/exeyouvid27</item>
+        <item>@string/exeyouvid28</item>-->
+    </string-array>
+
+    <string-array name="SleepApneaexedesc">
+        <item>@string/exedesc1</item>
+        <item>@string/exedesc2</item>
+        <item>@string/exedesc5</item>
+        <item>@string/exedesc7</item>
+        <item>@string/exedesc8</item>
+        <item>@string/exedesc11</item>
+        <item>@string/exedesc14</item>
+        <item>@string/exedesc16</item>
+        <item>@string/exedesc17</item>
+        <item>@string/exedesc18</item>
+        <item>@string/exedesc24</item>
+      <!--  <item>@string/exedesc2</item>
+        <item>@string/exedesc3</item>
+        <item>@string/exedesc4</item>
+        <item>@string/exedesc5</item>
+        <item>@string/exedesc8</item>
+        <item>@string/exedesc9</item>
+        <item>@string/exedesc11</item>
+        <item>@string/exedesc14</item>
+        <item>@string/exedesc16</item>
+        <item>@string/exedesc18</item>
+        <item>@string/exedesc22</item>
+        <item>@string/exedesc25</item>
+        <item>@string/exedesc26</item>
+        <item>@string/exedesc27</item>
+        <item>@string/exedesc28</item>-->
+    </string-array>
+
+    <string-array name="SleepApneaexecalorie">
+        <item>@string/exekcal1</item>
+        <item>@string/exekcal2</item>
+        <item>@string/exekcal5</item>
+        <item>@string/exekcal7</item>
+        <item>@string/exekcal8</item>
+        <item>@string/exekcal11</item>
+        <item>@string/exekcal14</item>
+        <item>@string/exekcal16</item>
+        <item>@string/exekcal17</item>
+        <item>@string/exekcal18</item>
+        <item>@string/exekcal24</item>
+      <!--  <item>@string/exekcal2</item>
+        <item>@string/exekcal3</item>
+        <item>@string/exekcal4</item>
+        <item>@string/exekcal5</item>
+        <item>@string/exekcal8</item>
+        <item>@string/exekcal9</item>
+        <item>@string/exekcal11</item>
+        <item>@string/exekcal14</item>
+        <item>@string/exekcal16</item>
+        <item>@string/exekcal18</item>
+        <item>@string/exekcal22</item>
+        <item>@string/exekcal25</item>
+        <item>@string/exekcal26</item>
+        <item>@string/exekcal27</item>
+        <item>@string/exekcal28</item>-->
+    </string-array>
+
+    <string-array name="SleepApneaexe51_75calorie">
+        <item>@string/cal51exe1</item>
+        <item>@string/cal51exe2</item>
+        <item>@string/cal51exe5</item>
+        <item>@string/cal51exe7</item>
+        <item>@string/cal51exe8</item>
+        <item>@string/cal51exe11</item>
+        <item>@string/cal51exe14</item>
+        <item>@string/cal51exe16</item>
+        <item>@string/cal51exe17</item>
+        <item>@string/cal51exe18</item>
+        <item>@string/cal51exe24</item>
+       <!-- <item>@string/cal51exe2</item>
+        <item>@string/cal51exe3</item>
+        <item>@string/cal51exe4</item>
+        <item>@string/cal51exe5</item>
+        <item>@string/cal51exe8</item>
+        <item>@string/cal51exe9</item>
+        <item>@string/cal51exe11</item>
+        <item>@string/cal51exe14</item>
+        <item>@string/cal51exe16</item>
+        <item>@string/cal51exe18</item>
+        <item>@string/cal51exe22</item>
+        <item>@string/cal51exe25</item>
+        <item>@string/cal51exe26</item>
+        <item>@string/cal51exe27</item>
+        <item>@string/cal51exe28</item>-->
+    </string-array>
+
+    <string-array name="SleepApneaexe76_90calorie">
+        <item>@string/cal76exe1</item>
+        <item>@string/cal76exe2</item>
+        <item>@string/cal76exe5</item>
+        <item>@string/cal76exe7</item>
+        <item>@string/cal76exe8</item>
+        <item>@string/cal76exe11</item>
+        <item>@string/cal76exe14</item>
+        <item>@string/cal76exe16</item>
+        <item>@string/cal76exe17</item>
+        <item>@string/cal76exe18</item>
+        <item>@string/cal76exe24</item>
+       <!-- <item>@string/cal76exe2</item>
+        <item>@string/cal76exe3</item>
+        <item>@string/cal76exe4</item>
+        <item>@string/cal76exe5</item>
+        <item>@string/cal76exe8</item>
+        <item>@string/cal76exe9</item>
+        <item>@string/cal76exe11</item>
+        <item>@string/cal76exe14</item>
+        <item>@string/cal76exe16</item>
+        <item>@string/cal76exe18</item>
+        <item>@string/cal76exe22</item>
+        <item>@string/cal76exe25</item>
+        <item>@string/cal76exe26</item>
+        <item>@string/cal76exe27</item>
+        <item>@string/cal76exe28</item>-->
+    </string-array>
+
+    <string-array name="SleepApneaexe_90calorie">
+        <item>@string/cal90exe1</item>
+        <item>@string/cal90exe2</item>
+        <item>@string/cal90exe5</item>
+        <item>@string/cal90exe7</item>
+        <item>@string/cal90exe8</item>
+        <item>@string/cal90exe11</item>
+        <item>@string/cal90exe14</item>
+        <item>@string/cal90exe16</item>
+        <item>@string/cal90exe17</item>
+        <item>@string/cal90exe18</item>
+        <item>@string/cal90exe24</item>
+   <!--     <item>@string/cal90exe2</item>
+        <item>@string/cal90exe3</item>
+        <item>@string/cal90exe4</item>
+        <item>@string/cal90exe5</item>
+        <item>@string/cal90exe8</item>
+        <item>@string/cal90exe9</item>
+        <item>@string/cal90exe11</item>
+        <item>@string/cal90exe14</item>
+        <item>@string/cal90exe16</item>
+        <item>@string/cal90exe18</item>
+        <item>@string/cal90exe22</item>
+        <item>@string/cal90exe25</item>
+        <item>@string/cal90exe26</item>
+        <item>@string/cal90exe27</item>
+        <item>@string/cal90exe28</item>-->
+    </string-array>
+    <string-array name="SleepApneaeexetotaltime">
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+    </string-array>
+
+    <string-array name="BreathingExerciseexename">
+        <item>@string/exename2</item>
+        <item>@string/exename5</item>
+        <item>@string/exename6</item>
+        <item>@string/exename11</item>
+       <!-- <item>@string/exename2</item>
+        <item>@string/exename7</item>
+        <item>@string/exename8</item>
+        <item>@string/exename9</item>
+        <item>@string/exename12</item>
+        <item>@string/exename15</item>
+        <item>@string/exename16</item>
+        <item>@string/exename19</item>
+        <item>@string/exename21</item>
+        <item>@string/exename22</item>
+        <item>@string/exename27</item>
+        <item>@string/exename4</item>
+        <item>@string/exename11</item>
+        <item>@string/exename25</item>
+        <item>@string/exename29</item>-->
+    </string-array>
+
+    <array name="BreathingExerciseexe_thumbimg">
+        <item>@raw/exeimg61</item>
+        <item>@raw/exeimg58</item>
+        <item>@raw/exeimg46</item>
+        <item>@raw/exeimg60</item>
+    </array>
+
+    <array name="BreathingExerciseexe_vids">
+
+        <item>@raw/exe61</item>
+        <item>@raw/exe58</item>
+        <item>@raw/exe46</item>
+        <item>@raw/exe60</item>
+
+
+        <!-- <item>@raw/exe2</item>
+         <item>@raw/exe7</item>
+         <item>@raw/exe8</item>
+         <item>@raw/exe9</item>
+         <item>@raw/exe12</item>
+         <item>@raw/exe15</item>
+         <item>@raw/exe16</item>
+         <item>@raw/exe19</item>
+         <item>@raw/exe21</item>
+         <item>@raw/exe22</item>
+         <item>@raw/exe27</item>
+         <item>@raw/exe4</item>
+         <item>@raw/exe11</item>
+         <item>@raw/exe25</item>
+         <item>@raw/exe29</item>-->
+    </array>
+
+    <string-array name="BreathingExerciseexe_youtubevid">
+        <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid5</item>
+        <item>@string/exeyouvid6</item>
+        <item>@string/exeyouvid11</item>
+        <!--   <item>@string/exeyouvid2</item>
+        <item>@string/exeyouvid7</item>
+        <item>@string/exeyouvid8</item>
+        <item>@string/exeyouvid9</item>
+        <item>@string/exeyouvid12</item>
+        <item>@string/exeyouvid15</item>
+        <item>@string/exeyouvid16</item>
+        <item>@string/exeyouvid19</item>
+        <item>@string/exeyouvid21</item>
+        <item>@string/exeyouvid22</item>
+        <item>@string/exeyouvid27</item>
+        <item>@string/exeyouvid4</item>
+        <item>@string/exeyouvid11</item>
+        <item>@string/exeyouvid25</item>
+        <item>@string/exeyouvid29</item>-->
+    </string-array>
+
+    <string-array name="BreathingExerciseexedesc">
+        <item>@string/exedesc2</item>
+        <item>@string/exedesc5</item>
+        <item>@string/exedesc6</item>
+        <item>@string/exedesc11</item>
+    <!--    <item>@string/exedesc2</item>
+        <item>@string/exedesc7</item>
+        <item>@string/exedesc8</item>
+        <item>@string/exedesc9</item>
+        <item>@string/exedesc12</item>
+        <item>@string/exedesc15</item>
+        <item>@string/exedesc16</item>
+        <item>@string/exedesc19</item>
+        <item>@string/exedesc21</item>
+        <item>@string/exedesc22</item>
+        <item>@string/exedesc27</item>
+        <item>@string/exedesc4</item>
+        <item>@string/exedesc11</item>
+        <item>@string/exedesc25</item>
+        <item>@string/exedesc29</item>-->
+    </string-array>
+
+    <string-array name="BreathingExerciseexecalorie">
+        <item>@string/exekcal2</item>
+        <item>@string/exekcal5</item>
+        <item>@string/exekcal6</item>
+        <item>@string/exekcal11</item>
+        <!-- <item>@string/exekcal2</item>
+         <item>@string/exekcal7</item>
+         <item>@string/exekcal8</item>
+         <item>@string/exekcal9</item>
+         <item>@string/exekcal12</item>
+         <item>@string/exekcal15</item>
+         <item>@string/exekcal16</item>
+         <item>@string/exekcal19</item>
+         <item>@string/exekcal21</item>
+         <item>@string/exekcal22</item>
+         <item>@string/exekcal27</item>
+         <item>@string/exekcal4</item>
+         <item>@string/exekcal11</item>
+         <item>@string/exekcal25</item>
+         <item>@string/exekcal29</item>-->
+    </string-array>
+
+    <string-array name="BreathingExerciseexe51_75calorie">
+        <item>@string/cal51exe2</item>
+        <item>@string/cal51exe5</item>
+        <item>@string/cal51exe6</item>
+        <item>@string/cal51exe11</item>
+      <!--  <item>@string/cal51exe2</item>
+        <item>@string/cal51exe7</item>
+        <item>@string/cal51exe8</item>
+        <item>@string/cal51exe9</item>
+        <item>@string/cal51exe12</item>
+        <item>@string/cal51exe15</item>
+        <item>@string/cal51exe16</item>
+        <item>@string/cal51exe19</item>
+        <item>@string/cal51exe21</item>
+        <item>@string/cal51exe22</item>
+        <item>@string/cal51exe27</item>
+        <item>@string/cal51exe4</item>
+        <item>@string/cal51exe11</item>
+        <item>@string/cal51exe25</item>
+        <item>@string/cal51exe29</item>-->
+    </string-array>
+
+    <string-array name="BreathingExerciseexe76_90calorie">
+        <item>@string/cal76exe2</item>
+        <item>@string/cal76exe5</item>
+        <item>@string/cal76exe6</item>
+        <item>@string/cal76exe11</item>
+      <!--  <item>@string/cal76exe2</item>
+        <item>@string/cal76exe7</item>
+        <item>@string/cal76exe8</item>
+        <item>@string/cal76exe9</item>
+        <item>@string/cal76exe12</item>
+        <item>@string/cal76exe15</item>
+        <item>@string/cal76exe16</item>
+        <item>@string/cal76exe19</item>
+        <item>@string/cal76exe21</item>
+        <item>@string/cal76exe22</item>
+        <item>@string/cal76exe27</item>
+        <item>@string/cal76exe4</item>
+        <item>@string/cal76exe11</item>
+        <item>@string/cal76exe25</item>
+        <item>@string/cal76exe29</item>-->
+    </string-array>
+
+    <string-array name="BreathingExerciseexe_90calorie">
+        <item>@string/cal90exe2</item>
+        <item>@string/cal90exe5</item>
+        <item>@string/cal90exe6</item>
+        <item>@string/cal90exe11</item>
+        <!--  <item>@string/cal90exe2</item>
+          <item>@string/cal90exe7</item>
+          <item>@string/cal90exe8</item>
+          <item>@string/cal90exe9</item>
+          <item>@string/cal90exe12</item>
+          <item>@string/cal90exe15</item>
+          <item>@string/cal90exe16</item>
+          <item>@string/cal90exe19</item>
+          <item>@string/cal90exe21</item>
+          <item>@string/cal90exe22</item>
+          <item>@string/cal90exe27</item>
+          <item>@string/cal90exe4</item>
+          <item>@string/cal90exe11</item>
+          <item>@string/cal90exe25</item>
+          <item>@string/cal90exe29</item>-->
+    </string-array>
+
+    <string-array name="BreathingExerciseexetotaltime">
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+        <item>@string/round2time</item>
+
+    </string-array>
+    </resources>

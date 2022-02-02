@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.shimmer.ShimmerFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:id="@+id/slideloader"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:shimmer_auto_start="true"
+    app:shimmer_base_color="#ffcccccc"
+    android:layoutDirection="ltr"
+
+    android:background="@android:color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="210dp">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:gravity="center"
+            android:background="@color/light_transparent"
+            android:scaleType="centerCrop" />
+
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerVertical="true"
+           >
+
+            <RelativeLayout
+                android:id="@+id/ad_icon_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10.0dip">
+
+                <ImageView
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:background="@color/light_transparent"
+                    android:layout_gravity="center_vertical" />
+
+            </RelativeLayout>
+
+            <FrameLayout
+                android:id="@+id/ly_ad_action_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="80dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="10dp"
+                    android:background="@drawable/adbtn"
+                    android:backgroundTint="@color/light_transparent"
+                    android:gravity="center"
+                    android:maxLines="2"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="10dp"
+                    android:textAllCaps="true"
+                    android:textColor="#ffffffff"
+                    android:textSize="12.0sp"
+                    android:textStyle="bold" />
+            </FrameLayout>
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginStart="8.0dip"
+                android:layout_marginEnd="8.0dip"
+                android:layout_toStartOf="@+id/ly_ad_action_textview"
+                android:layout_toEndOf="@+id/ad_icon_layout"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/ad_title_textview"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toStartOf="@+id/tmp"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:background="@color/light_transparent"
+                        android:textColor="@android:color/white"
+                        android:textSize="14.0sp" />
+
+
+                </RelativeLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:background="@color/light_transparent"
+                    android:textColor="#E2E2E2"
+                    android:textSize="12.0sp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</com.facebook.shimmer.ShimmerFrameLayout>
+
+

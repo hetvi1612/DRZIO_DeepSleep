@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/noiternets"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:layout_gravity="center_vertical"
+    android:visibility="gone"
+    android:layoutDirection="ltr"
+
+    android:layout_marginTop="50dp"
+    >
+    <ImageView
+        android:id="@+id/noiternet"
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/noiternatimage" />
+   <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/fontr_r"
+        android:gravity="center"
+        android:text="@string/please_check_your_internet_connection"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

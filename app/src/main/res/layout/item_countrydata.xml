@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainlayout"
+    android:layout_width="match_parent"
+    android:layoutDirection="ltr"
+
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/tvstatename"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/gujarat"
+        android:textColor="@color/tabselectedtxt"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tvtodaycases"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="1000"
+        android:textColor="#F44336"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tvcasesnum"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="1000"
+        android:textColor="#50D5E4"
+        android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/tvtodaydeath"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="1000"
+            android:textColor="#F44336"
+            android:textStyle="bold" />
+
+
+        <TextView
+        android:id="@+id/tvdeathnum"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="1000"
+        android:textColor="#243C5E"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tvrecovernum"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="1000"
+        android:textColor="#0BC98B"
+        android:textStyle="bold" />
+
+</LinearLayout>

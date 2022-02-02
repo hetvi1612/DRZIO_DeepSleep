@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ds="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+
+    android:background="@android:color/white">
+
+    <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.StatusBarView
+        android:id="@+id/statusbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent" />
+
+    <com.ramotion.directselect.DSListView
+        android:id="@+id/ds_county_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:visibility="invisible"
+        ds:picker_box_view="@id/ds_country_picker"
+        ds:scale_animations="true"
+        ds:scale_animations_factor="2"
+        ds:scale_animations_pivot_center="true"
+        ds:selected_index="2"
+        ds:selector_background="@drawable/ds_bg_list_selector" />
+
+
+    <com.ramotion.directselect.DSListView
+        android:id="@+id/ds_day_of_week_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:visibility="invisible"
+        ds:picker_box_view="@id/ds_day_of_week_picker"
+        ds:scale_animations="true"
+        ds:scale_animations_factor="2"
+        ds:scale_animations_pivot_center="true"
+        ds:selected_index="2"
+        ds:selector_background="@drawable/ds_bg_list_selector" />
+
+    <RelativeLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="50dp">
+
+        <ImageView
+            android:id="@+id/btnback"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentStart="true"
+
+            android:layout_alignParentTop="true"
+            android:foreground="?attr/selectableItemBackground"
+            android:padding="13dp"
+            android:src="@drawable/ic_arrow_back_black_24dp"
+            android:tint="@color/headercolor" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:id="@+id/txtlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+
+                android:src="@drawable/set_weekly_goal" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@font/themefont"
+                android:gravity="center_horizontal"
+                android:text="@string/set_your_weekly_goal"
+                android:textColor="@color/headercolor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginEnd="10dp"
+                android:fontFamily="@font/thmefontlite"
+                android:gravity="center_horizontal"
+                android:text="@string/recommandedtxt"
+                android:textColor="@color/smalltxtcolor"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/thmefontlite"
+                android:text="@string/training_days"
+                android:textColor="@color/headercolor"
+                android:textSize="16sp" />
+
+            <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.direct_select.AdvancedExampleCountryPickerBox
+                android:id="@+id/ds_country_picker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ds_bg_picker_box" />
+
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/thmefontlite"
+                android:text="@string/first_day_of_week"
+                android:textColor="@color/headercolor"
+                android:textSize="16sp" />
+
+            <drzio.insomnia.treatment.bedtime.yoga.sleep.customs.firstdayweekdirect_select.FirstDayofWeekPickerBox
+                android:id="@+id/ds_day_of_week_picker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ds_bg_picker_box" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/btnnxt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="60dp"
+        app:cardCornerRadius="25dp">
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/gradbtn"
+            android:fontFamily="@font/themefont"
+            android:foreground="?attr/selectableItemBackground"
+
+            android:gravity="center"
+            android:text="@string/save"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </androidx.cardview.widget.CardView>
+
+    <RelativeLayout
+        android:id="@+id/banner1"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/def_pointer_color"
+        android:visibility="visible">
+
+        <FrameLayout
+            android:id="@+id/adframe1234"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:background="@drawable/ad_border2"
+            android:padding="1dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="0dp"
+            android:visibility="gone" />
+
+        <include
+            layout="@layout/load_banner"
+            android:layout_marginTop="20dp" />
+    </RelativeLayout>
+</RelativeLayout>

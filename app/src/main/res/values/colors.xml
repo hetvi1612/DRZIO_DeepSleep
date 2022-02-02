@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121D37</color>
+    <color name="colorPrimaryDark">#121D37</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="gradcolor1">#6297FD</color>
+
+    <color name="selectgrad1">#68D2FF</color>
+    <color name="selectgrad2">#8486FF</color>
+
+    <color name="dayactivitybg">#F6F6F6</color>
+
+    <color name="secondarycolor">#B9BABE</color>
+    <color name="themetextcolor">#1D1F1F</color>
+
+    <color name="scolor2">#045ED0</color>
+    <color name="ecolor1">#045ED0</color>
+    <color name="violet">#B0D3CD</color>
+    <color name="blue">#4C6C94</color>
+    <color name="green">#75DD77</color>
+    <color name="yellow">#DCE682</color>
+    <color name="orange">#FEB546</color>
+    <color name="red">#EA444E</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="goaltxtcolor">#999999</color>
+
+    <color name="nextprogresscolor">#FF9800</color>
+    <color name="mainprogresscolor">#ff4cdef6</color>
+
+    <color name="def_wheel_color">#4E4988</color>
+    <color name="def_reached_color">#FFD844</color>
+    <color name="def_pointer_color">#FFFFFF</color>
+
+    <color name="themegreen">#54D760</color>
+
+    <color name="rating_inactive">#929292</color>
+    <color name="rating_active">#FFC107</color>
+
+
+    <color name="black">#ff000000</color>
+
+    <color name="browser_actions_divider_color">#1e000000</color>
+
+
+    <color name="grey">#ff808080</color>
+
+    <color name="lightblack">#ff606060</color>
+
+    <color name="recycleviewBackground">#000000</color>
+
+    <color name="homeprogresscolor">#121D37</color>
+    <color name="navunselected">#AAAAAA</color>
+    <color name="navunselecttxt">#606060</color>
+
+    <color name="premiumusselect">#262F46</color>
+    <color name="backtbtncolor">#DFEBFA</color>
+    <color name="tbtncolor">#045ED0</color>
+    <color name="headercolor">#293148</color>
+    <color name="numcolor">#000000</color>
+    <color name="smalltxtcolor">#747474</color>
+
+    <color name="devidercolor">#F0F0F0</color>
+
+   <!-- <color name="tbtncolor">#FEA28C</color>
+    <color name="tbtncolor">#FD3E84</color>
+-->
+    <color name="piccolor">#80293148</color>
+
+    <color name="tabselectedtxt">#18171C</color>
+    <color name="tabunselectedtxt">#8B8B8D</color>
+
+    <color name="light_transparent">#16000000</color>
+
+    <color name="casenumcolor">#50D5E4</color>
+    <color name="deathnumcolor">#243C5E</color>
+    <color name="recovernumcolor">#0BC98B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="btitlecolor" >#293148</color>
+    <color name="toolbar">#3a3a3a</color>
+
+</resources>
